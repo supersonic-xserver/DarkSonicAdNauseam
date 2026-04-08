@@ -1,0 +1,54 @@
+[
+{
+ "action": {
+  "redirect": {
+   "regexSubstitution": "/strictblock.html#\\0"
+  },
+  "type": "redirect"
+ },
+ "condition": {
+  "regexFilter": "^https?://.*",
+  "requestDomains": [
+   "a.realsrv.com",
+   "ad.kisscartoon.is",
+   "adnxs.com",
+   "ads-pd.nbcuni.com",
+   "advertising.com",
+   "ak.sail-horizon.com",
+   "aniview.com",
+   "awigglespouter.cam",
+   "b3.mookie1.com",
+   "cdn.sb4you1.com",
+   "contextual.media.net",
+   "d1esebcdm6wx7j.cloudfront.net",
+   "d2kadvyeq051an.cloudfront.net",
+   "dc5k8fg5ioc8s.cloudfront.net",
+   "effectivemeasure.net",
+   "eviltracker.net",
+   "exosrv.com",
+   "innovid.com",
+   "mail-ads.google.com",
+   "p3.adhitzads.com",
+   "pixel.rubiconproject.com",
+   "playstream.media",
+   "plugin.mediavoice.com",
+   "pointroll.com",
+   "postrelease.com",
+   "revsci.net",
+   "rtax.criteo.com",
+   "s.ntv.io",
+   "secure-assets.rubiconproject.com",
+   "syndication.realsrv.com",
+   "tap-secure.rubiconproject.com",
+   "tiqcdn.com",
+   "trackersimulator.org",
+   "youradexchange.com"
+  ],
+  "resourceTypes": [
+   "main_frame"
+  ]
+ },
+ "id": 1,
+ "priority": 29
+}
+]

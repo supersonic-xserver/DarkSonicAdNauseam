@@ -1,0 +1,3180 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "ad-count.jp",
+        "ad-drop.jp",
+        "ad-hatena.com",
+        "ad-optima.com",
+        "ad-seek.jp",
+        "ad.abema.io",
+        "ad.api.yyapi.net",
+        "ad.atown.jp",
+        "ad.datadeliver.net",
+        "ad.ddo.jp",
+        "ad.eloan.co.jp",
+        "ad.firestorage.jp",
+        "ad.gunosy.com",
+        "ad.jp.ap.valuecommerce.com",
+        "ad.land.to",
+        "ad.mdmd.info",
+        "ad.moo-mam-tai.com",
+        "ad.net-tool.jp",
+        "ad.orange-park.jp",
+        "ad.owlair.net",
+        "ad.rarure.com",
+        "ad.unique1static.jp",
+        "ad.woman.mynavi.jp",
+        "ad.xrea.com",
+        "ad.zetacx.net",
+        "adandhub.com",
+        "adcdn.goo.ne.jp",
+        "addeluxe.jp",
+        "addlv.smt.docomo.ne.jp",
+        "ademon.net",
+        "adf.shinobi.jp",
+        "adingo.jp.eimg.jp",
+        "adleap.jp",
+        "adlookmanager.com",
+        "adm.shinobi.jp",
+        "adp.homes.co.jp",
+        "adpicker.net",
+        "adreq.eagle-insight.com",
+        "ads-connect.com",
+        "ads.mediams.mb.softbank.jp",
+        "ads.metropolis.co.jp",
+        "ads.museum.or.jp",
+        "ads.nicovideo.jp",
+        "ads.pipaffiliates.com",
+        "ads.world-fusigi.net",
+        "adsby.2bet.co.jp",
+        "adserv2.suumo.jp",
+        "adtechjp.com",
+        "advert.punyu.com",
+        "advortex.cloud",
+        "affiliate-script-pr.firebaseapp.com",
+        "agilemedia.jp",
+        "aimg.fc2.com",
+        "ala.durasite.net",
+        "amawidget.yutbr.com",
+        "amazonlogistics.jp",
+        "andhub.jp",
+        "api.ad-platform.jmty.jp",
+        "api.ada-cloud.com",
+        "api.primecaster.net",
+        "araklet.mediagene.co.jp",
+        "asia-northeast1-affiliate-pr.cloudfunctions.net",
+        "askfollow.us",
+        "asp.m-live.jp",
+        "assessoriagmv.com",
+        "assistads.net",
+        "asumi.shinobi.jp",
+        "av-mov.com",
+        "ax.xrea.com",
+        "bance.jp",
+        "boost-next.co.jp",
+        "bra.almado.jp",
+        "candy-network.com",
+        "caprofitx.com",
+        "carrier202205.tokyo",
+        "cdj-dap.s3-ap-northeast-1.amazonaws.com",
+        "cdn.alistcloud.com",
+        "cdn.lodeo.io",
+        "click-count.info",
+        "cnt.affiliate.fc2.com",
+        "creative-klepon-3f0ecb.netlify.app",
+        "creative.live.tktube.com",
+        "d1yt8zt4633tzi.cloudfront.net",
+        "d2swpuhpwp3khd.cloudfront.net",
+        "d830x8j3o1b2k.cloudfront.net",
+        "divscripty.net",
+        "dlp4luwpus5kr.cloudfront.net",
+        "doubleclick.ne.jp",
+        "dynamic.rakuten.co.jp",
+        "effulgent-stroopwafel-efb9ce.netlify.app",
+        "eisys-bcs.jp",
+        "enmusubimail000.com",
+        "expdirclk.com",
+        "freeadd.me",
+        "genieedmp.com",
+        "genieesspv.jp",
+        "geotg.jp",
+        "getallmedia.com",
+        "girls-escort.tokyo",
+        "gmossp-sp.jp",
+        "googleailesi.com",
+        "gs-ad.jp",
+        "gsspcln.jp",
+        "gusion.space",
+        "hydrangeao.com",
+        "indexad.net",
+        "infohimatalk77.net",
+        "japans-offers.com",
+        "jobbox-front.mamastar.jp",
+        "js.click-plus.net",
+        "js.kabutocho-dsp.net",
+        "js.medi-8.net",
+        "js.mediams.mb.softbank.jp",
+        "js.miyuki-web.net",
+        "js.mulan.cloud",
+        "js.ssp.bance.jp",
+        "kok.eroterest.net",
+        "koukoku.red",
+        "ladsp.jp",
+        "lamp-shade.net",
+        "line-e.com",
+        "line-jp.live",
+        "link-medias.com",
+        "linoee.com",
+        "liveads.jp",
+        "lucky-website.com",
+        "maio.jp",
+        "managedweb.net",
+        "mbada.nan.co.jp",
+        "mbadv.nan.co.jp",
+        "media-rep.com",
+        "media.ad-lps.net",
+        "media5.fc2.com",
+        "mediad.co.jp",
+        "mhub.work",
+        "mid-round.com",
+        "monetize-ssp.com",
+        "more-followers.com",
+        "moro-douga.link",
+        "myiads.com",
+        "nkis.nikkei.com",
+        "okbp.xyz",
+        "ov.yahoo.co.jp",
+        "paradise1972.com",
+        "partner.become.co.jp",
+        "ploud-crew.net",
+        "prime-ever.com",
+        "primead.jp",
+        "r-ad.linkshare.jp",
+        "ranmaotome.com",
+        "recruitbox.media.iid.jp",
+        "redirectvoluum.com",
+        "s-ad.rmp.rakuten.co.jp",
+        "sb-hip-happy.ourservice.jp",
+        "sda.seesaa.jp",
+        "seedapp-creative.s3.amazonaws.com",
+        "smac-ad.com",
+        "smart-below.com",
+        "socdm.com",
+        "sokmil-ad.com",
+        "ssdsp.smt.docomo.ne.jp",
+        "thepsusiwho.com",
+        "tracer.jp",
+        "track2.cross-system.com",
+        "trading-ad.net",
+        "trigs-sockets.com",
+        "twitob.com",
+        "twitterfollowers.site",
+        "unddeliv.com",
+        "v2st.shinobi.jp",
+        "valueclick.jp",
+        "waqool.com",
+        "widget-api.dmm.co.jp",
+        "widget-api.dmm.com",
+        "widget-view.dmm.co.jp",
+        "widget-view.dmm.com",
+        "yads.c.yimg.jp",
+        "yads.yahoo.co.jp",
+        "yads.yjtag.yahoo.co.jp",
+        "yariman.online",
+        "zxcvbnmasdfghjklqwertyuiop.work"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "ad1.girls-affiliate.com",
+        "amazonlogistics.jp",
+        "askfollow.us",
+        "assessoriagmv.com",
+        "av-mov.com",
+        "bra.almado.jp",
+        "click-count.info",
+        "enmusubimail000.com",
+        "erogazopple.com",
+        "freeadd.me",
+        "gamegadget.jp",
+        "googleailesi.com",
+        "hyadain.com",
+        "hydrangeao.com",
+        "ibento-yahoo.com",
+        "indiegogo.jp",
+        "infohimatalk77.net",
+        "japans-offers.com",
+        "lifeedly.com",
+        "line-e.com",
+        "line-jp.live",
+        "linoee.com",
+        "live-lb.cc",
+        "live-lr.cc",
+        "live-qj.cc",
+        "lucky-website.com",
+        "mmeegc.com",
+        "more-followers.com",
+        "moro-douga.link",
+        "paradise1972.com",
+        "ranmaotome.com",
+        "sb-hip-happy.ourservice.jp",
+        "thepsusiwho.com",
+        "twitob.com",
+        "twitterfollowers.site",
+        "unddeliv.com",
+        "welte.jp",
+        "yariman.online",
+        "zzlles.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1106
+  },
+  {
+    "condition": {
+      "urlFilter": ".cfd/gatway/check.php?r="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1107
+  },
+  {
+    "condition": {
+      "urlFilter": "-ne-jp.duckdns.org/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1108
+  },
+  {
+    "condition": {
+      "urlFilter": ".cfd/?track=sjnlogin"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1109
+  },
+  {
+    "condition": {
+      "urlFilter": "^anph=(0101)-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1110
+  },
+  {
+    "condition": {
+      "urlFilter": "@*?stage=verify|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1111
+  },
+  {
+    "condition": {
+      "urlFilter": ".cfd/jp|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1112
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/htm/sh1n/selectstate"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1113
+  },
+  {
+    "condition": {
+      "urlFilter": ".mobi/?token="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1114
+  },
+  {
+    "condition": {
+      "urlFilter": ".cfd/co-jp/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1115
+  },
+  {
+    "condition": {
+      "urlFilter": ".vip/?type=countersign"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1116
+  },
+  {
+    "condition": {
+      "urlFilter": ".top/v2/check|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1117
+  },
+  {
+    "condition": {
+      "urlFilter": ".fun/v2/check|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1118
+  },
+  {
+    "condition": {
+      "urlFilter": ".info/v2/check|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1119
+  },
+  {
+    "condition": {
+      "urlFilter": ".live/product_details?id="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1120
+  },
+  {
+    "condition": {
+      "urlFilter": ".click/product_tag?id="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1121
+  },
+  {
+    "condition": {
+      "urlFilter": ".click/product_details?id="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1122
+  },
+  {
+    "condition": {
+      "urlFilter": "/fingerprint.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1123
+  },
+  {
+    "condition": {
+      "urlFilter": "://www.*.com/article/login|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1124
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/article/line-20151012"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1125
+  },
+  {
+    "condition": {
+      "urlFilter": ".cfd/*.co.jp/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1126
+  },
+  {
+    "condition": {
+      "urlFilter": "://myaccount.*.cfd/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1127
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/%f0%9d%90%a3%f0%9d%90%9a-%f0%9d%90%a3%f0%9d%90%a9/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1128
+  },
+  {
+    "condition": {
+      "urlFilter": "://www.smbc-*.top/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1129
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/www.*.co.jp/login/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1130
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/www.*.com/login/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1131
+  },
+  {
+    "condition": {
+      "urlFilter": "-co-jp.net/login|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1132
+  },
+  {
+    "condition": {
+      "urlFilter": ".verify.co.jp.*.com/ja"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1133
+  },
+  {
+    "condition": {
+      "urlFilter": "/jsda.apk^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1134
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/etc.php?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1135
+  },
+  {
+    "condition": {
+      "urlFilter": "://jp.mercari.*.com/signin/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1136
+  },
+  {
+    "condition": {
+      "urlFilter": "://smbc-*.*.com/mem/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1137
+  },
+  {
+    "condition": {
+      "urlFilter": "://resonabank-*.top/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1138
+  },
+  {
+    "condition": {
+      "urlFilter": "/lwrrgdy*&callimtype=*&rolevalue=1&roledata="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1139
+  },
+  {
+    "condition": {
+      "urlFilter": "-co-jp.*.com/login/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1140
+  },
+  {
+    "condition": {
+      "urlFilter": "-co-jp.*.com/etgate/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1141
+  },
+  {
+    "condition": {
+      "urlFilter": ".cn/rsv_p/smart_index.htm"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1142
+  },
+  {
+    "condition": {
+      "urlFilter": ".icu/v1/check|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1143
+  },
+  {
+    "condition": {
+      "urlFilter": ".sbs/v1/check|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1144
+  },
+  {
+    "condition": {
+      "urlFilter": "-mufg-jp.*.com/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1145
+  },
+  {
+    "condition": {
+      "urlFilter": "://www.jabank.*.*.com/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1146
+  },
+  {
+    "condition": {
+      "urlFilter": "://pocketcard-*.cn/netservice/login/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1147
+  },
+  {
+    "condition": {
+      "urlFilter": ".shop/*%f0%9d%9a%8c%f0%9d%9a%98.%f0%9d%9a%93%f0%9d%9a%99/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1148
+  },
+  {
+    "condition": {
+      "urlFilter": "://mufg-*.cn?token="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1149
+  },
+  {
+    "condition": {
+      "urlFilter": "://www.smbc.*.top/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1150
+  },
+  {
+    "condition": {
+      "urlFilter": "://visa.*.top/web/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1151
+  },
+  {
+    "condition": {
+      "urlFilter": "://icloud-*.cn/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1152
+  },
+  {
+    "condition": {
+      "urlFilter": ".icu/*.jp/|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1153
+  },
+  {
+    "condition": {
+      "urlFilter": ".icu/verify|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1154
+  },
+  {
+    "condition": {
+      "urlFilter": ".top/v1/check|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1155
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/cash/driect/client/anti/3210000^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1156
+  },
+  {
+    "condition": {
+      "urlFilter": "://etc-*.cn/rfuncc1"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1157
+  },
+  {
+    "condition": {
+      "urlFilter": "/landers/*.php?lp_key="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1158
+  },
+  {
+    "condition": {
+      "urlFilter": "://www-matsui-co-jp-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1159
+  },
+  {
+    "condition": {
+      "urlFilter": "://sagawa-*.cn/login_show/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1160
+  },
+  {
+    "condition": {
+      "urlFilter": ".net/co.jp/|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1161
+  },
+  {
+    "condition": {
+      "urlFilter": "-pages-dev.translate.goog/*.co.jp.html?_x_tr_sch=&"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1162
+  },
+  {
+    "condition": {
+      "urlFilter": ".icu/redirect.php?token="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1163
+  },
+  {
+    "condition": {
+      "urlFilter": "://mastercard-*.cn/features-benefits/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1164
+  },
+  {
+    "condition": {
+      "urlFilter": "://sb1-*.com/etgate/accountdata^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1165
+  },
+  {
+    "condition": {
+      "urlFilter": "|http://3.34.69.214/rel/p/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1166
+  },
+  {
+    "condition": {
+      "urlFilter": "-co-jp.com/sbi4sec/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1167
+  },
+  {
+    "condition": {
+      "urlFilter": "://apple-*.com/account_int/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1168
+  },
+  {
+    "condition": {
+      "urlFilter": "://www-dmm.*.com/rajklnc/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1169
+  },
+  {
+    "condition": {
+      "urlFilter": "/rms/client/lo0101001.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1170
+  },
+  {
+    "condition": {
+      "urlFilter": "?ph0nq=010"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1171
+  },
+  {
+    "condition": {
+      "urlFilter": "?ph0ne=(050)-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1172
+  },
+  {
+    "condition": {
+      "urlFilter": "://dhl-*/portal_login_exp/getquotetab/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1173
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/etgate/accountdata?redirecttoken="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1174
+  },
+  {
+    "condition": {
+      "urlFilter": ".top/aple/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1175
+  },
+  {
+    "condition": {
+      "urlFilter": "://eki-net.*/co.jp/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1176
+  },
+  {
+    "condition": {
+      "urlFilter": "/?a=*&i=random*&t="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1177
+  },
+  {
+    "condition": {
+      "urlFilter": "/?a=*&i=imgcode_*&t="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1178
+  },
+  {
+    "condition": {
+      "urlFilter": "?t=jpn_adultmain.txt&cid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1179
+  },
+  {
+    "condition": {
+      "urlFilter": "://icloud-apple-*.net/account_int/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1180
+  },
+  {
+    "condition": {
+      "urlFilter": "://ekl-net.*.shop/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1181
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/smartphone/v_act_login.html"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1182
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/its/v_act_login.html"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1183
+  },
+  {
+    "condition": {
+      "urlFilter": "://icloud.apple.*.cn/account_int/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1184
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/top/client/select_*.php|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1185
+  },
+  {
+    "condition": {
+      "urlFilter": "/all/firstselect.php?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1186
+  },
+  {
+    "condition": {
+      "urlFilter": "://viewsnet-*.cn/first_jalsuica-default/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1187
+  },
+  {
+    "condition": {
+      "urlFilter": "://ucscard-*.cn/netserve_login/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1188
+  },
+  {
+    "condition": {
+      "urlFilter": "/pop/jp-*/index.php?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1189
+  },
+  {
+    "condition": {
+      "urlFilter": "://jap.*/pop/jp-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1190
+  },
+  {
+    "condition": {
+      "urlFilter": "/?p=(0101)-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1191
+  },
+  {
+    "condition": {
+      "urlFilter": ".cn/bot/bot.php|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1192
+  },
+  {
+    "condition": {
+      "urlFilter": "://jap.*/?cep="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1193
+  },
+  {
+    "condition": {
+      "urlFilter": "://s3.*.amazonaws.com/*.*.*.*.*.*.*/index.html"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1194
+  },
+  {
+    "condition": {
+      "urlFilter": "://web-mbservice.*.*.top/login^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1195
+  },
+  {
+    "condition": {
+      "urlFilter": ".cn/member/login.php?aid=net-service"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1196
+  },
+  {
+    "condition": {
+      "urlFilter": ".cn/ap/signin?openid.*&openid.return_to=https%3a%2f%2fwww.amazon.co.jp"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1197
+  },
+  {
+    "condition": {
+      "urlFilter": "/0040/b/b/b/c100/kbc11bn000b000^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1198
+  },
+  {
+    "condition": {
+      "urlFilter": ".cn/pc/wctxnbcw2101.doa.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1199
+  },
+  {
+    "condition": {
+      "urlFilter": ".cn/phone/wctxnbcw2101.doa.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1200
+  },
+  {
+    "condition": {
+      "urlFilter": "://rakuten.*/rms/nid/logini"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1201
+  },
+  {
+    "condition": {
+      "urlFilter": "://s3.*-1.amazonaws.com/*.z13.web.core.windows.net/*-*-*-*-*-*/*/index.html|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1202
+  },
+  {
+    "condition": {
+      "urlFilter": "||s3.ap-southeast-1.amazonaws.com/*.html.html|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1203
+  },
+  {
+    "condition": {
+      "urlFilter": "/m08myr0hotline0jp07/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1204
+  },
+  {
+    "condition": {
+      "urlFilter": "/w08myr0hotline0jp07/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1205
+  },
+  {
+    "condition": {
+      "urlFilter": "://kuroneko*.cc/jp"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1206
+  },
+  {
+    "condition": {
+      "urlFilter": "://kuroneko*.top/jp"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1207
+  },
+  {
+    "condition": {
+      "urlFilter": "-go-jp.com/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1208
+  },
+  {
+    "condition": {
+      "urlFilter": "||web.core.windows.net/merrx01*/index.html"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1209
+  },
+  {
+    "condition": {
+      "urlFilter": "/index.html?num=0101+"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1210
+  },
+  {
+    "condition": {
+      "urlFilter": "||z13.web.core.windows.net/*-*-*-*-*-*-*/index.html"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1211
+  },
+  {
+    "condition": {
+      "urlFilter": "||z13.web.core.windows.net/index.html^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1212
+  },
+  {
+    "condition": {
+      "urlFilter": ".life/shopping/item/m*/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1213
+  },
+  {
+    "condition": {
+      "urlFilter": ".php?nbvvvsa^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1214
+  },
+  {
+    "condition": {
+      "urlFilter": "://rakuten-card.*.cn/mobile/login.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1215
+  },
+  {
+    "condition": {
+      "urlFilter": "||web.core.windows.net/*security0*/index.html"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1216
+  },
+  {
+    "condition": {
+      "urlFilter": ".pics/shopping/item/m*/?zenid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1217
+  },
+  {
+    "condition": {
+      "urlFilter": ".cv/shopping/item/m*/?zenid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1218
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/shopping/item/m*/?zenid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1219
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/mart/detail/m*?zenid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1220
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/mart/pri/m*.html?zenid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1221
+  },
+  {
+    "condition": {
+      "urlFilter": ".top/nc/bbs22.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1222
+  },
+  {
+    "condition": {
+      "urlFilter": "?bcda=("
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1223
+  },
+  {
+    "condition": {
+      "urlFilter": "/?bcda=+"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1224
+  },
+  {
+    "condition": {
+      "urlFilter": "||azurestaticapps.net/*=(0101)-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1225
+  },
+  {
+    "condition": {
+      "urlFilter": "://rakuten.*.cn/*/login.php^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1226
+  },
+  {
+    "condition": {
+      "urlFilter": "://jp-*-*.s3.ap-*.amazonaws.com/*-*-*-*-*-*-*/index.html"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1227
+  },
+  {
+    "condition": {
+      "urlFilter": "/?start=(0101)-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1228
+  },
+  {
+    "condition": {
+      "urlFilter": "://amzone.co.jp."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1229
+  },
+  {
+    "condition": {
+      "urlFilter": "/?*=+81(050)-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1230
+  },
+  {
+    "condition": {
+      "urlFilter": "?m=000&t=000&ip="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1231
+  },
+  {
+    "condition": {
+      "urlFilter": "/g?visitorid=*&extra_data2=|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1232
+  },
+  {
+    "condition": {
+      "urlFilter": "||amplifyapp.com/*=(0101)-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1233
+  },
+  {
+    "condition": {
+      "urlFilter": ".cfd/*?_t="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1234
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/ibg/client/*.php|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1235
+  },
+  {
+    "condition": {
+      "urlFilter": "://tokyodisney.*.com/*?lang=ja^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1236
+  },
+  {
+    "condition": {
+      "urlFilter": "/?type=lp001&afl="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1237
+  },
+  {
+    "condition": {
+      "urlFilter": "/?wt=*&adv="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1238
+  },
+  {
+    "condition": {
+      "urlFilter": ".xyz/*.apk|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1239
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/chrome.apk|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1240
+  },
+  {
+    "condition": {
+      "urlFilter": "n.lat/login|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1241
+  },
+  {
+    "condition": {
+      "urlFilter": ".cn/auth/login.php?/realms/msweb/protocol/openid-connect/auth?client_id=moneysiteweb&redirect_uri=https://www.aeon.co.jp/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1242
+  },
+  {
+    "condition": {
+      "urlFilter": "/?phone=(0101)-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1243
+  },
+  {
+    "condition": {
+      "urlFilter": "://*.*.xyz/jp.html^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1244
+  },
+  {
+    "condition": {
+      "urlFilter": ".net/funccode.php|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1245
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/funccode.php|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1246
+  },
+  {
+    "condition": {
+      "urlFilter": ".co.jp.*.com/login|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1247
+  },
+  {
+    "condition": {
+      "urlFilter": "/index.php?signin=openid.pape.max_auth_age0&openid.return_to=https%3a%2f%2fwww.offfffff.co.jp%2f"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1248
+  },
+  {
+    "condition": {
+      "urlFilter": "://www.eki.*.*.com/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1249
+  },
+  {
+    "condition": {
+      "urlFilter": "://www.etc.*.*.com/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1250
+  },
+  {
+    "condition": {
+      "urlFilter": "://www.etc.*.*.club/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1251
+  },
+  {
+    "condition": {
+      "urlFilter": ".cn/webdesk/www/index.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1252
+  },
+  {
+    "condition": {
+      "regexFilter": "\\.com\\/(?:[a-z]{2,}-)+p-\\d{4,6}\\.html\\?(?:page_source|prevRef|re[fl])=",
+      "isUrlFilterCaseSensitive": true
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1253
+  },
+  {
+    "condition": {
+      "urlFilter": "://www2.etc-*.com/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1254
+  },
+  {
+    "condition": {
+      "urlFilter": "://www2.etc-*.net/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1255
+  },
+  {
+    "condition": {
+      "urlFilter": "://www2.etc-*.icu/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1256
+  },
+  {
+    "condition": {
+      "urlFilter": "/bin/logincamp.php?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1257
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/reg_new^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1258
+  },
+  {
+    "condition": {
+      "urlFilter": "://one.*/top.php^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1259
+  },
+  {
+    "condition": {
+      "urlFilter": "://two.*/top.php^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1260
+  },
+  {
+    "condition": {
+      "urlFilter": "://thr.*/top.php^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1261
+  },
+  {
+    "condition": {
+      "urlFilter": "://fou.*/top.php^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1262
+  },
+  {
+    "condition": {
+      "urlFilter": "://fiv.*/top.php^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1263
+  },
+  {
+    "condition": {
+      "urlFilter": "://six.*/top.php^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1264
+  },
+  {
+    "condition": {
+      "urlFilter": "://sev.*/top.php^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1265
+  },
+  {
+    "condition": {
+      "urlFilter": "://red.*/top.php^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1266
+  },
+  {
+    "condition": {
+      "urlFilter": "://ora.*/top.php^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1267
+  },
+  {
+    "condition": {
+      "urlFilter": "://yel.*/top.php^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1268
+  },
+  {
+    "condition": {
+      "urlFilter": "://gre.*/top.php^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1269
+  },
+  {
+    "condition": {
+      "urlFilter": "://blu.*/top.php^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1270
+  },
+  {
+    "condition": {
+      "urlFilter": "://vio.*/top.php^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1271
+  },
+  {
+    "condition": {
+      "urlFilter": "://pur.*/top.php^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1272
+  },
+  {
+    "condition": {
+      "urlFilter": "://whi.*/top.php^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1273
+  },
+  {
+    "condition": {
+      "urlFilter": "://bla.*/top.php^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1274
+  },
+  {
+    "condition": {
+      "urlFilter": "/member/sendmail.php?direct_user_cd=*&direct_password="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1275
+  },
+  {
+    "condition": {
+      "urlFilter": "|http://*/j/mmenu.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1276
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/category/*?coll_id="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1277
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/detail/*==.html?coll_id="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1278
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/index/category?category_id=*&coll_id="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1279
+  },
+  {
+    "condition": {
+      "urlFilter": ".top/index/category?category_id=*&coll_id="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1280
+  },
+  {
+    "condition": {
+      "urlFilter": ".top/index/detail.html?sno="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1281
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/index/detail.html?sno="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1282
+  },
+  {
+    "condition": {
+      "urlFilter": "/?phone=(050)-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1283
+  },
+  {
+    "condition": {
+      "urlFilter": "^phone=050-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1284
+  },
+  {
+    "condition": {
+      "urlFilter": "/?type=adult&adcode="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1285
+  },
+  {
+    "condition": {
+      "urlFilter": "/?type=female1|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1286
+  },
+  {
+    "condition": {
+      "urlFilter": "/?type=female2|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1287
+  },
+  {
+    "condition": {
+      "urlFilter": "/?type=female3|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1288
+  },
+  {
+    "condition": {
+      "urlFilter": "/?type=female4|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1289
+  },
+  {
+    "condition": {
+      "urlFilter": "/?type=female5|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1290
+  },
+  {
+    "condition": {
+      "urlFilter": "/lps/index?ad_cd=*&lp_cd="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1291
+  },
+  {
+    "condition": {
+      "urlFilter": "|http://*/log_index.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1292
+  },
+  {
+    "condition": {
+      "urlFilter": "/regist_execute.html"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1293
+  },
+  {
+    "condition": {
+      "urlFilter": "/step1.php?msg=*&cnv=*&cnt="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1294
+  },
+  {
+    "condition": {
+      "urlFilter": "/index.php?cpno="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1295
+  },
+  {
+    "condition": {
+      "urlFilter": "/ec2_index.html?cpno="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1296
+  },
+  {
+    "condition": {
+      "urlFilter": "/ec2_result.html?cpno="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1297
+  },
+  {
+    "condition": {
+      "urlFilter": "_ap/signin*?_encoding=utf8&openid.assoc_handle=jpflex&openid.claimed_id=&action=sign-in&path=home&ref_=nav_account&signin=1&useredirectonsuccess=1|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1298
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/regist.php?step=*&cp="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1299
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/regist.php?*/1|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1300
+  },
+  {
+    "condition": {
+      "urlFilter": "://eki*.*.com/personal/member/login/index.php?onetimeaccessid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1301
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/ae/login.php?openid.pape.max_auth_age=0&openid.return_to=%"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1302
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "agency",
+        "art",
+        "asia",
+        "auction",
+        "bar",
+        "beauty",
+        "beer",
+        "best",
+        "biz",
+        "bond",
+        "business",
+        "cam",
+        "cards",
+        "casa",
+        "click",
+        "cloud",
+        "coupons",
+        "courses",
+        "cv",
+        "digital",
+        "diy",
+        "fashion",
+        "food",
+        "forum",
+        "gay",
+        "guru",
+        "hair",
+        "info",
+        "life",
+        "link",
+        "live",
+        "living",
+        "ltd",
+        "my",
+        "ooo",
+        "property",
+        "pw",
+        "qpon",
+        "republican",
+        "rocks",
+        "run",
+        "sale",
+        "sbs",
+        "services",
+        "shop",
+        "skin",
+        "store",
+        "studio",
+        "support",
+        "surf",
+        "tattoo",
+        "tech",
+        "today",
+        "top",
+        "uno",
+        "watch",
+        "work"
+      ],
+      "regexFilter": "^https?:\\/\\/(?:j[ap]|qq)\\d{4,8}\\.[a-z]{6,8}\\.[a-z]{2,10}\\/",
+      "isUrlFilterCaseSensitive": true
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1303
+  },
+  {
+    "condition": {
+      "urlFilter": "/%f0%9d%90%a2%f0%9d%90%a7%f0%9d%90%9d%f0%9d%90%9e%f0%9d%90%b1.%f0%9d%90%a1%f0%9d%90%ad%f0%9d%90%a6%f0%9d%90%a5",
+      "requestDomains": [
+        "info",
+        "shop",
+        "top"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1304
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "cn"
+      ],
+      "urlFilter": "://*.*.cn/jp|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1305
+  },
+  {
+    "condition": {
+      "urlFilter": "-or-jp.net/",
+      "requestDomains": [
+        "net"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1306
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/co.jp/|",
+      "requestDomains": [
+        "com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1307
+  },
+  {
+    "condition": {
+      "urlFilter": "/app/auth_login|",
+      "requestDomains": [
+        "bond",
+        "sbs"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1308
+  },
+  {
+    "condition": {
+      "urlFilter": "/?_encoding=utf8&openid.assoc_handle=jpflex&openid.claimed_id=&action=sign-in&path=home&ref_=nav_account&signin=1&useredirectonsuccess=1|",
+      "requestDomains": [
+        "cn",
+        "com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1309
+  },
+  {
+    "condition": {
+      "urlFilter": "/memberservice/login|",
+      "requestDomains": [
+        "sbs",
+        "xyz"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1310
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "cc",
+        "com"
+      ],
+      "urlFilter": "_co_jp.*.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1311
+  },
+  {
+    "condition": {
+      "urlFilter": "/ap/sign.php?authenticated=true&openid%2fgp%2fsignin%2fx%26i%3da%26oauth%3dm%26i%3fie%3dutf8%26ref_%3drhf_custrec_signin^",
+      "requestDomains": [
+        "best",
+        "cn",
+        "top"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1312
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "top"
+      ],
+      "urlFilter": "&p=*&_mi|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1313
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "sbs",
+        "top",
+        "xyz"
+      ],
+      "urlFilter": "/signin/index.php?*&openid_return_to=https%3a%2f%2fwww.amazon.co.jp"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1314
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "cn",
+        "com",
+        "sbs",
+        "top",
+        "xyz"
+      ],
+      "urlFilter": "/signim/index.php?*&openid_return_to=https%3a%2f%2fwww.amazon.co.jp"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1315
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "cn",
+        "com"
+      ],
+      "urlFilter": "://visa-*/pay-with-featured/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1316
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "cn",
+        "com"
+      ],
+      "urlFilter": "://eki-*.*/perosnal_member/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1317
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "cn",
+        "cyou",
+        "help",
+        "icu",
+        "link",
+        "sbs"
+      ],
+      "urlFilter": ".co.jp.*.*/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1318
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "cfd",
+        "com",
+        "sbs",
+        "site"
+      ],
+      "urlFilter": "-co-jp-*.*/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1319
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "cfd",
+        "com",
+        "sbs",
+        "site"
+      ],
+      "urlFilter": "-co-jp.*.*/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1320
+  },
+  {
+    "condition": {
+      "urlFilter": "://smbc.",
+      "requestDomains": [
+        "cn",
+        "com",
+        "top"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1321
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "club"
+      ],
+      "urlFilter": "://smbccard*."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1322
+  },
+  {
+    "condition": {
+      "urlFilter": "://smdc-",
+      "requestDomains": [
+        "cn",
+        "fit",
+        "pl"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1323
+  },
+  {
+    "condition": {
+      "urlFilter": "://smbc-",
+      "requestDomains": [
+        "club",
+        "cn",
+        "fit",
+        "help",
+        "homes",
+        "lat",
+        "link",
+        "mom",
+        "my",
+        "pics",
+        "shop",
+        "top",
+        "work"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1324
+  },
+  {
+    "condition": {
+      "urlFilter": "/funccode.php|",
+      "requestDomains": [
+        "cfd",
+        "xyz"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1325
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "cn",
+        "com"
+      ],
+      "urlFilter": ".jp%*@*/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1326
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "cn",
+        "com"
+      ],
+      "urlFilter": ".com%*@*/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1327
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "monster",
+        "online",
+        "space"
+      ],
+      "urlFilter": "|http://t-*/cz/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1328
+  },
+  {
+    "condition": {
+      "urlFilter": "/ja/payment/|",
+      "requestDomains": [
+        "co.in",
+        "co.za"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1329
+  },
+  {
+    "condition": {
+      "excludedRequestDomains": [
+        "eki-net.com"
+      ],
+      "urlFilter": "://www.eki-net.*.com/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1330
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "cn",
+        "net"
+      ],
+      "urlFilter": "://eki-net-*.*/perosnal_member/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1331
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "com"
+      ],
+      "regexFilter": "\\/all\\/login\\.php\\?([0-9a-f]{32})=\\1$",
+      "isUrlFilterCaseSensitive": true
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1332
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "cloud",
+        "cn",
+        "com",
+        "net",
+        "top",
+        "vip"
+      ],
+      "regexFilter": "\\/t_([0-9A-Za-z]{32})\\?token=\\1"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1333
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "cn",
+        "com",
+        "top"
+      ],
+      "urlFilter": "/?rfunccode=*&nextfunc="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1334
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "asia",
+        "cfd",
+        "fun",
+        "qpon",
+        "sale",
+        "shop",
+        "space",
+        "top",
+        "world",
+        "xyz"
+      ],
+      "urlFilter": "/brand/detail/m*.html?zenid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1335
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "asia",
+        "cfd",
+        "fun",
+        "qpon",
+        "sale",
+        "shop",
+        "space",
+        "top",
+        "world",
+        "xyz"
+      ],
+      "urlFilter": "/shopping/item/m*/?zenid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1336
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "asia",
+        "cfd",
+        "fun",
+        "qpon",
+        "sale",
+        "shop",
+        "space",
+        "top",
+        "world",
+        "xyz"
+      ],
+      "urlFilter": "/mall/*.html?zenid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1337
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "asia",
+        "cfd",
+        "fun",
+        "qpon",
+        "sale",
+        "shop",
+        "space",
+        "top",
+        "world",
+        "xyz"
+      ],
+      "urlFilter": "/mart/*.html?zenid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1338
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "baby",
+        "blog",
+        "bond",
+        "cam",
+        "casa",
+        "club",
+        "fun",
+        "homes",
+        "online",
+        "rest",
+        "sbs",
+        "shop",
+        "surf",
+        "top",
+        "website",
+        "yoga"
+      ],
+      "regexFilter": "^https?:\\/\\/(?:[-0-9a-z]{3,}\\.)?[a-z]{5,}\\.[a-z]{3,7}\\/product\\/\\d{4,7}(\\.html)?$"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1339
+  },
+  {
+    "condition": {
+      "excludedRequestDomains": [
+        "openfoodfacts.org"
+      ],
+      "regexFilter": "^https?:\\/\\/(?:[-0-9a-z]{4,}\\.)?[a-z]{5,}\\.org\\/product\\/\\d{4,7}(\\.html)?$"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1340
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "shop"
+      ],
+      "regexFilter": "^https:\\/\\/[a-z]{5,8}\\.[a-z]{4,10}\\.[a-z]{2,6}\\/item\\/m\\d{10,11}$"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1341
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "com",
+        "fun",
+        "online",
+        "site"
+      ],
+      "urlFilter": "/?ac=*&ic="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1342
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "com",
+        "fun",
+        "online",
+        "site"
+      ],
+      "urlFilter": ".asp?ac=*&ic="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1343
+  },
+  {
+    "condition": {
+      "urlFilter": "/ap/signin/openid.pape.max_auth_age=0&openid.return_to=https%3a%2f%2fwww.amazon.co.jp",
+      "requestDomains": [
+        "cn",
+        "top",
+        "xyz"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1344
+  },
+  {
+    "condition": {
+      "urlFilter": "/index.php?route=product/product&product_id=",
+      "excludedRequestDomains": [
+        "ocam.live"
+      ],
+      "requestDomains": [
+        "cyou",
+        "life",
+        "live",
+        "shop",
+        "xyz"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1345
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "asia",
+        "baby",
+        "bar",
+        "beauty",
+        "best",
+        "biz",
+        "blog",
+        "bond",
+        "buzz",
+        "cam",
+        "casa",
+        "cfd",
+        "click",
+        "cloud",
+        "club",
+        "cyou",
+        "fashion",
+        "fit",
+        "forum",
+        "fun",
+        "gay",
+        "hair",
+        "homes",
+        "icu",
+        "info",
+        "ink",
+        "lat",
+        "life",
+        "live",
+        "love",
+        "ltd",
+        "makeup",
+        "me",
+        "mom",
+        "monster",
+        "my",
+        "one",
+        "online",
+        "pics",
+        "pro",
+        "qpon",
+        "quest",
+        "rent",
+        "rest",
+        "ru.com",
+        "run",
+        "sa.com",
+        "sale",
+        "sbs",
+        "shop",
+        "site",
+        "skin",
+        "space",
+        "store",
+        "team",
+        "tokyo",
+        "top",
+        "website",
+        "wiki",
+        "work",
+        "xyz",
+        "yachts",
+        "yoga",
+        "za.com"
+      ],
+      "urlFilter": "/index.php?main_page=product_info*&cpath="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1346
+  },
+  {
+    "condition": {
+      "urlFilter": "/index.php?main_page=product_info&products_id=",
+      "requestDomains": [
+        "asia",
+        "baby",
+        "bar",
+        "beauty",
+        "best",
+        "biz",
+        "blog",
+        "bond",
+        "buzz",
+        "cam",
+        "casa",
+        "cfd",
+        "click",
+        "cloud",
+        "club",
+        "cyou",
+        "fashion",
+        "fit",
+        "forum",
+        "fun",
+        "gay",
+        "hair",
+        "homes",
+        "icu",
+        "info",
+        "ink",
+        "lat",
+        "life",
+        "live",
+        "love",
+        "ltd",
+        "makeup",
+        "me",
+        "mom",
+        "monster",
+        "my",
+        "one",
+        "online",
+        "pics",
+        "pro",
+        "qpon",
+        "quest",
+        "rent",
+        "rest",
+        "ru.com",
+        "run",
+        "sa.com",
+        "sale",
+        "sbs",
+        "shop",
+        "site",
+        "skin",
+        "space",
+        "store",
+        "team",
+        "tokyo",
+        "top",
+        "website",
+        "wiki",
+        "work",
+        "xyz",
+        "yachts",
+        "yoga",
+        "za.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1347
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "club",
+        "cn",
+        "icu",
+        "pro",
+        "site",
+        "top",
+        "work"
+      ],
+      "regexFilter": "\\.(?:club|cn|icu|top|pro|site|work)\\/Personal\\/member\\/Login\\/index\\.php\\?oneTimeAccessID="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1348
+  },
+  {
+    "condition": {
+      "regexFilter": "^https:\\/\\/[-0-9a-z]{6,20}\\.com\\/item-[0-9A-Za-z]{10}\\.html$",
+      "isUrlFilterCaseSensitive": true
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1349
+  },
+  {
+    "condition": {
+      "urlFilter": "||dialyblog.com/gooddeai/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1350
+  },
+  {
+    "condition": {
+      "urlFilter": "||sites.google.com/view/8loomy-love/halaman-muka"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1351
+  },
+  {
+    "condition": {
+      "urlFilter": "||blob.core.windows.net/*/xdsxwrxxokisawachjp/index.html"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1352
+  },
+  {
+    "condition": {
+      "urlFilter": "||52.25.25.125/img.php?adid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1353
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "duckdns.org"
+      ],
+      "regexFilter": "^https?:\\/\\/[0-9a-z-]{5,10}\\.duckdns"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1354
+  }
+]

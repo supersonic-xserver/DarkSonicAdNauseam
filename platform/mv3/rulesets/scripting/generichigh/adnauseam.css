@@ -1,0 +1,105 @@
+/*******************************************************************************
+
+    AdNauseam Lite - a comprehensive, MV3-compliant content blocker
+    Copyright (C) 2014-present Raymond Hill
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see {http://www.gnu.org/licenses/}.
+
+    Home: https://github.com/gorhill/uBlock
+*/
+
+/* adnauseam */
+
+*:has(> a[href*="run-syndicate.com"]),
+*:has(> a[href*="runative-syndicate.com"]),
+*[class*="Advert"],
+*[class*="teads-"],
+*[class^="Ad_"],
+*[id^="amzn_assoc_ad"],
+*[id^="rn_ad_native"],
+*[id^="sponsored"],
+DIV[class*="header_ad_container"] > div,
+DIV[class*="rec-ad"],
+DIV[class*="zmall-ad"],
+DIV[class="l_qq_com"],
+DIV[class^="TurnAD"],
+DIV[class^="ads_inline"],
+DIV[class^="baidu-adv"],
+DIV[id*="BAIDU_SSP"] > iframe,
+DIV[id*="IndexFlashBg"],
+DIV[id*="MAXI_CRZ"],
+DIV[id*="Zedo-Ad"],
+DIV[id*="adcontent"],
+DIV[id*="aswift"],
+DIV[id*="movie_ad"],
+DIV[id*="ucfad"],
+DIV[id="ads_speedbump"],
+[src^="http://cdnativ.com/"],
+a[href*="adnxs"],
+a[href*="adsfactor"],
+a[href*="bbelements.com"],
+a[href*="bluehost.com/track"],
+a[href*="click.tunnelbear.com/aff"],
+a[href*="kaolaad"],
+a[href*="liveadexchanger"],
+a[href*="srd.simba.taobao.com"],
+a[href*="track.flexlinkspro.com"],
+a[href^="//eu.messenger-notify.xyz"],
+a[href^="//ngp1.mybetterck.com/adServe"],
+a[href^="//ousoasoper.xyz"],
+div:not([class]):has(iframe):has(script[src^="//bharalhallahs"]),
+div[class*="rtb"][onclick*="window.open"],
+div[data-adtags-width],
+div[id^="bmone"],
+div[id^="outbrain_widget"],
+div[id^="yandex_ad"],
+iframe[class*="af_space"],
+iframe[id^="openwrap-ad-"],
+iframe[src*="-ads.com"],
+iframe[src*="/ad/"],
+iframe[src*="2mdn"],
+iframe[src*="4dsbanner"],
+iframe[src*="ads/ad"],
+iframe[src*="adxprt"],
+iframe[src*="amazon-adsystem.com"],
+iframe[src*="cse.google.com"],
+iframe[src*="exoclick.com"],
+iframe[src*="gobankingrates.com"],
+iframe[src*="imasdk.googleapis.com/js"],
+iframe[src*="kaolaad"],
+iframe[src*="liveadexchanger"],
+iframe[src*="mellowads"],
+iframe[src*="neon.today"],
+iframe[src*="runative-syndicate.com"],
+iframe[src*="sinaads"],
+iframe[src*="syndication.exdynsrv.com"],
+iframe[src*="tanx"],
+iframe[src*="taobaocdn"],
+iframe[src*="thepiratebay.org/static/"],
+iframe[src*="wwwpromoter.com"],
+iframe[src*="zol.com.cn/ad/"],
+iframe[src^="//octoclick.net"],
+iframe[src^="g.163.com"],
+img[src*="/adserve/"],
+img[src*="ads.guava-affiliate.com"],
+img[src*="delivery.clickganic.com"],
+img[src*="dianomi.com/img/"],
+img[src*="digiadsply"],
+img[src*="display-ad/"],
+img[src*="https://tvpad.ca/media/"],
+img[src*="ubmcmm.baidustatic"],
+ins[id*="aswift"] > iframe,
+span[id^="_AdSame"] {
+    display: none !important;
+}

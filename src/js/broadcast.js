@@ -19,6 +19,30 @@
     Home: https://github.com/gorhill/uBlock
 */
 
+// Service Worker fallback: Ensure vAPI exists before any code uses it
+(function() {
+    if (globalThis.vAPI instanceof Object && globalThis.vAPI.uBO === true) {
+        // OK
+    } else {
+        globalThis.vAPI = { 
+            uBO: true, 
+            chrome: true,
+            tabs: { query: () => Promise.resolve([]) },
+            net: { handlerBehaviorChanged: () => {} },
+            Net: { canSuspend: () => false },
+            storage: { QUOTA_BYTES: 10485760 },
+            webRequest: { MAX_HANDLER_BEHAVIOR_CHANGED_CALLS_PER_10_MINUTES: 20 },
+            defer: {
+                create: (callback) => {
+                    const fns = [];
+                    const flush = () => { for (const fn of fns) { fn(); } fns.length = 0; };
+                    return { now: fns.push(callback) !== 0, on: () => { flush(); }, off: () => { flush(); } };
+                }
+            }
+        };
+    }
+})();
+
 import webext from './webext.js';
 import { makeCloneable } from './adn/adn-utils.js'; // ADN
 
@@ -44,7 +68,7 @@ export function broadcast(message) {
 
 export async function broadcastToAll(message) {
     broadcast(message);
-    const tabs = await vAPI.tabs.query({
+    const tabs = await globalThis.vAPI.tabs.query({
         discarded: false,
     });
     const bcmessage = Object.assign({ broadcast: true }, message);
@@ -70,7 +94,18 @@ export function filteringBehaviorChanged(details = {}) {
     broadcast(Object.assign({ what: 'filteringBehaviorChanged' }, details));
 }
 
-filteringBehaviorChanged.throttle = vAPI.defer.create(( ) => {
+// Guard: Ensure vAPI.defer exists (may not be set up yet in Service Worker)
+if (globalThis.vAPI && globalThis.vAPI.defer === undefined) {
+    globalThis.vAPI.defer = {
+        create: (callback) => {
+            const fns = [];
+            const flush = () => { for (const fn of fns) { fn(); } fns.length = 0; };
+            return { now: fns.push(callback) !== 0, on: () => { flush(); }, off: () => { flush(); } };
+        }
+    };
+}
+
+filteringBehaviorChanged.throttle = globalThis.vAPI.defer.create(( ) => {
     const { history, max } = filteringBehaviorChanged;
     const now = (Date.now() / 1000) | 0;
     if ( history.length >= max ) {
@@ -78,11 +113,13 @@ filteringBehaviorChanged.throttle = vAPI.defer.create(( ) => {
         history.shift();
     }
     history.push(now);
-    vAPI.net.handlerBehaviorChanged();
+    globalThis.vAPI.net.handlerBehaviorChanged();
 });
 filteringBehaviorChanged.history = [];
 filteringBehaviorChanged.max = Math.min(
-    browser.webRequest.MAX_HANDLER_BEHAVIOR_CHANGED_CALLS_PER_10_MINUTES - 1,
+    (globalThis.vAPI.webRequest && globalThis.vAPI.webRequest.MAX_HANDLER_BEHAVIOR_CHANGED_CALLS_PER_10_MINUTES) - 1 ||
+    (browser.webRequest && browser.webRequest.MAX_HANDLER_BEHAVIOR_CHANGED_CALLS_PER_10_MINUTES) - 1 ||
+    19,
     19
 );
 

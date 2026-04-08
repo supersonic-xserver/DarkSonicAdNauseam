@@ -1169,6 +1169,8 @@ vAPI.messaging = {
             
         ) {
             r = listenerDetails.fn(request.msg, portDetails, callback);
+            // ADN-TRACE: Log the return value of handlers
+            console.log("[ADN-TRACE] [vAPI] Handler returned:", typeof r, "Channel status: Keep-alive =", r === true);
         }
         if ( r !== this.UNHANDLED ) { return; }
 

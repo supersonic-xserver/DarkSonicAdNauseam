@@ -1,0 +1,5590 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "213.8.137.51",
+        "a.walla.co.il",
+        "ads.one.co.il",
+        "adserv.mako.co.il",
+        "atardrushim.com",
+        "avoda-mehabait.co.il",
+        "banners.news1.co.il",
+        "exposeboxwallashops.blob.core.windows.net",
+        "hasdarot.club",
+        "hasdarot.com",
+        "hasdarot.info",
+        "hasdarot.life",
+        "hasdarot.live",
+        "hasdarot.net",
+        "hasdarot.tv",
+        "hasdarot.vip",
+        "hasdarot.xyz",
+        "isdarot.com",
+        "israeljobstoday.com",
+        "losittooday.info",
+        "pinukim.net",
+        "play.milly-style.co.il",
+        "plushome.co.il",
+        "sdarot-il.org",
+        "sdarot-tv.org",
+        "sdarot.cc",
+        "sdc.mako.co.il",
+        "seret.live",
+        "storyshop.co.il",
+        "totalmedia2.ynet.co.il",
+        "tvfeel.cc",
+        "wrtm.walla.co.il"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1
+  },
+  {
+    "condition": {
+      "urlFilter": "|blob:",
+      "excludedResourceTypes": [
+        "main_frame",
+        "script"
+      ],
+      "initiatorDomains": [
+        "6days.walla.co.il",
+        "animals.walla.co.il",
+        "astrology.walla.co.il",
+        "b.walla.co.il",
+        "buzzit.walla.co.il",
+        "calendar.walla.co.il",
+        "cars.walla.co.il",
+        "celebs.walla.co.il",
+        "e.walla.co.il",
+        "elections.walla.co.il",
+        "euro.walla.co.il",
+        "fashion.walla.co.il",
+        "finance.walla.co.il",
+        "food.walla.co.il",
+        "forums.walla.co.il",
+        "fun.walla.co.il",
+        "healthy.walla.co.il",
+        "home.walla.co.il",
+        "judaism.walla.co.il",
+        "kids.walla.co.il",
+        "mag.walla.co.il",
+        "maps.walla.co.il",
+        "milon.walla.co.il",
+        "movies.walla.co.il",
+        "mundial.walla.co.il",
+        "nadlan.walla.co.il",
+        "news.walla.co.il",
+        "nick.walla.co.il",
+        "olympics.walla.co.il",
+        "search.walla.co.il",
+        "sports.walla.co.il",
+        "tags.walla.co.il",
+        "tech.walla.co.il",
+        "translate.walla.co.il",
+        "travel.walla.co.il",
+        "tv-guide.walla.co.il",
+        "tv.walla.co.il",
+        "usaelections.walla.co.il",
+        "viva.walla.co.il",
+        "vod.walla.co.il",
+        "weather.walla.co.il",
+        "www.mako.co.il",
+        "www.walla.co.il"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2
+  },
+  {
+    "condition": {
+      "urlFilter": "||fus.walla.co.il/report/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3
+  },
+  {
+    "condition": {
+      "urlFilter": "||fus.walla.co.il/script.js?1",
+      "initiatorDomains": [
+        "forums.walla.co.il",
+        "tv-guide.walla.co.il"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4
+  },
+  {
+    "condition": {
+      "urlFilter": "||fus.walla.co.il/vast/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5
+  },
+  {
+    "condition": {
+      "urlFilter": "||x.walla.co.il^*.mp4|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 6
+  },
+  {
+    "condition": {
+      "urlFilter": "||xwne.wcdn.co.il^",
+      "initiatorDomains": [
+        "walla.co.il"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 7
+  },
+  {
+    "condition": {
+      "urlFilter": "/cdamarkettextlinks_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 8
+  },
+  {
+    "condition": {
+      "urlFilter": "/cdamarketinglink/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 9
+  },
+  {
+    "condition": {
+      "urlFilter": "||alljobs.co.il/partners/ynet/engine.aspx"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 10
+  },
+  {
+    "condition": {
+      "urlFilter": "||article.yedioth.co.il/assets/banners"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 11
+  },
+  {
+    "condition": {
+      "urlFilter": "||go.ynet.co.il/short/demos/*/ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 12
+  },
+  {
+    "condition": {
+      "urlFilter": "||go.ynet.co.il/short/content/2013/career/sidejobs/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 13
+  },
+  {
+    "condition": {
+      "urlFilter": "||infomed.co.il/ynet/sidebox.aspx?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 14
+  },
+  {
+    "condition": {
+      "urlFilter": "||psakdin.co.il/externalframes/",
+      "initiatorDomains": [
+        "calcalist.co.il",
+        "mako.co.il",
+        "ynet.co.il"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 15
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "api.conduit.com",
+        "localhost"
+      ],
+      "initiatorDomains": [
+        "mako.co.il",
+        "n12.co.il",
+        "tech12.co.il",
+        "tvbee.co.il"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 16
+  },
+  {
+    "condition": {
+      "urlFilter": "||apps.mako.co.il/minicampaigns/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 17
+  },
+  {
+    "condition": {
+      "urlFilter": "||mako.co.il/makotv/loginsocialconfig.json"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 18
+  },
+  {
+    "condition": {
+      "urlFilter": "||rcs.mako.co.il/js/player/*/artimedia/artimediaadmanager.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 19
+  },
+  {
+    "condition": {
+      "urlFilter": "||shironet.mako.co.il/jsp/images/main_strip_ad_box_718.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 20
+  },
+  {
+    "condition": {
+      "urlFilter": "||sport5.co.il/banners2/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 21
+  },
+  {
+    "condition": {
+      "urlFilter": "||a7.org/cdn/sdk"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 22
+  },
+  {
+    "condition": {
+      "urlFilter": "||a7.org/adblock/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 23
+  },
+  {
+    "condition": {
+      "urlFilter": "||a7.org/scripts/maavaron.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 24
+  },
+  {
+    "condition": {
+      "urlFilter": "||dwnmedia.a7.org/inntv/media/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 25
+  },
+  {
+    "condition": {
+      "urlFilter": "||info.a7.org^",
+      "initiatorDomains": [
+        "inn.co.il"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 26
+  },
+  {
+    "condition": {
+      "urlFilter": "||inn.co.il/info_en/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 27
+  },
+  {
+    "condition": {
+      "urlFilter": "||inn.co.il/leads/content/upload/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 28
+  },
+  {
+    "condition": {
+      "urlFilter": "||kipa.co.il/banner/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 29
+  },
+  {
+    "condition": {
+      "urlFilter": "||bhol.co.il/rich_banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 30
+  },
+  {
+    "condition": {
+      "urlFilter": "||ext.bhol.co.il/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 31
+  },
+  {
+    "condition": {
+      "urlFilter": "||a.kikar.co.il/v1/ads"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 32
+  },
+  {
+    "condition": {
+      "urlFilter": "|blob:",
+      "initiatorDomains": [
+        "homeprices.yad2.co.il",
+        "my.yad2.co.il",
+        "pricelist.yad2.co.il",
+        "www.yad2.co.il",
+        "yad1.yad2.co.il"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 33
+  },
+  {
+    "condition": {
+      "urlFilter": "||my.yad2.co.il/banner/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 34
+  },
+  {
+    "condition": {
+      "urlFilter": "||my.yad2.co.il/dfpv3/script/desktopmediamanager.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 35
+  },
+  {
+    "condition": {
+      "urlFilter": "||yad2.co.il/js-new/blockpirsum.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 36
+  },
+  {
+    "condition": {
+      "urlFilter": "||rotter.net/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 37
+  },
+  {
+    "condition": {
+      "urlFilter": "||rotter.net/edit/text/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 38
+  },
+  {
+    "condition": {
+      "urlFilter": "||beaverscripts.com/openwindow.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 39
+  },
+  {
+    "condition": {
+      "urlFilter": "||bladna.co.il/public/flash/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 40
+  },
+  {
+    "condition": {
+      "urlFilter": "||ch10.co.il/wp-content/plugins/arti-banners/components/arti-banner-popup/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 41
+  },
+  {
+    "condition": {
+      "urlFilter": "||googleusercontent.com^",
+      "initiatorDomains": [
+        "trusted-software.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 42
+  },
+  {
+    "condition": {
+      "urlFilter": "||leadim4u.com/accounts/default1/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 43
+  },
+  {
+    "condition": {
+      "urlFilter": "||negishim.com/accessibility/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 44
+  },
+  {
+    "condition": {
+      "urlFilter": "||psakdin.co.il/pictures/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 45
+  },
+  {
+    "condition": {
+      "urlFilter": "||wcdn.co.il/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 46
+  },
+  {
+    "condition": {
+      "urlFilter": "||admin.applicaster.com/v12//7047/channel0_android_banners"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 47
+  },
+  {
+    "condition": {
+      "urlFilter": "||apps.mako.co.il/mobile/config/android/sport5/ad_config.xml"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 48
+  },
+  {
+    "condition": {
+      "urlFilter": "||apps.mako.co.il/mobile/config/android/sport5/banner_config.xml"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 49
+  },
+  {
+    "condition": {
+      "urlFilter": "||fus.walla.co.il/json/5804468/mint.walla_android.homepage/spons"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 50
+  },
+  {
+    "condition": {
+      "urlFilter": "||images.yad2.co.il/pic/yad2new/homepage_promotions/prom"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 51
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.sport5.co.il/images/dreamteam320x40.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 52
+  },
+  {
+    "condition": {
+      "urlFilter": "||resources.fortvision.com/staticfiles"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 53
+  },
+  {
+    "condition": {
+      "urlFilter": "||sport5.co.il/cm8ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 54
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.fortvision.com/staticfiles/fb-web/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 55
+  },
+  {
+    "condition": {
+      "urlFilter": "||warmafterthought.com^",
+      "initiatorDomains": [
+        "morfix.co.il"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 56
+  },
+  {
+    "condition": {
+      "urlFilter": "||x.walla.co.il^",
+      "initiatorDomains": [
+        "mail.walla.co.il"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 57
+  },
+  {
+    "condition": {
+      "urlFilter": "||img.mako.co.il/2018/*/*/970x90a.jpg|",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 58
+  },
+  {
+    "condition": {
+      "resourceTypes": [
+        "image"
+      ],
+      "urlFilter": "||xwbe.wcdn.co.il^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 59
+  },
+  {
+    "condition": {
+      "urlFilter": "||fus.walla.co.il/js/purcf/walla.friends.rashi.main",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 60
+  },
+  {
+    "condition": {
+      "urlFilter": "||dynamicyield.com^",
+      "initiatorDomains": [
+        "ynet.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 61
+  },
+  {
+    "condition": {
+      "urlFilter": "||s3.amazonaws.com^",
+      "initiatorDomains": [
+        "bizportal.co.il",
+        "calcalist.co.il",
+        "globes.co.il",
+        "ynet.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 62
+  },
+  {
+    "condition": {
+      "urlFilter": "||a7.org/media",
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 63
+  },
+  {
+    "condition": {
+      "urlFilter": "||ext.kore.co.il/out/",
+      "initiatorDomains": [
+        "www.kore.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 64
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn1.zoomanalytics.co/js",
+      "initiatorDomains": [
+        "zap.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 65
+  },
+  {
+    "condition": {
+      "urlFilter": "/amsdk.js",
+      "initiatorDomains": [
+        "0404.co.il",
+        "13news.co.il",
+        "13tv.co.il",
+        "calcalist.co.il",
+        "globes.co.il",
+        "inn.co.il",
+        "mako.co.il",
+        "tapuz.co.il",
+        "walla.co.il"
+      ],
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 66
+  },
+  {
+    "condition": {
+      "urlFilter": "||ext.hidabroot.org/out/banners.js?webid=",
+      "initiatorDomains": [
+        "www.hidabroot.org"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 67
+  },
+  {
+    "condition": {
+      "urlFilter": "||bhol.co.il/system/ad_manager/get_all_banners",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 68
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.kore.co.il/system/ad_manager/get_all_banners",
+      "initiatorDomains": [
+        "www.kore.co.il"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 69
+  },
+  {
+    "condition": {
+      "urlFilter": "||mishpati.co.il/-partners/walla-form",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 70
+  },
+  {
+    "condition": {
+      "urlFilter": "||stari.world^",
+      "initiatorDomains": [
+        "sheee.co.il",
+        "walla.co.il"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 71
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "walla.co.il"
+      ],
+      "urlFilter": "||walla.yad2.co.il/*banner",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 72
+  },
+  {
+    "condition": {
+      "urlFilter": "||ynetbanneradmin.yit.co.il/assets/",
+      "initiatorDomains": [
+        "ynet.co.il"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 73
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "urlFilter": "||a7.org/*.html",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 74
+  },
+  {
+    "condition": {
+      "urlFilter": "||moodaot.kipa.co.il/userfiles/moods/",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 75
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.kikar.co.il/a/",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 76
+  },
+  {
+    "condition": {
+      "urlFilter": "||auto.co.il/static/iframe_bn.html?*=",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 77
+  },
+  {
+    "condition": {
+      "urlFilter": "||player.vimeo.com/video/383596619|",
+      "initiatorDomains": [
+        "ch10.co.il"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 78
+  },
+  {
+    "condition": {
+      "urlFilter": "||radio.coolsite.co.il/sekindo/",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 79
+  },
+  {
+    "condition": {
+      "urlFilter": "||walla.co.il/rotteriframe|",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 80
+  },
+  {
+    "condition": {
+      "urlFilter": "||inn.co.il/leads/view/",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 81
+  },
+  {
+    "condition": {
+      "urlFilter": "&utm_id=aruts7|",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 82
+  },
+  {
+    "condition": {
+      "urlFilter": "||kipa.co.il/minisites/go.asp",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 83
+  },
+  {
+    "condition": {
+      "urlFilter": "||landing.kipa.co.il/?id=",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 84
+  },
+  {
+    "condition": {
+      "resourceTypes": [
+        "popup"
+      ],
+      "urlFilter": "||banners.news1.co.il^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 85
+  },
+  {
+    "condition": {
+      "urlFilter": "/dfp.",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il"
+      ],
+      "domainType": "firstParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 86
+  },
+  {
+    "condition": {
+      "urlFilter": "/dfp/",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il"
+      ],
+      "domainType": "firstParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 87
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "6days.walla.co.il",
+        "animals.walla.co.il",
+        "astrology.walla.co.il",
+        "b.walla.co.il",
+        "buzzit.walla.co.il",
+        "calendar.walla.co.il",
+        "cars.walla.co.il",
+        "celebs.walla.co.il",
+        "e.walla.co.il",
+        "elections.walla.co.il",
+        "euro.walla.co.il",
+        "fashion.walla.co.il",
+        "finance.walla.co.il",
+        "food.walla.co.il",
+        "forums.walla.co.il",
+        "fun.walla.co.il",
+        "gaming.walla.co.il",
+        "healthy.walla.co.il",
+        "home.walla.co.il",
+        "horoscope.walla.co.il",
+        "judaism.walla.co.il",
+        "kids.walla.co.il",
+        "law.walla.co.il",
+        "mag.walla.co.il",
+        "maps.walla.co.il",
+        "marketing.walla.co.il",
+        "mekomi.walla.co.il",
+        "milon.walla.co.il",
+        "movies.walla.co.il",
+        "mundial.walla.co.il",
+        "nadlan.walla.co.il",
+        "news.walla.co.il",
+        "nick.walla.co.il",
+        "olympics.walla.co.il",
+        "play.walla.co.il",
+        "search.walla.co.il",
+        "sheva7.walla.co.il",
+        "sports.walla.co.il",
+        "tags.walla.co.il",
+        "tech.walla.co.il",
+        "translate.walla.co.il",
+        "travel.walla.co.il",
+        "tv-guide.walla.co.il",
+        "tv.walla.co.il",
+        "usaelections.walla.co.il",
+        "viva.walla.co.il",
+        "vod.walla.co.il",
+        "wallaplus.walla.co.il",
+        "weather.walla.co.il",
+        "www.walla.co.il"
+      ],
+      "regexFilter": "^(?![a-zA-Z0-9\\-]+:\\/+(api-mail|dal|dcx|isc|iscwne|walla-api|6days|animals|astrology|b|buzzit|calendar|cars|celebs|e|elections|euro|fashion|finance|food|forums|friends|fun|gaming|healthy|home|horoscope|judaism|kids|law|mag|mail|maps|marketing|mekomi|milon|movies|mundial|nadlan|news|nick|olympics|play|search|sheva7|special|sports|tags|tech|translate|travel|tv-guide|tv|usaelections|viva|vod|wallaplus|weather|www)\\.walla\\.co\\.il\\.?(\\/|:|$))^[a-zA-Z0-9\\-]+:\\/+([a-zA-Z0-9\\-]+\\.)+walla\\.co\\.il\\.?(\\/|:|$)",
+      "domainType": "firstParty"
+    },
+    "_error": [
+      "regexFilter is not RE2-compatible: ^(?![a-zA-Z0-9\\-]+:\\/+(api-mail|dal|dcx|isc|iscwne|walla-api|6days|animals|astrology|b|buzzit|calendar|cars|celebs|e|elections|euro|fashion|finance|food|forums|friends|fun|gaming|healthy|home|horoscope|judaism|kids|law|mag|mail|maps|marketing|mekomi|milon|movies|mundial|nadlan|news|nick|olympics|play|search|sheva7|special|sports|tags|tech|translate|travel|tv-guide|tv|usaelections|viva|vod|wallaplus|weather|www)\\.walla\\.co\\.il\\.?(\\/|:|$))^[a-zA-Z0-9\\-]+:\\/+([a-zA-Z0-9\\-]+\\.)+walla\\.co\\.il\\.?(\\/|:|$)"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 0
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "www.sheee.co.il"
+      ],
+      "regexFilter": "^(?![a-zA-Z0-9\\-]+:\\/+www\\.sheee\\.co\\.il\\.?(\\/|:|$))^[a-zA-Z0-9\\-]+:\\/+([a-zA-Z0-9\\-]+\\.)+sheee\\.co\\.il\\.?(\\/|:|$)",
+      "domainType": "firstParty"
+    },
+    "_error": [
+      "regexFilter is not RE2-compatible: ^(?![a-zA-Z0-9\\-]+:\\/+www\\.sheee\\.co\\.il\\.?(\\/|:|$))^[a-zA-Z0-9\\-]+:\\/+([a-zA-Z0-9\\-]+\\.)+sheee\\.co\\.il\\.?(\\/|:|$)"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 0
+  },
+  {
+    "condition": {
+      "urlFilter": "||walla.co.il^",
+      "initiatorDomains": [
+        "6days.walla.co.il",
+        "animals.walla.co.il",
+        "astrology.walla.co.il",
+        "b.walla.co.il",
+        "buzzit.walla.co.il",
+        "calendar.walla.co.il",
+        "cars.walla.co.il",
+        "celebs.walla.co.il",
+        "e.walla.co.il",
+        "elections.walla.co.il",
+        "euro.walla.co.il",
+        "fashion.walla.co.il",
+        "finance.walla.co.il",
+        "food.walla.co.il",
+        "forums.walla.co.il",
+        "fun.walla.co.il",
+        "healthy.walla.co.il",
+        "home.walla.co.il",
+        "judaism.walla.co.il",
+        "kids.walla.co.il",
+        "mag.walla.co.il",
+        "maps.walla.co.il",
+        "milon.walla.co.il",
+        "movies.walla.co.il",
+        "mundial.walla.co.il",
+        "nadlan.walla.co.il",
+        "news.walla.co.il",
+        "nick.walla.co.il",
+        "olympics.walla.co.il",
+        "search.walla.co.il",
+        "sports.walla.co.il",
+        "tags.walla.co.il",
+        "tech.walla.co.il",
+        "translate.walla.co.il",
+        "travel.walla.co.il",
+        "tv-guide.walla.co.il",
+        "tv.walla.co.il",
+        "usaelections.walla.co.il",
+        "viva.walla.co.il",
+        "vod.walla.co.il",
+        "weather.walla.co.il",
+        "www.walla.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 88
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.ynet.co.il^",
+      "initiatorDomains": [
+        "www.ynet.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 89
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.mako.co.il^",
+      "initiatorDomains": [
+        "www.mako.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 90
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.globes.co.il^",
+      "initiatorDomains": [
+        "www.globes.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 91
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.calcalist.co.il^",
+      "initiatorDomains": [
+        "www.calcalist.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 92
+  },
+  {
+    "condition": {
+      "urlFilter": "||13news.co.il^",
+      "initiatorDomains": [
+        "13news.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 93
+  },
+  {
+    "condition": {
+      "urlFilter": "||13tv.co.il^",
+      "initiatorDomains": [
+        "13tv.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 94
+  },
+  {
+    "condition": {
+      "urlFilter": "||sport5.co.il^",
+      "initiatorDomains": [
+        "sport5.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 95
+  },
+  {
+    "condition": {
+      "urlFilter": "||yad2.co.il^",
+      "initiatorDomains": [
+        "homeprices.yad2.co.il",
+        "my.yad2.co.il",
+        "pricelist.yad2.co.il",
+        "www.yad2.co.il",
+        "yad1.yad2.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 96
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.bizportal.co.il^",
+      "initiatorDomains": [
+        "www.bizportal.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 97
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "activated.co.il",
+        "adland.co.il",
+        "boostquery.com",
+        "bostonparadise.com",
+        "bostonwall.com",
+        "browsiprod.com",
+        "buballmighty.com",
+        "clickon.co.il",
+        "depresis.com",
+        "erate.co.il",
+        "gitam.1host.co.il",
+        "kway.co.il",
+        "linicom.co.il",
+        "loopmaze.com",
+        "maskoter.com",
+        "mitbahon.co.il",
+        "nothering.com",
+        "regi.tech",
+        "sekindo.com",
+        "sprawley.com",
+        "srvjar.com",
+        "talkahead.com",
+        "trustmedia.co.il",
+        "ultra.clicka1.co.il",
+        "upapi.net",
+        "valuad.cloud",
+        "wesell.co.il",
+        "wodoka.com",
+        "ws.walla.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 98
+  },
+  {
+    "condition": {
+      "urlFilter": "||webid.co.il/b144/",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 99
+  },
+  {
+    "condition": {
+      "urlFilter": "||wee.co.il^",
+      "excludedInitiatorDomains": [
+        "askoli.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 100
+  },
+  {
+    "condition": {
+      "urlFilter": "||3dots.co.il^",
+      "excludedInitiatorDomains": [
+        "maple-team.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 101
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "6days.walla.co.il",
+        "animals.walla.co.il",
+        "astrology.walla.co.il",
+        "b.walla.co.il",
+        "buzzit.walla.co.il",
+        "calendar.walla.co.il",
+        "cars.walla.co.il",
+        "celebs.walla.co.il",
+        "e.walla.co.il",
+        "elections.walla.co.il",
+        "euro.walla.co.il",
+        "fashion.walla.co.il",
+        "finance.walla.co.il",
+        "food.walla.co.il",
+        "forums.walla.co.il",
+        "gaming.walla.co.il",
+        "healthy.walla.co.il",
+        "home.walla.co.il",
+        "horoscope.walla.co.il",
+        "judaism.walla.co.il",
+        "kids.walla.co.il",
+        "law.walla.co.il",
+        "mag.walla.co.il",
+        "maps.walla.co.il",
+        "marketing.walla.co.il",
+        "mekomi.walla.co.il",
+        "milon.walla.co.il",
+        "movies.walla.co.il",
+        "mundial.walla.co.il",
+        "nadlan.walla.co.il",
+        "news.walla.co.il",
+        "nick.walla.co.il",
+        "olympics.walla.co.il",
+        "search.walla.co.il",
+        "sheva7.walla.co.il",
+        "sports.walla.co.il",
+        "tags.walla.co.il",
+        "tech.walla.co.il",
+        "translate.walla.co.il",
+        "travel.walla.co.il",
+        "tv-guide.walla.co.il",
+        "tv.walla.co.il",
+        "usaelections.walla.co.il",
+        "viva.walla.co.il",
+        "vod.walla.co.il",
+        "wallaplus.walla.co.il",
+        "weather.walla.co.il",
+        "www.walla.co.il"
+      ],
+      "regexFilter": "^(?![a-zA-Z0-9\\-]+\\:\\/+(([^\\/\\:\\.]+\\.)*(il|com|net|org|gov|mil|edu|int|(ac|edu|gov|govt|mil)\\.[a-zA-Z][a-zA-Z]|([a-zA-Z][a-zA-Z]|fed|isa|nsn|dni)\\.us|(bl|nhs|parliament|police|mod|ukaea|rct|royal)\\.uk|europa\\.eu|canada\\.ca|(google|amazon|microsoft|apple|yahoo|yandex|youtube)|(google|blogspot|youtube|paypal|amazon|ebay|bing|msn|yandex|nintendo|disney|tripadvisor|ticketmaster|surveymonkey|virtualspirits)\\.(com?\\.)?[a-zA-Z][a-zA-Z])|(google|youtube)\\.cat|([0-9]+\\.)+[0-9]+|([^\\/\\:\\.]+\\.)*(omny\\.fm|anchor\\.fm|simplecast\\.fm|captivate\\.fm|megaphone\\.fm|transistor\\.fm|fireside\\.fm|podhome\\.fm|pod\\.space|chrt\\.fm|pdst\\.fm|pscrb\\.fm|pdcn\\.co|op3\\.dev|acast\\.cloud|ausha\\.co|stand\\.fm|podcloud\\.fr|audiomeans\\.fr|graffitiradio\\.fr|samply\\.app|castbox\\.fm|podigee\\.io|podbite\\.link|podverse\\.fm|fusebox\\.fm|pca\\.st|odesli\\.co|hearthis\\.at|futuretape\\.xyz|spinamp\\.xyz|audius\\.co|flat\\.io|github\\.io|gitlab\\.io|gitcdn\\.xyz|gitcdn\\.link|statically\\.io|socket\\.io|codepen\\.io|codesandbox\\.io|coda\\.io|snipit\\.io|jam\\.dev|calliope\\.cc|tech\\.io|plnkr\\.co|expo\\.io|crumb\\.sh|grid\\.is|vizdom\\.dev|dbdiagram\\.io|answergarden\\.ch|interacty\\.me|wizer\\.me|ludus\\.one|slidr\\.io|overflow\\.io|exploratory\\.io|kumu\\.io|formless\\.ai|balsamiq\\.cloud|time\\.graphics|time\\.is|raindrop\\.io|polyfill\\.io|polyfill-fastly\\.io|plyr\\.io|embed\\.ly|iframe\\.ly|infogr\\.am|jifo\\.co|plot\\.ly|ember\\.ly|t\\.me|fly\\.dev|lucid\\.app|flourish\\.studio|flourish\\.rocks|iconify\\.design|uri\\.sh|forkaweso\\.me|po\\.st|pippa\\.io|scdn\\.co|powr\\.io|umbraco\\.io|heyday\\.io|prcdn\\.co|redcdn\\.pl|piano\\.io|firebasedatabase\\.app|openassistantgpt\\.io|ipapi\\.co|es\\.io|wpdns\\.site|gfx\\.ms|appdomain\\.cloud|marker\\.io|sided\\.co|picsum\\.photos|telegram\\.space|telesco\\.pe|tg\\.dev|google\\.dev|amazon\\.dev|twitch\\.tv|medal\\.tv|last\\.fm|adobe\\.io|ves\\.io|viafoura\\.co|bsky\\.app|mastodon\\.social|mastodon\\.online|mastodon\\.art|masto\\.host|mastodon\\.world|mstdn\\.social|mas\\.to|techhub\\.social |floss\\.social|peertube\\.tv|ccc\\.de|matrix\\.to|api\\.video|weatherwidget\\.io|showtheway\\.io|screendesk\\.io|dadan\\.io|fluidforms\\.co|lmao\\.ninja|disease\\.sh|web\\.app|rss\\.app|railway\\.app|stripe\\.network|growthbook\\.io|mailmunch\\.co|beyondwords\\.io|soundcloud\\.cloud|tredio\\.io|iris\\.tv|arc\\.io|smooch\\.io|jika\\.io|kahoot\\.it|gumlet\\.io|mytuner\\.mobi|rapidload-cdn\\.io|pages\\.dev|r2\\.dev|raygun\\.io|getbutton\\.io|actionbutton\\.co|buttonizer\\.io|mural\\.co|muralapp\\.io|synthesia\\.io|shoutout\\.so|involve\\.me|beautiful\\.ai|tally\\.so|wearelearning\\.io|orbitvu\\.co|p3d\\.in|vr3d\\.vn|bubb\\.li|kuula\\.co|captur3d\\.io|walkinto\\.in|withalpaca\\.travel|jawg\\.io|streamlit\\.io|flocus\\.io|notion\\.so|nodi\\.so|veed\\.io|muse\\.ai|itch\\.io|postd\\.io|poems\\.one|meet\\.ps|outgrow\\.us|collect\\.chat|braze\\.eu|shortpixel\\.ai|geojs\\.io|gtranslate\\.io|gspeech\\.io|intercom\\.io|intercom\\.help|intercomcdn\\.eu|statuspage\\.io|privy\\.io|magic\\.link|fun\\.xyz|redd\\.it|tenor\\.co|dlive\\.tv|rumble\\.cloud|rmbl\\.ws|ok\\.ru|okcdn\\.ru|rutube\\.ru|web\\.tv|kinescope\\.io|nicovideo\\.jp|sooplive\\.co\\.kr|sapo\\.pt|rudo\\.video|fathom\\.video|allstar\\.gg|snappd\\.tv|triller\\.co|popkey\\.co|lottie\\.host|hippovideo\\.io|imagekit\\.io|icomoon\\.io|upscope\\.io|imagehost\\.at|ibb\\.co|vgy\\.me|postimg\\.cc|imageshack\\.us|prnt\\.sc|imagesup\\.co|weserv\\.nl|publit\\.io|archive\\.is|archive\\.ph|poll\\.fm|arcade\\.software|openelms\\.ai|tella\\.tv|visily\\.ai|wirewax\\.tv|maze\\.co|beop\\.io|descope\\.app|supabase\\.co|quadapps\\.biz|linktr\\.ee|privacymanager\\.io|transcend\\.io|trustindex\\.io|rollout\\.io|landbot\\.io|mvp\\.fan|telegram\\.me|vk\\.ru|cdn-vk\\.ru|dzen\\.ru|upress\\.io|upress\\.link|bit\\.ly|goo\\.gl|g\\.co|yt\\.be|youtu\\.be|t\\.co|fb\\.me|m\\.me|instagr\\.am|wa\\.me|amzn\\.to|wp\\.me|git\\.io|docdro\\.id|arcg\\.is|ow\\.ly|disq\\.us|discord\\.gg|musical\\.ly|del\\.icio\\.us|optmn\\.cloud|comeet\\.co|allchat\\.chat|tycontrol\\.me|adimo\\.co|chatbase\\.co|pickaxe\\.co|terrific\\.live|playgen\\.io|jogo\\.studio|pluro\\.ai|equally\\.ai|trinitymedia\\.ai|whtvr\\.ai|whtvr\\.io|stories\\.sc|storycards\\.co|spot\\.im|idus\\.dev|activetrail\\.biz|oles\\.tv|clipro\\.tv|inthegame\\.io|cybercdn\\.live|livecdn\\.biz|g-mana\\.live|g-mana\\.online|immergo\\.tv|ondigitalocean\\.app|wiztivi\\.io|cdn-redge\\.media|bridged\\.media|gostreaming\\.tv|h-cdn\\.co|minute\\.ly|vttp\\.co|tldw\\.me|tawk\\.to|cbox\\.ws|crisp\\.chat|blings\\.io|smoove\\.io|vp4\\.me|nanorep\\.co|w-x\\.co|commbox\\.io|getlimy\\.ai|flashy\\.app|amagi\\.tv|wizzo\\.media|wizzo\\.stream|bwebi\\.co|hopon\\.co|nagishly\\.co|user1st\\.info|userway\\.dev|accessi\\.do|giving\\.technology|getmood\\.io|revy\\.io|braincommerce\\.io|shop\\.app|tabarn\\.app|506\\.io|bogos\\.io|logbase\\.io|judge\\.me|empathy\\.co|blackcrow\\.ai|hengam\\.io|aov\\.ai|joy\\.so|adapt\\.online|appmate\\.io|returngo\\.ai|wemanage\\.app|pelecard\\.biz|cashback\\.im|simplebooking\\.it|eazeapps\\.io|gamitee\\.io|tawk\\.to|bazak\\.ai|tempisr\\.io|bytheweb\\.info|matat\\.io|sphera\\.tools|ex\\.co|norgeskart\\.no|ndla\\.no|feeder\\.co|trib\\.al|rb\\.ly|t\\.ly|tiny\\.cc|did\\.li|w\\.wiki|widgetbox\\.app|periscope\\.tv|pscp\\.tv|vine\\.co|vid\\.me|dailymail\\.co\\.uk|dailystar\\.co\\.uk|metro\\.co\\.uk|bbc\\.net\\.uk|bbc\\.co\\.uk|cnn\\.io|nfb\\.ca|cbc\\.ca|globalnews\\.ca|rsi\\.ch|1tv\\.ru|ren\\.tv|indiancine\\.ma|univ-fcomte\\.fr|univ-paris1\\.fr|eurovision\\.tv|knesset\\.tv|knesset\\.live|l-p\\.site|stari\\.world|walla\\.cloud|103\\.fm|zahav\\.ru|nickjr\\.tv|sentry\\.io|atom-data\\.io|k5a\\.io|scriptintel\\.io|gemius\\.pl|clarity\\.ms|logidea\\.info|zoomanalytics\\.co|snackly\\.co|trace\\.events|firstimpression\\.io|openweb\\.bid|spots\\.im|rtk\\.io|trb\\.tv|outbid\\.io))\\.?([\\/\\:]|$))^[^\\/\\:\\.]+\\:\\/+[^\\/\\:\\.]",
+      "domainType": "thirdParty"
+    },
+    "_error": [
+      "regexFilter is not RE2-compatible: ^(?![a-zA-Z0-9\\-]+\\:\\/+(([^\\/\\:\\.]+\\.)*(il|com|net|org|gov|mil|edu|int|(ac|edu|gov|govt|mil)\\.[a-zA-Z][a-zA-Z]|([a-zA-Z][a-zA-Z]|fed|isa|nsn|dni)\\.us|(bl|nhs|parliament|police|mod|ukaea|rct|royal)\\.uk|europa\\.eu|canada\\.ca|(google|amazon|microsoft|apple|yahoo|yandex|youtube)|(google|blogspot|youtube|paypal|amazon|ebay|bing|msn|yandex|nintendo|disney|tripadvisor|ticketmaster|surveymonkey|virtualspirits)\\.(com?\\.)?[a-zA-Z][a-zA-Z])|(google|youtube)\\.cat|([0-9]+\\.)+[0-9]+|([^\\/\\:\\.]+\\.)*(omny\\.fm|anchor\\.fm|simplecast\\.fm|captivate\\.fm|megaphone\\.fm|transistor\\.fm|fireside\\.fm|podhome\\.fm|pod\\.space|chrt\\.fm|pdst\\.fm|pscrb\\.fm|pdcn\\.co|op3\\.dev|acast\\.cloud|ausha\\.co|stand\\.fm|podcloud\\.fr|audiomeans\\.fr|graffitiradio\\.fr|samply\\.app|castbox\\.fm|podigee\\.io|podbite\\.link|podverse\\.fm|fusebox\\.fm|pca\\.st|odesli\\.co|hearthis\\.at|futuretape\\.xyz|spinamp\\.xyz|audius\\.co|flat\\.io|github\\.io|gitlab\\.io|gitcdn\\.xyz|gitcdn\\.link|statically\\.io|socket\\.io|codepen\\.io|codesandbox\\.io|coda\\.io|snipit\\.io|jam\\.dev|calliope\\.cc|tech\\.io|plnkr\\.co|expo\\.io|crumb\\.sh|grid\\.is|vizdom\\.dev|dbdiagram\\.io|answergarden\\.ch|interacty\\.me|wizer\\.me|ludus\\.one|slidr\\.io|overflow\\.io|exploratory\\.io|kumu\\.io|formless\\.ai|balsamiq\\.cloud|time\\.graphics|time\\.is|raindrop\\.io|polyfill\\.io|polyfill-fastly\\.io|plyr\\.io|embed\\.ly|iframe\\.ly|infogr\\.am|jifo\\.co|plot\\.ly|ember\\.ly|t\\.me|fly\\.dev|lucid\\.app|flourish\\.studio|flourish\\.rocks|iconify\\.design|uri\\.sh|forkaweso\\.me|po\\.st|pippa\\.io|scdn\\.co|powr\\.io|umbraco\\.io|heyday\\.io|prcdn\\.co|redcdn\\.pl|piano\\.io|firebasedatabase\\.app|openassistantgpt\\.io|ipapi\\.co|es\\.io|wpdns\\.site|gfx\\.ms|appdomain\\.cloud|marker\\.io|sided\\.co|picsum\\.photos|telegram\\.space|telesco\\.pe|tg\\.dev|google\\.dev|amazon\\.dev|twitch\\.tv|medal\\.tv|last\\.fm|adobe\\.io|ves\\.io|viafoura\\.co|bsky\\.app|mastodon\\.social|mastodon\\.online|mastodon\\.art|masto\\.host|mastodon\\.world|mstdn\\.social|mas\\.to|techhub\\.social |floss\\.social|peertube\\.tv|ccc\\.de|matrix\\.to|api\\.video|weatherwidget\\.io|showtheway\\.io|screendesk\\.io|dadan\\.io|fluidforms\\.co|lmao\\.ninja|disease\\.sh|web\\.app|rss\\.app|railway\\.app|stripe\\.network|growthbook\\.io|mailmunch\\.co|beyondwords\\.io|soundcloud\\.cloud|tredio\\.io|iris\\.tv|arc\\.io|smooch\\.io|jika\\.io|kahoot\\.it|gumlet\\.io|mytuner\\.mobi|rapidload-cdn\\.io|pages\\.dev|r2\\.dev|raygun\\.io|getbutton\\.io|actionbutton\\.co|buttonizer\\.io|mural\\.co|muralapp\\.io|synthesia\\.io|shoutout\\.so|involve\\.me|beautiful\\.ai|tally\\.so|wearelearning\\.io|orbitvu\\.co|p3d\\.in|vr3d\\.vn|bubb\\.li|kuula\\.co|captur3d\\.io|walkinto\\.in|withalpaca\\.travel|jawg\\.io|streamlit\\.io|flocus\\.io|notion\\.so|nodi\\.so|veed\\.io|muse\\.ai|itch\\.io|postd\\.io|poems\\.one|meet\\.ps|outgrow\\.us|collect\\.chat|braze\\.eu|shortpixel\\.ai|geojs\\.io|gtranslate\\.io|gspeech\\.io|intercom\\.io|intercom\\.help|intercomcdn\\.eu|statuspage\\.io|privy\\.io|magic\\.link|fun\\.xyz|redd\\.it|tenor\\.co|dlive\\.tv|rumble\\.cloud|rmbl\\.ws|ok\\.ru|okcdn\\.ru|rutube\\.ru|web\\.tv|kinescope\\.io|nicovideo\\.jp|sooplive\\.co\\.kr|sapo\\.pt|rudo\\.video|fathom\\.video|allstar\\.gg|snappd\\.tv|triller\\.co|popkey\\.co|lottie\\.host|hippovideo\\.io|imagekit\\.io|icomoon\\.io|upscope\\.io|imagehost\\.at|ibb\\.co|vgy\\.me|postimg\\.cc|imageshack\\.us|prnt\\.sc|imagesup\\.co|weserv\\.nl|publit\\.io|archive\\.is|archive\\.ph|poll\\.fm|arcade\\.software|openelms\\.ai|tella\\.tv|visily\\.ai|wirewax\\.tv|maze\\.co|beop\\.io|descope\\.app|supabase\\.co|quadapps\\.biz|linktr\\.ee|privacymanager\\.io|transcend\\.io|trustindex\\.io|rollout\\.io|landbot\\.io|mvp\\.fan|telegram\\.me|vk\\.ru|cdn-vk\\.ru|dzen\\.ru|upress\\.io|upress\\.link|bit\\.ly|goo\\.gl|g\\.co|yt\\.be|youtu\\.be|t\\.co|fb\\.me|m\\.me|instagr\\.am|wa\\.me|amzn\\.to|wp\\.me|git\\.io|docdro\\.id|arcg\\.is|ow\\.ly|disq\\.us|discord\\.gg|musical\\.ly|del\\.icio\\.us|optmn\\.cloud|comeet\\.co|allchat\\.chat|tycontrol\\.me|adimo\\.co|chatbase\\.co|pickaxe\\.co|terrific\\.live|playgen\\.io|jogo\\.studio|pluro\\.ai|equally\\.ai|trinitymedia\\.ai|whtvr\\.ai|whtvr\\.io|stories\\.sc|storycards\\.co|spot\\.im|idus\\.dev|activetrail\\.biz|oles\\.tv|clipro\\.tv|inthegame\\.io|cybercdn\\.live|livecdn\\.biz|g-mana\\.live|g-mana\\.online|immergo\\.tv|ondigitalocean\\.app|wiztivi\\.io|cdn-redge\\.media|bridged\\.media|gostreaming\\.tv|h-cdn\\.co|minute\\.ly|vttp\\.co|tldw\\.me|tawk\\.to|cbox\\.ws|crisp\\.chat|blings\\.io|smoove\\.io|vp4\\.me|nanorep\\.co|w-x\\.co|commbox\\.io|getlimy\\.ai|flashy\\.app|amagi\\.tv|wizzo\\.media|wizzo\\.stream|bwebi\\.co|hopon\\.co|nagishly\\.co|user1st\\.info|userway\\.dev|accessi\\.do|giving\\.technology|getmood\\.io|revy\\.io|braincommerce\\.io|shop\\.app|tabarn\\.app|506\\.io|bogos\\.io|logbase\\.io|judge\\.me|empathy\\.co|blackcrow\\.ai|hengam\\.io|aov\\.ai|joy\\.so|adapt\\.online|appmate\\.io|returngo\\.ai|wemanage\\.app|pelecard\\.biz|cashback\\.im|simplebooking\\.it|eazeapps\\.io|gamitee\\.io|tawk\\.to|bazak\\.ai|tempisr\\.io|bytheweb\\.info|matat\\.io|sphera\\.tools|ex\\.co|norgeskart\\.no|ndla\\.no|feeder\\.co|trib\\.al|rb\\.ly|t\\.ly|tiny\\.cc|did\\.li|w\\.wiki|widgetbox\\.app|periscope\\.tv|pscp\\.tv|vine\\.co|vid\\.me|dailymail\\.co\\.uk|dailystar\\.co\\.uk|metro\\.co\\.uk|bbc\\.net\\.uk|bbc\\.co\\.uk|cnn\\.io|nfb\\.ca|cbc\\.ca|globalnews\\.ca|rsi\\.ch|1tv\\.ru|ren\\.tv|indiancine\\.ma|univ-fcomte\\.fr|univ-paris1\\.fr|eurovision\\.tv|knesset\\.tv|knesset\\.live|l-p\\.site|stari\\.world|walla\\.cloud|103\\.fm|zahav\\.ru|nickjr\\.tv|sentry\\.io|atom-data\\.io|k5a\\.io|scriptintel\\.io|gemius\\.pl|clarity\\.ms|logidea\\.info|zoomanalytics\\.co|snackly\\.co|trace\\.events|firstimpression\\.io|openweb\\.bid|spots\\.im|rtk\\.io|trb\\.tv|outbid\\.io))\\.?([\\/\\:]|$))^[^\\/\\:\\.]+\\:\\/+[^\\/\\:\\.]"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 0
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "6days.walla.co.il",
+        "animals.walla.co.il",
+        "astrology.walla.co.il",
+        "b.walla.co.il",
+        "buzzit.walla.co.il",
+        "calendar.walla.co.il",
+        "cars.walla.co.il",
+        "celebs.walla.co.il",
+        "e.walla.co.il",
+        "elections.walla.co.il",
+        "euro.walla.co.il",
+        "fashion.walla.co.il",
+        "finance.walla.co.il",
+        "food.walla.co.il",
+        "forums.walla.co.il",
+        "gaming.walla.co.il",
+        "healthy.walla.co.il",
+        "home.walla.co.il",
+        "horoscope.walla.co.il",
+        "judaism.walla.co.il",
+        "kids.walla.co.il",
+        "law.walla.co.il",
+        "mag.walla.co.il",
+        "maps.walla.co.il",
+        "marketing.walla.co.il",
+        "mekomi.walla.co.il",
+        "milon.walla.co.il",
+        "movies.walla.co.il",
+        "mundial.walla.co.il",
+        "nadlan.walla.co.il",
+        "news.walla.co.il",
+        "nick.walla.co.il",
+        "olympics.walla.co.il",
+        "search.walla.co.il",
+        "sheva7.walla.co.il",
+        "sports.walla.co.il",
+        "tags.walla.co.il",
+        "tech.walla.co.il",
+        "translate.walla.co.il",
+        "travel.walla.co.il",
+        "tv-guide.walla.co.il",
+        "tv.walla.co.il",
+        "usaelections.walla.co.il",
+        "viva.walla.co.il",
+        "vod.walla.co.il",
+        "wallaplus.walla.co.il",
+        "weather.walla.co.il",
+        "www.walla.co.il"
+      ],
+      "regexFilter": "^(?![a-zA-Z0-9\\-]+\\:\\/+([^\\/\\:\\.]+\\.)*((gov|idf|muni|ac|k12|net)\\.il|(google|blogspot|youtube|paypal|amazon|ebay|bing|msn|yandex|nintendo|disney|tripadvisor|ticketmaster|surveymonkey|virtualspirits|senseforce|phpbb|minifier|enable|wcag2|tadam|vagas|nagich|nagishplus|nagishexpress|nagishly|livedns|user-a|access4u|accessnet|iaccessibility|emap|23tv|glz|glglz|icast|ecast|mediacast|livecast|live1|siz|gif|meduzot|telesport|teleline|livegames|newsnow|2net|weather2day|israelweather|mavir|mekorotapp|e-vrit|xword|uzit|2all|fav|slash|rabbi|moonsite|modulus|meshulam|creditguard|tase|paisplus|pais|winner|israelpost|postalfinance|bankhadoar|israports|ashdodport|haifaport|eilatport|iroads|nta|rail|dankal|ayalonhw|kvish6|transisrael|carmeltunnels|iai|iec|mekorot|kav-layla|park|namal|namalyafo|herzliya-marina|chakal|eec|negev|jeden|asofta|sheba|assutaashdod|clalit|maccabi4u|leumit|meuhedet|football|basket|ibasketball|iaa|habima|cameri|gesher-theatre|lessin|tzavta|khan|jerusalem-theatre|ht1|mozkin-theater|b7t|hth|batsheva|iballet|israel-opera|ipo|ico|andalusit|hatarbut|zemereshet|spd|matrixdigital|ewave|cyberserve|basch|upsite|triple|idus|imark|binaa|manta-web|internetic|onezero|wmg|wbd|groo|bsmart|id-x|fixdigital|callindex|selected|matat|junami|myprice|mediagroup|maven-group|creatix|creatixshop|uplead|smarticket|tickchak|nimi|foodbox|tabitisrael|htzone|cashback|konimbo|pulseem|wizzo|easy|mymarketing|dolcemaster|hotelscombined|mishloha|pickuppoint|t|midrag|kotar|arma|inforu|maariv|hamara|talniri|bursagraph|sponser|givechak|giusim|headstart|giveback|beactive|kaplanopensource|systematics|israelcoronamap|activetrail|shomershabes|eshkolot|jako|boostmedia|webid|wee|wesell|icdn|wcdn|wallanews|wallashops|wallatours|wallaart|wallaprint|walla|hamal|sheee|globes|madlan|yad2|mipo|b144|bezeq|pelephone|yes|fxp|nick|d|mako|13tv|tv10|sheva7|iol|dominos|magazineitsuv|doctors|mishpati|lawguide|arcdb|zebarur|wlcdn|linicom|erate)\\.co\\.il|(kan|kankids|makan|iba|oref|iaf|yeshiva|boi|parks|antiquities|iaa|imj|nli|bh|anumuseum|eretzmuseum|filmfund|rashut2|isoc|hebrew-academy|kkl|wzo|kh-uia|tmir|mai|che|osh|sii|consumers|tasmc|hadassah|szmc|rambam|schneider|rabin-research|barzilaimc|hymc|gmc|botanic|kineret|ikinneret|ocean|plants|oliveboard|honey|halavi|ofot|suzannedellal|innovationisrael|yarkon-river|yarkon-nikuz|tourgolan|cityofdavid|myesha|zaka|zaka-tlv|teva|zavit|birds|davidson|midaat|1221|yadsarah|kolzchut|guidestar|acum|football|isr|pikiwiki|hamoreshet|accessible|ip6|profile)\\.org\\.il)\\.?([\\/\\:]|$))^[a-zA-Z0-9\\-]+\\:\\/+[^\\/\\:]+\\.il\\.?([\\/\\:]|$)",
+      "domainType": "thirdParty"
+    },
+    "_error": [
+      "regexFilter is not RE2-compatible: ^(?![a-zA-Z0-9\\-]+\\:\\/+([^\\/\\:\\.]+\\.)*((gov|idf|muni|ac|k12|net)\\.il|(google|blogspot|youtube|paypal|amazon|ebay|bing|msn|yandex|nintendo|disney|tripadvisor|ticketmaster|surveymonkey|virtualspirits|senseforce|phpbb|minifier|enable|wcag2|tadam|vagas|nagich|nagishplus|nagishexpress|nagishly|livedns|user-a|access4u|accessnet|iaccessibility|emap|23tv|glz|glglz|icast|ecast|mediacast|livecast|live1|siz|gif|meduzot|telesport|teleline|livegames|newsnow|2net|weather2day|israelweather|mavir|mekorotapp|e-vrit|xword|uzit|2all|fav|slash|rabbi|moonsite|modulus|meshulam|creditguard|tase|paisplus|pais|winner|israelpost|postalfinance|bankhadoar|israports|ashdodport|haifaport|eilatport|iroads|nta|rail|dankal|ayalonhw|kvish6|transisrael|carmeltunnels|iai|iec|mekorot|kav-layla|park|namal|namalyafo|herzliya-marina|chakal|eec|negev|jeden|asofta|sheba|assutaashdod|clalit|maccabi4u|leumit|meuhedet|football|basket|ibasketball|iaa|habima|cameri|gesher-theatre|lessin|tzavta|khan|jerusalem-theatre|ht1|mozkin-theater|b7t|hth|batsheva|iballet|israel-opera|ipo|ico|andalusit|hatarbut|zemereshet|spd|matrixdigital|ewave|cyberserve|basch|upsite|triple|idus|imark|binaa|manta-web|internetic|onezero|wmg|wbd|groo|bsmart|id-x|fixdigital|callindex|selected|matat|junami|myprice|mediagroup|maven-group|creatix|creatixshop|uplead|smarticket|tickchak|nimi|foodbox|tabitisrael|htzone|cashback|konimbo|pulseem|wizzo|easy|mymarketing|dolcemaster|hotelscombined|mishloha|pickuppoint|t|midrag|kotar|arma|inforu|maariv|hamara|talniri|bursagraph|sponser|givechak|giusim|headstart|giveback|beactive|kaplanopensource|systematics|israelcoronamap|activetrail|shomershabes|eshkolot|jako|boostmedia|webid|wee|wesell|icdn|wcdn|wallanews|wallashops|wallatours|wallaart|wallaprint|walla|hamal|sheee|globes|madlan|yad2|mipo|b144|bezeq|pelephone|yes|fxp|nick|d|mako|13tv|tv10|sheva7|iol|dominos|magazineitsuv|doctors|mishpati|lawguide|arcdb|zebarur|wlcdn|linicom|erate)\\.co\\.il|(kan|kankids|makan|iba|oref|iaf|yeshiva|boi|parks|antiquities|iaa|imj|nli|bh|anumuseum|eretzmuseum|filmfund|rashut2|isoc|hebrew-academy|kkl|wzo|kh-uia|tmir|mai|che|osh|sii|consumers|tasmc|hadassah|szmc|rambam|schneider|rabin-research|barzilaimc|hymc|gmc|botanic|kineret|ikinneret|ocean|plants|oliveboard|honey|halavi|ofot|suzannedellal|innovationisrael|yarkon-river|yarkon-nikuz|tourgolan|cityofdavid|myesha|zaka|zaka-tlv|teva|zavit|birds|davidson|midaat|1221|yadsarah|kolzchut|guidestar|acum|football|isr|pikiwiki|hamoreshet|accessible|ip6|profile)\\.org\\.il)\\.?([\\/\\:]|$))^[a-zA-Z0-9\\-]+\\:\\/+[^\\/\\:]+\\.il\\.?([\\/\\:]|$)"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 0
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "6days.walla.co.il",
+        "animals.walla.co.il",
+        "astrology.walla.co.il",
+        "b.walla.co.il",
+        "buzzit.walla.co.il",
+        "calendar.walla.co.il",
+        "cars.walla.co.il",
+        "celebs.walla.co.il",
+        "e.walla.co.il",
+        "elections.walla.co.il",
+        "euro.walla.co.il",
+        "fashion.walla.co.il",
+        "finance.walla.co.il",
+        "food.walla.co.il",
+        "forums.walla.co.il",
+        "gaming.walla.co.il",
+        "healthy.walla.co.il",
+        "home.walla.co.il",
+        "horoscope.walla.co.il",
+        "judaism.walla.co.il",
+        "kids.walla.co.il",
+        "law.walla.co.il",
+        "mag.walla.co.il",
+        "maps.walla.co.il",
+        "marketing.walla.co.il",
+        "mekomi.walla.co.il",
+        "milon.walla.co.il",
+        "movies.walla.co.il",
+        "mundial.walla.co.il",
+        "nadlan.walla.co.il",
+        "news.walla.co.il",
+        "nick.walla.co.il",
+        "olympics.walla.co.il",
+        "search.walla.co.il",
+        "sheva7.walla.co.il",
+        "sports.walla.co.il",
+        "tags.walla.co.il",
+        "tech.walla.co.il",
+        "translate.walla.co.il",
+        "travel.walla.co.il",
+        "tv-guide.walla.co.il",
+        "tv.walla.co.il",
+        "usaelections.walla.co.il",
+        "viva.walla.co.il",
+        "vod.walla.co.il",
+        "wallaplus.walla.co.il",
+        "weather.walla.co.il",
+        "www.walla.co.il"
+      ],
+      "regexFilter": "^(?![a-zA-Z0-9\\-]+\\:\\/+([^\\/\\:\\.]+\\.)*(facebook|fbcdn|threads|dmcdn|jsdelivr|cloudfront|cloudflare|fastly|fastlylb|ovh|cloudfunctions|gammacdn|edgecastcdn|edgio|blazingcdn|incapdns|impervadns|cachefly|footprint|cloudapp|brightcove|akamai|akamaihd|akamaized|akamaiedge|akamaistream|akahost|akadns|ctedgecdn|2mdn|edgesuite|azurewebsites|azureedge|azurefd|tm-azurefd|windows|hwcdn|zencdn|b-cdn|bunny|llnwd|llnwi|boltdns|msecnd|a-msedge|l-msedge|t-msedge|fb-t-msedge|msauth|msftauth|omegacdn|sigmacdn|trafficmanager|queue-it|bitsngo|nocookie|recaptcha|httpschecker|imgix|hlsplayer|datatables|docdroid|iframely|slideshare|diagrams|wordwall|algolia|3dissue|pinecast|anvato|maphub|virtualearth|cdnpk|dwcdn|typekit|edgefonts|fonts|myfonts|ampproject|ctfassets|hsforms|hscollectedforms|hsappstatic|viafoura|apigee|yandex|yastatic|yahoo|yahoodns|bing|lldns|px-cloud|videodelivery|mediadelivery|imagedelivery|wpsoul|consentmanager|coralproject|opta|web-view|radwarecloud|v0cdn|wistia|liveperson|2cnt|adobedc|demdex|behance|darksky|meteocast|radio|radio-api|videobytes|google|speedtest|metercustom|meter|priice|gtranslate|licensebuttons|researchgate|codepoints|tfaforms|pixiv|sfdcfc|go-vip|cart-bot|cdnau|example|podigee-cdn|twitchcdn|ttvnw|jtvnw|vkuser|nflxso|sourceforge|dailyuploads|scriptengine|whatsapp|quoracdn|sstatic|fastevo|tochka|deviantart|8ch|vodgc|streamlock|streamgates|medonecdn|cdnwz|cdnwiz|playgorithm|vidiom|glassix|barilliance|f-static|xicdn|wixapps|maskyoo|crazysob|immue|nice-team|shitufi|mivzakim|mygemel|bringthemhomenow|artipbox|sc-static|crwdcntrl|chartbeat|doubleclick|advsnx)\\.net\\.?([\\/\\:]|$))^[a-zA-Z0-9\\-]+\\:\\/+[^\\/\\:]+\\.net\\.?([\\/\\:]|$)",
+      "domainType": "thirdParty"
+    },
+    "_error": [
+      "regexFilter is not RE2-compatible: ^(?![a-zA-Z0-9\\-]+\\:\\/+([^\\/\\:\\.]+\\.)*(facebook|fbcdn|threads|dmcdn|jsdelivr|cloudfront|cloudflare|fastly|fastlylb|ovh|cloudfunctions|gammacdn|edgecastcdn|edgio|blazingcdn|incapdns|impervadns|cachefly|footprint|cloudapp|brightcove|akamai|akamaihd|akamaized|akamaiedge|akamaistream|akahost|akadns|ctedgecdn|2mdn|edgesuite|azurewebsites|azureedge|azurefd|tm-azurefd|windows|hwcdn|zencdn|b-cdn|bunny|llnwd|llnwi|boltdns|msecnd|a-msedge|l-msedge|t-msedge|fb-t-msedge|msauth|msftauth|omegacdn|sigmacdn|trafficmanager|queue-it|bitsngo|nocookie|recaptcha|httpschecker|imgix|hlsplayer|datatables|docdroid|iframely|slideshare|diagrams|wordwall|algolia|3dissue|pinecast|anvato|maphub|virtualearth|cdnpk|dwcdn|typekit|edgefonts|fonts|myfonts|ampproject|ctfassets|hsforms|hscollectedforms|hsappstatic|viafoura|apigee|yandex|yastatic|yahoo|yahoodns|bing|lldns|px-cloud|videodelivery|mediadelivery|imagedelivery|wpsoul|consentmanager|coralproject|opta|web-view|radwarecloud|v0cdn|wistia|liveperson|2cnt|adobedc|demdex|behance|darksky|meteocast|radio|radio-api|videobytes|google|speedtest|metercustom|meter|priice|gtranslate|licensebuttons|researchgate|codepoints|tfaforms|pixiv|sfdcfc|go-vip|cart-bot|cdnau|example|podigee-cdn|twitchcdn|ttvnw|jtvnw|vkuser|nflxso|sourceforge|dailyuploads|scriptengine|whatsapp|quoracdn|sstatic|fastevo|tochka|deviantart|8ch|vodgc|streamlock|streamgates|medonecdn|cdnwz|cdnwiz|playgorithm|vidiom|glassix|barilliance|f-static|xicdn|wixapps|maskyoo|crazysob|immue|nice-team|shitufi|mivzakim|mygemel|bringthemhomenow|artipbox|sc-static|crwdcntrl|chartbeat|doubleclick|advsnx)\\.net\\.?([\\/\\:]|$))^[a-zA-Z0-9\\-]+\\:\\/+[^\\/\\:]+\\.net\\.?([\\/\\:]|$)"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 0
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "6days.walla.co.il",
+        "animals.walla.co.il",
+        "astrology.walla.co.il",
+        "b.walla.co.il",
+        "buzzit.walla.co.il",
+        "calendar.walla.co.il",
+        "cars.walla.co.il",
+        "celebs.walla.co.il",
+        "e.walla.co.il",
+        "elections.walla.co.il",
+        "euro.walla.co.il",
+        "fashion.walla.co.il",
+        "finance.walla.co.il",
+        "food.walla.co.il",
+        "forums.walla.co.il",
+        "gaming.walla.co.il",
+        "healthy.walla.co.il",
+        "home.walla.co.il",
+        "horoscope.walla.co.il",
+        "judaism.walla.co.il",
+        "kids.walla.co.il",
+        "law.walla.co.il",
+        "mag.walla.co.il",
+        "maps.walla.co.il",
+        "marketing.walla.co.il",
+        "mekomi.walla.co.il",
+        "milon.walla.co.il",
+        "movies.walla.co.il",
+        "mundial.walla.co.il",
+        "nadlan.walla.co.il",
+        "news.walla.co.il",
+        "nick.walla.co.il",
+        "olympics.walla.co.il",
+        "search.walla.co.il",
+        "sheva7.walla.co.il",
+        "sports.walla.co.il",
+        "tags.walla.co.il",
+        "tech.walla.co.il",
+        "translate.walla.co.il",
+        "travel.walla.co.il",
+        "tv-guide.walla.co.il",
+        "tv.walla.co.il",
+        "usaelections.walla.co.il",
+        "viva.walla.co.il",
+        "vod.walla.co.il",
+        "wallaplus.walla.co.il",
+        "weather.walla.co.il",
+        "www.walla.co.il"
+      ],
+      "regexFilter": "^(?![a-zA-Z0-9\\-]+\\:\\/+([^\\/\\:\\.]+\\.)*(flowplayer|amara|h5p|d3js|ampproject|promisejs|backbonejs|angularjs|dojotoolkit|staticfile|telegram|telegram-cdn|cdn-telegram|openstreetmap|wmflabs|wikimapia|wikimedia|wikipedia|wiktionary|wikisource|wikiquote|wikibooks|wikivoyage|wikiversity|wikinews|wikidata|mediawiki|w3|schema|archive|mozilla|chromium|documentcloud|w|mathjax|pannellum|themoviedb|tmdb|muses|npr|nprapps|learningapps|weatherwidget|openweathermap|lightningmaps|gigapan|gamemonkey|opensubtitles|chess|lichess|geogebra|diasporafoundation|joinmastodon|joinpeertube|discourse|matrix|f-droid|codelutin|fosstodon|libravatar|gnu|creativecommons|eff|icann|iana|ietf|apache|opensource|iso|ntp|ipify|privacy-center|cookielaw|featuregates|featureassets|cleantalk|walletlink|walletconnect|bitcoin|ethereum|litecoin|cdn77|userway|accessibilityserver|wp-accessibility|wordpress-accessibility|widgetlogic|responsivevoice|consensu|mediamatters|ghostarchive|jotti|ap|pbs|pbskids|wnyc|500px|stepik|librivox|ghostarchive|pythonhosted|pypi|example|uploadimage|postimages|postimage|imgsafe|4chan|4channel|4cdn|olympic|wikileaks|ourworldindata|unesco|un|c-span|c-spanvideo|nobelprize|gutenberg|doi|arxiv|scirp|slashdot|google|browser-update|ipv6-il|givingtech|israeltoremet|tengav|emun|benyehuda|tami-il|kkl-jnf|jewishagency|thekotel|yadvashem|yadlabanim|mdais|shamir|hatzala|covid19maps|coronaisrael)\\.org\\.?([\\/\\:]|$))^[a-zA-Z0-9\\-]+\\:\\/+[^\\/\\:]+\\.org\\.?([\\/\\:]|$)",
+      "domainType": "thirdParty"
+    },
+    "_error": [
+      "regexFilter is not RE2-compatible: ^(?![a-zA-Z0-9\\-]+\\:\\/+([^\\/\\:\\.]+\\.)*(flowplayer|amara|h5p|d3js|ampproject|promisejs|backbonejs|angularjs|dojotoolkit|staticfile|telegram|telegram-cdn|cdn-telegram|openstreetmap|wmflabs|wikimapia|wikimedia|wikipedia|wiktionary|wikisource|wikiquote|wikibooks|wikivoyage|wikiversity|wikinews|wikidata|mediawiki|w3|schema|archive|mozilla|chromium|documentcloud|w|mathjax|pannellum|themoviedb|tmdb|muses|npr|nprapps|learningapps|weatherwidget|openweathermap|lightningmaps|gigapan|gamemonkey|opensubtitles|chess|lichess|geogebra|diasporafoundation|joinmastodon|joinpeertube|discourse|matrix|f-droid|codelutin|fosstodon|libravatar|gnu|creativecommons|eff|icann|iana|ietf|apache|opensource|iso|ntp|ipify|privacy-center|cookielaw|featuregates|featureassets|cleantalk|walletlink|walletconnect|bitcoin|ethereum|litecoin|cdn77|userway|accessibilityserver|wp-accessibility|wordpress-accessibility|widgetlogic|responsivevoice|consensu|mediamatters|ghostarchive|jotti|ap|pbs|pbskids|wnyc|500px|stepik|librivox|ghostarchive|pythonhosted|pypi|example|uploadimage|postimages|postimage|imgsafe|4chan|4channel|4cdn|olympic|wikileaks|ourworldindata|unesco|un|c-span|c-spanvideo|nobelprize|gutenberg|doi|arxiv|scirp|slashdot|google|browser-update|ipv6-il|givingtech|israeltoremet|tengav|emun|benyehuda|tami-il|kkl-jnf|jewishagency|thekotel|yadvashem|yadlabanim|mdais|shamir|hatzala|covid19maps|coronaisrael)\\.org\\.?([\\/\\:]|$))^[a-zA-Z0-9\\-]+\\:\\/+[^\\/\\:]+\\.org\\.?([\\/\\:]|$)"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 0
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "6days.walla.co.il",
+        "animals.walla.co.il",
+        "astrology.walla.co.il",
+        "b.walla.co.il",
+        "buzzit.walla.co.il",
+        "calendar.walla.co.il",
+        "cars.walla.co.il",
+        "celebs.walla.co.il",
+        "e.walla.co.il",
+        "elections.walla.co.il",
+        "euro.walla.co.il",
+        "fashion.walla.co.il",
+        "finance.walla.co.il",
+        "food.walla.co.il",
+        "forums.walla.co.il",
+        "gaming.walla.co.il",
+        "healthy.walla.co.il",
+        "home.walla.co.il",
+        "horoscope.walla.co.il",
+        "judaism.walla.co.il",
+        "kids.walla.co.il",
+        "law.walla.co.il",
+        "mag.walla.co.il",
+        "maps.walla.co.il",
+        "marketing.walla.co.il",
+        "mekomi.walla.co.il",
+        "milon.walla.co.il",
+        "movies.walla.co.il",
+        "mundial.walla.co.il",
+        "nadlan.walla.co.il",
+        "news.walla.co.il",
+        "nick.walla.co.il",
+        "olympics.walla.co.il",
+        "search.walla.co.il",
+        "sheva7.walla.co.il",
+        "sports.walla.co.il",
+        "tags.walla.co.il",
+        "tech.walla.co.il",
+        "translate.walla.co.il",
+        "travel.walla.co.il",
+        "tv-guide.walla.co.il",
+        "tv.walla.co.il",
+        "usaelections.walla.co.il",
+        "viva.walla.co.il",
+        "vod.walla.co.il",
+        "wallaplus.walla.co.il",
+        "weather.walla.co.il",
+        "www.walla.co.il"
+      ],
+      "regexFilter": "^(?![a-zA-Z0-9\\-]+\\:\\/+([^\\/\\:\\.]+\\.)*(google|gstatic|googleapis|googleoptimize|googlehosted|withgoogle|jquery|youtube|youtubekids|youtube-nocookie|ytimg|facebook|fbsbx|threads|x|twitter|twimg|instagram|cdninstagram|pinterest|pinimg|tumblr|giphy|vimeo|vimeocdn|dailymotion|flickr|staticflickr|soundcloud|sndcdn|scribd|scribdassets|tiktok|tiktokcdn|tiktokcdn-us|tiktokcdn-eu|tiktokv|ttwstatic|muscdn|ibytedtos|sharethis|addthis|addthisedge|addthiscdn|reddit|redditmedia|redditstatic|redditgifts|linkedin|licdn|fontawesome|cdnfonts|image-maps|unpkg|cdnjs|cloudflare|cloudflarestream|pacloudflare|bootstrapcdn|stackpathdns|stackpathcdn|maxcdn|maxcdn-edge|netdna-ssl|netdna-cdn|kxcdn|ssl-cdn|muicss|tinymce|createjs|github|githubusercontent|githubassets|aspnetcdn|azure|amazonaws|awswaf|elasticbeanstalk|bunnycdn|vercel-dns|vercel-dns-016|vercel-dns-017|akamai|ubncloud|digitaloceanspaces|cloudwaysapps|serverable|your-objectstorage|herokuapp|herokudns|rackcdn|raxcdn|lwcdn|vultrobjects|filestackcontent|npmcdn|netlify|wasabisys|zdassets|jwplayer|jwpcdn|jwpltx|jwpsrv|jwplatform|brightcove|brightcovecdn|flowplayer|foliovision|fluidplayer|jasperplayer|wowza|streamable|streamtheworld|mixcloud|coub|bigcommand|bandcamp|bcbits|spotify|spotifycdn|byspotify|omnystudio|omnycontent|iheart|spreaker|speakerdeck|podbean|buzzsprout|rss|simplecast|simplecastaudio|simplecastcdn|pinecast|acast|art19|redcircle|libsyn|audioboom|typlog|cdnstream1|tritondigital|podtail|podchaser|podkite|tunein|stitcher|listennotes|castos|justcast|elfsight|elfsightcdn|radiopublic|blogtalkradio|podfollow|harkaudio|changelog|smashnotes|apple|cdn-apple|applemediaservices|mzstatic|icloud|deezer|tidal|audiomack|nobexpartners|podtrac|chtbl|sermonaudio|soundhelix|audio|vocaroo|embedsocial|embedly|iframely|widgetic|commoninja|snapwidget|thinglink|infogram|highcharts|barchart|chartbrick|chartblocks|amcharts|tableau|deepnote|airtable|powerbi|powerapps|visualstudio|office|dynamics|printfriendly|algolianet|zakeke|vroptimal-3dx-assets|unrealengine|babylonjs|vectary|sketchfab|vntana|printables|imajize|cappasity|gravatar|unisvg|simplesvg|svgur|svgshare|svgrepo|vecteezy|imgur|imgflip|gifer|gfycat|otagifs|gifglobe|lottiefiles|tenor|disqus|disquscdn|disqusservice|oneall|oneallcdn|tapatalk|tapatalk-cdn|fastcomments|graphcomment|intensedebate|hyvor|vuukle|mapbox|maptiler|mapquest|arcgis|arcgisonline|esri|here|carto|cartocdn|mapy|scribblemaps|felt|hcaptcha|raincaptcha|ted|tedcdn|kickstarter|riddle|strawpoll|surveymonkey|yelp|9gag|9cache|unsplash|freepik|imageshack|pastebin|desmos|gitlab|githack|rawgit|rawgithub|ghbtns|knockoutjs|gridstackjs|ravenjs|chess|liveleak|ign|ignimgs|365scores|pressreader|calameo|3dissue|typeset|heyzine|substack|substackcdn|blogger|blogspot|blogblog|wordpress|wp|wpengine|videopress|wptavern|themeruby|livejournal|googlegroups|googlesource|googleusercontent|googlevideo|ggpht|noembed|appspot|firebaseio|firebaseapp|libring|taggbox|addtoany|addthisevent|addevent|addtocalendar|onesignal|tinypass|stripe|paddle|paypal|paypalobjects|amazon|ssl-images-amazon|media-amazon|media-imdb|imdb|a2z|ebay|ebayimg|microsoft|microsoftonline|s-microsoft|msftconnecttest|live|bing|msn|yahoo|yimg|yahooapis|yahoosandbox|duckduckgo|yandex|optimizely|hsforms|hs-scripts|optimizely|visualwebsiteoptimizer|hsforms|nitrocdn|webflow|rtlcss|tailwindcss|typography|typotheque|typenetwork|webtype|lightwidget|ezojs|mailerlite|typeform|convertbox|tiqcdn|zohopublic|zohocdn|opecloud|zapier|queryly|remixd|sparemin|auth0|windy|ventusky|theweather|weather|accuweather|theweathernetwork|wunderground|sat24|windfinder|rainviewer|uvlens|weatherapi|holfuy|surfline|travelriskmap|tripadvisor|tacdn|jscache|rumble|odysee|bitchute|truthsocial|polymarket|kalshi|twilio|gettyimages|prnewswire|rudderstack|cloudup|box|dropbox|dropboxusercontent|dropboxstatic|dropbox-dns|youbora|soundcharts|radiojar|musicradio|mytuner-radio|live365|genius|aaplimg|twitcount|flipboard|timezonedb|timeanddate|momentjs|statcounter|ko-fi|buymeacoffee|gofundme|fundraiseup|mightycause|indiegogo|patreon|onetrust|trustarc|cookiepro|cookieinfoscript|cookiebot|cookiefirst|cookiereports|cookie-script|cookieyes|cdn-cookieyes|privacy-mgmt|consentframework|ketchjs|ketchcdn|transcend-cdn|iabtechlab|variantnow|pusher|multiscreensite|ip-api|userapi|vk|flagsapi|eye-able|alchemy|instatus|intercomcdn|intercomassets|walletconnect|moonpay|liberapay|libre-entreprise|klarnaservices|afterpay|squarecdn|quizlet|proprofs|educaplay|jotform|wufoo|youform|asana|mentimeter|fillout|pollforall|polldaddy|123formbuilder|pinpoll|mixpanel|poll-maker|metabaseapp|formstack|eloqua|ipstack|hostingersite|onrender|contentstack|scene7|adobeaemcloud|adobe|adobedtm|shockwave|imagizer|website-files|investing|tradingview|tradingview-widget|cloudinary|kaltura|openweb|waze|monday|barilliance|simplerstory|summurai|speedsize|animaapp|webydo|elementor|univtec|wistia|posthog|intuit|chimpstatic|cquotient|zendesk|marketo|mktoedge|livefyre|pushwoosh|sumo|sumome|chatango|chilipiper|bytecdntp|bitly|tinyurl|radarbox|radarbox24|avionio|ipcamlive|speedtestcustom|nperf|fast|openspeedtest|framer|framerusercontent|figma|loom|miro|medium|canva|plattar|autodesk360|genially|fliphtml5|flippingbook|flipbooklets|fwdeveryone|yumpu|publuu|commaful|whimsical|everviz|vizhub|supademo|trello|replit|usehexus|stackblitz|jsitor|codeply|miniextensions|mindmeister|piktochart|excalidraw|theysaidso|nearpod|milanote|tickcounter|momindum|panopto|archilogic|showme|qualifioapp|prezi|sutori|haikudeck|relayto|mote|powtoon|alugha|animoto|descript|rumbletalk|ellie-app|grain|zight|sketch|pitch|slides|slideslive|docswell|figshare|ceros|scribehow|globo|naver|kakao|sooplive|videoask|vidmount|vdocipher|dyntube|okitube|dreambroker|storyprompt|screen9|dacast|vbox7|kinomap|voxsnap|gmetri|mpembed|360stories|f4map|matterport|blockadelabs|shapespark|seekbeak|momento360|calendly|acuityscheduling|tockify|amuselabs|zingsoft|zingchart|circuitlab|altium|wolframcloud|flocus|screenpal|screencast|jumpshare|vouchfor|usablenet|socialexplorer|trustugc|contra|weekendsuperheroes|musicboxmaniacs|songkick|bandsintown|laylo|resmio|bookingmood|booking|bstatic|shopify|shopifyapps|shopifysvc|myshopify|vidyard|q4web|q4inc|q4app|q4cdn|site|force|salesforce|salesforce-scrt|salesforceliveagent|livechatinc|virtualspirits|dfktv2|fastsimon|instantsearchplus|slickstream|exiteme|hypemarks|tintup|ogols|klaviyo|callnowbutton|config-security|signature-it|uvcdn|ultimedia|gosimian|medibang|disney|ibm|ifixit|w3schools|helpcrunch|productboard|braze|braze-images|l7cdn|icons8|iconfinder|iconarchive|iconscout|flaticon|linearicons|kindpng|pngitem|lottiefiles|gamepix|moddb|steampowered|steamstatic|steamcommunity|steamusercontent|epicgames|gog|gog-statics|ea|playstation|xbox|xboxservices|nintendo|discord|discordapp|gifyourgame|bilibili|iq|youku|sohu|163|gettr|gab|minds|mewe|parler|slideplayer|gamezhero|gameboss|addictinggames|funhtml5games|gamedistribution|monsteraplay|sportradar|enormapps|roseperl|bazaarvoice|parcelwill|oxiapps|reputon|uppromote|carthike|hextom|foursixty|seoant|rtl-master|salesdish|cdn-zeptoapps|okasconcepts|autopilotapp|appcontx|useamp|kimonix|qikify|nfcube|yotpo|ticketmaster|wallst|nasdaq|nyse|euronext|londonstockexchange|financial|xe|coinmarketcap|dogecoin|allmylinks|buzzfeed|digg|stumbleupon|mix|getpocket|firefoxusercontent|firefox|opera|chrome|android|virustotal|feedly|feedburner|wordpress|phpbb|whatsapp|snapchat|bdbphotos|thetvdb|netflix|cnet|cnevids|voanews|bbc|cnn|go|abcnews|cbsnews|nbcnews|msnbc|cnbc|nytimes|nyt|washingtonpost|thehill|inquirer|today|usatoday|bloomberg|wsj|nypost|foxnews|foxbusiness|espn|eurosport|fifa|uefa|nba|wnba|nfl|mlb|mlbstatic|nhl|nhle|hockeydb|trillertv|turner|sinclairstoryline|scrippsdigital|6abc|abc7|abc7chicago|abc7news|abc7ny|abc11|abc13|abc30|nbcbayarea|nbcboston|nbcchicago|nbcconnecticut|nbcdfw|nbclosangeles|nbcmiami|nbcnewyork|nbcphiladelphia|nbcsandiego|nbcwashington|kcentv|newscentermaine|fresnobee|rttv|rt|dw|mobygames|snopes|wikihow|fandom|quora|stackexchange|stackoverflow|wiley|nature|springernature|sciencedirect|sciencedirectassets|cell|thelancet|bmj|mixer|metacafe|mcstatic|xkcd|reactiongifs|gifbin|gif-finder|gifyu|makeagif|kym-cdn|gyazo|prntscr|tinypic|photobox|photobucket|imgbox|imagebam|deviantart|dmca|mtvnservices|cc|tmz|example|anticlickfraudsystem|wix|wixstatic|wix-code|commentsplugin|parastorage|usrfiles|bugsnag|zoro|hebcal|fontsproject|kayma|kayma-dashboards|kayma-insights|kapow-solutions|kampyle|vicomi|colbass|cincopa|avplayer|vidnt|peer5|minutemediacdn|mmvideocdn|h-cdn|bynetcdn|cdnwiz|best-tv|viewbix|streamrail|smv-cdn|cloudvideoplatform|dxmcdn|dxmdp|reblaze|rbzdns|loglig|hunchbots|sphereup|poloriz|applicaster|appsflyer|cloudwm|cloudwm-waf|negishim|accessibe|accessibeapp|acsbap|acsbapp|vollotech|mk-sense|user1st|allyable|equalweb|tabnav|usrwy|magixite|purple-lens|gigya|glassix|rabbicdn|storycards|shortaudition|flashyapp|tranzila|paymeservice|ownid|membitbot|texterchat|kal-ai|fouita|nanorep|nixale|walkme|humanz|pulseem|affiracle|vee-crm|global-e|rise-ai|conversionbear|bumpyardpro|nowdialogue|voice-able|heilasystems|hiclient|selectika|trvdp|opinionstage|segmanta|peach-in|charidy|jgive|hamonym|webiya|radware|ngsoft|bamboo-cloud|bamboo-video|eventim|coupony|activetrail|spaceil|holyclock|shomershabes|elal|zim|telaviv-marina|clear-map|playbuzz|apester|qmerce|outbrain|outbrainimg|taboola|taboolasyndication|skimresources|google-analytics|googletagservices|googletagmanager|googleadservices|googlesyndication|cloudflareinsights|viglink|parsely|sentry-cdn|getsentry|crcldu|perfdrive|chartbeat|scorecardresearch|serving-sys|exposebox|imrworldwide|hotjar|amplitude|trackjs|npaw|gnsnpaw|srcspot|pixelinf|dynamicyield|connatix|coralogix|jeeng|zoomengage|cooladata|vlitag|browsiprod|petametrics|fortvision|fortcdn|walla|nick|nickjr|teennick|magazina-il|pagewiz|pas-rahav|aniview|pubmatic|adnxs|sekindo)\\.com\\.?([\\/\\:]|$))^[a-zA-Z0-9\\-]+\\:\\/+[^\\/\\:]+\\.com\\.?([\\/\\:]|$)",
+      "domainType": "thirdParty"
+    },
+    "_error": [
+      "regexFilter is not RE2-compatible: ^(?![a-zA-Z0-9\\-]+\\:\\/+([^\\/\\:\\.]+\\.)*(google|gstatic|googleapis|googleoptimize|googlehosted|withgoogle|jquery|youtube|youtubekids|youtube-nocookie|ytimg|facebook|fbsbx|threads|x|twitter|twimg|instagram|cdninstagram|pinterest|pinimg|tumblr|giphy|vimeo|vimeocdn|dailymotion|flickr|staticflickr|soundcloud|sndcdn|scribd|scribdassets|tiktok|tiktokcdn|tiktokcdn-us|tiktokcdn-eu|tiktokv|ttwstatic|muscdn|ibytedtos|sharethis|addthis|addthisedge|addthiscdn|reddit|redditmedia|redditstatic|redditgifts|linkedin|licdn|fontawesome|cdnfonts|image-maps|unpkg|cdnjs|cloudflare|cloudflarestream|pacloudflare|bootstrapcdn|stackpathdns|stackpathcdn|maxcdn|maxcdn-edge|netdna-ssl|netdna-cdn|kxcdn|ssl-cdn|muicss|tinymce|createjs|github|githubusercontent|githubassets|aspnetcdn|azure|amazonaws|awswaf|elasticbeanstalk|bunnycdn|vercel-dns|vercel-dns-016|vercel-dns-017|akamai|ubncloud|digitaloceanspaces|cloudwaysapps|serverable|your-objectstorage|herokuapp|herokudns|rackcdn|raxcdn|lwcdn|vultrobjects|filestackcontent|npmcdn|netlify|wasabisys|zdassets|jwplayer|jwpcdn|jwpltx|jwpsrv|jwplatform|brightcove|brightcovecdn|flowplayer|foliovision|fluidplayer|jasperplayer|wowza|streamable|streamtheworld|mixcloud|coub|bigcommand|bandcamp|bcbits|spotify|spotifycdn|byspotify|omnystudio|omnycontent|iheart|spreaker|speakerdeck|podbean|buzzsprout|rss|simplecast|simplecastaudio|simplecastcdn|pinecast|acast|art19|redcircle|libsyn|audioboom|typlog|cdnstream1|tritondigital|podtail|podchaser|podkite|tunein|stitcher|listennotes|castos|justcast|elfsight|elfsightcdn|radiopublic|blogtalkradio|podfollow|harkaudio|changelog|smashnotes|apple|cdn-apple|applemediaservices|mzstatic|icloud|deezer|tidal|audiomack|nobexpartners|podtrac|chtbl|sermonaudio|soundhelix|audio|vocaroo|embedsocial|embedly|iframely|widgetic|commoninja|snapwidget|thinglink|infogram|highcharts|barchart|chartbrick|chartblocks|amcharts|tableau|deepnote|airtable|powerbi|powerapps|visualstudio|office|dynamics|printfriendly|algolianet|zakeke|vroptimal-3dx-assets|unrealengine|babylonjs|vectary|sketchfab|vntana|printables|imajize|cappasity|gravatar|unisvg|simplesvg|svgur|svgshare|svgrepo|vecteezy|imgur|imgflip|gifer|gfycat|otagifs|gifglobe|lottiefiles|tenor|disqus|disquscdn|disqusservice|oneall|oneallcdn|tapatalk|tapatalk-cdn|fastcomments|graphcomment|intensedebate|hyvor|vuukle|mapbox|maptiler|mapquest|arcgis|arcgisonline|esri|here|carto|cartocdn|mapy|scribblemaps|felt|hcaptcha|raincaptcha|ted|tedcdn|kickstarter|riddle|strawpoll|surveymonkey|yelp|9gag|9cache|unsplash|freepik|imageshack|pastebin|desmos|gitlab|githack|rawgit|rawgithub|ghbtns|knockoutjs|gridstackjs|ravenjs|chess|liveleak|ign|ignimgs|365scores|pressreader|calameo|3dissue|typeset|heyzine|substack|substackcdn|blogger|blogspot|blogblog|wordpress|wp|wpengine|videopress|wptavern|themeruby|livejournal|googlegroups|googlesource|googleusercontent|googlevideo|ggpht|noembed|appspot|firebaseio|firebaseapp|libring|taggbox|addtoany|addthisevent|addevent|addtocalendar|onesignal|tinypass|stripe|paddle|paypal|paypalobjects|amazon|ssl-images-amazon|media-amazon|media-imdb|imdb|a2z|ebay|ebayimg|microsoft|microsoftonline|s-microsoft|msftconnecttest|live|bing|msn|yahoo|yimg|yahooapis|yahoosandbox|duckduckgo|yandex|optimizely|hsforms|hs-scripts|optimizely|visualwebsiteoptimizer|hsforms|nitrocdn|webflow|rtlcss|tailwindcss|typography|typotheque|typenetwork|webtype|lightwidget|ezojs|mailerlite|typeform|convertbox|tiqcdn|zohopublic|zohocdn|opecloud|zapier|queryly|remixd|sparemin|auth0|windy|ventusky|theweather|weather|accuweather|theweathernetwork|wunderground|sat24|windfinder|rainviewer|uvlens|weatherapi|holfuy|surfline|travelriskmap|tripadvisor|tacdn|jscache|rumble|odysee|bitchute|truthsocial|polymarket|kalshi|twilio|gettyimages|prnewswire|rudderstack|cloudup|box|dropbox|dropboxusercontent|dropboxstatic|dropbox-dns|youbora|soundcharts|radiojar|musicradio|mytuner-radio|live365|genius|aaplimg|twitcount|flipboard|timezonedb|timeanddate|momentjs|statcounter|ko-fi|buymeacoffee|gofundme|fundraiseup|mightycause|indiegogo|patreon|onetrust|trustarc|cookiepro|cookieinfoscript|cookiebot|cookiefirst|cookiereports|cookie-script|cookieyes|cdn-cookieyes|privacy-mgmt|consentframework|ketchjs|ketchcdn|transcend-cdn|iabtechlab|variantnow|pusher|multiscreensite|ip-api|userapi|vk|flagsapi|eye-able|alchemy|instatus|intercomcdn|intercomassets|walletconnect|moonpay|liberapay|libre-entreprise|klarnaservices|afterpay|squarecdn|quizlet|proprofs|educaplay|jotform|wufoo|youform|asana|mentimeter|fillout|pollforall|polldaddy|123formbuilder|pinpoll|mixpanel|poll-maker|metabaseapp|formstack|eloqua|ipstack|hostingersite|onrender|contentstack|scene7|adobeaemcloud|adobe|adobedtm|shockwave|imagizer|website-files|investing|tradingview|tradingview-widget|cloudinary|kaltura|openweb|waze|monday|barilliance|simplerstory|summurai|speedsize|animaapp|webydo|elementor|univtec|wistia|posthog|intuit|chimpstatic|cquotient|zendesk|marketo|mktoedge|livefyre|pushwoosh|sumo|sumome|chatango|chilipiper|bytecdntp|bitly|tinyurl|radarbox|radarbox24|avionio|ipcamlive|speedtestcustom|nperf|fast|openspeedtest|framer|framerusercontent|figma|loom|miro|medium|canva|plattar|autodesk360|genially|fliphtml5|flippingbook|flipbooklets|fwdeveryone|yumpu|publuu|commaful|whimsical|everviz|vizhub|supademo|trello|replit|usehexus|stackblitz|jsitor|codeply|miniextensions|mindmeister|piktochart|excalidraw|theysaidso|nearpod|milanote|tickcounter|momindum|panopto|archilogic|showme|qualifioapp|prezi|sutori|haikudeck|relayto|mote|powtoon|alugha|animoto|descript|rumbletalk|ellie-app|grain|zight|sketch|pitch|slides|slideslive|docswell|figshare|ceros|scribehow|globo|naver|kakao|sooplive|videoask|vidmount|vdocipher|dyntube|okitube|dreambroker|storyprompt|screen9|dacast|vbox7|kinomap|voxsnap|gmetri|mpembed|360stories|f4map|matterport|blockadelabs|shapespark|seekbeak|momento360|calendly|acuityscheduling|tockify|amuselabs|zingsoft|zingchart|circuitlab|altium|wolframcloud|flocus|screenpal|screencast|jumpshare|vouchfor|usablenet|socialexplorer|trustugc|contra|weekendsuperheroes|musicboxmaniacs|songkick|bandsintown|laylo|resmio|bookingmood|booking|bstatic|shopify|shopifyapps|shopifysvc|myshopify|vidyard|q4web|q4inc|q4app|q4cdn|site|force|salesforce|salesforce-scrt|salesforceliveagent|livechatinc|virtualspirits|dfktv2|fastsimon|instantsearchplus|slickstream|exiteme|hypemarks|tintup|ogols|klaviyo|callnowbutton|config-security|signature-it|uvcdn|ultimedia|gosimian|medibang|disney|ibm|ifixit|w3schools|helpcrunch|productboard|braze|braze-images|l7cdn|icons8|iconfinder|iconarchive|iconscout|flaticon|linearicons|kindpng|pngitem|lottiefiles|gamepix|moddb|steampowered|steamstatic|steamcommunity|steamusercontent|epicgames|gog|gog-statics|ea|playstation|xbox|xboxservices|nintendo|discord|discordapp|gifyourgame|bilibili|iq|youku|sohu|163|gettr|gab|minds|mewe|parler|slideplayer|gamezhero|gameboss|addictinggames|funhtml5games|gamedistribution|monsteraplay|sportradar|enormapps|roseperl|bazaarvoice|parcelwill|oxiapps|reputon|uppromote|carthike|hextom|foursixty|seoant|rtl-master|salesdish|cdn-zeptoapps|okasconcepts|autopilotapp|appcontx|useamp|kimonix|qikify|nfcube|yotpo|ticketmaster|wallst|nasdaq|nyse|euronext|londonstockexchange|financial|xe|coinmarketcap|dogecoin|allmylinks|buzzfeed|digg|stumbleupon|mix|getpocket|firefoxusercontent|firefox|opera|chrome|android|virustotal|feedly|feedburner|wordpress|phpbb|whatsapp|snapchat|bdbphotos|thetvdb|netflix|cnet|cnevids|voanews|bbc|cnn|go|abcnews|cbsnews|nbcnews|msnbc|cnbc|nytimes|nyt|washingtonpost|thehill|inquirer|today|usatoday|bloomberg|wsj|nypost|foxnews|foxbusiness|espn|eurosport|fifa|uefa|nba|wnba|nfl|mlb|mlbstatic|nhl|nhle|hockeydb|trillertv|turner|sinclairstoryline|scrippsdigital|6abc|abc7|abc7chicago|abc7news|abc7ny|abc11|abc13|abc30|nbcbayarea|nbcboston|nbcchicago|nbcconnecticut|nbcdfw|nbclosangeles|nbcmiami|nbcnewyork|nbcphiladelphia|nbcsandiego|nbcwashington|kcentv|newscentermaine|fresnobee|rttv|rt|dw|mobygames|snopes|wikihow|fandom|quora|stackexchange|stackoverflow|wiley|nature|springernature|sciencedirect|sciencedirectassets|cell|thelancet|bmj|mixer|metacafe|mcstatic|xkcd|reactiongifs|gifbin|gif-finder|gifyu|makeagif|kym-cdn|gyazo|prntscr|tinypic|photobox|photobucket|imgbox|imagebam|deviantart|dmca|mtvnservices|cc|tmz|example|anticlickfraudsystem|wix|wixstatic|wix-code|commentsplugin|parastorage|usrfiles|bugsnag|zoro|hebcal|fontsproject|kayma|kayma-dashboards|kayma-insights|kapow-solutions|kampyle|vicomi|colbass|cincopa|avplayer|vidnt|peer5|minutemediacdn|mmvideocdn|h-cdn|bynetcdn|cdnwiz|best-tv|viewbix|streamrail|smv-cdn|cloudvideoplatform|dxmcdn|dxmdp|reblaze|rbzdns|loglig|hunchbots|sphereup|poloriz|applicaster|appsflyer|cloudwm|cloudwm-waf|negishim|accessibe|accessibeapp|acsbap|acsbapp|vollotech|mk-sense|user1st|allyable|equalweb|tabnav|usrwy|magixite|purple-lens|gigya|glassix|rabbicdn|storycards|shortaudition|flashyapp|tranzila|paymeservice|ownid|membitbot|texterchat|kal-ai|fouita|nanorep|nixale|walkme|humanz|pulseem|affiracle|vee-crm|global-e|rise-ai|conversionbear|bumpyardpro|nowdialogue|voice-able|heilasystems|hiclient|selectika|trvdp|opinionstage|segmanta|peach-in|charidy|jgive|hamonym|webiya|radware|ngsoft|bamboo-cloud|bamboo-video|eventim|coupony|activetrail|spaceil|holyclock|shomershabes|elal|zim|telaviv-marina|clear-map|playbuzz|apester|qmerce|outbrain|outbrainimg|taboola|taboolasyndication|skimresources|google-analytics|googletagservices|googletagmanager|googleadservices|googlesyndication|cloudflareinsights|viglink|parsely|sentry-cdn|getsentry|crcldu|perfdrive|chartbeat|scorecardresearch|serving-sys|exposebox|imrworldwide|hotjar|amplitude|trackjs|npaw|gnsnpaw|srcspot|pixelinf|dynamicyield|connatix|coralogix|jeeng|zoomengage|cooladata|vlitag|browsiprod|petametrics|fortvision|fortcdn|walla|nick|nickjr|teennick|magazina-il|pagewiz|pas-rahav|aniview|pubmatic|adnxs|sekindo)\\.com\\.?([\\/\\:]|$))^[a-zA-Z0-9\\-]+\\:\\/+[^\\/\\:]+\\.com\\.?([\\/\\:]|$)"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 0
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "artipbox.net",
+        "cooladata.com",
+        "firebaseio.com"
+      ],
+      "initiatorDomains": [
+        "walla.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 102
+  },
+  {
+    "condition": {
+      "urlFilter": "||trace.events^",
+      "initiatorDomains": [
+        "ynet.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 103
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "activetrail.com",
+        "adoric-ads.com",
+        "analytics.edgesuite.net",
+        "netdna-ssl.com"
+      ],
+      "initiatorDomains": [
+        "mako.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 104
+  },
+  {
+    "condition": {
+      "urlFilter": "||viewbix.com^",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 105
+  },
+  {
+    "condition": {
+      "urlFilter": "||shopupz.com^",
+      "initiatorDomains": [
+        "sport5.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 106
+  },
+  {
+    "condition": {
+      "urlFilter": "||ban.d-group.co.il/banners/",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 107
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "netform.co.il",
+        "virtualspirits.com",
+        "whats-new.co.il"
+      ],
+      "initiatorDomains": [
+        "0-15.co.il",
+        "2b-bari.co.il",
+        "50plus.co.il",
+        "abortion.org.il",
+        "acnecenter.co.il",
+        "add-syndrome.co.il",
+        "allergy.org.il",
+        "alzheimer.co.il",
+        "asthma.org.il",
+        "autism.org.il",
+        "bariatric.org.il",
+        "blinds.org.il",
+        "blood.co.il",
+        "burn.org.il",
+        "candidafree.co.il",
+        "cfs.org.il",
+        "cholesterol.org.il",
+        "cold.co.il",
+        "commitment.org.il",
+        "degeneration.co.il",
+        "dementia.co.il",
+        "dermatology.co.il",
+        "dialysis.org.il",
+        "ear.org.il",
+        "east-west.co.il",
+        "emun.org.il",
+        "ent.org.il",
+        "feeling.co.il",
+        "fms.org.il",
+        "gastro-israel.org.il",
+        "genes.co.il",
+        "human.co.il",
+        "hyperhidrosis.org.il",
+        "iaawh.co.il",
+        "ibd.org.il",
+        "ifeel.co.il",
+        "ilsi.org.il",
+        "immunology.org.il",
+        "implants.org.il",
+        "ioh.org.il",
+        "isala.org.il",
+        "le-la.co.il",
+        "linshom.org.il",
+        "lung.org.il",
+        "lupus.org.il",
+        "maane.co.il",
+        "matnachim.co.il",
+        "matnachim.org.il",
+        "medicalcannabis.co.il",
+        "mifrakim.co.il",
+        "my-rights.org.il",
+        "myeyes.co.il",
+        "myhealth.co.il",
+        "myheart.co.il",
+        "myrights.co.il",
+        "nashy.co.il",
+        "neurology.org.il",
+        "noga.org.il",
+        "obesity.org.il",
+        "oncology.org.il",
+        "pain.org.il",
+        "parkinsons.org.il",
+        "pediatrics.co.il",
+        "pigur.co.il",
+        "pso.org.il",
+        "psychiatrist.org.il",
+        "psychiatry.org.il",
+        "stdinfo.co.il",
+        "stroke.org.il",
+        "takana.co.il",
+        "tevalife.co.il",
+        "urinary.co.il",
+        "urine.org.il",
+        "voices.co.il",
+        "womenonly.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 108
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "6days.walla.co.il",
+        "animals.walla.co.il",
+        "astrology.walla.co.il",
+        "b.walla.co.il",
+        "buzzit.walla.co.il",
+        "calendar.walla.co.il",
+        "cars.walla.co.il",
+        "celebs.walla.co.il",
+        "e.walla.co.il",
+        "elections.walla.co.il",
+        "euro.walla.co.il",
+        "fashion.walla.co.il",
+        "finance.walla.co.il",
+        "food.walla.co.il",
+        "forums.walla.co.il",
+        "fun.walla.co.il",
+        "gaming.walla.co.il",
+        "healthy.walla.co.il",
+        "home.walla.co.il",
+        "horoscope.walla.co.il",
+        "judaism.walla.co.il",
+        "kids.walla.co.il",
+        "law.walla.co.il",
+        "mag.walla.co.il",
+        "maps.walla.co.il",
+        "marketing.walla.co.il",
+        "mekomi.walla.co.il",
+        "milon.walla.co.il",
+        "movies.walla.co.il",
+        "mundial.walla.co.il",
+        "nadlan.walla.co.il",
+        "news.walla.co.il",
+        "nick.walla.co.il",
+        "olympics.walla.co.il",
+        "play.walla.co.il",
+        "search.walla.co.il",
+        "sheva7.walla.co.il",
+        "sports.walla.co.il",
+        "tags.walla.co.il",
+        "tech.walla.co.il",
+        "translate.walla.co.il",
+        "travel.walla.co.il",
+        "tv-guide.walla.co.il",
+        "tv.walla.co.il",
+        "usaelections.walla.co.il",
+        "viva.walla.co.il",
+        "vod.walla.co.il",
+        "wallaplus.walla.co.il",
+        "weather.walla.co.il",
+        "www.walla.co.il"
+      ],
+      "regexFilter": "^(?![a-zA-Z0-9\\-]+:\\/+www\\.(walla(news|shops|tours|art|print)|hamal|sheee)\\.co\\.il\\.?(\\/|:|$))^[a-zA-Z0-9\\-]+:\\/+([a-zA-Z0-9\\-]+\\.)+(walla(news|shops|tours|art|print)|hamal|sheee)\\.co\\.il\\.?(\\/|:|$)",
+      "domainType": "thirdParty"
+    },
+    "_error": [
+      "regexFilter is not RE2-compatible: ^(?![a-zA-Z0-9\\-]+:\\/+www\\.(walla(news|shops|tours|art|print)|hamal|sheee)\\.co\\.il\\.?(\\/|:|$))^[a-zA-Z0-9\\-]+:\\/+([a-zA-Z0-9\\-]+\\.)+(walla(news|shops|tours|art|print)|hamal|sheee)\\.co\\.il\\.?(\\/|:|$)"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 0
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "www.sheee.co.il"
+      ],
+      "regexFilter": "^(?![a-zA-Z0-9\\-]+:\\/+(www\\.(walla(news|shops|tours|art|print)|hamal)|(api-mail|dal|dcx|isc|iscwne|walla-api|www)\\.walla)\\.co\\.il\\.?(\\/|:|$))^[a-zA-Z0-9\\-]+:\\/+([a-zA-Z0-9\\-]+\\.)+(walla(news|shops|tours|art|print)?|hamal)\\.co\\.il\\.?(\\/|:|$)",
+      "domainType": "thirdParty"
+    },
+    "_error": [
+      "regexFilter is not RE2-compatible: ^(?![a-zA-Z0-9\\-]+:\\/+(www\\.(walla(news|shops|tours|art|print)|hamal)|(api-mail|dal|dcx|isc|iscwne|walla-api|www)\\.walla)\\.co\\.il\\.?(\\/|:|$))^[a-zA-Z0-9\\-]+:\\/+([a-zA-Z0-9\\-]+\\.)+(walla(news|shops|tours|art|print)?|hamal)\\.co\\.il\\.?(\\/|:|$)"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 0
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "6days.walla.co.il",
+        "animals.walla.co.il",
+        "astrology.walla.co.il",
+        "b.walla.co.il",
+        "buzzit.walla.co.il",
+        "calendar.walla.co.il",
+        "cars.walla.co.il",
+        "celebs.walla.co.il",
+        "e.walla.co.il",
+        "elections.walla.co.il",
+        "euro.walla.co.il",
+        "fashion.walla.co.il",
+        "finance.walla.co.il",
+        "food.walla.co.il",
+        "forums.walla.co.il",
+        "gaming.walla.co.il",
+        "healthy.walla.co.il",
+        "home.walla.co.il",
+        "horoscope.walla.co.il",
+        "judaism.walla.co.il",
+        "kids.walla.co.il",
+        "law.walla.co.il",
+        "mag.walla.co.il",
+        "maps.walla.co.il",
+        "marketing.walla.co.il",
+        "mekomi.walla.co.il",
+        "milon.walla.co.il",
+        "movies.walla.co.il",
+        "mundial.walla.co.il",
+        "nadlan.walla.co.il",
+        "news.walla.co.il",
+        "nick.walla.co.il",
+        "olympics.walla.co.il",
+        "search.walla.co.il",
+        "sheva7.walla.co.il",
+        "sports.walla.co.il",
+        "tags.walla.co.il",
+        "tech.walla.co.il",
+        "translate.walla.co.il",
+        "travel.walla.co.il",
+        "tv-guide.walla.co.il",
+        "tv.walla.co.il",
+        "usaelections.walla.co.il",
+        "viva.walla.co.il",
+        "vod.walla.co.il",
+        "wallaplus.walla.co.il",
+        "weather.walla.co.il",
+        "www.walla.co.il"
+      ],
+      "regexFilter": "^(?![a-zA-Z0-9\\-]+\\:\\/+([^\\/\\:\\.]+\\.)*(1\\.1\\.1\\.1)\\.?([\\/\\:]|$))^[a-zA-Z0-9\\-]+\\:\\/+[0-9\\.]+([\\/\\:]|$)",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "_error": [
+      "regexFilter is not RE2-compatible: ^(?![a-zA-Z0-9\\-]+\\:\\/+([^\\/\\:\\.]+\\.)*(1\\.1\\.1\\.1)\\.?([\\/\\:]|$))^[a-zA-Z0-9\\-]+\\:\\/+[0-9\\.]+([\\/\\:]|$)"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 0
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "6days.walla.co.il",
+        "animals.walla.co.il",
+        "astrology.walla.co.il",
+        "b.walla.co.il",
+        "buzzit.walla.co.il",
+        "calendar.walla.co.il",
+        "cars.walla.co.il",
+        "celebs.walla.co.il",
+        "e.walla.co.il",
+        "elections.walla.co.il",
+        "euro.walla.co.il",
+        "fashion.walla.co.il",
+        "finance.walla.co.il",
+        "food.walla.co.il",
+        "forums.walla.co.il",
+        "gaming.walla.co.il",
+        "healthy.walla.co.il",
+        "home.walla.co.il",
+        "horoscope.walla.co.il",
+        "judaism.walla.co.il",
+        "kids.walla.co.il",
+        "law.walla.co.il",
+        "mag.walla.co.il",
+        "maps.walla.co.il",
+        "marketing.walla.co.il",
+        "mekomi.walla.co.il",
+        "milon.walla.co.il",
+        "movies.walla.co.il",
+        "mundial.walla.co.il",
+        "nadlan.walla.co.il",
+        "news.walla.co.il",
+        "nick.walla.co.il",
+        "olympics.walla.co.il",
+        "search.walla.co.il",
+        "sheva7.walla.co.il",
+        "sports.walla.co.il",
+        "tags.walla.co.il",
+        "tech.walla.co.il",
+        "translate.walla.co.il",
+        "travel.walla.co.il",
+        "tv-guide.walla.co.il",
+        "tv.walla.co.il",
+        "usaelections.walla.co.il",
+        "viva.walla.co.il",
+        "vod.walla.co.il",
+        "wallaplus.walla.co.il",
+        "weather.walla.co.il",
+        "www.walla.co.il"
+      ],
+      "regexFilter": "^(?![a-zA-Z0-9\\-]+\\:\\/+([^\\/\\:\\.]+\\.)*(1\\.1\\.1\\.1)\\.?([\\/\\:]|$))^[a-zA-Z0-9\\-]+\\:\\/+[0-9\\.]+([\\/\\:]|$)",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_error": [
+      "regexFilter is not RE2-compatible: ^(?![a-zA-Z0-9\\-]+\\:\\/+([^\\/\\:\\.]+\\.)*(1\\.1\\.1\\.1)\\.?([\\/\\:]|$))^[a-zA-Z0-9\\-]+\\:\\/+[0-9\\.]+([\\/\\:]|$)"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 0
+  },
+  {
+    "condition": {
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "image"
+      ],
+      "urlFilter": "||takana.co.il^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 109
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "6days.walla.co.il",
+        "animals.walla.co.il",
+        "astrology.walla.co.il",
+        "b.walla.co.il",
+        "buzzit.walla.co.il",
+        "calendar.walla.co.il",
+        "cars.walla.co.il",
+        "celebs.walla.co.il",
+        "e.walla.co.il",
+        "elections.walla.co.il",
+        "euro.walla.co.il",
+        "fashion.walla.co.il",
+        "finance.walla.co.il",
+        "food.walla.co.il",
+        "forums.walla.co.il",
+        "gaming.walla.co.il",
+        "healthy.walla.co.il",
+        "home.walla.co.il",
+        "horoscope.walla.co.il",
+        "judaism.walla.co.il",
+        "kids.walla.co.il",
+        "law.walla.co.il",
+        "mag.walla.co.il",
+        "maps.walla.co.il",
+        "marketing.walla.co.il",
+        "mekomi.walla.co.il",
+        "milon.walla.co.il",
+        "movies.walla.co.il",
+        "mundial.walla.co.il",
+        "nadlan.walla.co.il",
+        "news.walla.co.il",
+        "nick.walla.co.il",
+        "olympics.walla.co.il",
+        "search.walla.co.il",
+        "sheva7.walla.co.il",
+        "sports.walla.co.il",
+        "tags.walla.co.il",
+        "tech.walla.co.il",
+        "translate.walla.co.il",
+        "travel.walla.co.il",
+        "tv-guide.walla.co.il",
+        "tv.walla.co.il",
+        "usaelections.walla.co.il",
+        "viva.walla.co.il",
+        "vod.walla.co.il",
+        "wallaplus.walla.co.il",
+        "weather.walla.co.il",
+        "www.walla.co.il"
+      ],
+      "regexFilter": "^(?![a-zA-Z0-9\\-]+\\:\\/+([^\\/\\:\\.]+\\.)*(1\\.1\\.1\\.1)\\.?([\\/\\:]|$))^[a-zA-Z0-9\\-]+\\:\\/+[0-9\\.]+([\\/\\:]|$)",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_error": [
+      "regexFilter is not RE2-compatible: ^(?![a-zA-Z0-9\\-]+\\:\\/+([^\\/\\:\\.]+\\.)*(1\\.1\\.1\\.1)\\.?([\\/\\:]|$))^[a-zA-Z0-9\\-]+\\:\\/+[0-9\\.]+([\\/\\:]|$)"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 0
+  },
+  {
+    "condition": {
+      "regexFilter": "(\\/|\\.)[a-fA-F0-9]{32}\\.com\\.?([\\/\\:]|$)",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "media",
+        "script",
+        "sub_frame",
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 110
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "6days.walla.co.il",
+        "animals.walla.co.il",
+        "astrology.walla.co.il",
+        "b.walla.co.il",
+        "buzzit.walla.co.il",
+        "calendar.walla.co.il",
+        "cars.walla.co.il",
+        "celebs.walla.co.il",
+        "e.walla.co.il",
+        "elections.walla.co.il",
+        "euro.walla.co.il",
+        "fashion.walla.co.il",
+        "finance.walla.co.il",
+        "food.walla.co.il",
+        "forums.walla.co.il",
+        "gaming.walla.co.il",
+        "healthy.walla.co.il",
+        "home.walla.co.il",
+        "horoscope.walla.co.il",
+        "judaism.walla.co.il",
+        "kids.walla.co.il",
+        "law.walla.co.il",
+        "mag.walla.co.il",
+        "maps.walla.co.il",
+        "marketing.walla.co.il",
+        "mekomi.walla.co.il",
+        "milon.walla.co.il",
+        "movies.walla.co.il",
+        "mundial.walla.co.il",
+        "nadlan.walla.co.il",
+        "news.walla.co.il",
+        "nick.walla.co.il",
+        "olympics.walla.co.il",
+        "search.walla.co.il",
+        "sheva7.walla.co.il",
+        "sports.walla.co.il",
+        "tags.walla.co.il",
+        "tech.walla.co.il",
+        "translate.walla.co.il",
+        "travel.walla.co.il",
+        "tv-guide.walla.co.il",
+        "tv.walla.co.il",
+        "usaelections.walla.co.il",
+        "viva.walla.co.il",
+        "vod.walla.co.il",
+        "wallaplus.walla.co.il",
+        "weather.walla.co.il",
+        "www.walla.co.il"
+      ],
+      "regexFilter": "^(?![a-zA-Z0-9\\-]+\\:\\/+([^\\/\\:\\.]+\\.)*(1\\.1\\.1\\.1)\\.?([\\/\\:]|$))^[a-zA-Z0-9\\-]+\\:\\/+[0-9\\.]+([\\/\\:]|$)",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_error": [
+      "regexFilter is not RE2-compatible: ^(?![a-zA-Z0-9\\-]+\\:\\/+([^\\/\\:\\.]+\\.)*(1\\.1\\.1\\.1)\\.?([\\/\\:]|$))^[a-zA-Z0-9\\-]+\\:\\/+[0-9\\.]+([\\/\\:]|$)"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 0
+  },
+  {
+    "condition": {
+      "urlFilter": "||widget.walla.co.il/wallaplayer",
+      "initiatorDomains": [
+        "fxp.co.il"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 111
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "6days.walla.co.il",
+        "animals.walla.co.il",
+        "astrology.walla.co.il",
+        "b.walla.co.il",
+        "buzzit.walla.co.il",
+        "calendar.walla.co.il",
+        "cars.walla.co.il",
+        "celebs.walla.co.il",
+        "e.walla.co.il",
+        "elections.walla.co.il",
+        "euro.walla.co.il",
+        "fashion.walla.co.il",
+        "finance.walla.co.il",
+        "food.walla.co.il",
+        "forums.walla.co.il",
+        "gaming.walla.co.il",
+        "healthy.walla.co.il",
+        "home.walla.co.il",
+        "horoscope.walla.co.il",
+        "judaism.walla.co.il",
+        "kids.walla.co.il",
+        "law.walla.co.il",
+        "mag.walla.co.il",
+        "maps.walla.co.il",
+        "marketing.walla.co.il",
+        "mekomi.walla.co.il",
+        "milon.walla.co.il",
+        "movies.walla.co.il",
+        "mundial.walla.co.il",
+        "nadlan.walla.co.il",
+        "news.walla.co.il",
+        "nick.walla.co.il",
+        "olympics.walla.co.il",
+        "search.walla.co.il",
+        "sheva7.walla.co.il",
+        "sports.walla.co.il",
+        "tags.walla.co.il",
+        "tech.walla.co.il",
+        "translate.walla.co.il",
+        "travel.walla.co.il",
+        "tv-guide.walla.co.il",
+        "tv.walla.co.il",
+        "usaelections.walla.co.il",
+        "viva.walla.co.il",
+        "vod.walla.co.il",
+        "wallaplus.walla.co.il",
+        "weather.walla.co.il",
+        "www.walla.co.il"
+      ],
+      "regexFilter": "^(?![a-zA-Z0-9\\-]+\\:\\/+([^\\/\\:\\.]+\\.)*(1\\.1\\.1\\.1)\\.?([\\/\\:]|$))^[a-zA-Z0-9\\-]+\\:\\/+[0-9\\.]+([\\/\\:]|$)",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_error": [
+      "regexFilter is not RE2-compatible: ^(?![a-zA-Z0-9\\-]+\\:\\/+([^\\/\\:\\.]+\\.)*(1\\.1\\.1\\.1)\\.?([\\/\\:]|$))^[a-zA-Z0-9\\-]+\\:\\/+[0-9\\.]+([\\/\\:]|$)"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 0
+  },
+  {
+    "condition": {
+      "urlFilter": "||campaign.*.co.il^",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 112
+  },
+  {
+    "condition": {
+      "urlFilter": "||campaigns.*.co.il^",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 113
+  },
+  {
+    "condition": {
+      "urlFilter": "||dcampaigns.*.co.il^",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 114
+  },
+  {
+    "condition": {
+      "urlFilter": "||hadartal.com/slim/*?ref=",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 115
+  },
+  {
+    "condition": {
+      "urlFilter": "||zbeng.co.il/landing",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 116
+  },
+  {
+    "condition": {
+      "urlFilter": ".php?d=",
+      "initiatorDomains": [
+        "walla.co.il"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 117
+  },
+  {
+    "condition": {
+      "urlFilter": ".php?dst=",
+      "initiatorDomains": [
+        "walla.co.il"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 118
+  },
+  {
+    "condition": {
+      "urlFilter": ".php?url=",
+      "initiatorDomains": [
+        "walla.co.il"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 119
+  },
+  {
+    "condition": {
+      "urlFilter": "||doubleclick.net^",
+      "initiatorDomains": [
+        "mako.co.il"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 120
+  },
+  {
+    "condition": {
+      "urlFilter": "||leads.tips^",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 121
+  },
+  {
+    "condition": {
+      "urlFilter": "&type=pop|",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 122
+  },
+  {
+    "condition": {
+      "urlFilter": "&utm_campaign=",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 123
+  },
+  {
+    "condition": {
+      "urlFilter": "&utm_content=popup&",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 124
+  },
+  {
+    "condition": {
+      "urlFilter": "&utm_medium=banner&",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 125
+  },
+  {
+    "condition": {
+      "urlFilter": "/campaigns.",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 126
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "urlFilter": "/landpage.*?utm_",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 127
+  },
+  {
+    "condition": {
+      "urlFilter": "/leads.",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 128
+  },
+  {
+    "condition": {
+      "urlFilter": "/leads/",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 129
+  },
+  {
+    "condition": {
+      "urlFilter": "?ref=",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 130
+  },
+  {
+    "condition": {
+      "urlFilter": "?utm_source=banner&",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 131
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "isramedia.net"
+      ],
+      "urlFilter": "||rover.ebay.com/rover/*&campid=",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 132
+  },
+  {
+    "condition": {
+      "urlFilter": "||advsnx.net^",
+      "initiatorDomains": [
+        "0404.co.il",
+        "13news.co.il",
+        "13tv.co.il",
+        "calcalist.co.il",
+        "globes.co.il",
+        "inn.co.il",
+        "mako.co.il",
+        "tapuz.co.il",
+        "walla.co.il"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 133
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "1kdailyprofit.co",
+        "213.8.137.51",
+        "3dfuckdoll.com",
+        "activated.digital",
+        "adland.co.il",
+        "adson.biz",
+        "adsturn.com",
+        "adventuredigital.co.il",
+        "afaktrio.com",
+        "anetkin.biz",
+        "anetkin.co.il",
+        "anetkin.org",
+        "asakimerp.co.il",
+        "ashleymadison.com",
+        "ashleyrnadison.com",
+        "azadv.co.il",
+        "best-offers.co.il",
+        "big-shot.co.il",
+        "blanco-adv.co.il",
+        "bogdot.co.il",
+        "browsergames2018.com",
+        "cglms.com",
+        "clickon.co.il",
+        "clmbtrk.com",
+        "com-cloud.co",
+        "date-il.com",
+        "dateszone.net",
+        "eb.anastasiadate.com",
+        "etrader.co.il",
+        "fbookisrael.com",
+        "fcukgirls.net",
+        "findyourlovemate.com",
+        "freehookup.link",
+        "gilorly.leadpages.co",
+        "gim.co.il",
+        "gin.co.il",
+        "gitam.co.il",
+        "gnsdigital.co.il",
+        "hekeroyot.com",
+        "hookupsonline.com",
+        "hotdate.co.il",
+        "ihct.mx",
+        "imitrk.com",
+        "ineed2fuck.com",
+        "landing-page.mobi",
+        "lastpage.pw",
+        "layer.co.il",
+        "like-it.co.il",
+        "losittooday.info",
+        "makelove.co.il",
+        "mashrokit.info",
+        "medical-rights.co.il",
+        "meet-nowhere12.com",
+        "mini-sites.net",
+        "mitbahon.co.il",
+        "namesakeoscilloscopemarquis.com",
+        "oceanmedia.co.il",
+        "offers-land.com",
+        "ok-server.co.il",
+        "online-offer.co.il",
+        "onlineproxyfree.com",
+        "only2date.com",
+        "osef.co.il",
+        "padv.co.il",
+        "perfectpro.co.il",
+        "pigment-adv.co.il",
+        "pisrael.com",
+        "premium-offers.space",
+        "quick-date.xyz",
+        "rateonclick.com",
+        "reimageplus.com",
+        "sekindo.com",
+        "sex-party.co.il",
+        "sexdating123.com",
+        "streamin.to",
+        "tld.walla.co.il",
+        "tracknotify.com",
+        "trustmedia.co.il",
+        "unbouncepages.com",
+        "webteam.co.il",
+        "wee.co.il",
+        "wesell.co.il",
+        "winnerspinz.com",
+        "yazizim.com"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 134
+  },
+  {
+    "condition": {
+      "urlFilter": "||akamai.advsnx.net/cdn/",
+      "initiatorDomains": [
+        "kikar.co.il"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 135
+  },
+  {
+    "condition": {
+      "urlFilter": "||akamai.advsnx.net/cdn/walla/"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 136
+  },
+  {
+    "condition": {
+      "urlFilter": "||akamai.advsnx.net/crossdomain.xml",
+      "initiatorDomains": [
+        "one.co.il",
+        "walla.co.il"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 137
+  },
+  {
+    "condition": {
+      "urlFilter": "||bipbip.co.il/style/ads.css"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 138
+  },
+  {
+    "condition": {
+      "urlFilter": "||clalit.co.il/adimages"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 139
+  },
+  {
+    "condition": {
+      "urlFilter": "||globes.co.il/js/ads.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 140
+  },
+  {
+    "condition": {
+      "urlFilter": "||globes.co.il/news/inc/banners/show_ads.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 141
+  },
+  {
+    "condition": {
+      "urlFilter": "||googletagservices.com/tag/js/gpt.js",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il",
+        "nifgashim.net"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 142
+  },
+  {
+    "condition": {
+      "urlFilter": "||gplanet.co.il/js/adx.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 143
+  },
+  {
+    "condition": {
+      "urlFilter": "||holmesplace.co.il/sites/all/modules",
+      "initiatorDomains": [
+        "holmesplace.co.il"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 144
+  },
+  {
+    "condition": {
+      "urlFilter": "||kikar.co.il/js/ads.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 145
+  },
+  {
+    "condition": {
+      "urlFilter": "||lamehadrin.co.il/_layouts/shufersal.yesh/scripts/gtm.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 146
+  },
+  {
+    "condition": {
+      "urlFilter": "||lb.advsnx.net/adserver/?zoneid=",
+      "initiatorDomains": [
+        "mako.co.il"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 147
+  },
+  {
+    "condition": {
+      "urlFilter": "||lb.advsnx.net/as",
+      "initiatorDomains": [
+        "mako.co.il"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 148
+  },
+  {
+    "condition": {
+      "urlFilter": "||lb.advsnx.net/crossdomain.xml",
+      "initiatorDomains": [
+        "mako.co.il"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 149
+  },
+  {
+    "condition": {
+      "urlFilter": "||matrix.ynet.co.il/js/ga/ads_controller.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 150
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "sport5.co.il"
+      ],
+      "urlFilter": "||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 151
+  },
+  {
+    "condition": {
+      "urlFilter": "||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "initiatorDomains": [
+        "haaretz.co.il",
+        "inn.co.il",
+        "isramedia.net",
+        "mako.co.il",
+        "n12.co.il",
+        "pc-dev.co.il",
+        "pc.co.il",
+        "sport5.co.il",
+        "tech12.co.il",
+        "themarker.com",
+        "tvbee.co.il"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 152
+  },
+  {
+    "condition": {
+      "urlFilter": "||pagead2.googlesyndication.com/pagead/show_ads.js",
+      "initiatorDomains": [
+        "pitaronfree.blogspot.co.il",
+        "pitaronfree.blogspot.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 153
+  },
+  {
+    "condition": {
+      "urlFilter": "||pas-rahav.com/creativitys"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 154
+  },
+  {
+    "condition": {
+      "urlFilter": "||pas-rahav.com^",
+      "initiatorDomains": [
+        "cinema-city.co.il",
+        "cinemacity.co.il"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 155
+  },
+  {
+    "condition": {
+      "urlFilter": "||pubads.g.doubleclick.net/gampad/ad",
+      "initiatorDomains": [
+        "ynet.co.il"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 156
+  },
+  {
+    "condition": {
+      "urlFilter": "||pubads.g.doubleclick.net/gampad/ads?ad_rule=",
+      "initiatorDomains": [
+        "mako.co.il"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 157
+  },
+  {
+    "condition": {
+      "urlFilter": "||pubads.g.doubleclick.net/gampad/adx?iu=",
+      "initiatorDomains": [
+        "mako.co.il"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 158
+  },
+  {
+    "condition": {
+      "urlFilter": "||qamesh.com/images/advert.png"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 159
+  },
+  {
+    "condition": {
+      "urlFilter": "||securepubads.g.doubleclick.net/pagead/managed/",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 160
+  },
+  {
+    "condition": {
+      "urlFilter": "||shukitv.ucoz.com/script/ads.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 161
+  },
+  {
+    "condition": {
+      "urlFilter": "||tornado-top.co.il/template/images/"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 162
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "www-haaretz-co-il.eu1.proxy.openathens.net",
+        "www-themarker-com.eu1.proxy.openathens.net"
+      ],
+      "urlFilter": "*googlesyndication*/pagead/js/adsbygoogle.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 163
+  },
+  {
+    "condition": {
+      "urlFilter": "||jdn.co.il/wp-content/plugins/jdn_ads/js/info.css",
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 164
+  },
+  {
+    "condition": {
+      "urlFilter": "||player.ynet.co.il/videojs-ima/videojs.ads.css",
+      "initiatorDomains": [
+        "calcalist.co.il"
+      ],
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 165
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il"
+      ],
+      "regexFilter": "^https?:\\/+(www\\.)?google\\.(com|(com?\\.)?[a-zA-Z][a-zA-Z])\\.?\\/ads\\/ga-audiences\\?",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 166
+  },
+  {
+    "condition": {
+      "urlFilter": "/advert.",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 167
+  },
+  {
+    "condition": {
+      "urlFilter": "||admedia.com/images/cross_channel_arrows.png",
+      "initiatorDomains": [
+        "isramedia.net"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 168
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads.yad2.co.il/adpic.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 169
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "urlFilter": "||info.a7.org/info/delivery/lg*.php?",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 170
+  },
+  {
+    "condition": {
+      "urlFilter": "||israelsport.co.il/digiweb/userfiles/images/ads/getty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 171
+  },
+  {
+    "condition": {
+      "urlFilter": "||kkl-jnf.org/files/banners/",
+      "initiatorDomains": [
+        "kkl-jnf.org",
+        "kkl.org.il"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 172
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "kkl-jnf.org",
+        "kkl.org.il"
+      ],
+      "urlFilter": "||kkl-jnf.org^*/files/banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 173
+  },
+  {
+    "condition": {
+      "urlFilter": "||kkl.org.il/files/banners/",
+      "initiatorDomains": [
+        "kkl-jnf.org",
+        "kkl.org.il"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 174
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "kkl-jnf.org",
+        "kkl.org.il"
+      ],
+      "urlFilter": "||kkl.org.il^*/files/banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 175
+  },
+  {
+    "condition": {
+      "urlFilter": "||nv.vi-serve.com/vis-media/",
+      "initiatorDomains": [
+        "bizportal.co.il"
+      ],
+      "resourceTypes": [
+        "image",
+        "media"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 176
+  },
+  {
+    "condition": {
+      "urlFilter": "||shop.lametayel.co.il/img/cms/baner_shop/",
+      "initiatorDomains": [
+        "shop.lametayel.co.il"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 177
+  },
+  {
+    "condition": {
+      "urlFilter": "||t.vi-serve.com/?event=",
+      "initiatorDomains": [
+        "bizportal.co.il"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 178
+  },
+  {
+    "condition": {
+      "urlFilter": "||thetvdb.com/banners/",
+      "initiatorDomains": [
+        "wizdom.xyz"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 179
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "maccabi4u.co.il"
+      ],
+      "urlFilter": "||translate.google.*/gen204?",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 180
+  },
+  {
+    "condition": {
+      "resourceTypes": [
+        "image"
+      ],
+      "urlFilter": "||sfx-images.mozilla.org^"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 181
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il",
+        "hamal.co.il",
+        "sheee.co.il",
+        "walla.co.il",
+        "ynet.co.il"
+      ],
+      "regexFilter": "^https?:\\/+adservice\\.google\\.(com|(com?\\.)?[a-zA-Z][a-zA-Z])\\.?\\/adsid\\/integrator.js\\?",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 182
+  },
+  {
+    "condition": {
+      "urlFilter": "||2mdn.net/instream/video/client.js",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il",
+        "hamal.co.il",
+        "mako.co.il",
+        "ynet.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 183
+  },
+  {
+    "condition": {
+      "urlFilter": "||a7.org/combine.js",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 184
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "urlFilter": "||a7.org/cab/*.min.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 185
+  },
+  {
+    "condition": {
+      "urlFilter": "||a7.org/scripts/forecast.js",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 186
+  },
+  {
+    "condition": {
+      "urlFilter": "||a7.org/scripts/jquery/",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 187
+  },
+  {
+    "condition": {
+      "urlFilter": "||a7.org/scripts/mosaic_",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 188
+  },
+  {
+    "condition": {
+      "urlFilter": "||adservice.google.co.il/adsid/integrator.js?",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il",
+        "hamal.co.il",
+        "sheee.co.il",
+        "walla.co.il",
+        "ynet.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 189
+  },
+  {
+    "condition": {
+      "urlFilter": "||adservice.google.com/adsid/integrator.js?",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il",
+        "hamal.co.il",
+        "sheee.co.il",
+        "walla.co.il",
+        "ynet.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 190
+  },
+  {
+    "condition": {
+      "urlFilter": "||akamai.advsnx.net/cdn/arutz7/",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 191
+  },
+  {
+    "condition": {
+      "urlFilter": "||akamai.advsnx.net/cdn/israelhayom/html5/amsdk.js",
+      "initiatorDomains": [
+        "israelhayom-cdnwiz.com",
+        "israelhayom.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 192
+  },
+  {
+    "condition": {
+      "urlFilter": "||akamai.advsnx.net/cdn/reshet/html5/amsdk.js",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 193
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "mako.co.il"
+      ],
+      "urlFilter": "||akamai.advsnx.net/cdn/sdk/*-min.js?",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 194
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "israelhayom-cdnwiz.com",
+        "israelhayom.co.il"
+      ],
+      "urlFilter": "||akamai.advsnx.net/cdn/sdk/plugins/*/plugin.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 195
+  },
+  {
+    "condition": {
+      "urlFilter": "||akamai.advsnx.net/cdn/sdk/plugins/kaltura/plugin.js",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il",
+        "israelhayom-cdnwiz.com",
+        "israelhayom.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 196
+  },
+  {
+    "condition": {
+      "urlFilter": "||akamai.advsnx.net/cdn/sdk/plugins/vjs/plugin.js",
+      "initiatorDomains": [
+        "20il.co.il",
+        "ch20-cdnwiz.com",
+        "hamal.co.il",
+        "sheee.co.il",
+        "walla.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 197
+  },
+  {
+    "condition": {
+      "urlFilter": "||akamai.advsnx.net/cdn/sdk/system-scripts/sys-moat.js",
+      "initiatorDomains": [
+        "mako.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 198
+  },
+  {
+    "condition": {
+      "urlFilter": "||biu.ac.il^*/stormcaster.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 199
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.flowplayer.com/releases/native/stable/plugins/google-analytics.min.js",
+      "initiatorDomains": [
+        "ynet.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 200
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.taboola.com/libtrc/inn-hebrew/loader.js",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 201
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.taboola.com/libtrc/reshet-reshet/loader.js",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 202
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.taboola.com/libtrc/wallail-hamal/loader.js",
+      "initiatorDomains": [
+        "hamal.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 203
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/",
+      "initiatorDomains": [
+        "hamal.co.il",
+        "sheee.co.il",
+        "walla.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 204
+  },
+  {
+    "condition": {
+      "urlFilter": "||dmag.co.il/pub/shvii/",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 205
+  },
+  {
+    "condition": {
+      "urlFilter": "||googletagmanager.com/gtag/js?id=",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il",
+        "one.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 206
+  },
+  {
+    "condition": {
+      "urlFilter": "||googletagmanager.com/gtm.js",
+      "initiatorDomains": [
+        "clalitsmile.co.il",
+        "eshet.com",
+        "one.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 207
+  },
+  {
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il",
+        "bizportal.co.il",
+        "c14.co.il",
+        "calcalist.co.il",
+        "channel14.web-prd.immergo.tv",
+        "hamal.co.il",
+        "maariv.co.il",
+        "mako.co.il",
+        "n12.co.il",
+        "now14.co.il",
+        "one.co.il",
+        "sport5.co.il",
+        "tech12.co.il",
+        "tvbee.co.il",
+        "ynet.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 208
+  },
+  {
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3_dai.js",
+      "initiatorDomains": [
+        "c14.co.il",
+        "channel14.web-prd.immergo.tv",
+        "now14.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 209
+  },
+  {
+    "condition": {
+      "urlFilter": "||info.a7.org/info/a7delivery_f.php",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 210
+  },
+  {
+    "condition": {
+      "urlFilter": "||info.jdn.co.il/r/a7delivery_f.php?func=floadone",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 211
+  },
+  {
+    "condition": {
+      "urlFilter": "||jdn.co.il/wp-content/plugins/jdn_ads/js/info.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 212
+  },
+  {
+    "condition": {
+      "urlFilter": "||libs.outbrain.com/video/",
+      "initiatorDomains": [
+        "bizportal.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 213
+  },
+  {
+    "condition": {
+      "urlFilter": "||mako.co.il/js/dfp/dfp.js",
+      "initiatorDomains": [
+        "mako.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 214
+  },
+  {
+    "condition": {
+      "urlFilter": "||pagead2.googlesyndication.com/omsdk/",
+      "initiatorDomains": [
+        "ynet.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 215
+  },
+  {
+    "condition": {
+      "urlFilter": "||partner.googleadservices.com/gpt/pubads_",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il",
+        "haaretz.co.il",
+        "one.co.il",
+        "themarker.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 216
+  },
+  {
+    "condition": {
+      "urlFilter": "||rcs.mako.co.il/js/ads.js",
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 217
+  },
+  {
+    "condition": {
+      "urlFilter": "||s.vi-serve.com/publishers/",
+      "initiatorDomains": [
+        "bizportal.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 218
+  },
+  {
+    "condition": {
+      "urlFilter": "||s.vi-serve.com/source.m.js",
+      "initiatorDomains": [
+        "bizportal.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 219
+  },
+  {
+    "condition": {
+      "urlFilter": "||s.vi-serve.com/tagloader.js",
+      "initiatorDomains": [
+        "bizportal.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 220
+  },
+  {
+    "condition": {
+      "urlFilter": "||securepubads.g.doubleclick.net/gampad/ads?gdfp_",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il",
+        "nifgashim.net"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 221
+  },
+  {
+    "condition": {
+      "urlFilter": "||securepubads.g.doubleclick.net/gpt/",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il",
+        "nifgashim.net"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 222
+  },
+  {
+    "condition": {
+      "urlFilter": "||securepubads.g.doubleclick.net/tag/js/",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 223
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.site24x7rum.com/beacon/site24x7rum-min.js",
+      "initiatorDomains": [
+        "one.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 224
+  },
+  {
+    "condition": {
+      "urlFilter": "||tags.dxmdp.com/tags/",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 225
+  },
+  {
+    "condition": {
+      "urlFilter": "||trc.taboola.com/globes-il/",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 226
+  },
+  {
+    "condition": {
+      "urlFilter": "||yad2.co.il/ads.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 227
+  },
+  {
+    "condition": {
+      "urlFilter": "||ynet.co.il/dc/dcloadads/",
+      "initiatorDomains": [
+        "ynet.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 228
+  },
+  {
+    "condition": {
+      "urlFilter": "||ampproject.org/amp4ads-",
+      "initiatorDomains": [
+        "themarker.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 229
+  },
+  {
+    "condition": {
+      "urlFilter": "||555.co.il/pearl/rest/analytics/",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 230
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "playern.sport5.co.il"
+      ],
+      "urlFilter": "||adtest.advsnx.net^*?",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 231
+  },
+  {
+    "condition": {
+      "urlFilter": "||akamai.advsnx.net^",
+      "initiatorDomains": [
+        "mako.co.il"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 232
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdnwiz.com/ads.js",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 233
+  },
+  {
+    "condition": {
+      "urlFilter": "||errors.snackly.co/_.gif|",
+      "initiatorDomains": [
+        "ynet.co.il"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 234
+  },
+  {
+    "condition": {
+      "urlFilter": "||imaot.co.il/recipe/",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 235
+  },
+  {
+    "condition": {
+      "urlFilter": "||player.bizportal.co.il/handlers/advertising.ashx?",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 236
+  },
+  {
+    "condition": {
+      "urlFilter": "||rcs.mako.co.il/js/prebid-",
+      "initiatorDomains": [
+        "mako.co.il",
+        "n12.co.il",
+        "tech12.co.il",
+        "tvbee.co.il"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 237
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "maccabi4u.co.il"
+      ],
+      "urlFilter": "||report.maccabi.*/cls_report?",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 238
+  },
+  {
+    "condition": {
+      "urlFilter": "||services.haaretz.co.il/games-backend/",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 239
+  },
+  {
+    "condition": {
+      "urlFilter": "||vis.vi-serve.com/playlist/",
+      "initiatorDomains": [
+        "bizportal.co.il"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 240
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "old-games.org",
+        "taimeod.co.il"
+      ],
+      "resourceTypes": [
+        "main_frame"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 241
+  },
+  {
+    "condition": {
+      "urlFilter": "||bipbip.co.il/images/ads/",
+      "domainType": "firstParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 242
+  },
+  {
+    "condition": {
+      "urlFilter": "||hamal.co.il/public/assets/ads/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 243
+  },
+  {
+    "condition": {
+      "urlFilter": "||sheee.co.il/public/assets/videojsads/videojs-contrib-ads.",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 244
+  },
+  {
+    "condition": {
+      "urlFilter": "||walla.co.il/public/assets/videojsads/videojs-contrib-ads.",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 245
+  },
+  {
+    "condition": {
+      "urlFilter": "||ynet.co.il/common/api/scripts/video/videojs.ads.",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script",
+        "stylesheet"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 246
+  },
+  {
+    "condition": {
+      "urlFilter": "||callil.co.il/content/ads/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 247
+  },
+  {
+    "condition": {
+      "urlFilter": "||frid.co.il/files/*/baner.",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 248
+  },
+  {
+    "condition": {
+      "urlFilter": "||frid.co.il/files/banners/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 249
+  },
+  {
+    "condition": {
+      "urlFilter": "||isramedia.net/images/header/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 250
+  },
+  {
+    "condition": {
+      "urlFilter": "||mizrahi-tefahot.co.il/media/*_baner_katom_",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 251
+  },
+  {
+    "condition": {
+      "urlFilter": "||yad2.co.il/assets/mobile/ui/adpage/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 252
+  },
+  {
+    "condition": {
+      "urlFilter": "/ads.js?",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 253
+  },
+  {
+    "condition": {
+      "urlFilter": "/ads.min.js?",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 254
+  },
+  {
+    "condition": {
+      "urlFilter": "/adunits.",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 255
+  },
+  {
+    "condition": {
+      "urlFilter": "||b-share.com/wp-content/*/advertisement.",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 256
+  },
+  {
+    "condition": {
+      "urlFilter": "||hamal.co.il/advertising/ads/gtm.js|",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 257
+  },
+  {
+    "condition": {
+      "urlFilter": "||hidabroot.org/themes/hdb/videojs/videojs.ads.min.js",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 258
+  },
+  {
+    "condition": {
+      "urlFilter": "||hwzone.co.il/wp-content/plugins/wpadverts/assets/js/adverts-frontend.js",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 259
+  },
+  {
+    "condition": {
+      "urlFilter": "||isramedia.net/ads.js",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 260
+  },
+  {
+    "condition": {
+      "urlFilter": "||sport5.co.il^*/dfp.",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 261
+  },
+  {
+    "condition": {
+      "urlFilter": "||sport5.co.il^*/dfp/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 262
+  },
+  {
+    "condition": {
+      "urlFilter": "||weather2day.co.il/ads.js?",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 263
+  },
+  {
+    "condition": {
+      "urlFilter": "||foodsdictionary.co.il/static/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 264
+  },
+  {
+    "condition": {
+      "urlFilter": "|blob:",
+      "excludedResourceTypes": [
+        "main_frame",
+        "script"
+      ],
+      "initiatorDomains": [
+        "www.mako.co.il"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 265
+  },
+  {
+    "condition": {
+      "urlFilter": "|blob:",
+      "initiatorDomains": [
+        "homeprices.yad2.co.il",
+        "my.yad2.co.il",
+        "pricelist.yad2.co.il",
+        "www.yad2.co.il",
+        "yad1.yad2.co.il"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 266
+  },
+  {
+    "condition": {
+      "urlFilter": "||walla.co.il^",
+      "initiatorDomains": [
+        "6days.walla.co.il",
+        "animals.walla.co.il",
+        "astrology.walla.co.il",
+        "b.walla.co.il",
+        "buzzit.walla.co.il",
+        "calendar.walla.co.il",
+        "cars.walla.co.il",
+        "celebs.walla.co.il",
+        "e.walla.co.il",
+        "elections.walla.co.il",
+        "euro.walla.co.il",
+        "fashion.walla.co.il",
+        "finance.walla.co.il",
+        "food.walla.co.il",
+        "forums.walla.co.il",
+        "fun.walla.co.il",
+        "healthy.walla.co.il",
+        "home.walla.co.il",
+        "judaism.walla.co.il",
+        "kids.walla.co.il",
+        "mag.walla.co.il",
+        "maps.walla.co.il",
+        "milon.walla.co.il",
+        "movies.walla.co.il",
+        "mundial.walla.co.il",
+        "nadlan.walla.co.il",
+        "news.walla.co.il",
+        "nick.walla.co.il",
+        "olympics.walla.co.il",
+        "search.walla.co.il",
+        "sports.walla.co.il",
+        "tags.walla.co.il",
+        "tech.walla.co.il",
+        "translate.walla.co.il",
+        "travel.walla.co.il",
+        "tv-guide.walla.co.il",
+        "tv.walla.co.il",
+        "usaelections.walla.co.il",
+        "viva.walla.co.il",
+        "vod.walla.co.il",
+        "weather.walla.co.il",
+        "www.walla.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 267
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.ynet.co.il^",
+      "initiatorDomains": [
+        "www.ynet.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 268
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.mako.co.il^",
+      "initiatorDomains": [
+        "www.mako.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 269
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.globes.co.il^",
+      "initiatorDomains": [
+        "www.globes.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 270
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.calcalist.co.il^",
+      "initiatorDomains": [
+        "www.calcalist.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 271
+  },
+  {
+    "condition": {
+      "urlFilter": "||13news.co.il^",
+      "initiatorDomains": [
+        "13news.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 272
+  },
+  {
+    "condition": {
+      "urlFilter": "||13tv.co.il^",
+      "initiatorDomains": [
+        "13tv.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 273
+  },
+  {
+    "condition": {
+      "urlFilter": "||yad2.co.il^",
+      "initiatorDomains": [
+        "homeprices.yad2.co.il",
+        "my.yad2.co.il",
+        "pricelist.yad2.co.il",
+        "www.yad2.co.il",
+        "yad1.yad2.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 274
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "2x2.png",
+    "condition": {
+      "urlFilter": "||ad.doubleclick.net/favicon.ico?ad=",
+      "initiatorDomains": [
+        "calcalist.co.il",
+        "mako.co.il",
+        "n12.co.il",
+        "tech12.co.il",
+        "tvbee.co.il",
+        "walla.co.il",
+        "yad2.co.il",
+        "ynet.co.il"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/2x2.png"
+      }
+    },
+    "priority": 41,
+    "id": 275
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopjs:10",
+    "condition": {
+      "urlFilter": "||googlesyndication.com/pagead/js/adsbygoogle.js",
+      "initiatorDomains": [
+        "calcalist.co.il",
+        "mako.co.il",
+        "n12.co.il",
+        "sport5.co.il",
+        "tech12.co.il",
+        "tvbee.co.il",
+        "walla.co.il",
+        "yad2.co.il",
+        "ynet.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.js"
+      }
+    },
+    "priority": 49,
+    "id": 276
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopjs",
+    "condition": {
+      "urlFilter": "||walla.co.il/dist/scripts/ads/global-targeting.js",
+      "initiatorDomains": [
+        "walla.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.js"
+      }
+    },
+    "priority": 11,
+    "id": 277
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopjs",
+    "condition": {
+      "urlFilter": "||taboola.com^",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.js"
+      }
+    },
+    "priority": 41,
+    "id": 278
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopjs",
+    "condition": {
+      "urlFilter": "||yad2.co.il/js-new/showads.js",
+      "initiatorDomains": [
+        "yad2.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.js"
+      }
+    },
+    "priority": 11,
+    "id": 279
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopjs",
+    "condition": {
+      "urlFilter": "||googlesyndication.com/pagead/js/adsbygoogle.js",
+      "initiatorDomains": [
+        "mako.co.il",
+        "n12.co.il",
+        "sport5.co.il",
+        "tech12.co.il",
+        "tvbee.co.il"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.js"
+      }
+    },
+    "priority": 41,
+    "id": 280
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "nooptext",
+    "condition": {
+      "urlFilter": "||target.hidabroot.org/ad_manager/get_all_banners",
+      "initiatorDomains": [
+        "hidabroot.org"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 11,
+    "id": 281
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "nooptext",
+    "condition": {
+      "urlFilter": "||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "initiatorDomains": [
+        "jmusic.me"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 11,
+    "id": 282
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopmp4-1s",
+    "condition": {
+      "urlFilter": "||kipa.co.il/userfiles/*/prerolls/*/preroll_*.mp4",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop-1s.mp4"
+      }
+    },
+    "priority": 11,
+    "id": 283
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopmp4-1s",
+    "condition": {
+      "urlFilter": "||kipa.co.il/userfiles/moodaot/*.mp4",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop-1s.mp4"
+      }
+    },
+    "priority": 11,
+    "id": 284
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopmp4-1s",
+    "condition": {
+      "urlFilter": "||moodaot.kipa.co.il^*/*.mp4",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop-1s.mp4"
+      }
+    },
+    "priority": 11,
+    "id": 285
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopmp4-1s",
+    "condition": {
+      "urlFilter": "||jdn.co.il/wp-content/banners/bankleumi/",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop-1s.mp4"
+      }
+    },
+    "priority": 11,
+    "id": 286
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopmp4-1s",
+    "condition": {
+      "urlFilter": "||jdn.co.il/wp-content/uploads/video/yugort.mp4",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop-1s.mp4"
+      }
+    },
+    "priority": 11,
+    "id": 287
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopmp4-1s",
+    "condition": {
+      "urlFilter": "||ch10.co.il/wp-content/uploads/2021/*/*.mp4",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop-1s.mp4"
+      }
+    },
+    "priority": 11,
+    "id": 288
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopmp4-1s",
+    "condition": {
+      "urlFilter": "||hidabroot.wizzo.stream/storage/2024/*/*/original.mp4|",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop-1s.mp4"
+      }
+    },
+    "priority": 11,
+    "id": 289
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopjs",
+    "condition": {
+      "urlFilter": "||xads.zedo.com/ads2/c?*.one.co.il/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.js"
+      }
+    },
+    "priority": 41,
+    "id": 290
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopmp3-0.1s",
+    "condition": {
+      "urlFilter": "||zerem.biz^*.mp3^",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop-0.1s.mp3"
+      }
+    },
+    "priority": 11,
+    "id": 291
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopmp4-1s",
+    "condition": {
+      "urlFilter": "||zerem.biz^*.mp4^",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop-1s.mp4"
+      }
+    },
+    "priority": 11,
+    "id": 292
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "csp",
+    "__modifierValue": "script-src 'self' * blob: data: 'unsafe-inline'",
+    "condition": {
+      "urlFilter": "||walla.co.il^",
+      "initiatorDomains": [
+        "animals.walla.co.il",
+        "b.walla.co.il",
+        "buzzit.walla.co.il",
+        "cars.walla.co.il",
+        "celebs.walla.co.il",
+        "e.walla.co.il",
+        "elections.walla.co.il",
+        "fashion.walla.co.il",
+        "finance.walla.co.il",
+        "food.walla.co.il",
+        "healthy.walla.co.il",
+        "home.walla.co.il",
+        "judaism.walla.co.il",
+        "mag.walla.co.il",
+        "movies.walla.co.il",
+        "nadlan.walla.co.il",
+        "news.walla.co.il",
+        "sports.walla.co.il",
+        "tags.walla.co.il",
+        "tech.walla.co.il",
+        "travel.walla.co.il",
+        "tv-guide.walla.co.il",
+        "viva.walla.co.il",
+        "vod.walla.co.il",
+        "weather.walla.co.il",
+        "www.walla.co.il"
+      ],
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "content-security-policy",
+          "operation": "append",
+          "value": "script-src 'self' * blob: data: 'unsafe-inline'"
+        }
+      ]
+    },
+    "id": 293
+  },
+  {
+    "_error": [
+      "Incompatible with DNR: ||doubleclick.net^$xhr,redirect-rule=nooptext,domain=13news.co.il|13tv.co.il"
+    ]
+  }
+]

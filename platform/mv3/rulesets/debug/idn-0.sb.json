@@ -1,0 +1,16 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "investopedia.today",
+        "lolhello.com",
+        "macory.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 66
+  }
+]

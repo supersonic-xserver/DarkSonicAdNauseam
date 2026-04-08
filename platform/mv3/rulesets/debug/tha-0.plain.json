@@ -1,0 +1,7851 @@
+[
+  {
+    "condition": {
+      "urlFilter": "||xxxpostpic.org/imagedata/banner/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1
+  },
+  {
+    "condition": {
+      "urlFilter": "||porn5xxx.com/pic-ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2
+  },
+  {
+    "condition": {
+      "urlFilter": "||xn--82c0bxcybxc2b.com/jab-ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3
+  },
+  {
+    "condition": {
+      "urlFilter": "||xn--72czpj1fd3b9a3a8g3d.com/doo-ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4
+  },
+  {
+    "condition": {
+      "urlFilter": "anime-i.com/files/banner/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5
+  },
+  {
+    "condition": {
+      "urlFilter": "https://misa-anime.com/assets/js/ads.core.js?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 6
+  },
+  {
+    "condition": {
+      "urlFilter": "||i.imgur.com^",
+      "initiatorDomains": [
+        "animedd.xyz"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 7
+  },
+  {
+    "condition": {
+      "urlFilter": "||reborntrans.com/banner/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 8
+  },
+  {
+    "condition": {
+      "urlFilter": "https://xxxword.club/uploadpic/playxxx.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 9
+  },
+  {
+    "condition": {
+      "urlFilter": "https://www.vdoxthai.com/ads.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 10
+  },
+  {
+    "condition": {
+      "urlFilter": "||4toom.com/*/modal-dialog/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 11
+  },
+  {
+    "condition": {
+      "urlFilter": "||aroundnews.net/*/like-jacking-ninja/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 12
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "zapver555.com"
+      ],
+      "urlFilter": "||blogger.com/*lbx__th.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 13
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "zapver555.com"
+      ],
+      "urlFilter": "||blogger.com/*lightbox_bundle.css"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 14
+  },
+  {
+    "condition": {
+      "urlFilter": "||dodeden.com/advert^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 15
+  },
+  {
+    "condition": {
+      "urlFilter": "||ithaihotnews.com/*/like-jacking-ninja/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 16
+  },
+  {
+    "condition": {
+      "urlFilter": "||kaijeaw.com/*/fancybox/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 17
+  },
+  {
+    "condition": {
+      "urlFilter": "||kanomjeeb.com/*/lightbox"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 18
+  },
+  {
+    "condition": {
+      "urlFilter": "||kidjarak.com/*/bsa-pro-scripteo/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 19
+  },
+  {
+    "condition": {
+      "urlFilter": "||ladycee.com/light_ads^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 20
+  },
+  {
+    "condition": {
+      "urlFilter": "||laughwoo.com/*/like-jacking-ninja/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 21
+  },
+  {
+    "condition": {
+      "urlFilter": "||lonely-rooyang.com/*/arscode-ninja-popups/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 22
+  },
+  {
+    "condition": {
+      "urlFilter": "||meekhao.com/*/dreamgrow-scroll-triggered-box/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 23
+  },
+  {
+    "condition": {
+      "urlFilter": "||newstimeline.net/*/jquery.magnific-popup.min.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 24
+  },
+  {
+    "condition": {
+      "urlFilter": "||ohlor.com/*/mini-popup/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 25
+  },
+  {
+    "condition": {
+      "urlFilter": "||ohlor.com/*/upprev-nytimes-style-next-post-jquery-animated-fly-in-button/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 26
+  },
+  {
+    "condition": {
+      "urlFilter": "||siamchatroom.com/light_ads^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 27
+  },
+  {
+    "condition": {
+      "urlFilter": "||siamha.com/truehits/stat"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 28
+  },
+  {
+    "condition": {
+      "urlFilter": "||siamok.com/light_ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 29
+  },
+  {
+    "condition": {
+      "urlFilter": "||siamza.com/js/jquery.cookie.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 30
+  },
+  {
+    "condition": {
+      "urlFilter": "||taghr.net/*/uji-popup/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 31
+  },
+  {
+    "condition": {
+      "urlFilter": "||thaijobsgov.com/*/fancybox/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 32
+  },
+  {
+    "condition": {
+      "urlFilter": "||thaijobsgov.com/banner^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 33
+  },
+  {
+    "condition": {
+      "urlFilter": "||toritalk.com/*/uji-popup/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 34
+  },
+  {
+    "condition": {
+      "urlFilter": "||yakjado.com/*/upprev/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 35
+  },
+  {
+    "condition": {
+      "urlFilter": "||yakjado.com/*/wp-social-popup-and-get-traffic/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 36
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads.pramool.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 37
+  },
+  {
+    "condition": {
+      "urlFilter": "||becteroradio.com/2014/hidden-ad-inner.php?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 38
+  },
+  {
+    "condition": {
+      "urlFilter": "||becteroradio.com/lib/fancybox/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 39
+  },
+  {
+    "condition": {
+      "urlFilter": "||becteroradio.com/truehitsstat.php?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 40
+  },
+  {
+    "condition": {
+      "urlFilter": "||kapook.com/ads/portal^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 41
+  },
+  {
+    "condition": {
+      "urlFilter": "||kapook.com/asset/js/track.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 42
+  },
+  {
+    "condition": {
+      "urlFilter": "||kapook.com/jquery/jquery.kp.tracker.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 43
+  },
+  {
+    "condition": {
+      "urlFilter": "||pantip.com/ads.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 44
+  },
+  {
+    "condition": {
+      "urlFilter": "||pantip.com/adsip.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 45
+  },
+  {
+    "condition": {
+      "urlFilter": "||pantip.com/adsipmobile.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 46
+  },
+  {
+    "condition": {
+      "urlFilter": "||lucky135.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 47
+  },
+  {
+    "condition": {
+      "urlFilter": "||compgamer.com/mainpage/module/popupnews/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 48
+  },
+  {
+    "condition": {
+      "urlFilter": "||compgamer.com/mario-ads^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 49
+  },
+  {
+    "condition": {
+      "urlFilter": "||coregamerth.com/*/jquery-cookie/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 50
+  },
+  {
+    "condition": {
+      "urlFilter": "||game-tep.com/*/adrotate-pro/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 51
+  },
+  {
+    "condition": {
+      "urlFilter": "||game-tep.com/*/fancy-box/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 52
+  },
+  {
+    "condition": {
+      "urlFilter": "||gamegeek.in.th/*/layeredpopups/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 53
+  },
+  {
+    "condition": {
+      "urlFilter": "||gamemonday.com/*/adrotate-pro/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 54
+  },
+  {
+    "condition": {
+      "urlFilter": "||gamemonday.com/wp-content/themes/gamemonday/libs/jquery.firstvisitpopup.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 55
+  },
+  {
+    "condition": {
+      "urlFilter": "||mustplay.in.th/*/banner"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 56
+  },
+  {
+    "condition": {
+      "urlFilter": "||mustplay.in.th/assets/js/jquery.tubular^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 57
+  },
+  {
+    "condition": {
+      "urlFilter": "||mustplay.in.th/assets/js/youtubepopup"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 58
+  },
+  {
+    "condition": {
+      "urlFilter": "||mustplay.in.th/static/banner/*/ads-^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 59
+  },
+  {
+    "condition": {
+      "urlFilter": "||online-station.net/*/ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 60
+  },
+  {
+    "condition": {
+      "urlFilter": "||online-station.net/assets/*/os-adhoc^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 61
+  },
+  {
+    "condition": {
+      "urlFilter": "||online-station.net/assets/js/google^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 62
+  },
+  {
+    "condition": {
+      "urlFilter": "||online-station.net/content/count_stats?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 63
+  },
+  {
+    "condition": {
+      "urlFilter": "||playulti.com/*/banner"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 64
+  },
+  {
+    "condition": {
+      "urlFilter": "||playulti.com/assets/js/jquery.tubular^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 65
+  },
+  {
+    "condition": {
+      "urlFilter": "||playulti.com/company/truehit?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 66
+  },
+  {
+    "condition": {
+      "urlFilter": "||playulti.com/static/banner/*/ads-^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 67
+  },
+  {
+    "condition": {
+      "urlFilter": "||24x7th.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 68
+  },
+  {
+    "condition": {
+      "urlFilter": "||accesstrade.in.th"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 69
+  },
+  {
+    "condition": {
+      "urlFilter": "||adasiaholdings.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 70
+  },
+  {
+    "condition": {
+      "urlFilter": "||adok.asia"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 71
+  },
+  {
+    "condition": {
+      "urlFilter": "||adop.cc"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 72
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads*.bangkokpost.co.th"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 73
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads*.matichon.co.th"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 74
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads.boxza.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 75
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads.gamemonday.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 76
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads.jarm.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 77
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads.os.co.th"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 78
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads.pantip.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 79
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads.postjung.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 80
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads.siamza.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 81
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads.techxcite.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 82
+  },
+  {
+    "condition": {
+      "urlFilter": "||adsniper.ru"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 83
+  },
+  {
+    "condition": {
+      "urlFilter": "||adsoptimal.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 84
+  },
+  {
+    "condition": {
+      "urlFilter": "||adtplatform.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 85
+  },
+  {
+    "condition": {
+      "urlFilter": "||anonymousdemographics.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 86
+  },
+  {
+    "condition": {
+      "urlFilter": "||app-measurement.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 87
+  },
+  {
+    "condition": {
+      "urlFilter": "||areyouahuman.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 88
+  },
+  {
+    "condition": {
+      "urlFilter": "||atdmt.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 89
+  },
+  {
+    "condition": {
+      "urlFilter": "||bluekai.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 90
+  },
+  {
+    "condition": {
+      "urlFilter": "||btstatic.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 91
+  },
+  {
+    "condition": {
+      "urlFilter": "||bumq.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 92
+  },
+  {
+    "condition": {
+      "urlFilter": "||byteark-analytics.thairath.co.th"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 93
+  },
+  {
+    "condition": {
+      "urlFilter": "||clickadu.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 94
+  },
+  {
+    "condition": {
+      "urlFilter": "||clicksgear.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 95
+  },
+  {
+    "condition": {
+      "urlFilter": "||connextra.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 96
+  },
+  {
+    "condition": {
+      "urlFilter": "||crashlytics.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 97
+  },
+  {
+    "condition": {
+      "urlFilter": "||crazyegg.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 98
+  },
+  {
+    "condition": {
+      "urlFilter": "||criteo.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 99
+  },
+  {
+    "condition": {
+      "urlFilter": "||criteo.net"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 100
+  },
+  {
+    "condition": {
+      "urlFilter": "||crwdcntrl.net"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 101
+  },
+  {
+    "condition": {
+      "urlFilter": "||cryptobrowser.site"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 102
+  },
+  {
+    "condition": {
+      "urlFilter": "||csi.gstatic.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 103
+  },
+  {
+    "condition": {
+      "urlFilter": "||d-stats.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 104
+  },
+  {
+    "condition": {
+      "urlFilter": "||dtscout.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 105
+  },
+  {
+    "condition": {
+      "urlFilter": "||effectivemeasure.net"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 106
+  },
+  {
+    "condition": {
+      "urlFilter": "||exdynsrv.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 107
+  },
+  {
+    "condition": {
+      "urlFilter": "||exoclick.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 108
+  },
+  {
+    "condition": {
+      "urlFilter": "||exosrv.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 109
+  },
+  {
+    "condition": {
+      "urlFilter": "||eyeota.net"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 110
+  },
+  {
+    "condition": {
+      "urlFilter": "||feedjit.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 111
+  },
+  {
+    "condition": {
+      "urlFilter": "||filadmir.site"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 112
+  },
+  {
+    "condition": {
+      "urlFilter": "||fout.jp"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 113
+  },
+  {
+    "condition": {
+      "urlFilter": "||gammaplatform.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 114
+  },
+  {
+    "condition": {
+      "urlFilter": "||gbotvisit.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 115
+  },
+  {
+    "condition": {
+      "urlFilter": "||gbox.sc"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 116
+  },
+  {
+    "condition": {
+      "urlFilter": "||generaltagcom.ga"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 117
+  },
+  {
+    "condition": {
+      "urlFilter": "||go2cloud.org"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 118
+  },
+  {
+    "condition": {
+      "urlFilter": "||go2speed.org"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 119
+  },
+  {
+    "condition": {
+      "urlFilter": "||google-analytics.l.google.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 120
+  },
+  {
+    "condition": {
+      "urlFilter": "||heatmap.it"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 121
+  },
+  {
+    "condition": {
+      "urlFilter": "||hilightad.kapook.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 122
+  },
+  {
+    "condition": {
+      "urlFilter": "||histats.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 123
+  },
+  {
+    "condition": {
+      "urlFilter": "||hotjar.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 124
+  },
+  {
+    "condition": {
+      "urlFilter": "||imrworldwide.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 125
+  },
+  {
+    "condition": {
+      "urlFilter": "||inmobi.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 126
+  },
+  {
+    "condition": {
+      "urlFilter": "||innity.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 127
+  },
+  {
+    "condition": {
+      "urlFilter": "||innity.net"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 128
+  },
+  {
+    "condition": {
+      "urlFilter": "||inspectlet.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 129
+  },
+  {
+    "condition": {
+      "urlFilter": "||iyfnzgb.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 130
+  },
+  {
+    "condition": {
+      "urlFilter": "||izooto.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 131
+  },
+  {
+    "condition": {
+      "urlFilter": "||joox-affiliate.sanook.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 132
+  },
+  {
+    "condition": {
+      "urlFilter": "||kiosked.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 133
+  },
+  {
+    "condition": {
+      "urlFilter": "||luckyorange.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 134
+  },
+  {
+    "condition": {
+      "urlFilter": "||m88.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 135
+  },
+  {
+    "condition": {
+      "urlFilter": "||moatads.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 136
+  },
+  {
+    "condition": {
+      "urlFilter": "||mtburn.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 137
+  },
+  {
+    "condition": {
+      "urlFilter": "||mtburn.jp"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 138
+  },
+  {
+    "condition": {
+      "urlFilter": "||nr-data.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 139
+  },
+  {
+    "condition": {
+      "urlFilter": "||nr-data.net"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 140
+  },
+  {
+    "condition": {
+      "urlFilter": "||nuffnang.co.th"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 141
+  },
+  {
+    "condition": {
+      "urlFilter": "||nuffnang.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 142
+  },
+  {
+    "condition": {
+      "urlFilter": "||nytive.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 143
+  },
+  {
+    "condition": {
+      "urlFilter": "||oclaserver.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 144
+  },
+  {
+    "condition": {
+      "urlFilter": "||oilchange.website"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 145
+  },
+  {
+    "condition": {
+      "urlFilter": "||onclasrv.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 146
+  },
+  {
+    "condition": {
+      "urlFilter": "||onclickads.net"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 147
+  },
+  {
+    "condition": {
+      "urlFilter": "||openx.notebookspec.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 148
+  },
+  {
+    "condition": {
+      "urlFilter": "||openxmarket.asia"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 149
+  },
+  {
+    "condition": {
+      "urlFilter": "||padsdel.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 150
+  },
+  {
+    "condition": {
+      "urlFilter": "||padstm.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 151
+  },
+  {
+    "condition": {
+      "urlFilter": "||parkingcrew.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 152
+  },
+  {
+    "condition": {
+      "urlFilter": "||parkingcrew.net"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 153
+  },
+  {
+    "condition": {
+      "urlFilter": "||pc1ads.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 154
+  },
+  {
+    "condition": {
+      "urlFilter": "||pc2ads.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 155
+  },
+  {
+    "condition": {
+      "urlFilter": "||pc3ads.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 156
+  },
+  {
+    "condition": {
+      "urlFilter": "||ping-fast.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 157
+  },
+  {
+    "condition": {
+      "urlFilter": "||pingdom.net"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 158
+  },
+  {
+    "condition": {
+      "urlFilter": "||pixeldigitalstudios.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 159
+  },
+  {
+    "condition": {
+      "urlFilter": "||plista.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 160
+  },
+  {
+    "condition": {
+      "urlFilter": "||popads.net"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 161
+  },
+  {
+    "condition": {
+      "urlFilter": "||popcash.net"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 162
+  },
+  {
+    "condition": {
+      "urlFilter": "||popclck.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 163
+  },
+  {
+    "condition": {
+      "urlFilter": "||popclck.net"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 164
+  },
+  {
+    "condition": {
+      "urlFilter": "||poptm.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 165
+  },
+  {
+    "condition": {
+      "urlFilter": "||ptengine.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 166
+  },
+  {
+    "condition": {
+      "urlFilter": "||puserving.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 167
+  },
+  {
+    "condition": {
+      "urlFilter": "||pushnative.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 168
+  },
+  {
+    "condition": {
+      "urlFilter": "||quicktask.xyz"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 169
+  },
+  {
+    "condition": {
+      "urlFilter": "||reimageplus.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 170
+  },
+  {
+    "condition": {
+      "urlFilter": "||replase.tk"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 171
+  },
+  {
+    "condition": {
+      "urlFilter": "||report-uri.cloudflare.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 172
+  },
+  {
+    "condition": {
+      "urlFilter": "||revsci.net"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 173
+  },
+  {
+    "condition": {
+      "urlFilter": "||runtnc.net"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 174
+  },
+  {
+    "condition": {
+      "urlFilter": "||ruu-dee.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 175
+  },
+  {
+    "condition": {
+      "urlFilter": "||sales-frontier.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 176
+  },
+  {
+    "condition": {
+      "urlFilter": "||scorecardresearch.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 177
+  },
+  {
+    "condition": {
+      "urlFilter": "||serving-sys.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 178
+  },
+  {
+    "condition": {
+      "urlFilter": "||simba-digital.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 179
+  },
+  {
+    "condition": {
+      "urlFilter": "||socdm.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 180
+  },
+  {
+    "condition": {
+      "urlFilter": "||stat.matichon.co.th"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 181
+  },
+  {
+    "condition": {
+      "urlFilter": "||statmt.matichon.co.th"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 182
+  },
+  {
+    "condition": {
+      "urlFilter": "||stats.in.th"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 183
+  },
+  {
+    "condition": {
+      "urlFilter": "||stats.wp.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 184
+  },
+  {
+    "condition": {
+      "urlFilter": "||sumome.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 185
+  },
+  {
+    "condition": {
+      "urlFilter": "||synergy-e.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 186
+  },
+  {
+    "condition": {
+      "urlFilter": "||taboola.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 187
+  },
+  {
+    "condition": {
+      "urlFilter": "||tagserve.asia"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 188
+  },
+  {
+    "condition": {
+      "urlFilter": "||tapad.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 189
+  },
+  {
+    "condition": {
+      "urlFilter": "||thstats.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 190
+  },
+  {
+    "condition": {
+      "urlFilter": "||thtrackingap.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 191
+  },
+  {
+    "condition": {
+      "urlFilter": "||tityx.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 192
+  },
+  {
+    "condition": {
+      "urlFilter": "||truehits.in.th"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 193
+  },
+  {
+    "condition": {
+      "urlFilter": "||truehits.net"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 194
+  },
+  {
+    "condition": {
+      "urlFilter": "||tynt.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 195
+  },
+  {
+    "condition": {
+      "urlFilter": "||user-api.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 196
+  },
+  {
+    "condition": {
+      "urlFilter": "||user-clicks.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 197
+  },
+  {
+    "condition": {
+      "urlFilter": "||user-red.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 198
+  },
+  {
+    "condition": {
+      "urlFilter": "||uustoughtonma.org"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 199
+  },
+  {
+    "condition": {
+      "urlFilter": "||whatshelp.io"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 200
+  },
+  {
+    "condition": {
+      "urlFilter": "||wmdstat.dev-sanook.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 201
+  },
+  {
+    "condition": {
+      "urlFilter": "||yengo.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 202
+  },
+  {
+    "condition": {
+      "urlFilter": "||yu0123456.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 203
+  },
+  {
+    "condition": {
+      "urlFilter": "||zemanta.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 204
+  },
+  {
+    "condition": {
+      "urlFilter": "||moviefree365.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 205
+  },
+  {
+    "condition": {
+      "urlFilter": "||pichub.tk"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 206
+  },
+  {
+    "condition": {
+      "urlFilter": "||1234picz.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 207
+  },
+  {
+    "condition": {
+      "urlFilter": "||happylukebet.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 208
+  },
+  {
+    "condition": {
+      "urlFilter": "||silkspan.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 209
+  },
+  {
+    "condition": {
+      "urlFilter": "||thai-iphone.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 210
+  },
+  {
+    "condition": {
+      "urlFilter": "||1000curryrestaurant.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 211
+  },
+  {
+    "condition": {
+      "urlFilter": "||10xtechie.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 212
+  },
+  {
+    "condition": {
+      "urlFilter": "||195-133-60-89.hostinghubsolutions.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 213
+  },
+  {
+    "condition": {
+      "urlFilter": "||1roofev.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 214
+  },
+  {
+    "condition": {
+      "urlFilter": "||3dshipmodels.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 215
+  },
+  {
+    "condition": {
+      "urlFilter": "||3riversprint.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 216
+  },
+  {
+    "condition": {
+      "urlFilter": "||4jslg.7primos.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 217
+  },
+  {
+    "condition": {
+      "urlFilter": "||4jslg.overstayjaffa.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 218
+  },
+  {
+    "condition": {
+      "urlFilter": "||4jslg.thestringbook.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 219
+  },
+  {
+    "condition": {
+      "urlFilter": "||7primos.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 220
+  },
+  {
+    "condition": {
+      "urlFilter": "||8slash8.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 221
+  },
+  {
+    "condition": {
+      "urlFilter": "||academiasprolog.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 222
+  },
+  {
+    "condition": {
+      "urlFilter": "||accountantamsterdam.net"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 223
+  },
+  {
+    "condition": {
+      "urlFilter": "||achivadolimni.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 224
+  },
+  {
+    "condition": {
+      "urlFilter": "||afiyahlab.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 225
+  },
+  {
+    "condition": {
+      "urlFilter": "||agdrumschool.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 226
+  },
+  {
+    "condition": {
+      "urlFilter": "||agentogel.info"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 227
+  },
+  {
+    "condition": {
+      "urlFilter": "||ahvaz-anesthesia.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 228
+  },
+  {
+    "condition": {
+      "urlFilter": "||aisushigobc.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 229
+  },
+  {
+    "condition": {
+      "urlFilter": "||alamaymoon.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 230
+  },
+  {
+    "condition": {
+      "urlFilter": "||albioncollege.info"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 231
+  },
+  {
+    "condition": {
+      "urlFilter": "||alexlaz.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 232
+  },
+  {
+    "condition": {
+      "urlFilter": "||all-in-barbers.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 233
+  },
+  {
+    "condition": {
+      "urlFilter": "||altexplorer.info"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 234
+  },
+  {
+    "condition": {
+      "urlFilter": "||amarantinefarms.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 235
+  },
+  {
+    "condition": {
+      "urlFilter": "||amzprotradernow.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 236
+  },
+  {
+    "condition": {
+      "urlFilter": "||api-injoyplan.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 237
+  },
+  {
+    "condition": {
+      "urlFilter": "||appboltonik.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 238
+  },
+  {
+    "condition": {
+      "urlFilter": "||appstkmadmin.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 239
+  },
+  {
+    "condition": {
+      "urlFilter": "||arentalcars.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 240
+  },
+  {
+    "condition": {
+      "urlFilter": "||ariasitting.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 241
+  },
+  {
+    "condition": {
+      "urlFilter": "||aspectjcookbook.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 242
+  },
+  {
+    "condition": {
+      "urlFilter": "||asupro.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 243
+  },
+  {
+    "condition": {
+      "urlFilter": "||atomslip.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 244
+  },
+  {
+    "condition": {
+      "urlFilter": "||atu-cyberwargames.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 245
+  },
+  {
+    "condition": {
+      "urlFilter": "||ayp-system.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 246
+  },
+  {
+    "condition": {
+      "urlFilter": "||babyandbeyondkh.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 247
+  },
+  {
+    "condition": {
+      "urlFilter": "||backnodes.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 248
+  },
+  {
+    "condition": {
+      "urlFilter": "||baepullu.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 249
+  },
+  {
+    "condition": {
+      "urlFilter": "||bagantax.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 250
+  },
+  {
+    "condition": {
+      "urlFilter": "||bayofgreens.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 251
+  },
+  {
+    "condition": {
+      "urlFilter": "||bbficocarseats.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 252
+  },
+  {
+    "condition": {
+      "urlFilter": "||be-lovedshow.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 253
+  },
+  {
+    "condition": {
+      "urlFilter": "||beefashionstores.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 254
+  },
+  {
+    "condition": {
+      "urlFilter": "||bepunjaban.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 255
+  },
+  {
+    "condition": {
+      "urlFilter": "||bestpaintballgun.info"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 256
+  },
+  {
+    "condition": {
+      "urlFilter": "||betrool.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 257
+  },
+  {
+    "condition": {
+      "urlFilter": "||bezt-newz-today.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 258
+  },
+  {
+    "condition": {
+      "urlFilter": "||bfm4christ.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 259
+  },
+  {
+    "condition": {
+      "urlFilter": "||bigwingsrestaurant.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 260
+  },
+  {
+    "condition": {
+      "urlFilter": "||bitpra.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 261
+  },
+  {
+    "condition": {
+      "urlFilter": "||bittobi.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 262
+  },
+  {
+    "condition": {
+      "urlFilter": "||bloomsbasket.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 263
+  },
+  {
+    "condition": {
+      "urlFilter": "||bluuepin.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 264
+  },
+  {
+    "condition": {
+      "urlFilter": "||bnsoni.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 265
+  },
+  {
+    "condition": {
+      "urlFilter": "||booknsunglasses.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 266
+  },
+  {
+    "condition": {
+      "urlFilter": "||boostingplugs.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 267
+  },
+  {
+    "condition": {
+      "urlFilter": "||botadapmc.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 268
+  },
+  {
+    "condition": {
+      "urlFilter": "||bouthilliersconstructiongov.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 269
+  },
+  {
+    "condition": {
+      "urlFilter": "||brainmindsociety.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 270
+  },
+  {
+    "condition": {
+      "urlFilter": "||bravoxoso.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 271
+  },
+  {
+    "condition": {
+      "urlFilter": "||breakingbay.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 272
+  },
+  {
+    "condition": {
+      "urlFilter": "||brynweb.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 273
+  },
+  {
+    "condition": {
+      "urlFilter": "||bulletinzaiynt.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 274
+  },
+  {
+    "condition": {
+      "urlFilter": "||byantonellascake.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 275
+  },
+  {
+    "condition": {
+      "urlFilter": "||captingirl.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 276
+  },
+  {
+    "condition": {
+      "urlFilter": "||carnercare.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 277
+  },
+  {
+    "condition": {
+      "urlFilter": "||cassandrawealthadvisors.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 278
+  },
+  {
+    "condition": {
+      "urlFilter": "||catsandcafe.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 279
+  },
+  {
+    "condition": {
+      "urlFilter": "||celebbizz.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 280
+  },
+  {
+    "condition": {
+      "urlFilter": "||ceolsen.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 281
+  },
+  {
+    "condition": {
+      "urlFilter": "||ceritaharian.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 282
+  },
+  {
+    "condition": {
+      "urlFilter": "||cheersuper.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 283
+  },
+  {
+    "condition": {
+      "urlFilter": "||chilltalks.org"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 284
+  },
+  {
+    "condition": {
+      "urlFilter": "||chusband.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 285
+  },
+  {
+    "condition": {
+      "urlFilter": "||clabs-eg.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 286
+  },
+  {
+    "condition": {
+      "urlFilter": "||cleanestcutss.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 287
+  },
+  {
+    "condition": {
+      "urlFilter": "||clipperapps.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 288
+  },
+  {
+    "condition": {
+      "urlFilter": "||cluebird.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 289
+  },
+  {
+    "condition": {
+      "urlFilter": "||comidaxpress.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 290
+  },
+  {
+    "condition": {
+      "urlFilter": "||copticdevs.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 291
+  },
+  {
+    "condition": {
+      "urlFilter": "||corecovers.info"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 292
+  },
+  {
+    "condition": {
+      "urlFilter": "||crccassessoria.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 293
+  },
+  {
+    "condition": {
+      "urlFilter": "||createdbygenesse.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 294
+  },
+  {
+    "condition": {
+      "urlFilter": "||cscjcares.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 295
+  },
+  {
+    "condition": {
+      "urlFilter": "||curryflavorgrill.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 296
+  },
+  {
+    "condition": {
+      "urlFilter": "||cursoscadastro.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 297
+  },
+  {
+    "condition": {
+      "urlFilter": "||cursoseofertas.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 298
+  },
+  {
+    "condition": {
+      "urlFilter": "||dailyreportquant.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 299
+  },
+  {
+    "condition": {
+      "urlFilter": "||dana-b7r.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 300
+  },
+  {
+    "condition": {
+      "urlFilter": "||daniloremote.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 301
+  },
+  {
+    "condition": {
+      "urlFilter": "||danimalrocks.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 302
+  },
+  {
+    "condition": {
+      "urlFilter": "||darkrabbitsolutions.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 303
+  },
+  {
+    "condition": {
+      "urlFilter": "||davis-analytics.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 304
+  },
+  {
+    "condition": {
+      "urlFilter": "||dazzlebox.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 305
+  },
+  {
+    "condition": {
+      "urlFilter": "||dcoygames.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 306
+  },
+  {
+    "condition": {
+      "urlFilter": "||definitemodel.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 307
+  },
+  {
+    "condition": {
+      "urlFilter": "||demandjo.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 308
+  },
+  {
+    "condition": {
+      "urlFilter": "||dev.prowallet.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 309
+  },
+  {
+    "condition": {
+      "urlFilter": "||dguedry.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 310
+  },
+  {
+    "condition": {
+      "urlFilter": "||dirtgrab.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 311
+  },
+  {
+    "condition": {
+      "urlFilter": "||disruptiveclinic.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 312
+  },
+  {
+    "condition": {
+      "urlFilter": "||djshawnmichaels.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 313
+  },
+  {
+    "condition": {
+      "urlFilter": "||dl.gold-meat.ru"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 314
+  },
+  {
+    "condition": {
+      "urlFilter": "||dominiontalent.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 315
+  },
+  {
+    "condition": {
+      "urlFilter": "||domoticize.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 316
+  },
+  {
+    "condition": {
+      "urlFilter": "||dope88.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 317
+  },
+  {
+    "condition": {
+      "urlFilter": "||drumlikeag.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 318
+  },
+  {
+    "condition": {
+      "urlFilter": "||dubairevoltsystem.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 319
+  },
+  {
+    "condition": {
+      "urlFilter": "||duitexchange.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 320
+  },
+  {
+    "condition": {
+      "urlFilter": "||dwrswap.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 321
+  },
+  {
+    "condition": {
+      "urlFilter": "||editfestdrone.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 322
+  },
+  {
+    "condition": {
+      "urlFilter": "||ejppayment.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 323
+  },
+  {
+    "condition": {
+      "urlFilter": "||elecapubs.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 324
+  },
+  {
+    "condition": {
+      "urlFilter": "||elelongservice.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 325
+  },
+  {
+    "condition": {
+      "urlFilter": "||elizashoup.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 326
+  },
+  {
+    "condition": {
+      "urlFilter": "||embroideryshop.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 327
+  },
+  {
+    "condition": {
+      "urlFilter": "||eminifx59.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 328
+  },
+  {
+    "condition": {
+      "urlFilter": "||empirecity.today"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 329
+  },
+  {
+    "condition": {
+      "urlFilter": "||estitchbysaba.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 330
+  },
+  {
+    "condition": {
+      "urlFilter": "||eurokidsgurugram.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 331
+  },
+  {
+    "condition": {
+      "urlFilter": "||fabulous6fantasy.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 332
+  },
+  {
+    "condition": {
+      "urlFilter": "||faqspace.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 333
+  },
+  {
+    "condition": {
+      "urlFilter": "||fernandespegoraro.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 334
+  },
+  {
+    "condition": {
+      "urlFilter": "||financialsolving.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 335
+  },
+  {
+    "condition": {
+      "urlFilter": "||firstmobileeducation.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 336
+  },
+  {
+    "condition": {
+      "urlFilter": "||flyaram.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 337
+  },
+  {
+    "condition": {
+      "urlFilter": "||fortsport365.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 338
+  },
+  {
+    "condition": {
+      "urlFilter": "||founderplusacademy.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 339
+  },
+  {
+    "condition": {
+      "urlFilter": "||foxandmusic.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 340
+  },
+  {
+    "condition": {
+      "urlFilter": "||freeball98.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 341
+  },
+  {
+    "condition": {
+      "urlFilter": "||freshgrainke.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 342
+  },
+  {
+    "condition": {
+      "urlFilter": "||ftp.7primos.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 343
+  },
+  {
+    "condition": {
+      "urlFilter": "||ftp.ingridsherman.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 344
+  },
+  {
+    "condition": {
+      "urlFilter": "||fujinoodlerestaurant.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 345
+  },
+  {
+    "condition": {
+      "urlFilter": "||fxbroker-consulting.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 346
+  },
+  {
+    "condition": {
+      "urlFilter": "||fydebot.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 347
+  },
+  {
+    "condition": {
+      "urlFilter": "||g-whizzy.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 348
+  },
+  {
+    "condition": {
+      "urlFilter": "||gangasperu.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 349
+  },
+  {
+    "condition": {
+      "urlFilter": "||getprintapp.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 350
+  },
+  {
+    "condition": {
+      "urlFilter": "||globalseedxchange.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 351
+  },
+  {
+    "condition": {
+      "urlFilter": "||globalsmarturl.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 352
+  },
+  {
+    "condition": {
+      "urlFilter": "||gobaypay.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 353
+  },
+  {
+    "condition": {
+      "urlFilter": "||gold-meat.ru"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 354
+  },
+  {
+    "condition": {
+      "urlFilter": "||greenacresapt.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 355
+  },
+  {
+    "condition": {
+      "urlFilter": "||grenvillegraphite.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 356
+  },
+  {
+    "condition": {
+      "urlFilter": "||groundloop.info"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 357
+  },
+  {
+    "condition": {
+      "urlFilter": "||guardin78.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 358
+  },
+  {
+    "condition": {
+      "urlFilter": "||hambletondefense.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 359
+  },
+  {
+    "condition": {
+      "urlFilter": "||happylifelab.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 360
+  },
+  {
+    "condition": {
+      "urlFilter": "||harrisonkieffer.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 361
+  },
+  {
+    "condition": {
+      "urlFilter": "||hc-learning.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 362
+  },
+  {
+    "condition": {
+      "urlFilter": "||hermes-filter.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 363
+  },
+  {
+    "condition": {
+      "urlFilter": "||hfcofficial.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 364
+  },
+  {
+    "condition": {
+      "urlFilter": "||hillaforklifts.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 365
+  },
+  {
+    "condition": {
+      "urlFilter": "||hostmaster.fabulous6fantasy.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 366
+  },
+  {
+    "condition": {
+      "urlFilter": "||hostmaster.hillaforklifts.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 367
+  },
+  {
+    "condition": {
+      "urlFilter": "||hostmaster.joshforjudge.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 368
+  },
+  {
+    "condition": {
+      "urlFilter": "||hostmaster.losangelesfamilylawlawyer.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 369
+  },
+  {
+    "condition": {
+      "urlFilter": "||hostmaster.reponses.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 370
+  },
+  {
+    "condition": {
+      "urlFilter": "||hostmaster.wolhyang.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 371
+  },
+  {
+    "condition": {
+      "urlFilter": "||hyperionity.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 372
+  },
+  {
+    "condition": {
+      "urlFilter": "||idleduels.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 373
+  },
+  {
+    "condition": {
+      "urlFilter": "||igtvreel.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 374
+  },
+  {
+    "condition": {
+      "urlFilter": "||ilbunjibistro.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 375
+  },
+  {
+    "condition": {
+      "urlFilter": "||imap.prowallet.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 376
+  },
+  {
+    "condition": {
+      "urlFilter": "||in-to-win-co.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 377
+  },
+  {
+    "condition": {
+      "urlFilter": "||info.wisewsports.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 378
+  },
+  {
+    "condition": {
+      "urlFilter": "||ingridsherman.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 379
+  },
+  {
+    "condition": {
+      "urlFilter": "||intranet.lilufan.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 380
+  },
+  {
+    "condition": {
+      "urlFilter": "||isdareg.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 381
+  },
+  {
+    "condition": {
+      "urlFilter": "||iteration777.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 382
+  },
+  {
+    "condition": {
+      "urlFilter": "||ivan-jr.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 383
+  },
+  {
+    "condition": {
+      "urlFilter": "||jaimexavier.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 384
+  },
+  {
+    "condition": {
+      "urlFilter": "||jakobasson.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 385
+  },
+  {
+    "condition": {
+      "urlFilter": "||jaredkschreiber.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 386
+  },
+  {
+    "condition": {
+      "urlFilter": "||jasonkrasavage.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 387
+  },
+  {
+    "condition": {
+      "urlFilter": "||jenkins.peshanga.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 388
+  },
+  {
+    "condition": {
+      "urlFilter": "||jessejamesacademy.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 389
+  },
+  {
+    "condition": {
+      "urlFilter": "||jjkratomdispensary.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 390
+  },
+  {
+    "condition": {
+      "urlFilter": "||jobztrak.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 391
+  },
+  {
+    "condition": {
+      "urlFilter": "||joshforjudge.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 392
+  },
+  {
+    "condition": {
+      "urlFilter": "||jteamturkey.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 393
+  },
+  {
+    "condition": {
+      "urlFilter": "||jv11am.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 394
+  },
+  {
+    "condition": {
+      "urlFilter": "||kabor.info"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 395
+  },
+  {
+    "condition": {
+      "urlFilter": "||kanekikek.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 396
+  },
+  {
+    "condition": {
+      "urlFilter": "||kaphubsapp.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 397
+  },
+  {
+    "condition": {
+      "urlFilter": "||karshin.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 398
+  },
+  {
+    "condition": {
+      "urlFilter": "||kazamajin.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 399
+  },
+  {
+    "condition": {
+      "urlFilter": "||kennethcanega.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 400
+  },
+  {
+    "condition": {
+      "urlFilter": "||keyatraderss.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 401
+  },
+  {
+    "condition": {
+      "urlFilter": "||khao-newth.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 402
+  },
+  {
+    "condition": {
+      "urlFilter": "||khitinhyeudulon.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 403
+  },
+  {
+    "condition": {
+      "urlFilter": "||kinesiotapelife.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 404
+  },
+  {
+    "condition": {
+      "urlFilter": "||kirawhite.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 405
+  },
+  {
+    "condition": {
+      "urlFilter": "||klmemorialschools.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 406
+  },
+  {
+    "condition": {
+      "urlFilter": "||kmoilane.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 407
+  },
+  {
+    "condition": {
+      "urlFilter": "||kuka999.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 408
+  },
+  {
+    "condition": {
+      "urlFilter": "||kwsells.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 409
+  },
+  {
+    "condition": {
+      "urlFilter": "||l21ad.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 410
+  },
+  {
+    "condition": {
+      "urlFilter": "||labugy.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 411
+  },
+  {
+    "condition": {
+      "urlFilter": "||laddercaptial.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 412
+  },
+  {
+    "condition": {
+      "urlFilter": "||lakeoffer.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 413
+  },
+  {
+    "condition": {
+      "urlFilter": "||lanansi.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 414
+  },
+  {
+    "condition": {
+      "urlFilter": "||laravel-code.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 415
+  },
+  {
+    "condition": {
+      "urlFilter": "||lazzytech.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 416
+  },
+  {
+    "condition": {
+      "urlFilter": "||le42a66a.justinstalledpanel.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 417
+  },
+  {
+    "condition": {
+      "urlFilter": "||legalbrightjoint.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 418
+  },
+  {
+    "condition": {
+      "urlFilter": "||lelepenyet.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 419
+  },
+  {
+    "condition": {
+      "urlFilter": "||leslignesdufjord.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 420
+  },
+  {
+    "condition": {
+      "urlFilter": "||lifechangingthoughts.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 421
+  },
+  {
+    "condition": {
+      "urlFilter": "||lilufan.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 422
+  },
+  {
+    "condition": {
+      "urlFilter": "||littlehappybliss.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 423
+  },
+  {
+    "condition": {
+      "urlFilter": "||littlistings.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 424
+  },
+  {
+    "condition": {
+      "urlFilter": "||liveyourbestlifetwice.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 425
+  },
+  {
+    "condition": {
+      "urlFilter": "||lojaeois.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 426
+  },
+  {
+    "condition": {
+      "urlFilter": "||losangelescriminalattorneys.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 427
+  },
+  {
+    "condition": {
+      "urlFilter": "||losangelesfamilylawlawyer.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 428
+  },
+  {
+    "condition": {
+      "urlFilter": "||losangelesfamilylawlawyers.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 429
+  },
+  {
+    "condition": {
+      "urlFilter": "||lux-sothebysrealty.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 430
+  },
+  {
+    "condition": {
+      "urlFilter": "||luxsothebysrealty.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 431
+  },
+  {
+    "condition": {
+      "urlFilter": "||luxuriyahotels.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 432
+  },
+  {
+    "condition": {
+      "urlFilter": "||lxtsir.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 433
+  },
+  {
+    "condition": {
+      "urlFilter": "||madsandyoe.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 434
+  },
+  {
+    "condition": {
+      "urlFilter": "||magecmoon.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 435
+  },
+  {
+    "condition": {
+      "urlFilter": "||mail.7primos.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 436
+  },
+  {
+    "condition": {
+      "urlFilter": "||mail.foxandmusic.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 437
+  },
+  {
+    "condition": {
+      "urlFilter": "||marakitones.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 438
+  },
+  {
+    "condition": {
+      "urlFilter": "||mdobbins.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 439
+  },
+  {
+    "condition": {
+      "urlFilter": "||meanderingmonarch.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 440
+  },
+  {
+    "condition": {
+      "urlFilter": "||medbharat.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 441
+  },
+  {
+    "condition": {
+      "urlFilter": "||medellinproperties.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 442
+  },
+  {
+    "condition": {
+      "urlFilter": "||medlabgov.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 443
+  },
+  {
+    "condition": {
+      "urlFilter": "||mekaniker.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 444
+  },
+  {
+    "condition": {
+      "urlFilter": "||miagegedeng.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 445
+  },
+  {
+    "condition": {
+      "urlFilter": "||michaelkusuma.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 446
+  },
+  {
+    "condition": {
+      "urlFilter": "||mihird.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 447
+  },
+  {
+    "condition": {
+      "urlFilter": "||milano2london.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 448
+  },
+  {
+    "condition": {
+      "urlFilter": "||mindgarageclasses.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 449
+  },
+  {
+    "condition": {
+      "urlFilter": "||minguapp.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 450
+  },
+  {
+    "condition": {
+      "urlFilter": "||mm88ibc.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 451
+  },
+  {
+    "condition": {
+      "urlFilter": "||moonstalks.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 452
+  },
+  {
+    "condition": {
+      "urlFilter": "||motorotam.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 453
+  },
+  {
+    "condition": {
+      "urlFilter": "||mts35.eprohost.cloud"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 454
+  },
+  {
+    "condition": {
+      "urlFilter": "||muindetuva.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 455
+  },
+  {
+    "condition": {
+      "urlFilter": "||murciajenjorienta.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 456
+  },
+  {
+    "condition": {
+      "urlFilter": "||musclomania.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 457
+  },
+  {
+    "condition": {
+      "urlFilter": "||mventa.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 458
+  },
+  {
+    "condition": {
+      "urlFilter": "||mx.7primos.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 459
+  },
+  {
+    "condition": {
+      "urlFilter": "||mx0.meanderingmonarch.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 460
+  },
+  {
+    "condition": {
+      "urlFilter": "||mybigbullfrog.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 461
+  },
+  {
+    "condition": {
+      "urlFilter": "||mybulkads.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 462
+  },
+  {
+    "condition": {
+      "urlFilter": "||mydateco.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 463
+  },
+  {
+    "condition": {
+      "urlFilter": "||myndset88.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 464
+  },
+  {
+    "condition": {
+      "urlFilter": "||mypilateswoodlands.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 465
+  },
+  {
+    "condition": {
+      "urlFilter": "||mywritingteacher.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 466
+  },
+  {
+    "condition": {
+      "urlFilter": "||namthitechnology.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 467
+  },
+  {
+    "condition": {
+      "urlFilter": "||nantecranes.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 468
+  },
+  {
+    "condition": {
+      "urlFilter": "||nemobase.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 469
+  },
+  {
+    "condition": {
+      "urlFilter": "||newsyep.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 470
+  },
+  {
+    "condition": {
+      "urlFilter": "||nijibooks.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 471
+  },
+  {
+    "condition": {
+      "urlFilter": "||nikikuzi.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 472
+  },
+  {
+    "condition": {
+      "urlFilter": "||nothatsme.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 473
+  },
+  {
+    "condition": {
+      "urlFilter": "||ns2.ttom.xyz"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 474
+  },
+  {
+    "condition": {
+      "urlFilter": "||numberli.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 475
+  },
+  {
+    "condition": {
+      "urlFilter": "||nutratainment.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 476
+  },
+  {
+    "condition": {
+      "urlFilter": "||observant-trader.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 477
+  },
+  {
+    "condition": {
+      "urlFilter": "||offthatsauce.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 478
+  },
+  {
+    "condition": {
+      "urlFilter": "||ogg.gold-meat.ru"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 479
+  },
+  {
+    "condition": {
+      "urlFilter": "||ohmcodes.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 480
+  },
+  {
+    "condition": {
+      "urlFilter": "||ok12ground.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 481
+  },
+  {
+    "condition": {
+      "urlFilter": "||olasphotography.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 482
+  },
+  {
+    "condition": {
+      "urlFilter": "||olegus8.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 483
+  },
+  {
+    "condition": {
+      "urlFilter": "||openvnu.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 484
+  },
+  {
+    "condition": {
+      "urlFilter": "||optimumloftdesign.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 485
+  },
+  {
+    "condition": {
+      "urlFilter": "||orderdeliveryprocess.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 486
+  },
+  {
+    "condition": {
+      "urlFilter": "||orthopedicspecialistslouisiana.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 487
+  },
+  {
+    "condition": {
+      "urlFilter": "||osinoco.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 488
+  },
+  {
+    "condition": {
+      "urlFilter": "||ouitogroup.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 489
+  },
+  {
+    "condition": {
+      "urlFilter": "||overstayjaffa.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 490
+  },
+  {
+    "condition": {
+      "urlFilter": "||oybcomics.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 491
+  },
+  {
+    "condition": {
+      "urlFilter": "||paisleycecil.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 492
+  },
+  {
+    "condition": {
+      "urlFilter": "||peace2home.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 493
+  },
+  {
+    "condition": {
+      "urlFilter": "||peshanga.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 494
+  },
+  {
+    "condition": {
+      "urlFilter": "||philipparmingeon.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 495
+  },
+  {
+    "condition": {
+      "urlFilter": "||philiprudy.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 496
+  },
+  {
+    "condition": {
+      "urlFilter": "||philosophicalengineer.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 497
+  },
+  {
+    "condition": {
+      "urlFilter": "||piptrip.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 498
+  },
+  {
+    "condition": {
+      "urlFilter": "||pixnot.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 499
+  },
+  {
+    "condition": {
+      "urlFilter": "||pixyvend.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 500
+  },
+  {
+    "condition": {
+      "urlFilter": "||plavins.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 501
+  },
+  {
+    "condition": {
+      "urlFilter": "||playamethyst.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 502
+  },
+  {
+    "condition": {
+      "urlFilter": "||pma.dev.prowallet.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 503
+  },
+  {
+    "condition": {
+      "urlFilter": "||podqueen.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 504
+  },
+  {
+    "condition": {
+      "urlFilter": "||polyglotcoding.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 505
+  },
+  {
+    "condition": {
+      "urlFilter": "||pop.prowallet.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 506
+  },
+  {
+    "condition": {
+      "urlFilter": "||prayerbeadstore.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 507
+  },
+  {
+    "condition": {
+      "urlFilter": "||prayerbeadsworld.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 508
+  },
+  {
+    "condition": {
+      "urlFilter": "||proceduresystems.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 509
+  },
+  {
+    "condition": {
+      "urlFilter": "||proflyr.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 510
+  },
+  {
+    "condition": {
+      "urlFilter": "||promocodepa.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 511
+  },
+  {
+    "condition": {
+      "urlFilter": "||prosus-zoom.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 512
+  },
+  {
+    "condition": {
+      "urlFilter": "||prowallet.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 513
+  },
+  {
+    "condition": {
+      "urlFilter": "||purekushconsulting.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 514
+  },
+  {
+    "condition": {
+      "urlFilter": "||qirinedu.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 515
+  },
+  {
+    "condition": {
+      "urlFilter": "||qlifemedicals.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 516
+  },
+  {
+    "condition": {
+      "urlFilter": "||queuelyte.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 517
+  },
+  {
+    "condition": {
+      "urlFilter": "||quicktypecode.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 518
+  },
+  {
+    "condition": {
+      "urlFilter": "||quizas-slachtoffers.fun"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 519
+  },
+  {
+    "condition": {
+      "urlFilter": "||quoteous.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 520
+  },
+  {
+    "condition": {
+      "urlFilter": "||radicalizeapp.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 521
+  },
+  {
+    "condition": {
+      "urlFilter": "||rafills.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 522
+  },
+  {
+    "condition": {
+      "urlFilter": "||ranchodemanolo.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 523
+  },
+  {
+    "condition": {
+      "urlFilter": "||rapidtrainsit.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 524
+  },
+  {
+    "condition": {
+      "urlFilter": "||reachood.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 525
+  },
+  {
+    "condition": {
+      "urlFilter": "||realityprotocol.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 526
+  },
+  {
+    "condition": {
+      "urlFilter": "||realmanz.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 527
+  },
+  {
+    "condition": {
+      "urlFilter": "||redlandhosting.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 528
+  },
+  {
+    "condition": {
+      "urlFilter": "||redmatch-dev.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 529
+  },
+  {
+    "condition": {
+      "urlFilter": "||redrose-samp.info"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 530
+  },
+  {
+    "condition": {
+      "urlFilter": "||regalxervice.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 531
+  },
+  {
+    "condition": {
+      "urlFilter": "||reinhard-winter.info"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 532
+  },
+  {
+    "condition": {
+      "urlFilter": "||rentabilizarte.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 533
+  },
+  {
+    "condition": {
+      "urlFilter": "||rentaphantom.info"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 534
+  },
+  {
+    "condition": {
+      "urlFilter": "||reponses.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 535
+  },
+  {
+    "condition": {
+      "urlFilter": "||restrainingorderlawyers.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 536
+  },
+  {
+    "condition": {
+      "urlFilter": "||reuseu.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 537
+  },
+  {
+    "condition": {
+      "urlFilter": "||rimpub.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 538
+  },
+  {
+    "condition": {
+      "urlFilter": "||riyanfashion.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 539
+  },
+  {
+    "condition": {
+      "urlFilter": "||rootboundmarketing.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 540
+  },
+  {
+    "condition": {
+      "urlFilter": "||runaroundthailand.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 541
+  },
+  {
+    "condition": {
+      "urlFilter": "||sabiomail.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 542
+  },
+  {
+    "condition": {
+      "urlFilter": "||saibamaisconteudo.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 543
+  },
+  {
+    "condition": {
+      "urlFilter": "||saiindustriesorg.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 544
+  },
+  {
+    "condition": {
+      "urlFilter": "||saleega.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 545
+  },
+  {
+    "condition": {
+      "urlFilter": "||salessugarlane.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 546
+  },
+  {
+    "condition": {
+      "urlFilter": "||sammeyerson.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 547
+  },
+  {
+    "condition": {
+      "urlFilter": "||samsautomation.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 548
+  },
+  {
+    "condition": {
+      "urlFilter": "||sanatoriohnopedro.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 549
+  },
+  {
+    "condition": {
+      "urlFilter": "||sareelo.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 550
+  },
+  {
+    "condition": {
+      "urlFilter": "||sb.gold-meat.ru"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 551
+  },
+  {
+    "condition": {
+      "urlFilter": "||scalawagsalon.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 552
+  },
+  {
+    "condition": {
+      "urlFilter": "||scottgmorton.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 553
+  },
+  {
+    "condition": {
+      "urlFilter": "||seekingthephilippines.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 554
+  },
+  {
+    "condition": {
+      "urlFilter": "||selunar.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 555
+  },
+  {
+    "condition": {
+      "urlFilter": "||seriosec.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 556
+  },
+  {
+    "condition": {
+      "urlFilter": "||seriosgames.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 557
+  },
+  {
+    "condition": {
+      "urlFilter": "||serpfect.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 558
+  },
+  {
+    "condition": {
+      "urlFilter": "||server.7primos.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 559
+  },
+  {
+    "condition": {
+      "urlFilter": "||servewish.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 560
+  },
+  {
+    "condition": {
+      "urlFilter": "||shambaboys.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 561
+  },
+  {
+    "condition": {
+      "urlFilter": "||sharky24.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 562
+  },
+  {
+    "condition": {
+      "urlFilter": "||shiftotter.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 563
+  },
+  {
+    "condition": {
+      "urlFilter": "||shop-tm.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 564
+  },
+  {
+    "condition": {
+      "urlFilter": "||shopinthedoor.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 565
+  },
+  {
+    "condition": {
+      "urlFilter": "||shortbiolink.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 566
+  },
+  {
+    "condition": {
+      "urlFilter": "||showthemreal.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 567
+  },
+  {
+    "condition": {
+      "urlFilter": "||siteswave.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 568
+  },
+  {
+    "condition": {
+      "urlFilter": "||slip-o-matic.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 569
+  },
+  {
+    "condition": {
+      "urlFilter": "||southpawflow.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 570
+  },
+  {
+    "condition": {
+      "urlFilter": "||storedelrisparmio.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 571
+  },
+  {
+    "condition": {
+      "urlFilter": "||storygine.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 572
+  },
+  {
+    "condition": {
+      "urlFilter": "||subtitle5.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 573
+  },
+  {
+    "condition": {
+      "urlFilter": "||sunsportpl.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 574
+  },
+  {
+    "condition": {
+      "urlFilter": "||suq-ye.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 575
+  },
+  {
+    "condition": {
+      "urlFilter": "||survivedthebear.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 576
+  },
+  {
+    "condition": {
+      "urlFilter": "||syllabirepository.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 577
+  },
+  {
+    "condition": {
+      "urlFilter": "||sypaze.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 578
+  },
+  {
+    "condition": {
+      "urlFilter": "||ta-mill.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 579
+  },
+  {
+    "condition": {
+      "urlFilter": "||ta-millwork.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 580
+  },
+  {
+    "condition": {
+      "urlFilter": "||talkortryforfun.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 581
+  },
+  {
+    "condition": {
+      "urlFilter": "||taqrebcenter.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 582
+  },
+  {
+    "condition": {
+      "urlFilter": "||tastesurta.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 583
+  },
+  {
+    "condition": {
+      "urlFilter": "||tau-enterprise.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 584
+  },
+  {
+    "condition": {
+      "urlFilter": "||tawgaming.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 585
+  },
+  {
+    "condition": {
+      "urlFilter": "||techcaffi.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 586
+  },
+  {
+    "condition": {
+      "urlFilter": "||techtokbuy.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 587
+  },
+  {
+    "condition": {
+      "urlFilter": "||tele-entrega.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 588
+  },
+  {
+    "condition": {
+      "urlFilter": "||test.goldsrc.ru"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 589
+  },
+  {
+    "condition": {
+      "urlFilter": "||testesistema.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 590
+  },
+  {
+    "condition": {
+      "urlFilter": "||testtraf.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 591
+  },
+  {
+    "condition": {
+      "urlFilter": "||theasianhomes.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 592
+  },
+  {
+    "condition": {
+      "urlFilter": "||thelittlestastronautbook.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 593
+  },
+  {
+    "condition": {
+      "urlFilter": "||themailupdate.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 594
+  },
+  {
+    "condition": {
+      "urlFilter": "||themightypuck.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 595
+  },
+  {
+    "condition": {
+      "urlFilter": "||themyngl.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 596
+  },
+  {
+    "condition": {
+      "urlFilter": "||thestringbook.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 597
+  },
+  {
+    "condition": {
+      "urlFilter": "||thesuperchargerguide.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 598
+  },
+  {
+    "condition": {
+      "urlFilter": "||theunsorted.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 599
+  },
+  {
+    "condition": {
+      "urlFilter": "||theviralpunjab.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 600
+  },
+  {
+    "condition": {
+      "urlFilter": "||thirstysocial.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 601
+  },
+  {
+    "condition": {
+      "urlFilter": "||thirtysevenpixel.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 602
+  },
+  {
+    "condition": {
+      "urlFilter": "||tiaa-us.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 603
+  },
+  {
+    "condition": {
+      "urlFilter": "||tiffanietru.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 604
+  },
+  {
+    "condition": {
+      "urlFilter": "||timiteadama.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 605
+  },
+  {
+    "condition": {
+      "urlFilter": "||tipex-express.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 606
+  },
+  {
+    "condition": {
+      "urlFilter": "||tofalado.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 607
+  },
+  {
+    "condition": {
+      "urlFilter": "||toplifestyleusa.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 608
+  },
+  {
+    "condition": {
+      "urlFilter": "||torymance.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 609
+  },
+  {
+    "condition": {
+      "urlFilter": "||trademarkwebapihost.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 610
+  },
+  {
+    "condition": {
+      "urlFilter": "||transformdoc.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 611
+  },
+  {
+    "condition": {
+      "urlFilter": "||travelwithpreeti.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 612
+  },
+  {
+    "condition": {
+      "urlFilter": "||trendyfoodllc.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 613
+  },
+  {
+    "condition": {
+      "urlFilter": "||trialbyfiredistro.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 614
+  },
+  {
+    "condition": {
+      "urlFilter": "||trucking-hub.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 615
+  },
+  {
+    "condition": {
+      "urlFilter": "||true-resilience.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 616
+  },
+  {
+    "condition": {
+      "urlFilter": "||tryenom.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 617
+  },
+  {
+    "condition": {
+      "urlFilter": "||trymiraclemade.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 618
+  },
+  {
+    "condition": {
+      "urlFilter": "||tsl-x-project.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 619
+  },
+  {
+    "condition": {
+      "urlFilter": "||tvinternetbestdeals.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 620
+  },
+  {
+    "condition": {
+      "urlFilter": "||uppook.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 621
+  },
+  {
+    "condition": {
+      "urlFilter": "||urprovidersapi.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 622
+  },
+  {
+    "condition": {
+      "urlFilter": "||usrmm.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 623
+  },
+  {
+    "condition": {
+      "urlFilter": "||v5.sammeyerson.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 624
+  },
+  {
+    "condition": {
+      "urlFilter": "||v7.sammeyerson.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 625
+  },
+  {
+    "condition": {
+      "urlFilter": "||valorantfantasy.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 626
+  },
+  {
+    "condition": {
+      "urlFilter": "||vamisola.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 627
+  },
+  {
+    "condition": {
+      "urlFilter": "||vapa.info"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 628
+  },
+  {
+    "condition": {
+      "urlFilter": "||verbal.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 629
+  },
+  {
+    "condition": {
+      "urlFilter": "||vicartz.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 630
+  },
+  {
+    "condition": {
+      "urlFilter": "||vintagewealthadvisor.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 631
+  },
+  {
+    "condition": {
+      "urlFilter": "||vishaldigha.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 632
+  },
+  {
+    "condition": {
+      "urlFilter": "||vittorehome.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 633
+  },
+  {
+    "condition": {
+      "urlFilter": "||vittoremobilya.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 634
+  },
+  {
+    "condition": {
+      "urlFilter": "||vmrentagreement.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 635
+  },
+  {
+    "condition": {
+      "urlFilter": "||vpn.7primos.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 636
+  },
+  {
+    "condition": {
+      "urlFilter": "||vps.7primos.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 637
+  },
+  {
+    "condition": {
+      "urlFilter": "||wandip.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 638
+  },
+  {
+    "condition": {
+      "urlFilter": "||watirna.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 639
+  },
+  {
+    "condition": {
+      "urlFilter": "||webairindia.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 640
+  },
+  {
+    "condition": {
+      "urlFilter": "||webcreative.cc"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 641
+  },
+  {
+    "condition": {
+      "urlFilter": "||webmail.meanderingmonarch.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 642
+  },
+  {
+    "condition": {
+      "urlFilter": "||westnileyouthcenter.info"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 643
+  },
+  {
+    "condition": {
+      "urlFilter": "||wetterkroatien.info"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 644
+  },
+  {
+    "condition": {
+      "urlFilter": "||whohascalled.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 645
+  },
+  {
+    "condition": {
+      "urlFilter": "||winswipe.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 646
+  },
+  {
+    "condition": {
+      "urlFilter": "||wisefacts.info"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 647
+  },
+  {
+    "condition": {
+      "urlFilter": "||wluvu.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 648
+  },
+  {
+    "condition": {
+      "urlFilter": "||wokebit.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 649
+  },
+  {
+    "condition": {
+      "urlFilter": "||wolfandthefox.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 650
+  },
+  {
+    "condition": {
+      "urlFilter": "||wolhyang.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 651
+  },
+  {
+    "condition": {
+      "urlFilter": "||womankind.info"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 652
+  },
+  {
+    "condition": {
+      "urlFilter": "||wpagoravideo.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 653
+  },
+  {
+    "condition": {
+      "urlFilter": "||ww-absher.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 654
+  },
+  {
+    "condition": {
+      "urlFilter": "||xantrexapp.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 655
+  },
+  {
+    "condition": {
+      "urlFilter": "||xrgreenland.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 656
+  },
+  {
+    "condition": {
+      "urlFilter": "||yoginikaliji.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 657
+  },
+  {
+    "condition": {
+      "urlFilter": "||youinu.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 658
+  },
+  {
+    "condition": {
+      "urlFilter": "||yugenzone.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 659
+  },
+  {
+    "condition": {
+      "urlFilter": "||yuvaresult.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 660
+  },
+  {
+    "condition": {
+      "urlFilter": "||yzxchange.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 661
+  },
+  {
+    "condition": {
+      "urlFilter": "||zackmusgrave.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 662
+  },
+  {
+    "condition": {
+      "urlFilter": "||zendarr.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 663
+  },
+  {
+    "condition": {
+      "urlFilter": "||zithex.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 664
+  },
+  {
+    "condition": {
+      "urlFilter": "||zithextoken.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 665
+  },
+  {
+    "condition": {
+      "urlFilter": "||zookymatt.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 666
+  },
+  {
+    "condition": {
+      "urlFilter": "||nung-sub.com/images/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 667
+  },
+  {
+    "condition": {
+      "urlFilter": "||baner.msa-video.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 668
+  },
+  {
+    "condition": {
+      "urlFilter": "||nungde.com/wp-content/uploads/*/*.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 669
+  },
+  {
+    "condition": {
+      "urlFilter": "||037hdmovie.com/ads^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 670
+  },
+  {
+    "condition": {
+      "urlFilter": "/ufathai24-1.mp4"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 671
+  },
+  {
+    "condition": {
+      "urlFilter": "||marketingoops.com/*/itro-popup/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 672
+  },
+  {
+    "condition": {
+      "urlFilter": "||marketingoops.com/popup-ad*"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 673
+  },
+  {
+    "condition": {
+      "urlFilter": "||marketingoops.com/truehitsstat.php?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 674
+  },
+  {
+    "condition": {
+      "urlFilter": "||thaiidol.com/*/popup-by-supsystic/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 675
+  },
+  {
+    "condition": {
+      "urlFilter": "||thailandbestbeauty.com/*colorbox"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 676
+  },
+  {
+    "condition": {
+      "urlFilter": "||webtoons.com/js/lib/*_logger*"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 677
+  },
+  {
+    "condition": {
+      "urlFilter": "||webtoons.com/js/lib/dfp_helper*"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 678
+  },
+  {
+    "condition": {
+      "urlFilter": "||webtoons.com/js/lib/gak*"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 679
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "compgamer.com",
+        "tgpl.in.th"
+      ],
+      "regexFilter": "plugins\\/add-to-any"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 680
+  },
+  {
+    "condition": {
+      "urlFilter": "||35.193.89.147"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 681
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads.bumq.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 682
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.popcash.net"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 683
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.popmyads.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 684
+  },
+  {
+    "condition": {
+      "urlFilter": "||code.nytive.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 685
+  },
+  {
+    "condition": {
+      "urlFilter": "||code.yengo.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 686
+  },
+  {
+    "condition": {
+      "urlFilter": "||comenu.ais.co.th"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 687
+  },
+  {
+    "condition": {
+      "urlFilter": "||digital.ais.co.th/file/common/js/sub-store.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 688
+  },
+  {
+    "condition": {
+      "urlFilter": "||mds.nipa.co.th"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 689
+  },
+  {
+    "condition": {
+      "urlFilter": "||metrics.brightcove.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 690
+  },
+  {
+    "condition": {
+      "urlFilter": "||netdna-ssl.com/*/advanced-ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 691
+  },
+  {
+    "condition": {
+      "urlFilter": "||netdna-ssl.com/*/easy-social-share-buttons3/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 692
+  },
+  {
+    "condition": {
+      "urlFilter": "||saxp.zedo.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 693
+  },
+  {
+    "condition": {
+      "urlFilter": "||sistacafe.com/scripts/nytive"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 694
+  },
+  {
+    "condition": {
+      "urlFilter": "||sistacafe.com/scripts/truehits"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 695
+  },
+  {
+    "condition": {
+      "urlFilter": "||sistacafe.com/scripts/yengo"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 696
+  },
+  {
+    "condition": {
+      "urlFilter": "||srf.ais.co.th"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 697
+  },
+  {
+    "condition": {
+      "urlFilter": "||thaiza.com/nodo.html"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 698
+  },
+  {
+    "condition": {
+      "urlFilter": "||viu.com/ott/*/tracking/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 699
+  },
+  {
+    "condition": {
+      "urlFilter": "||wp.com/media.go2*.*/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 700
+  },
+  {
+    "condition": {
+      "urlFilter": "||ws-adv.ais.co.th"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 701
+  },
+  {
+    "condition": {
+      "urlFilter": "||soccersuck.com/img/banner"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 702
+  },
+  {
+    "condition": {
+      "urlFilter": "||notebookspec.com/*/nbs-ilightbox/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 703
+  },
+  {
+    "condition": {
+      "urlFilter": "||notebookspec.com/*/nbs_custom_ads_skin.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 704
+  },
+  {
+    "condition": {
+      "urlFilter": "||notebookspec.com/tracker^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 705
+  },
+  {
+    "condition": {
+      "urlFilter": "||oopsmobile.net/*/arscode-ninja-popups/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 706
+  },
+  {
+    "condition": {
+      "urlFilter": "||specphone.com/*/nbs-ilightbox/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 707
+  },
+  {
+    "condition": {
+      "urlFilter": "||techmoblog.com/*colorbox"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 708
+  },
+  {
+    "condition": {
+      "urlFilter": "||techxcite.com/ads/revive/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 709
+  },
+  {
+    "condition": {
+      "urlFilter": "||techxcite.com/stats.php?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 710
+  },
+  {
+    "condition": {
+      "urlFilter": "||techxcite.com/truehitsstat.php?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 711
+  },
+  {
+    "condition": {
+      "urlFilter": "||thaimobilecenter.com/colorbox^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 712
+  },
+  {
+    "condition": {
+      "urlFilter": "||thetechr.com/*/jinda-facebook-lightbox/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 713
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "109.248.59.27",
+        "195.133.60.89",
+        "46.8.158.101",
+        "46.8.158.80",
+        "46.8.158.94"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 714
+  },
+  {
+    "condition": {
+      "urlFilter": "||online-station.net/*/css/preload_ads",
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 715
+  },
+  {
+    "condition": {
+      "urlFilter": "||online-station.net/assets/css/ads",
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 716
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "coregamerth.com",
+        "fmone1035.com",
+        "get1025.com",
+        "miru-anime.net",
+        "miruanime.net",
+        "shopspotapp.com"
+      ],
+      "regexFilter": "plugins\\/popups",
+      "resourceTypes": [
+        "script",
+        "stylesheet"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 717
+  },
+  {
+    "condition": {
+      "urlFilter": "||xn--72ca2bsl7gxbd4m7c.com/wp-content/uploads/2020/04/closed.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 718
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.am4th.com/wp-content/uploads/2016/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 719
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.am4th.com/wp-content/uploads/2017/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 720
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.am4th.com/wp-content/uploads/2017/*/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 721
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.anime-sugoi.com/css/ontop.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 722
+  },
+  {
+    "condition": {
+      "urlFilter": "||image.cdend.com^",
+      "initiatorDomains": [
+        "ranker-manga.com"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 723
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "fairyanime.net"
+      ],
+      "urlFilter": "||cdend.com/wp-content/uploads/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 724
+  },
+  {
+    "condition": {
+      "urlFilter": "||veewin.top/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 725
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.movie2free.com/wp-content/themes/next/images/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 726
+  },
+  {
+    "condition": {
+      "urlFilter": "||yed365days.com/wp-content/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 727
+  },
+  {
+    "condition": {
+      "urlFilter": "||movie87hd.com/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 728
+  },
+  {
+    "condition": {
+      "urlFilter": ".gif",
+      "initiatorDomains": [
+        "037hdmovie.com"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 729
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "nung2-hdd.com"
+      ],
+      "urlFilter": "/wp-content/uploads/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 730
+  },
+  {
+    "condition": {
+      "urlFilter": "||techtalkthai.com/wp-content/*banner*",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 731
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.thaiboyslove.com/webboard/banner/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 732
+  },
+  {
+    "condition": {
+      "urlFilter": "||tonytonychopper.com/ads/",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 733
+  },
+  {
+    "condition": {
+      "urlFilter": "||atimemedia.com/js/jquery.supportus.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 734
+  },
+  {
+    "condition": {
+      "urlFilter": "||isanook.com/*/oppa.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 735
+  },
+  {
+    "condition": {
+      "urlFilter": "||isanook.com/*/tapad.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 736
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "shopee.co.th"
+      ],
+      "urlFilter": "||akamaihd.net/shopee/*/*trackingrules",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 737
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "shopee.co.th"
+      ],
+      "urlFilter": "||akamaihd.net/shopee/*/trackingrules",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 738
+  },
+  {
+    "condition": {
+      "urlFilter": "||online-station.net/assets/js/ads",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 739
+  },
+  {
+    "condition": {
+      "urlFilter": "||online-station.net/assets/js/facebook",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 740
+  },
+  {
+    "condition": {
+      "urlFilter": "||tigthai.com/js/popup_facebook.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 741
+  },
+  {
+    "condition": {
+      "urlFilter": "||sistacafe.com/assets/jquery.cookie-*.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 742
+  },
+  {
+    "condition": {
+      "urlFilter": "||sistacafe.com/assets/popup_notification-*.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 743
+  },
+  {
+    "condition": {
+      "urlFilter": "||shopee.co.th/userstats_record",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 744
+  },
+  {
+    "condition": {
+      "urlFilter": "||shopeemobile.com/th/tr",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 745
+  },
+  {
+    "condition": {
+      "resourceTypes": [
+        "sub_frame"
+      ],
+      "urlFilter": "||publish.iptvz.net^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 746
+  },
+  {
+    "condition": {
+      "urlFilter": "||techmoblog.com/tmb-advertise^",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 747
+  },
+  {
+    "condition": {
+      "urlFilter": "||rsc.cdn77.org/videos/ads-",
+      "initiatorDomains": [
+        "leoplayer7.com"
+      ],
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 748
+  },
+  {
+    "condition": {
+      "urlFilter": "||upfastfile.com/upload/",
+      "initiatorDomains": [
+        "leoplayer7.com"
+      ],
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 749
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "cdend.com",
+        "googles.video"
+      ],
+      "initiatorDomains": [
+        "leoplayer7.com"
+      ],
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 750
+  },
+  {
+    "condition": {
+      "urlFilter": "||image7.kingsmanga.net/00/00/gclub2.jpg",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 752
+  },
+  {
+    "condition": {
+      "urlFilter": "||anime-yuzu.com/up/img/webp/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 753
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "movie2free.com",
+        "movies-x.com",
+        "ssnn.site",
+        "ufa191.com",
+        "ufabet678.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 754
+  },
+  {
+    "condition": {
+      "urlFilter": "-adnow.com",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 755
+  },
+  {
+    "condition": {
+      "urlFilter": "||cxense.com^",
+      "excludedInitiatorDomains": [
+        "tn.com.ar"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 756
+  },
+  {
+    "condition": {
+      "urlFilter": "||iwilldoforking.com/coverpage.js",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 757
+  },
+  {
+    "condition": {
+      "urlFilter": "||gelbooru.com/ads.js?"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 758
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "1x1.gif",
+    "condition": {
+      "urlFilter": "||shopee.co.th/__t__",
+      "initiatorDomains": [
+        "shopee.co.th"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/1x1.gif"
+      }
+    },
+    "priority": 11,
+    "id": 759
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "1x1.gif",
+    "condition": {
+      "urlFilter": "||tracking.shopee.co.th^",
+      "initiatorDomains": [
+        "shopee.co.th"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/1x1.gif"
+      }
+    },
+    "priority": 11,
+    "id": 760
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopmp4-1s",
+    "condition": {
+      "initiatorDomains": [
+        "thmovieshd.com"
+      ],
+      "urlFilter": "||b-cdn.net/ssd1/ads/*.mp4",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop-1s.mp4"
+      }
+    },
+    "priority": 41,
+    "id": 761
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopmp3-0.1s",
+    "condition": {
+      "initiatorDomains": [
+        "hdd.moviefun24.com"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop-0.1s.mp3"
+      }
+    },
+    "priority": 11,
+    "id": 762
+  }
+]

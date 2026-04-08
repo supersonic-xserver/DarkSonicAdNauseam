@@ -1,0 +1,1028 @@
+[
+  {
+    "condition": {
+      "urlFilter": "/js/ads_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1
+  },
+  {
+    "condition": {
+      "urlFilter": "://ads."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2
+  },
+  {
+    "condition": {
+      "urlFilter": "://ads2."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3
+  },
+  {
+    "condition": {
+      "urlFilter": "cdn.playapi.mtgx.tv/*/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4
+  },
+  {
+    "condition": {
+      "urlFilter": "http://*.rr.ru"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5
+  },
+  {
+    "condition": {
+      "urlFilter": "kalale.ee/upload/images/reklaam/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 6
+  },
+  {
+    "condition": {
+      "urlFilter": "lounaeestlane.ee/*/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 7
+  },
+  {
+    "condition": {
+      "urlFilter": "mail.ee/banners/2.0/bx.js*"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 8
+  },
+  {
+    "condition": {
+      "urlFilter": "mallukas.com/reklaamid/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 9
+  },
+  {
+    "condition": {
+      "urlFilter": "perekool.ee/pkfiles/adjs.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 10
+  },
+  {
+    "condition": {
+      "urlFilter": "soccernet.ee/img/reklaam/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 11
+  },
+  {
+    "condition": {
+      "urlFilter": "static.kava.ee/openx"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 12
+  },
+  {
+    "condition": {
+      "urlFilter": "video.reporter.ee/files*.flv?start=0"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 13
+  },
+  {
+    "condition": {
+      "urlFilter": "whatcar.ee/ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 14
+  },
+  {
+    "condition": {
+      "urlFilter": "www.ehitusfoorum.com/bannerid/www/delivery/ajs.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 15
+  },
+  {
+    "condition": {
+      "urlFilter": "|http://www.auto24.ee/js/auto24popup.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 16
+  },
+  {
+    "condition": {
+      "urlFilter": "||212.47.219.162/banners"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 17
+  },
+  {
+    "condition": {
+      "urlFilter": "||admin.naistemaailm.ee/upload/images/reklaam/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 18
+  },
+  {
+    "condition": {
+      "urlFilter": "||admp-tc.delfi.ee"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 19
+  },
+  {
+    "condition": {
+      "urlFilter": "||ajaleht.ekspress.ee/*/reklaam_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 20
+  },
+  {
+    "condition": {
+      "urlFilter": "||an.yandex.ru/system/context.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 21
+  },
+  {
+    "condition": {
+      "urlFilter": "||aripaev.ee/js/banners.min.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 22
+  },
+  {
+    "condition": {
+      "urlFilter": "||blog.tr.ee/banner"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 23
+  },
+  {
+    "condition": {
+      "urlFilter": "||bnrs.ilm.ee"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 24
+  },
+  {
+    "condition": {
+      "urlFilter": "||buduaar.ee/files/upload/banners"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 25
+  },
+  {
+    "condition": {
+      "urlFilter": "||buduaar.ee/files/upload/marketitems"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 26
+  },
+  {
+    "condition": {
+      "urlFilter": "||cherrystatic.net/banners"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 27
+  },
+  {
+    "condition": {
+      "urlFilter": "||delfi.ee/misc/cobancar/*.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 28
+  },
+  {
+    "condition": {
+      "urlFilter": "||harjuelu.ee/wp-content/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 29
+  },
+  {
+    "condition": {
+      "urlFilter": "||ilm24.ee/uus/ban/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 30
+  },
+  {
+    "condition": {
+      "urlFilter": "||img.auto24.ee/banners/ox/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 31
+  },
+  {
+    "condition": {
+      "urlFilter": "||kalale.ee/media/b2nnerid"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 32
+  },
+  {
+    "condition": {
+      "urlFilter": "||laanlane.ee/reklaam"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 33
+  },
+  {
+    "condition": {
+      "urlFilter": "||lpdigileht.epl.ee/*/reklaam_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 34
+  },
+  {
+    "condition": {
+      "urlFilter": "||neti.ee/reklaam"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 35
+  },
+  {
+    "condition": {
+      "urlFilter": "||perefoorum.ee/banner"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 36
+  },
+  {
+    "condition": {
+      "urlFilter": "||perekool.ee/banners"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 37
+  },
+  {
+    "condition": {
+      "urlFilter": "||pmo.ee/*/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 38
+  },
+  {
+    "condition": {
+      "urlFilter": "||reklaam.kava.ee"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 39
+  },
+  {
+    "condition": {
+      "urlFilter": "||reklaam.naistemaailm.ee"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 40
+  },
+  {
+    "condition": {
+      "urlFilter": "||toidutare.ee/img/ads"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 41
+  },
+  {
+    "condition": {
+      "urlFilter": "||v.postimees.ee/proxy-ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 42
+  },
+  {
+    "condition": {
+      "urlFilter": "||v.postimees.ee/reklaam/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 43
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.postimees.ee/newsletter/block"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 44
+  },
+  {
+    "condition": {
+      "urlFilter": "||yyr.ee/images/banners"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 45
+  },
+  {
+    "condition": {
+      "urlFilter": "||openx.static.kava.ee^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 46
+  },
+  {
+    "condition": {
+      "urlFilter": "||i.hinnavaatlus.ee/s/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 47
+  },
+  {
+    "condition": {
+      "urlFilter": "||imgsrv.kuldnebors.ee/banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 48
+  },
+  {
+    "condition": {
+      "urlFilter": "||imgsrv.kuldnebors.ee/static/banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 49
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "2mdn.net",
+        "ad.dumedia.ru",
+        "ad.mylook.ee",
+        "adbox.lv",
+        "adbrite.com",
+        "adbull.com",
+        "adbureau.net",
+        "adclick.co.ee",
+        "adengage.com",
+        "adform.net",
+        "adition.com",
+        "adkontekst.pl",
+        "adland.ru",
+        "adlegend.com",
+        "admeld.com",
+        "admixer.net",
+        "admulti.com",
+        "adnet.ee",
+        "adnetmedia.ee",
+        "adnxs.com",
+        "adocean.pl",
+        "adonspot.com",
+        "adonweb.ru",
+        "adreactor.com",
+        "adriver.ru",
+        "ads.ee",
+        "adserver.com",
+        "adsfac.eu",
+        "adtaily.pl",
+        "adtarget.me",
+        "adtech.de",
+        "adtechus.com",
+        "adtegrity.net",
+        "adultadvertising.net",
+        "adultfriendfinder.com",
+        "advertising.aol.com",
+        "advertising.com",
+        "advertserve.com",
+        "afilo.pl",
+        "afy11.net",
+        "ahcdns.com",
+        "aimatch.com",
+        "am10.ru",
+        "am11.ru",
+        "ap.delfi.ee",
+        "apex-ad.com",
+        "atdmt.com",
+        "axf8.net",
+        "bannerboxes.com",
+        "bannerhost.ru",
+        "bannex.ee",
+        "bbelements.com",
+        "begun.ru",
+        "bepolite.eu",
+        "bidvertiser.com",
+        "bizographics.com",
+        "bkrtx.com",
+        "blogads.com",
+        "bluekai.com",
+        "bluelithium.com",
+        "brazzers.com",
+        "budsinc.com",
+        "casalemedia.com",
+        "chartbeat.com",
+        "chartbeat.net",
+        "cherry.ee",
+        "chitika.net",
+        "collective-media.com",
+        "connextra.com",
+        "contextweb.com",
+        "cpxinteractive.com",
+        "crowdscience.com",
+        "crwdcntrl.net",
+        "cxense.com",
+        "dclick.ru",
+        "domdex.com",
+        "doubleclick.be",
+        "doubleclick.com",
+        "doubleclick.de",
+        "doubleclick.net",
+        "doublepimp.com",
+        "dowjoneson.com",
+        "dt00.net",
+        "eloqua.com",
+        "estara.com",
+        "etology.com",
+        "extreme-dm.com",
+        "fastclick.net",
+        "fastonlineusers.com",
+        "fortumo.ee",
+        "freeze.com",
+        "gemius.pl",
+        "getclicky.com",
+        "googleadservices.com",
+        "googlesyndication.com",
+        "harrenmedianetwork.com",
+        "hbmediapro.com",
+        "hitbox.com",
+        "hitfarm.com",
+        "imlive.com",
+        "impartner.lt",
+        "invitemedia.com",
+        "ixnp.com",
+        "klikivabrik.ee",
+        "klikki.com",
+        "kqzyfj.com",
+        "lekane.net",
+        "luxup.ru",
+        "magnetic.is",
+        "marketgid.com",
+        "maxtraffic.com",
+        "maxtraffic.eu",
+        "mediaindex.ee",
+        "mediaplex.com",
+        "metaffiliation.com",
+        "msads.net",
+        "neoffic.com",
+        "netaffiliation.com",
+        "netsales.pl",
+        "newrelic.com",
+        "novem.pl",
+        "olark.com",
+        "onthe.io",
+        "openx.org",
+        "overture.com",
+        "oxado.com",
+        "pakkumised.ee",
+        "pardot.com",
+        "passion.com",
+        "pay4results.ee",
+        "pcads.ru",
+        "pheedo.com",
+        "pop6.com",
+        "pro-9.com",
+        "pro-market.net",
+        "realmedia.com",
+        "reklaam.keskus.ee",
+        "reklaam.nagi.ee",
+        "relevant.fi",
+        "rmxads.com",
+        "roiservice.com",
+        "scorecardresearch.com",
+        "searchco.com",
+        "serving-sys.com",
+        "sexinyourcity.com",
+        "smartad.ee",
+        "smartadserver.com",
+        "sn00.net",
+        "specificclick.net",
+        "spring-tns.net",
+        "spylog.com",
+        "spylog.ru",
+        "starwave.com",
+        "static.chilli.ee",
+        "statistik-gallup.net",
+        "streamray.com",
+        "sweetmedia.org",
+        "tacoda.net",
+        "teasernet.com",
+        "textads.ee",
+        "tns-counter.ru",
+        "traceworks.com",
+        "trackalyzer.com",
+        "tradedoubler.com",
+        "trafficjunky.net",
+        "tribalfusion.com",
+        "trigger.ee",
+        "uimserv.net",
+        "underclick.ru",
+        "ventivmedia.com",
+        "viglink.com",
+        "way2traffic.com",
+        "webtrendslive.com",
+        "wsod.com",
+        "xgraph.net",
+        "xiti.com",
+        "xtendmedia.com",
+        "yadro.ru",
+        "yceml.net",
+        "yieldmanager.com",
+        "ytsa.net",
+        "zangocash.com",
+        "zanox-affiliate.de",
+        "zedo.com",
+        "ztod.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 50
+  },
+  {
+    "condition": {
+      "urlFilter": "||cherrystatic.net^",
+      "excludedInitiatorDomains": [
+        "cherry.ee"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 51
+  },
+  {
+    "condition": {
+      "urlFilter": "||city24.ee^",
+      "excludedInitiatorDomains": [
+        "city24.postimees.ee"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 52
+  },
+  {
+    "condition": {
+      "urlFilter": "||fwmrm.net^",
+      "excludedInitiatorDomains": [
+        "tv3.ee",
+        "tv3play.ee"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 53
+  },
+  {
+    "condition": {
+      "urlFilter": "||ui-portal.de^",
+      "excludedInitiatorDomains": [
+        "gmx.com",
+        "mail.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 54
+  },
+  {
+    "condition": {
+      "urlFilter": "ado.delfi.ee/files/js/ado.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 55
+  },
+  {
+    "condition": {
+      "urlFilter": "http://ads.postimees.ee/ads/list/*telecast"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 56
+  },
+  {
+    "condition": {
+      "urlFilter": "http://ads.postimees.ee/crossdomain.xml"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 57
+  },
+  {
+    "condition": {
+      "urlFilter": "||autonet.ee/showads.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 58
+  },
+  {
+    "condition": {
+      "urlFilter": "||delfi.ee*/js/ads."
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 59
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "fwmrm.net",
+        "newrelic.com"
+      ],
+      "initiatorDomains": [
+        "tv3play.tv3.ee"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 60
+  },
+  {
+    "condition": {
+      "urlFilter": "||kinnistuportaal.rik.ee/kaep/media/img/logos/exchange_banner_idkaart.gif"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 61
+  },
+  {
+    "condition": {
+      "urlFilter": "||tv3play.tv3.ee/ad/banner/"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 62
+  },
+  {
+    "condition": {
+      "urlFilter": "||ui-portal.de^",
+      "initiatorDomains": [
+        "gmx.net",
+        "web.de"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 63
+  },
+  {
+    "condition": {
+      "urlFilter": "||auth-delfi-ee.tinypass.com^"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 64
+  },
+  {
+    "condition": {
+      "urlFilter": "||play.tv3.ee/static/scripts/trackdb/events.gif",
+      "initiatorDomains": [
+        "play.tv3.ee"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 65
+  },
+  {
+    "condition": {
+      "urlFilter": "||adform.net/banners/scripts/adx.js",
+      "initiatorDomains": [
+        "delfi.ee"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 66
+  },
+  {
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com^",
+      "initiatorDomains": [
+        "duoplay.ee"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 67
+  },
+  {
+    "condition": {
+      "urlFilter": "||mssl.fwmrm.net/libs/adm/",
+      "initiatorDomains": [
+        "play.tv3.ee"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 68
+  },
+  {
+    "condition": {
+      "urlFilter": "||play.tv3.ee/static/scripts/ima3.js",
+      "initiatorDomains": [
+        "play.tv3.ee"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 69
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.go3.tv/file/go3/resources/scripts/tv3play/onetrust/lv/onetrust.html",
+      "initiatorDomains": [
+        "play.tv3.ee"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 70
+  },
+  {
+    "condition": {
+      "urlFilter": "||emediate.se^",
+      "initiatorDomains": [
+        "postimees.ee",
+        "tartupostimees.ee"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 71
+  },
+  {
+    "__modifierAction": 1,
+    "__modifierType": "removeparam",
+    "__modifierValue": "trackingCode",
+    "condition": {
+      "urlFilter": "^trackingCode=",
+      "requestDomains": [
+        "itella.ee"
+      ],
+      "resourceTypes": [
+        "image",
+        "main_frame",
+        "sub_frame",
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "id": 72
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "removeparam",
+    "__modifierValue": "dsrc",
+    "condition": {
+      "urlFilter": "^dsrc=",
+      "requestDomains": [
+        "delfi.ee"
+      ],
+      "resourceTypes": [
+        "image",
+        "main_frame",
+        "sub_frame",
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "transform": {
+          "queryTransform": {
+            "removeParams": [
+              "dsrc"
+            ]
+          }
+        }
+      }
+    },
+    "id": 73
+  }
+]

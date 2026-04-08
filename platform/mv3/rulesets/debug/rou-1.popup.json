@@ -1,0 +1,15 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "magazinuldecase.ro",
+        "terrapops.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 354
+  }
+]

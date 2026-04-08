@@ -1,0 +1,6065 @@
+[
+  {
+    "condition": {
+      "urlFilter": "||google.co.id/search?q=",
+      "initiatorDomains": [
+        "komikav.com",
+        "komikcast.com",
+        "manhwaindo.id"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 916
+  },
+  {
+    "condition": {
+      "urlFilter": "||kba.one/tracking/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 917
+  },
+  {
+    "condition": {
+      "urlFilter": "||statically.io/*.ttgambar.xyz/*.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 918
+  },
+  {
+    "condition": {
+      "urlFilter": "||tajir.la/komikcast"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 919
+  },
+  {
+    "condition": {
+      "urlFilter": "||tamuvip."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 920
+  },
+  {
+    "condition": {
+      "urlFilter": "/oppabet-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 921
+  },
+  {
+    "condition": {
+      "urlFilter": "||116poker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 922
+  },
+  {
+    "condition": {
+      "urlFilter": "||11juni."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 923
+  },
+  {
+    "condition": {
+      "urlFilter": "||128cash."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 924
+  },
+  {
+    "condition": {
+      "urlFilter": "||188bet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 925
+  },
+  {
+    "condition": {
+      "urlFilter": "||1sakong."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 926
+  },
+  {
+    "condition": {
+      "urlFilter": "||228poker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 927
+  },
+  {
+    "condition": {
+      "urlFilter": "||233bet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 928
+  },
+  {
+    "condition": {
+      "urlFilter": "||28bet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 929
+  },
+  {
+    "condition": {
+      "urlFilter": "||365hoki."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 930
+  },
+  {
+    "condition": {
+      "urlFilter": "||365kiu."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 931
+  },
+  {
+    "condition": {
+      "urlFilter": "||396dewa."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 932
+  },
+  {
+    "condition": {
+      "urlFilter": "||4dasli."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 933
+  },
+  {
+    "condition": {
+      "urlFilter": "||560bet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 934
+  },
+  {
+    "condition": {
+      "urlFilter": "||588poker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 935
+  },
+  {
+    "condition": {
+      "urlFilter": "||7nagabet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 936
+  },
+  {
+    "condition": {
+      "urlFilter": "||7nagapoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 937
+  },
+  {
+    "condition": {
+      "urlFilter": "||7nagatoto."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 938
+  },
+  {
+    "condition": {
+      "urlFilter": "||88beto."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 939
+  },
+  {
+    "condition": {
+      "urlFilter": "||899-cash."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 940
+  },
+  {
+    "condition": {
+      "urlFilter": "||899cash."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 941
+  },
+  {
+    "condition": {
+      "urlFilter": "||8mpoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 942
+  },
+  {
+    "condition": {
+      "urlFilter": "||988bet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 943
+  },
+  {
+    "condition": {
+      "urlFilter": "||abgqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 944
+  },
+  {
+    "condition": {
+      "urlFilter": "||acerpoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 945
+  },
+  {
+    "condition": {
+      "urlFilter": "||acmbet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 946
+  },
+  {
+    "condition": {
+      "urlFilter": "||adatogel."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 947
+  },
+  {
+    "condition": {
+      "urlFilter": "||adjarabet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 948
+  },
+  {
+    "condition": {
+      "urlFilter": "||afapkr."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 949
+  },
+  {
+    "condition": {
+      "urlFilter": "||afatogel1."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 950
+  },
+  {
+    "condition": {
+      "urlFilter": "||agen558."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 951
+  },
+  {
+    "condition": {
+      "urlFilter": "||agen688."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 952
+  },
+  {
+    "condition": {
+      "urlFilter": "||agenasia88."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 953
+  },
+  {
+    "condition": {
+      "urlFilter": "||agenbola."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 954
+  },
+  {
+    "condition": {
+      "urlFilter": "||agenbola24."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 955
+  },
+  {
+    "condition": {
+      "urlFilter": "||agenibc."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 956
+  },
+  {
+    "condition": {
+      "urlFilter": "||agensakong."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 957
+  },
+  {
+    "condition": {
+      "urlFilter": "||agent926."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 958
+  },
+  {
+    "condition": {
+      "urlFilter": "||agentaruhan."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 959
+  },
+  {
+    "condition": {
+      "urlFilter": "||agtwpoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 960
+  },
+  {
+    "condition": {
+      "urlFilter": "||agungpoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 961
+  },
+  {
+    "condition": {
+      "urlFilter": "||agwcash."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 962
+  },
+  {
+    "condition": {
+      "urlFilter": "||ahliqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 963
+  },
+  {
+    "condition": {
+      "urlFilter": "||ajobola."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 964
+  },
+  {
+    "condition": {
+      "urlFilter": "||aladincash7t."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 965
+  },
+  {
+    "condition": {
+      "urlFilter": "||aladinpoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 966
+  },
+  {
+    "condition": {
+      "urlFilter": "||alamiqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 967
+  },
+  {
+    "condition": {
+      "urlFilter": "||alampoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 968
+  },
+  {
+    "condition": {
+      "urlFilter": "||alternatif188bet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 969
+  },
+  {
+    "condition": {
+      "urlFilter": "||amdbet88."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 970
+  },
+  {
+    "condition": {
+      "urlFilter": "||anekaqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 971
+  },
+  {
+    "condition": {
+      "urlFilter": "||angkajitutogel."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 972
+  },
+  {
+    "condition": {
+      "urlFilter": "||angkakembar."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 973
+  },
+  {
+    "condition": {
+      "urlFilter": "||aoecash."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 974
+  },
+  {
+    "condition": {
+      "urlFilter": "||aon-bet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 975
+  },
+  {
+    "condition": {
+      "urlFilter": "||areabola."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 976
+  },
+  {
+    "condition": {
+      "urlFilter": "||arenacash88."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 977
+  },
+  {
+    "condition": {
+      "urlFilter": "||armanipoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 978
+  },
+  {
+    "condition": {
+      "urlFilter": "||armanitogel."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 979
+  },
+  {
+    "condition": {
+      "urlFilter": "||asalqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 980
+  },
+  {
+    "condition": {
+      "urlFilter": "||asia88bet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 981
+  },
+  {
+    "condition": {
+      "urlFilter": "||asiabandarkiu."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 982
+  },
+  {
+    "condition": {
+      "urlFilter": "||asiabolabet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 983
+  },
+  {
+    "condition": {
+      "urlFilter": "||asian4d."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 984
+  },
+  {
+    "condition": {
+      "urlFilter": "||asianbandarq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 985
+  },
+  {
+    "condition": {
+      "urlFilter": "||asianbrain."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 986
+  },
+  {
+    "condition": {
+      "urlFilter": "||asianpokerseo."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 987
+  },
+  {
+    "condition": {
+      "urlFilter": "||asiapoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 988
+  },
+  {
+    "condition": {
+      "urlFilter": "||asikbookie."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 989
+  },
+  {
+    "condition": {
+      "urlFilter": "||astonbola."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 990
+  },
+  {
+    "condition": {
+      "urlFilter": "||astrototo."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 991
+  },
+  {
+    "condition": {
+      "urlFilter": "||auxbet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 992
+  },
+  {
+    "condition": {
+      "urlFilter": "||axiobola."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 993
+  },
+  {
+    "condition": {
+      "urlFilter": "||ayojuara."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 994
+  },
+  {
+    "condition": {
+      "urlFilter": "||ayomainqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 995
+  },
+  {
+    "condition": {
+      "urlFilter": "||b2poker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 996
+  },
+  {
+    "condition": {
+      "urlFilter": "||baftarbandarkiu."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 997
+  },
+  {
+    "condition": {
+      "urlFilter": "||balak9."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 998
+  },
+  {
+    "condition": {
+      "urlFilter": "||balakqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 999
+  },
+  {
+    "condition": {
+      "urlFilter": "||bandar228."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1000
+  },
+  {
+    "condition": {
+      "urlFilter": "||bandar55."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1001
+  },
+  {
+    "condition": {
+      "urlFilter": "||bandarasia."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1002
+  },
+  {
+    "condition": {
+      "urlFilter": "||bandarbet77."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1003
+  },
+  {
+    "condition": {
+      "urlFilter": "||bandarbolaasia."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1004
+  },
+  {
+    "condition": {
+      "urlFilter": "||bandarbursa."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1005
+  },
+  {
+    "condition": {
+      "urlFilter": "||bandarjudi."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1006
+  },
+  {
+    "condition": {
+      "urlFilter": "||bandarkiu."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1007
+  },
+  {
+    "condition": {
+      "urlFilter": "||bandarpoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1008
+  },
+  {
+    "condition": {
+      "urlFilter": "||bandarq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1009
+  },
+  {
+    "condition": {
+      "urlFilter": "||bandarqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1010
+  },
+  {
+    "condition": {
+      "urlFilter": "||bandarqterpercaya."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1011
+  },
+  {
+    "condition": {
+      "urlFilter": "||bandarsakong."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1012
+  },
+  {
+    "condition": {
+      "urlFilter": "||bandartaruhan."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1013
+  },
+  {
+    "condition": {
+      "urlFilter": "||bandartogelsingapore."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1014
+  },
+  {
+    "condition": {
+      "urlFilter": "||barakjudi."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1015
+  },
+  {
+    "condition": {
+      "urlFilter": "||bca99."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1016
+  },
+  {
+    "condition": {
+      "urlFilter": "||bcadomino."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1017
+  },
+  {
+    "condition": {
+      "urlFilter": "||bdr99."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1018
+  },
+  {
+    "condition": {
+      "urlFilter": "||bdrqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1019
+  },
+  {
+    "condition": {
+      "urlFilter": "||bejopoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1020
+  },
+  {
+    "condition": {
+      "urlFilter": "||bejototo."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1021
+  },
+  {
+    "condition": {
+      "urlFilter": "||belajar-bisnis."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1022
+  },
+  {
+    "condition": {
+      "urlFilter": "||beliqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1023
+  },
+  {
+    "condition": {
+      "urlFilter": "||benderapoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1024
+  },
+  {
+    "condition": {
+      "urlFilter": "||bersama365."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1025
+  },
+  {
+    "condition": {
+      "urlFilter": "||betsaja."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1026
+  },
+  {
+    "condition": {
+      "urlFilter": "||betwin188."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1027
+  },
+  {
+    "condition": {
+      "urlFilter": "||bigextracash."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1028
+  },
+  {
+    "condition": {
+      "urlFilter": "||bintangbola."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1029
+  },
+  {
+    "condition": {
+      "urlFilter": "||bintangcapsa."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1030
+  },
+  {
+    "condition": {
+      "urlFilter": "||bisa88."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1031
+  },
+  {
+    "condition": {
+      "urlFilter": "||bisnishandal."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1032
+  },
+  {
+    "condition": {
+      "urlFilter": "||bla168."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1033
+  },
+  {
+    "condition": {
+      "urlFilter": "||block.s3block."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1034
+  },
+  {
+    "condition": {
+      "urlFilter": "||bmwpoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1035
+  },
+  {
+    "condition": {
+      "urlFilter": "||bnipoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1036
+  },
+  {
+    "condition": {
+      "urlFilter": "||bola168."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1037
+  },
+  {
+    "condition": {
+      "urlFilter": "||bola24."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1038
+  },
+  {
+    "condition": {
+      "urlFilter": "||bola777."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1039
+  },
+  {
+    "condition": {
+      "urlFilter": "||boladunia88bet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1040
+  },
+  {
+    "condition": {
+      "urlFilter": "||bolagalaxy."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1041
+  },
+  {
+    "condition": {
+      "urlFilter": "||bolaketangkasan."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1042
+  },
+  {
+    "condition": {
+      "urlFilter": "||bolalabo."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1043
+  },
+  {
+    "condition": {
+      "urlFilter": "||bolapk."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1044
+  },
+  {
+    "condition": {
+      "urlFilter": "||bolasuhu."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1045
+  },
+  {
+    "condition": {
+      "urlFilter": "||bolasukses."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1046
+  },
+  {
+    "condition": {
+      "urlFilter": "||bolavegas."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1047
+  },
+  {
+    "condition": {
+      "urlFilter": "||bolped77."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1048
+  },
+  {
+    "condition": {
+      "urlFilter": "||boya13."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1049
+  },
+  {
+    "condition": {
+      "urlFilter": "||btybet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1050
+  },
+  {
+    "condition": {
+      "urlFilter": "||bunchofwinners."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1051
+  },
+  {
+    "condition": {
+      "urlFilter": "||bursabet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1052
+  },
+  {
+    "condition": {
+      "urlFilter": "||buyu905."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1053
+  },
+  {
+    "condition": {
+      "urlFilter": "||cacingnaga."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1054
+  },
+  {
+    "condition": {
+      "urlFilter": "||cafeskor."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1055
+  },
+  {
+    "condition": {
+      "urlFilter": "||cahayapoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1056
+  },
+  {
+    "condition": {
+      "urlFilter": "||cahayaqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1057
+  },
+  {
+    "condition": {
+      "urlFilter": "||capqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1058
+  },
+  {
+    "condition": {
+      "urlFilter": "||capsa-susun."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1059
+  },
+  {
+    "condition": {
+      "urlFilter": "||caradaftarpoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1060
+  },
+  {
+    "condition": {
+      "urlFilter": "||cariqqiu."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1061
+  },
+  {
+    "condition": {
+      "urlFilter": "||cash-harvest."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1062
+  },
+  {
+    "condition": {
+      "urlFilter": "||casinosport88."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1063
+  },
+  {
+    "condition": {
+      "urlFilter": "||cbnpoker88."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1064
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdnasiaclub."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1065
+  },
+  {
+    "condition": {
+      "urlFilter": "||cekakses."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1066
+  },
+  {
+    "condition": {
+      "urlFilter": "||cendanagaming."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1067
+  },
+  {
+    "condition": {
+      "urlFilter": "||cendanapoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1068
+  },
+  {
+    "condition": {
+      "urlFilter": "||ceritasex."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1069
+  },
+  {
+    "condition": {
+      "urlFilter": "||cinaqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1070
+  },
+  {
+    "condition": {
+      "urlFilter": "||cmcwin."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1071
+  },
+  {
+    "condition": {
+      "urlFilter": "||cyakibet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1072
+  },
+  {
+    "condition": {
+      "urlFilter": "||cyakibet77."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1073
+  },
+  {
+    "condition": {
+      "urlFilter": "||dadubets."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1074
+  },
+  {
+    "condition": {
+      "urlFilter": "||daftarbandarkiu."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1075
+  },
+  {
+    "condition": {
+      "urlFilter": "||daftarbandarpoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1076
+  },
+  {
+    "condition": {
+      "urlFilter": "||daftarbandartogelterpercaya."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1077
+  },
+  {
+    "condition": {
+      "urlFilter": "||daftardomino."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1078
+  },
+  {
+    "condition": {
+      "urlFilter": "||daftarfun88."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1079
+  },
+  {
+    "condition": {
+      "urlFilter": "||daftarpoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1080
+  },
+  {
+    "condition": {
+      "urlFilter": "||daftarpoker228."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1081
+  },
+  {
+    "condition": {
+      "urlFilter": "||daftarqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1082
+  },
+  {
+    "condition": {
+      "urlFilter": "||daftarqqonline."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1083
+  },
+  {
+    "condition": {
+      "urlFilter": "||daftarsbobetresmi."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1084
+  },
+  {
+    "condition": {
+      "urlFilter": "||daftartogelonline."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1085
+  },
+  {
+    "condition": {
+      "urlFilter": "||dahsyatqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1086
+  },
+  {
+    "condition": {
+      "urlFilter": "||depodomino."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1087
+  },
+  {
+    "condition": {
+      "urlFilter": "||dermaga4d."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1088
+  },
+  {
+    "condition": {
+      "urlFilter": "||detikbet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1089
+  },
+  {
+    "condition": {
+      "urlFilter": "||dewa757."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1090
+  },
+  {
+    "condition": {
+      "urlFilter": "||dewaboya."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1091
+  },
+  {
+    "condition": {
+      "urlFilter": "||dewadominoqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1092
+  },
+  {
+    "condition": {
+      "urlFilter": "||dewahoki."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1093
+  },
+  {
+    "condition": {
+      "urlFilter": "||dewanaga."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1094
+  },
+  {
+    "condition": {
+      "urlFilter": "||dewapoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1095
+  },
+  {
+    "condition": {
+      "urlFilter": "||dewiqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1096
+  },
+  {
+    "condition": {
+      "urlFilter": "||dinastybet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1097
+  },
+  {
+    "condition": {
+      "urlFilter": "||divaliga."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1098
+  },
+  {
+    "condition": {
+      "urlFilter": "||divisix."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1099
+  },
+  {
+    "condition": {
+      "urlFilter": "||domino-168."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1100
+  },
+  {
+    "condition": {
+      "urlFilter": "||domino168."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1101
+  },
+  {
+    "condition": {
+      "urlFilter": "||domino5star."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1102
+  },
+  {
+    "condition": {
+      "urlFilter": "||domino757."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1103
+  },
+  {
+    "condition": {
+      "urlFilter": "||dominobetqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1104
+  },
+  {
+    "condition": {
+      "urlFilter": "||dominoqqwin."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1105
+  },
+  {
+    "condition": {
+      "urlFilter": "||dorabet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1106
+  },
+  {
+    "condition": {
+      "urlFilter": "||doremibet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1107
+  },
+  {
+    "condition": {
+      "urlFilter": "||doyan-99."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1108
+  },
+  {
+    "condition": {
+      "urlFilter": "||doyanbandarq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1109
+  },
+  {
+    "condition": {
+      "urlFilter": "||doyankiu."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1110
+  },
+  {
+    "condition": {
+      "urlFilter": "||duapoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1111
+  },
+  {
+    "condition": {
+      "urlFilter": "||duitbux."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1112
+  },
+  {
+    "condition": {
+      "urlFilter": "||dunia-bisnis."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1113
+  },
+  {
+    "condition": {
+      "urlFilter": "||duniaspa."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1114
+  },
+  {
+    "condition": {
+      "urlFilter": "||dwabet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1115
+  },
+  {
+    "condition": {
+      "urlFilter": "||earneasycash."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1116
+  },
+  {
+    "condition": {
+      "urlFilter": "||elang13."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1117
+  },
+  {
+    "condition": {
+      "urlFilter": "||elang88."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1118
+  },
+  {
+    "condition": {
+      "urlFilter": "||elangbola."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1119
+  },
+  {
+    "condition": {
+      "urlFilter": "||elangcapsa."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1120
+  },
+  {
+    "condition": {
+      "urlFilter": "||elanghoki."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1121
+  },
+  {
+    "condition": {
+      "urlFilter": "||ezebet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1122
+  },
+  {
+    "condition": {
+      "urlFilter": "||fairbet88."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1123
+  },
+  {
+    "condition": {
+      "urlFilter": "||fajarimam."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1124
+  },
+  {
+    "condition": {
+      "urlFilter": "||faktavimax."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1125
+  },
+  {
+    "condition": {
+      "urlFilter": "||fast2bet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1126
+  },
+  {
+    "condition": {
+      "urlFilter": "||formulabisnis."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1127
+  },
+  {
+    "condition": {
+      "urlFilter": "||fullbet88."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1128
+  },
+  {
+    "condition": {
+      "urlFilter": "||gadingpoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1129
+  },
+  {
+    "condition": {
+      "urlFilter": "||gadispoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1130
+  },
+  {
+    "condition": {
+      "urlFilter": "||galaxybola."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1131
+  },
+  {
+    "condition": {
+      "urlFilter": "||galaxytoto."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1132
+  },
+  {
+    "condition": {
+      "urlFilter": "||ganoolqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1133
+  },
+  {
+    "condition": {
+      "urlFilter": "||garampoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1134
+  },
+  {
+    "condition": {
+      "urlFilter": "||garenapoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1135
+  },
+  {
+    "condition": {
+      "urlFilter": "||gebyarbola."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1136
+  },
+  {
+    "condition": {
+      "urlFilter": "||gemarcapsa."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1137
+  },
+  {
+    "condition": {
+      "urlFilter": "||gemarpoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1138
+  },
+  {
+    "condition": {
+      "urlFilter": "||goodlucky99."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1139
+  },
+  {
+    "condition": {
+      "urlFilter": "||gopiyopiyo."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1140
+  },
+  {
+    "condition": {
+      "urlFilter": "||halodewa."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1141
+  },
+  {
+    "condition": {
+      "urlFilter": "||hanabet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1142
+  },
+  {
+    "condition": {
+      "urlFilter": "||hdp365."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1143
+  },
+  {
+    "condition": {
+      "urlFilter": "||hnbwin."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1144
+  },
+  {
+    "condition": {
+      "urlFilter": "||hobibet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1145
+  },
+  {
+    "condition": {
+      "urlFilter": "||hoki228."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1146
+  },
+  {
+    "condition": {
+      "urlFilter": "||hoki365."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1147
+  },
+  {
+    "condition": {
+      "urlFilter": "||hokibandarkiu."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1148
+  },
+  {
+    "condition": {
+      "urlFilter": "||hokibandarq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1149
+  },
+  {
+    "condition": {
+      "urlFilter": "||hokiliga."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1150
+  },
+  {
+    "condition": {
+      "urlFilter": "||hokipk."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1151
+  },
+  {
+    "condition": {
+      "urlFilter": "||hoyacash."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1152
+  },
+  {
+    "condition": {
+      "urlFilter": "||hoyajackpot."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1153
+  },
+  {
+    "condition": {
+      "urlFilter": "||hoyapoker99."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1154
+  },
+  {
+    "condition": {
+      "urlFilter": "||hoyatoto."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1155
+  },
+  {
+    "condition": {
+      "urlFilter": "||hoyatoto88."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1156
+  },
+  {
+    "condition": {
+      "urlFilter": "||hsoyrqqsludd."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1157
+  },
+  {
+    "condition": {
+      "urlFilter": "||hypertracker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1158
+  },
+  {
+    "condition": {
+      "urlFilter": "||i88cash."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1159
+  },
+  {
+    "condition": {
+      "urlFilter": "||ibcqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1160
+  },
+  {
+    "condition": {
+      "urlFilter": "||ibet44cash."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1161
+  },
+  {
+    "condition": {
+      "urlFilter": "||ibobandarq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1162
+  },
+  {
+    "condition": {
+      "urlFilter": "||icebola88."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1163
+  },
+  {
+    "condition": {
+      "urlFilter": "||iconwin."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1164
+  },
+  {
+    "condition": {
+      "urlFilter": "||id-13."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1165
+  },
+  {
+    "condition": {
+      "urlFilter": "||idb365."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1166
+  },
+  {
+    "condition": {
+      "urlFilter": "||idbet88."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1167
+  },
+  {
+    "condition": {
+      "urlFilter": "||idn55bet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1168
+  },
+  {
+    "condition": {
+      "urlFilter": "||idola188."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1169
+  },
+  {
+    "condition": {
+      "urlFilter": "||idola88."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1170
+  },
+  {
+    "condition": {
+      "urlFilter": "||idola888."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1171
+  },
+  {
+    "condition": {
+      "urlFilter": "||idola999."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1172
+  },
+  {
+    "condition": {
+      "urlFilter": "||idolabet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1173
+  },
+  {
+    "condition": {
+      "urlFilter": "||idolakini."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1174
+  },
+  {
+    "condition": {
+      "urlFilter": "||idomn."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1175
+  },
+  {
+    "condition": {
+      "urlFilter": "||idpokerlink."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1176
+  },
+  {
+    "condition": {
+      "urlFilter": "||idrajaqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1177
+  },
+  {
+    "condition": {
+      "urlFilter": "||iklanqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1178
+  },
+  {
+    "condition": {
+      "urlFilter": "||incrasebux."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1179
+  },
+  {
+    "condition": {
+      "urlFilter": "||indotogel1."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1180
+  },
+  {
+    "condition": {
+      "urlFilter": "||indukbet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1181
+  },
+  {
+    "condition": {
+      "urlFilter": "||infoterapis."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1182
+  },
+  {
+    "condition": {
+      "urlFilter": "||inibos."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1183
+  },
+  {
+    "condition": {
+      "urlFilter": "||inidomino."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1184
+  },
+  {
+    "condition": {
+      "urlFilter": "||interqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1185
+  },
+  {
+    "condition": {
+      "urlFilter": "||interwin."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1186
+  },
+  {
+    "condition": {
+      "urlFilter": "||interwin88."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1187
+  },
+  {
+    "condition": {
+      "urlFilter": "||inulpoker1."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1188
+  },
+  {
+    "condition": {
+      "urlFilter": "||investasiceria."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1189
+  },
+  {
+    "condition": {
+      "urlFilter": "||istana3."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1190
+  },
+  {
+    "condition": {
+      "urlFilter": "||itubandar."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1191
+  },
+  {
+    "condition": {
+      "urlFilter": "||itudewa."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1192
+  },
+  {
+    "condition": {
+      "urlFilter": "||itupk."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1193
+  },
+  {
+    "condition": {
+      "urlFilter": "||ituqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1194
+  },
+  {
+    "condition": {
+      "urlFilter": "||ivopoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1195
+  },
+  {
+    "condition": {
+      "urlFilter": "||jagoanpoker99."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1196
+  },
+  {
+    "condition": {
+      "urlFilter": "||jalanalternatif."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1197
+  },
+  {
+    "condition": {
+      "urlFilter": "||japsex."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1198
+  },
+  {
+    "condition": {
+      "urlFilter": "||jarumpk."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1199
+  },
+  {
+    "condition": {
+      "urlFilter": "||jarumpoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1200
+  },
+  {
+    "condition": {
+      "urlFilter": "||jasa888."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1201
+  },
+  {
+    "condition": {
+      "urlFilter": "||jasabet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1202
+  },
+  {
+    "condition": {
+      "urlFilter": "||jasaqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1203
+  },
+  {
+    "condition": {
+      "urlFilter": "||jawadomino."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1204
+  },
+  {
+    "condition": {
+      "urlFilter": "||jawaraqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1205
+  },
+  {
+    "condition": {
+      "urlFilter": "||jayabola."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1206
+  },
+  {
+    "condition": {
+      "urlFilter": "||jayahoki."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1207
+  },
+  {
+    "condition": {
+      "urlFilter": "||jayamania."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1208
+  },
+  {
+    "condition": {
+      "urlFilter": "||jayapokr."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1209
+  },
+  {
+    "condition": {
+      "urlFilter": "||jendralpoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1210
+  },
+  {
+    "condition": {
+      "urlFilter": "||jokermerah."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1211
+  },
+  {
+    "condition": {
+      "urlFilter": "||jokerqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1212
+  },
+  {
+    "condition": {
+      "urlFilter": "||jollywallet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1213
+  },
+  {
+    "condition": {
+      "urlFilter": "||josbet88."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1214
+  },
+  {
+    "condition": {
+      "urlFilter": "||jppoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1215
+  },
+  {
+    "condition": {
+      "urlFilter": "||kakakdewa."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1216
+  },
+  {
+    "condition": {
+      "urlFilter": "||kamarjudi."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1217
+  },
+  {
+    "condition": {
+      "urlFilter": "||kartuajaib."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1218
+  },
+  {
+    "condition": {
+      "urlFilter": "||kartuhokky."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1219
+  },
+  {
+    "condition": {
+      "urlFilter": "||kartuking."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1220
+  },
+  {
+    "condition": {
+      "urlFilter": "||kasinobet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1221
+  },
+  {
+    "condition": {
+      "urlFilter": "||kayatogel."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1222
+  },
+  {
+    "condition": {
+      "urlFilter": "||kendipoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1223
+  },
+  {
+    "condition": {
+      "urlFilter": "||ketuapkr."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1224
+  },
+  {
+    "condition": {
+      "urlFilter": "||ketuapoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1225
+  },
+  {
+    "condition": {
+      "urlFilter": "||king368."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1226
+  },
+  {
+    "condition": {
+      "urlFilter": "||king4d."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1227
+  },
+  {
+    "condition": {
+      "urlFilter": "||kiuhoki."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1228
+  },
+  {
+    "condition": {
+      "urlFilter": "||kiumaster."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1229
+  },
+  {
+    "condition": {
+      "urlFilter": "||klikuntung."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1230
+  },
+  {
+    "condition": {
+      "urlFilter": "||kodealam2."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1231
+  },
+  {
+    "condition": {
+      "urlFilter": "||kokibet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1232
+  },
+  {
+    "condition": {
+      "urlFilter": "||komisiqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1233
+  },
+  {
+    "condition": {
+      "urlFilter": "||komopoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1234
+  },
+  {
+    "condition": {
+      "urlFilter": "||kontolkuda."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1235
+  },
+  {
+    "condition": {
+      "urlFilter": "||kosmetik-obatkuat."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1236
+  },
+  {
+    "condition": {
+      "urlFilter": "||kucingpoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1237
+  },
+  {
+    "condition": {
+      "urlFilter": "||lacakqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1238
+  },
+  {
+    "condition": {
+      "urlFilter": "||lajupoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1239
+  },
+  {
+    "condition": {
+      "urlFilter": "||lapakgol."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1240
+  },
+  {
+    "condition": {
+      "urlFilter": "||lapakqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1241
+  },
+  {
+    "condition": {
+      "urlFilter": "||liburpoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1242
+  },
+  {
+    "condition": {
+      "urlFilter": "||lig369."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1243
+  },
+  {
+    "condition": {
+      "urlFilter": "||liga-emas."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1244
+  },
+  {
+    "condition": {
+      "urlFilter": "||liga369."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1245
+  },
+  {
+    "condition": {
+      "urlFilter": "||liga77."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1246
+  },
+  {
+    "condition": {
+      "urlFilter": "||liga788."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1247
+  },
+  {
+    "condition": {
+      "urlFilter": "||liga88."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1248
+  },
+  {
+    "condition": {
+      "urlFilter": "||liga888."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1249
+  },
+  {
+    "condition": {
+      "urlFilter": "||ligajudi."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1250
+  },
+  {
+    "condition": {
+      "urlFilter": "||ligakita."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1251
+  },
+  {
+    "condition": {
+      "urlFilter": "||linksbobet2016."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1252
+  },
+  {
+    "condition": {
+      "urlFilter": "||lintasqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1253
+  },
+  {
+    "condition": {
+      "urlFilter": "||livehkpools."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1254
+  },
+  {
+    "condition": {
+      "urlFilter": "||lotus-4d."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1255
+  },
+  {
+    "condition": {
+      "urlFilter": "||lotus55."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1256
+  },
+  {
+    "condition": {
+      "urlFilter": "||lotusbola."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1257
+  },
+  {
+    "condition": {
+      "urlFilter": "||luckypoker188."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1258
+  },
+  {
+    "condition": {
+      "urlFilter": "||luxury138zz."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1259
+  },
+  {
+    "condition": {
+      "urlFilter": "||m88domino."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1260
+  },
+  {
+    "condition": {
+      "urlFilter": "||m8livepoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1261
+  },
+  {
+    "condition": {
+      "urlFilter": "||mabesqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1262
+  },
+  {
+    "condition": {
+      "urlFilter": "||mabosbet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1263
+  },
+  {
+    "condition": {
+      "urlFilter": "||maenpokerasli."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1264
+  },
+  {
+    "condition": {
+      "urlFilter": "||mahkotabola."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1265
+  },
+  {
+    "condition": {
+      "urlFilter": "||mahkotaqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1266
+  },
+  {
+    "condition": {
+      "urlFilter": "||mainbandarsakong."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1267
+  },
+  {
+    "condition": {
+      "urlFilter": "||mainidb."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1268
+  },
+  {
+    "condition": {
+      "urlFilter": "||mainqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1269
+  },
+  {
+    "condition": {
+      "urlFilter": "||maintogelonline."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1270
+  },
+  {
+    "condition": {
+      "urlFilter": "||majupoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1271
+  },
+  {
+    "condition": {
+      "urlFilter": "||makelarjudi."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1272
+  },
+  {
+    "condition": {
+      "urlFilter": "||mandirimenang."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1273
+  },
+  {
+    "condition": {
+      "urlFilter": "||maniakqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1274
+  },
+  {
+    "condition": {
+      "urlFilter": "||marina-365."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1275
+  },
+  {
+    "condition": {
+      "urlFilter": "||maruduthutabarat."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1276
+  },
+  {
+    "condition": {
+      "urlFilter": "||master138."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1277
+  },
+  {
+    "condition": {
+      "urlFilter": "||master88club."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1278
+  },
+  {
+    "condition": {
+      "urlFilter": "||masterbaccarat."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1279
+  },
+  {
+    "condition": {
+      "urlFilter": "||masterbandar88."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1280
+  },
+  {
+    "condition": {
+      "urlFilter": "||masternaga."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1281
+  },
+  {
+    "condition": {
+      "urlFilter": "||masterpoker99."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1282
+  },
+  {
+    "condition": {
+      "urlFilter": "||matasayu."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1283
+  },
+  {
+    "condition": {
+      "urlFilter": "||maxbbm."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1284
+  },
+  {
+    "condition": {
+      "urlFilter": "||meja13."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1285
+  },
+  {
+    "condition": {
+      "urlFilter": "||meja365."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1286
+  },
+  {
+    "condition": {
+      "urlFilter": "||mejakiu."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1287
+  },
+  {
+    "condition": {
+      "urlFilter": "||mejasakong."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1288
+  },
+  {
+    "condition": {
+      "urlFilter": "||menangqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1289
+  },
+  {
+    "condition": {
+      "urlFilter": "||menubola."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1290
+  },
+  {
+    "condition": {
+      "urlFilter": "||mgmcash88."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1291
+  },
+  {
+    "condition": {
+      "urlFilter": "||mgmdomino."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1292
+  },
+  {
+    "condition": {
+      "urlFilter": "||mikirpoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1293
+  },
+  {
+    "condition": {
+      "urlFilter": "||mimpi4d."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1294
+  },
+  {
+    "condition": {
+      "urlFilter": "||misapoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1295
+  },
+  {
+    "condition": {
+      "urlFilter": "||momopk2."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1296
+  },
+  {
+    "condition": {
+      "urlFilter": "||musim99."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1297
+  },
+  {
+    "condition": {
+      "urlFilter": "||musimqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1298
+  },
+  {
+    "condition": {
+      "urlFilter": "||musimqq365."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1299
+  },
+  {
+    "condition": {
+      "urlFilter": "||muvibet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1300
+  },
+  {
+    "condition": {
+      "urlFilter": "||mydragonku."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1301
+  },
+  {
+    "condition": {
+      "urlFilter": "||nagahoki."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1302
+  },
+  {
+    "condition": {
+      "urlFilter": "||naloindo."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1303
+  },
+  {
+    "condition": {
+      "urlFilter": "||nasapoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1304
+  },
+  {
+    "condition": {
+      "urlFilter": "||neotangkas."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1305
+  },
+  {
+    "condition": {
+      "urlFilter": "||nomorkeluar."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1306
+  },
+  {
+    "condition": {
+      "urlFilter": "||nontonbokep."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1307
+  },
+  {
+    "condition": {
+      "urlFilter": "||nontonfilm21."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1308
+  },
+  {
+    "condition": {
+      "urlFilter": "||nusantarabet4d."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1309
+  },
+  {
+    "condition": {
+      "urlFilter": "||obatjogja."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1310
+  },
+  {
+    "condition": {
+      "urlFilter": "||obatpembesarpenisklg."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1311
+  },
+  {
+    "condition": {
+      "urlFilter": "||obatpembesarvimax."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1312
+  },
+  {
+    "condition": {
+      "urlFilter": "||obcbet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1313
+  },
+  {
+    "condition": {
+      "urlFilter": "||obccash."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1314
+  },
+  {
+    "condition": {
+      "urlFilter": "||omi888."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1315
+  },
+  {
+    "condition": {
+      "urlFilter": "||omsakong."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1316
+  },
+  {
+    "condition": {
+      "urlFilter": "||omsenang."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1317
+  },
+  {
+    "condition": {
+      "urlFilter": "||onclinic24."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1318
+  },
+  {
+    "condition": {
+      "urlFilter": "||onesbet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1319
+  },
+  {
+    "condition": {
+      "urlFilter": "||orientalpoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1320
+  },
+  {
+    "condition": {
+      "urlFilter": "||ovowin."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1321
+  },
+  {
+    "condition": {
+      "urlFilter": "||pamelapoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1322
+  },
+  {
+    "condition": {
+      "urlFilter": "||panenpk2."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1323
+  },
+  {
+    "condition": {
+      "urlFilter": "||pangerantoto1."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1324
+  },
+  {
+    "condition": {
+      "urlFilter": "||pangerantoto3."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1325
+  },
+  {
+    "condition": {
+      "urlFilter": "||pantauqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1326
+  },
+  {
+    "condition": {
+      "urlFilter": "||papabet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1327
+  },
+  {
+    "condition": {
+      "urlFilter": "||papadewa."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1328
+  },
+  {
+    "condition": {
+      "urlFilter": "||paperbola."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1329
+  },
+  {
+    "condition": {
+      "urlFilter": "||pasangnomor2."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1330
+  },
+  {
+    "condition": {
+      "urlFilter": "||pasaranqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1331
+  },
+  {
+    "condition": {
+      "urlFilter": "||pasarantogel."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1332
+  },
+  {
+    "condition": {
+      "urlFilter": "||pastibet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1333
+  },
+  {
+    "condition": {
+      "urlFilter": "||pastipoker99."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1334
+  },
+  {
+    "condition": {
+      "urlFilter": "||paypalbisnis."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1335
+  },
+  {
+    "condition": {
+      "urlFilter": "||pemaintogel."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1336
+  },
+  {
+    "condition": {
+      "urlFilter": "||pendekarqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1337
+  },
+  {
+    "condition": {
+      "urlFilter": "||pesonaqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1338
+  },
+  {
+    "condition": {
+      "urlFilter": "||pilarqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1339
+  },
+  {
+    "condition": {
+      "urlFilter": "||pkq13."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1340
+  },
+  {
+    "condition": {
+      "urlFilter": "||poin4d."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1341
+  },
+  {
+    "condition": {
+      "urlFilter": "||poker021."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1342
+  },
+  {
+    "condition": {
+      "urlFilter": "||poker158."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1343
+  },
+  {
+    "condition": {
+      "urlFilter": "||poker1945a."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1344
+  },
+  {
+    "condition": {
+      "urlFilter": "||poker88."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1345
+  },
+  {
+    "condition": {
+      "urlFilter": "||pokerampm."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1346
+  },
+  {
+    "condition": {
+      "urlFilter": "||pokerastro."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1347
+  },
+  {
+    "condition": {
+      "urlFilter": "||pokerdex."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1348
+  },
+  {
+    "condition": {
+      "urlFilter": "||pokergalaxy."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1349
+  },
+  {
+    "condition": {
+      "urlFilter": "||pokergo8."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1350
+  },
+  {
+    "condition": {
+      "urlFilter": "||pokerhost24."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1351
+  },
+  {
+    "condition": {
+      "urlFilter": "||pokerindo88."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1352
+  },
+  {
+    "condition": {
+      "urlFilter": "||pokermon24."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1353
+  },
+  {
+    "condition": {
+      "urlFilter": "||pokernasional."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1354
+  },
+  {
+    "condition": {
+      "urlFilter": "||pokeronlinecc."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1355
+  },
+  {
+    "condition": {
+      "urlFilter": "||pokerpediaz."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1356
+  },
+  {
+    "condition": {
+      "urlFilter": "||pokerqq13."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1357
+  },
+  {
+    "condition": {
+      "urlFilter": "||pokerstar8."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1358
+  },
+  {
+    "condition": {
+      "urlFilter": "||pokerzara."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1359
+  },
+  {
+    "condition": {
+      "urlFilter": "||prediksisingapore."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1360
+  },
+  {
+    "condition": {
+      "urlFilter": "||premier188."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1361
+  },
+  {
+    "condition": {
+      "urlFilter": "||probet99."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1362
+  },
+  {
+    "condition": {
+      "urlFilter": "||promodewa."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1363
+  },
+  {
+    "condition": {
+      "urlFilter": "||promosi365."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1364
+  },
+  {
+    "condition": {
+      "urlFilter": "||pulsaqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1365
+  },
+  {
+    "condition": {
+      "urlFilter": "||pusat-vimaxasli."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1366
+  },
+  {
+    "condition": {
+      "urlFilter": "||pusatbet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1367
+  },
+  {
+    "condition": {
+      "urlFilter": "||q99bet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1368
+  },
+  {
+    "condition": {
+      "urlFilter": "||qq2889yes."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1369
+  },
+  {
+    "condition": {
+      "urlFilter": "||qqdomino."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1370
+  },
+  {
+    "condition": {
+      "urlFilter": "||qqdoyan."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1371
+  },
+  {
+    "condition": {
+      "urlFilter": "||qqnalo."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1372
+  },
+  {
+    "condition": {
+      "urlFilter": "||qqpendekar."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1373
+  },
+  {
+    "condition": {
+      "urlFilter": "||qqtangkas."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1374
+  },
+  {
+    "condition": {
+      "urlFilter": "||raja111."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1375
+  },
+  {
+    "condition": {
+      "urlFilter": "||raja12shio."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1376
+  },
+  {
+    "condition": {
+      "urlFilter": "||raja365."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1377
+  },
+  {
+    "condition": {
+      "urlFilter": "||raja77."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1378
+  },
+  {
+    "condition": {
+      "urlFilter": "||rajacapsa."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1379
+  },
+  {
+    "condition": {
+      "urlFilter": "||rajadewabet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1380
+  },
+  {
+    "condition": {
+      "urlFilter": "||rajanusantara."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1381
+  },
+  {
+    "condition": {
+      "urlFilter": "||rajasakong88."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1382
+  },
+  {
+    "condition": {
+      "urlFilter": "||rajawaliqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1383
+  },
+  {
+    "condition": {
+      "urlFilter": "||ratubola."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1384
+  },
+  {
+    "condition": {
+      "urlFilter": "||rayapoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1385
+  },
+  {
+    "condition": {
+      "urlFilter": "||rezekibola."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1386
+  },
+  {
+    "condition": {
+      "urlFilter": "||royalpoker99."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1387
+  },
+  {
+    "condition": {
+      "urlFilter": "||s7bola."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1388
+  },
+  {
+    "condition": {
+      "urlFilter": "||sahabatarena."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1389
+  },
+  {
+    "condition": {
+      "urlFilter": "||sahamdomino."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1390
+  },
+  {
+    "condition": {
+      "urlFilter": "||samsunghoki."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1391
+  },
+  {
+    "condition": {
+      "urlFilter": "||sanadomino."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1392
+  },
+  {
+    "condition": {
+      "urlFilter": "||sbbanner."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1393
+  },
+  {
+    "condition": {
+      "urlFilter": "||sbo303."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1394
+  },
+  {
+    "condition": {
+      "urlFilter": "||sbobet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1395
+  },
+  {
+    "condition": {
+      "urlFilter": "||sbobet138."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1396
+  },
+  {
+    "condition": {
+      "urlFilter": "||sbobeteu."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1397
+  },
+  {
+    "condition": {
+      "urlFilter": "||sbobethk."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1398
+  },
+  {
+    "condition": {
+      "urlFilter": "||sbobetid."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1399
+  },
+  {
+    "condition": {
+      "urlFilter": "||sbobetips."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1400
+  },
+  {
+    "condition": {
+      "urlFilter": "||sbobetuk."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1401
+  },
+  {
+    "condition": {
+      "urlFilter": "||sbokiu."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1402
+  },
+  {
+    "condition": {
+      "urlFilter": "||sbonaga."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1403
+  },
+  {
+    "condition": {
+      "urlFilter": "||sbopoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1404
+  },
+  {
+    "condition": {
+      "urlFilter": "||sbsbet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1405
+  },
+  {
+    "condition": {
+      "urlFilter": "||sdsblotto."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1406
+  },
+  {
+    "condition": {
+      "urlFilter": "||sedapqqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1407
+  },
+  {
+    "condition": {
+      "urlFilter": "||sekawanbet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1408
+  },
+  {
+    "condition": {
+      "urlFilter": "||seksipoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1409
+  },
+  {
+    "condition": {
+      "urlFilter": "||semiqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1410
+  },
+  {
+    "condition": {
+      "urlFilter": "||senangpokerseo."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1411
+  },
+  {
+    "condition": {
+      "urlFilter": "||seni888."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1412
+  },
+  {
+    "condition": {
+      "urlFilter": "||senibola."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1413
+  },
+  {
+    "condition": {
+      "urlFilter": "||senigoal."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1414
+  },
+  {
+    "condition": {
+      "urlFilter": "||seniqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1415
+  },
+  {
+    "condition": {
+      "urlFilter": "||seniwin."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1416
+  },
+  {
+    "condition": {
+      "urlFilter": "||sentanapoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1417
+  },
+  {
+    "condition": {
+      "urlFilter": "||sentosa88."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1418
+  },
+  {
+    "condition": {
+      "urlFilter": "||seobandarqq365."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1419
+  },
+  {
+    "condition": {
+      "urlFilter": "||seoincarqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1420
+  },
+  {
+    "condition": {
+      "urlFilter": "||seomarina365."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1421
+  },
+  {
+    "condition": {
+      "urlFilter": "||sevenbola."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1422
+  },
+  {
+    "condition": {
+      "urlFilter": "||shiokuda."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1423
+  },
+  {
+    "condition": {
+      "urlFilter": "||sinarkiukiu."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1424
+  },
+  {
+    "condition": {
+      "urlFilter": "||sinarqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1425
+  },
+  {
+    "condition": {
+      "urlFilter": "||sinidomino."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1426
+  },
+  {
+    "condition": {
+      "urlFilter": "||situsbet368."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1427
+  },
+  {
+    "condition": {
+      "urlFilter": "||situsjudi."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1428
+  },
+  {
+    "condition": {
+      "urlFilter": "||skorbola."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1429
+  },
+  {
+    "condition": {
+      "urlFilter": "||sobatpkr."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1430
+  },
+  {
+    "condition": {
+      "urlFilter": "||sobatpoker88."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1431
+  },
+  {
+    "condition": {
+      "urlFilter": "||sogopoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1432
+  },
+  {
+    "condition": {
+      "urlFilter": "||sonyqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1433
+  },
+  {
+    "condition": {
+      "urlFilter": "||spbobet1."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1434
+  },
+  {
+    "condition": {
+      "urlFilter": "||sportmarket88."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1435
+  },
+  {
+    "condition": {
+      "urlFilter": "||sportsmansclub."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1436
+  },
+  {
+    "condition": {
+      "urlFilter": "||star88bet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1437
+  },
+  {
+    "condition": {
+      "urlFilter": "||star88bola."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1438
+  },
+  {
+    "condition": {
+      "urlFilter": "||stardomino."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1439
+  },
+  {
+    "condition": {
+      "urlFilter": "||suaraemas."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1440
+  },
+  {
+    "condition": {
+      "urlFilter": "||suhukiu."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1441
+  },
+  {
+    "condition": {
+      "urlFilter": "||sumberqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1442
+  },
+  {
+    "condition": {
+      "urlFilter": "||sundul99."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1443
+  },
+  {
+    "condition": {
+      "urlFilter": "||sundulqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1444
+  },
+  {
+    "condition": {
+      "urlFilter": "||surya4d."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1445
+  },
+  {
+    "condition": {
+      "urlFilter": "||tamanqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1446
+  },
+  {
+    "condition": {
+      "urlFilter": "||tangkasq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1447
+  },
+  {
+    "condition": {
+      "urlFilter": "||tatobet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1448
+  },
+  {
+    "condition": {
+      "urlFilter": "||tatonaga."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1449
+  },
+  {
+    "condition": {
+      "urlFilter": "||telolet99."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1450
+  },
+  {
+    "condition": {
+      "urlFilter": "||temanjudi."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1451
+  },
+  {
+    "condition": {
+      "urlFilter": "||temanpoker99."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1452
+  },
+  {
+    "condition": {
+      "urlFilter": "||tendangsakti."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1453
+  },
+  {
+    "condition": {
+      "urlFilter": "||togel777."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1454
+  },
+  {
+    "condition": {
+      "urlFilter": "||togelbet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1455
+  },
+  {
+    "condition": {
+      "urlFilter": "||togelbos."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1456
+  },
+  {
+    "condition": {
+      "urlFilter": "||togelcc1."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1457
+  },
+  {
+    "condition": {
+      "urlFilter": "||togeldomino."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1458
+  },
+  {
+    "condition": {
+      "urlFilter": "||togeljackpot2."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1459
+  },
+  {
+    "condition": {
+      "urlFilter": "||togellounge."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1460
+  },
+  {
+    "condition": {
+      "urlFilter": "||togellounge99."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1461
+  },
+  {
+    "condition": {
+      "urlFilter": "||togelmarket2."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1462
+  },
+  {
+    "condition": {
+      "urlFilter": "||togelmaya."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1463
+  },
+  {
+    "condition": {
+      "urlFilter": "||togeltoto."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1464
+  },
+  {
+    "condition": {
+      "urlFilter": "||topbet899."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1465
+  },
+  {
+    "condition": {
+      "urlFilter": "||topbet99."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1466
+  },
+  {
+    "condition": {
+      "urlFilter": "||toppoker789."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1467
+  },
+  {
+    "condition": {
+      "urlFilter": "||tores4d."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1468
+  },
+  {
+    "condition": {
+      "urlFilter": "||totobett."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1469
+  },
+  {
+    "condition": {
+      "urlFilter": "||totokini."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1470
+  },
+  {
+    "condition": {
+      "urlFilter": "||totokita."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1471
+  },
+  {
+    "condition": {
+      "urlFilter": "||transpoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1472
+  },
+  {
+    "condition": {
+      "urlFilter": "||tri7bet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1473
+  },
+  {
+    "condition": {
+      "urlFilter": "||tribunbolaku."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1474
+  },
+  {
+    "condition": {
+      "urlFilter": "||trikqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1475
+  },
+  {
+    "condition": {
+      "urlFilter": "||tuanbola."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1476
+  },
+  {
+    "condition": {
+      "urlFilter": "||tugupoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1477
+  },
+  {
+    "condition": {
+      "urlFilter": "||tujuhbet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1478
+  },
+  {
+    "condition": {
+      "urlFilter": "||u16822."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1479
+  },
+  {
+    "condition": {
+      "urlFilter": "||ujungkontol."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1480
+  },
+  {
+    "condition": {
+      "urlFilter": "||unogoal88."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1481
+  },
+  {
+    "condition": {
+      "urlFilter": "||usahatoto."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1482
+  },
+  {
+    "condition": {
+      "urlFilter": "||utamaqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1483
+  },
+  {
+    "condition": {
+      "urlFilter": "||vegas303."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1484
+  },
+  {
+    "condition": {
+      "urlFilter": "||venombet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1485
+  },
+  {
+    "condition": {
+      "urlFilter": "||vimaxcentral."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1486
+  },
+  {
+    "condition": {
+      "urlFilter": "||vimaxherbal."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1487
+  },
+  {
+    "condition": {
+      "urlFilter": "||vimaxtrial."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1488
+  },
+  {
+    "condition": {
+      "urlFilter": "||vipmandiriqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1489
+  },
+  {
+    "condition": {
+      "urlFilter": "||viva188."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1490
+  },
+  {
+    "condition": {
+      "urlFilter": "||vivacm."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1491
+  },
+  {
+    "condition": {
+      "urlFilter": "||vivacm88."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1492
+  },
+  {
+    "condition": {
+      "urlFilter": "||vivobetting."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1493
+  },
+  {
+    "condition": {
+      "urlFilter": "||vodkapoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1494
+  },
+  {
+    "condition": {
+      "urlFilter": "||w88domino."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1495
+  },
+  {
+    "condition": {
+      "urlFilter": "||wahanatoto1."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1496
+  },
+  {
+    "condition": {
+      "urlFilter": "||wespoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1497
+  },
+  {
+    "condition": {
+      "urlFilter": "||wingsqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1498
+  },
+  {
+    "condition": {
+      "urlFilter": "||winpoker789."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1499
+  },
+  {
+    "condition": {
+      "urlFilter": "||winwinbola."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1500
+  },
+  {
+    "condition": {
+      "urlFilter": "||wismaqq."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1501
+  },
+  {
+    "condition": {
+      "urlFilter": "||wongbet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1502
+  },
+  {
+    "condition": {
+      "urlFilter": "||wongpkr."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1503
+  },
+  {
+    "condition": {
+      "urlFilter": "||wwwsgopoker."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1504
+  },
+  {
+    "condition": {
+      "urlFilter": "||ysbjaya88."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1505
+  },
+  {
+    "condition": {
+      "urlFilter": "||zenbola."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1506
+  },
+  {
+    "condition": {
+      "urlFilter": "||zonaprediksi."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1507
+  },
+  {
+    "condition": {
+      "urlFilter": "||zonawin."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1508
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "172.105.216.174",
+        "afapoker.com",
+        "ajar-poet.com",
+        "anaktogel.com",
+        "aosbobet.com",
+        "astonwin.org",
+        "baron777premium.com",
+        "bebasjudi.com",
+        "clickadu.com",
+        "eze99.me",
+        "klik66.co",
+        "lazacasino.com",
+        "maxbetqq.net",
+        "misterindo.net",
+        "obobet.net",
+        "oppabet.com",
+        "prediksitogeljitu.in",
+        "star88win.net",
+        "ttgambar.xyz"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1509
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "kiryuu.id",
+        "kiryuu.org",
+        "komikstation.co",
+        "mangakita.id",
+        "mangakita.net",
+        "wrt.my.id"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "_warning": [
+      "Salvaged rule by ignoring 2 unsupported domain= option: animekompi.*|kiryuu.id|kiryuu.org|kiryuu03.*|komikstation.co|mangakita.id|mangakita.net|wrt.my.id"
+    ],
+    "id": 1510
+  },
+  {
+    "condition": {
+      "urlFilter": "||maindomino.",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2956
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "64p3am9x95ct.com",
+        "9eb10b7a3d04a.com",
+        "admarketplace.net",
+        "adnety.com",
+        "afbcashidr.com",
+        "ampclicks.com",
+        "auredzeon.com",
+        "dairouzy.net",
+        "istanaimpian1.com",
+        "istanaimpian2.com",
+        "istanaimpian3.com",
+        "iwtserve.com",
+        "octafx.com",
+        "see-work.info",
+        "shiokambing2.com",
+        "shqbsdjatunl.com",
+        "track.aptitudemedia.co",
+        "track.zerofriend.com",
+        "trafficfactory.biz",
+        "u-on.eu",
+        "ultima7.fun",
+        "yllix.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3705
+  },
+  {
+    "condition": {
+      "urlFilter": ".bid^",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3706
+  },
+  {
+    "condition": {
+      "urlFilter": ".win^",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3707
+  },
+  {
+    "condition": {
+      "urlFilter": "||maindominoqq.",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3708
+  }
+]

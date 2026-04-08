@@ -1,0 +1,20 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "ad.utop.ir",
+        "ban.alukah.net",
+        "campaign-uploads.s3.amazonaws.com",
+        "mlbanners.misrlinks.com",
+        "popup.egyup.com",
+        "projectagora.s3.amazonaws.com",
+        "xatech.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 811
+  }
+]

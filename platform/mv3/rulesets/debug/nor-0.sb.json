@@ -1,0 +1,1307 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "109.230.237.116",
+        "147.93.63.211",
+        "154.223.16.232",
+        "158.94.209.86",
+        "158.94.209.87",
+        "158.94.209.88",
+        "158.94.209.89",
+        "158.94.209.90",
+        "195.242.152.122",
+        "196.251.85.197",
+        "212.224.107.120",
+        "223.29.226.200",
+        "43.100.125.58",
+        "43.159.140.215",
+        "43.162.119.45",
+        "47.76.132.29",
+        "65.21.200.49",
+        "790northsierrabonita.com",
+        "85.159.213.158",
+        "a2ics.eu",
+        "acc-inf.com",
+        "acc-ntfix.com",
+        "ad.shareholders.dk",
+        "adext.inkclub.com",
+        "aib-loginsecure.com",
+        "as-dao.icu",
+        "banner.3loops.com",
+        "be-sms.com",
+        "bilborsen.webannonse.no",
+        "borger-sundhed.com",
+        "clarks-dk.com",
+        "clarksskonorge.com",
+        "connection-info.com",
+        "dao-as.cc",
+        "dao-as.com",
+        "dao-as.top",
+        "dao-as.vip",
+        "dao-as.xyz",
+        "dao-ascu.top",
+        "dao-asdk.cc",
+        "dao-asdk.vip",
+        "dao-ase.cc",
+        "dao-ase.vip",
+        "dao-asen.bond",
+        "dao-asi.cc",
+        "dao-asi.vip",
+        "dao-asiiv.icu",
+        "dao-asioiiv.icu",
+        "dao-asl.vip",
+        "dao-aso.cc",
+        "dao-asoi.icu",
+        "dao-asoiiv.icu",
+        "dao-asr.cc",
+        "dao-asr.vip",
+        "dao-ass.cc",
+        "dao-ass.vip",
+        "dao-assion.icu",
+        "dao-asuui.icu",
+        "dao-asvisu.icu",
+        "dao-post.icu",
+        "daoao.icu",
+        "daoas-en.bond",
+        "daoasa.cyou",
+        "daoasa.sbs",
+        "daobo.bond",
+        "daodo.bond",
+        "daoicom.bond",
+        "daoiiox.icu",
+        "daoios.icu",
+        "daoipost.icu",
+        "daonevt.com",
+        "daoosi.icu",
+        "daopakke.sbs",
+        "daopst.icu",
+        "daosa.cyou",
+        "daosa.shop",
+        "daosviz.com",
+        "daoteams.com",
+        "daovisx.com",
+        "daoxo.bond",
+        "desidert.no",
+        "dhl-trackng.com",
+        "directdigital-services.com",
+        "disneyplus-tv.com",
+        "dk-fornysundhed.com",
+        "dk-sundhed.com",
+        "dkdk.shop",
+        "dksundhed.com",
+        "dlssneykonto.com",
+        "dpd-sio.icu",
+        "drbrand.herokuapp.com",
+        "dundeehills.group",
+        "earnifi-claiming.com",
+        "eccolabgroup.com",
+        "eccoskonorge.com",
+        "elderlyscissors.com",
+        "eltlnorsgogle.is-a-cpa.com",
+        "flix-area.com",
+        "flix-request.com",
+        "fr135.net",
+        "galerijajava.ba",
+        "gogle.net",
+        "gtm.findroommate.dk",
+        "hagebakken.no",
+        "haglofstilbud.com",
+        "havfruen4220.dk",
+        "healtheweb.co.uk",
+        "helse-norge.com",
+        "hokanorgeno.com",
+        "hokaonenorge.com",
+        "hokaskooutlet.co.no",
+        "hunter-danmark.com",
+        "idj.no",
+        "idportal.vercel.app",
+        "info-sundhed.com",
+        "infopostdk.com",
+        "infos-sundhed.com",
+        "infosundhed.com",
+        "infosundheds.com",
+        "inquisitivebed.info",
+        "levering-myups.com",
+        "lib.idg.no",
+        "linkednordersalenavigate.com",
+        "lnfoskonto.com",
+        "logg-inn.online",
+        "marked.no",
+        "mdb.nu",
+        "minskat-no.com",
+        "mitld-forholdsregler.com",
+        "my-subscriptions.net",
+        "myups-pakket.com",
+        "myups.express",
+        "nestnose.com",
+        "netfx-acc.com",
+        "ney-acc.com",
+        "nflix-management.com",
+        "nflix-reactivacion.com",
+        "noapp.sbs",
+        "nono.qpon",
+        "norgeposten.today",
+        "ntfx-acc.com",
+        "nyhetsnett.no",
+        "off-whitedanmark.com",
+        "off-whitenorge.com",
+        "oofosnorgeoutlet.com",
+        "ozarkvillage.net",
+        "p-stn.net",
+        "pakke.click",
+        "pakkeposten.today",
+        "payement-renew.me",
+        "pestseminars.com",
+        "post-dk.cfd",
+        "postendk.lol",
+        "postendsk.lat",
+        "postennorge.today",
+        "postenpakke.today",
+        "postenserves.today",
+        "postenspor.today",
+        "postnord-24.site",
+        "postnord-eco.buzz",
+        "postnord-eco.cfd",
+        "postnord-eco.sbs",
+        "postnord-eco.xyz",
+        "postnord-update.help",
+        "postnorddk.vip",
+        "postnordse.asia",
+        "postuin.bond",
+        "premosupplements.com",
+        "printablemagic.com",
+        "rumendia.com",
+        "s.free.fr",
+        "santandersecurept.com",
+        "saucony-dk.com",
+        "sikkerklientopdatering.com",
+        "skat-skts-dk.com",
+        "sporpakke-dk.com",
+        "sporposten.today",
+        "spotfy-regulation.com",
+        "start-myaltinn.com",
+        "statautos.com",
+        "static-dscn.net",
+        "storustovu.dk",
+        "sundhed-info.com",
+        "sundhed-infodk.com",
+        "sundhed-infos.com",
+        "sundhed-skort.com",
+        "sundhed-web.com",
+        "sundhedinfo.com",
+        "svindel.info",
+        "tachyoniums.eu.com",
+        "tnord.click",
+        "tnord.qpon",
+        "tnord.sbs",
+        "tnordh.shop",
+        "trackingfindups.com",
+        "trackingpackage.express",
+        "trafikkskoleapp.no",
+        "trmff.wpengine.com",
+        "updatesysteme.com",
+        "ups-packaging.delivery",
+        "upsbezahlung.com",
+        "usaa-verify.com",
+        "vanssnorge.com",
+        "wirexapp.africa.com",
+        "www-presse-fotos-dk.filesusr.com",
+        "y6.no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 219
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "aktienboard.com",
+        "economywatch.com",
+        "irb.dk",
+        "superbinvest.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 560
+  },
+  {
+    "condition": {
+      "urlFilter": "||minklubshop.dk/dk^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 561
+  },
+  {
+    "condition": {
+      "urlFilter": "*norgesalg.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 563
+  },
+  {
+    "condition": {
+      "urlFilter": "*salgnorge.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 564
+  },
+  {
+    "condition": {
+      "urlFilter": "||easypark-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 565
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "102.112.2o7.net",
+        "109.230.237.116",
+        "147.93.63.211",
+        "154.223.16.232",
+        "158.94.209.89",
+        "195-242-152-122.static.hvvc.us",
+        "195.242.152.122",
+        "196.251.85.197",
+        "212.224.107.120",
+        "43.100.125.58",
+        "43.159.140.215",
+        "43.162.119.45",
+        "47.76.132.29",
+        "65.21.200.49",
+        "790northsierrabonita.com",
+        "85.159.213.158",
+        "a2ics.eu",
+        "acc-inf.com",
+        "acc-ntfix.com",
+        "adidasko.com",
+        "aib-loginsecure.com",
+        "altinn-brukerservice",
+        "appearspacex.de",
+        "as-dao.icu",
+        "be-sms.com",
+        "betzykrisesenter.no",
+        "brightertrade.com",
+        "cinefique.com",
+        "cionialessio.it",
+        "citra2010oslo.no",
+        "com-dk.com",
+        "connection-info.com",
+        "cphspaogwellness.dk",
+        "dao-as.cc",
+        "dao-as.com",
+        "dao-as.top",
+        "dao-as.vip",
+        "dao-as.xyz",
+        "dao-ascu.top",
+        "dao-asdk.cc",
+        "dao-asdk.vip",
+        "dao-ase.cc",
+        "dao-ase.vip",
+        "dao-asen.bond",
+        "dao-asi.cc",
+        "dao-asi.vip",
+        "dao-asiiv.icu",
+        "dao-asioiiv.icu",
+        "dao-asl.vip",
+        "dao-aso.cc",
+        "dao-asoi.icu",
+        "dao-asoiiv.icu",
+        "dao-asr.cc",
+        "dao-asr.vip",
+        "dao-ass.cc",
+        "dao-ass.vip",
+        "dao-assion.icu",
+        "dao-asuui.icu",
+        "dao-asvisu.icu",
+        "dao-post.icu",
+        "daoao.icu",
+        "daoas-en.bond",
+        "daoasa.cyou",
+        "daoasa.sbs",
+        "daobo.bond",
+        "daodo.bond",
+        "daoicom.bond",
+        "daoiiox.icu",
+        "daoios.icu",
+        "daoipost.icu",
+        "daonevt.com",
+        "daoosi.icu",
+        "daopakke.sbs",
+        "daopst.icu",
+        "daosa.cyou",
+        "daosa.shop",
+        "daosviz.com",
+        "daoteams.com",
+        "daovisx.com",
+        "daoxo.bond",
+        "daradis.com",
+        "dhl-trackng.com",
+        "digiter.no",
+        "directdigital-services.com",
+        "disneyplus-tv.com",
+        "dkdk.shop",
+        "dkfodboldstore.com",
+        "dpd-sio.icu",
+        "dundeehills.group",
+        "earnifi-claiming.com",
+        "easydisplay.no",
+        "eccolabgroup.com",
+        "eltlnorsgogle.is-a-cpa.com",
+        "flix-area.com",
+        "flix-request.com",
+        "flytteregister.no",
+        "fr135.net",
+        "fredfiber.no",
+        "galerijajava.ba",
+        "geometra-bologna.it",
+        "gogle.net",
+        "gsport.com",
+        "havfruen4220.dk",
+        "healtheweb.co.uk",
+        "helse-norge.com",
+        "helsehjelp.over-blog.com",
+        "hernoclothing.com",
+        "info-sundhed.com",
+        "infopostdk.com",
+        "informationer.nu",
+        "inquisitivebed.info",
+        "is-a-personaltrainer.com",
+        "kjaerra.no",
+        "kontrast1.no",
+        "levering-myups.com",
+        "linkednordersalenavigate.com",
+        "linkshe.com",
+        "liveshopdealz.com",
+        "lnfoskonto.com",
+        "look-like-star.myshopify.com",
+        "marson.footeo.com",
+        "mitld-forholdsregler.com",
+        "my-subscriptions.net",
+        "myups-pakket.com",
+        "myups.express",
+        "nestnose.com",
+        "netfx-acc.com",
+        "newzeninfotech.com",
+        "ney-acc.com",
+        "nflix-management.com",
+        "nflix-reactivacion.com",
+        "niupaiba.com",
+        "noapp.sbs",
+        "nofotballshop.com",
+        "nono.qpon",
+        "nordeninterior.weebly.com",
+        "norfotball.com",
+        "norgefotball.com",
+        "norgeposten.today",
+        "norgeshoes.com",
+        "norskmatkultur.no",
+        "norskoffroadteknikk.no",
+        "norskposten.com",
+        "ntfx-acc.com",
+        "nyematoghelse.no",
+        "ocgadgets.com",
+        "ocgadgetss.myshopify.com",
+        "oflike.com",
+        "oslo-tannlegene.no",
+        "ozarkvillage.net",
+        "p-stn.net",
+        "pakke.click",
+        "pakkeposten.today",
+        "payement-renew.me",
+        "pensjonistferie.no",
+        "pestseminars.com",
+        "pjs.outlet.com",
+        "popeurope.com",
+        "post-dk.cfd",
+        "postendk.lol",
+        "postendsk.lat",
+        "postennorge.today",
+        "postenpakke.today",
+        "postenserves.today",
+        "postenspor.today",
+        "postnord-24.site",
+        "postnord-eco.buzz",
+        "postnord-eco.cfd",
+        "postnord-eco.sbs",
+        "postnord-eco.xyz",
+        "postnord-update.help",
+        "postnorddk.vip",
+        "postnordse.asia",
+        "postuin.bond",
+        "premosupplements.com",
+        "printablemagic.com",
+        "probenefit.net",
+        "replicapatekphilippe.com",
+        "replicarolexyachtmaster.com",
+        "rigspolitiet.com",
+        "rumendia.com",
+        "s.free.fr",
+        "santandersecurept.com",
+        "securmarksykkel.no",
+        "sitey.me",
+        "sky.gs",
+        "smallrise.com",
+        "smsb.co",
+        "sobrilleverandoridanmark.wordpress.com",
+        "sporposten.today",
+        "spotfy-regulation.com",
+        "srilanka.no",
+        "start-myaltinn.com",
+        "statautos.com",
+        "static-dscn.net",
+        "sundhed-info.com",
+        "sundhedinfo.com",
+        "tachyoniums.eu.com",
+        "takstskolen.no",
+        "tekuon.com",
+        "thecoolgirl.no",
+        "tnord.click",
+        "tnord.qpon",
+        "tnord.sbs",
+        "tnordh.shop",
+        "topshineauto.no",
+        "trackingfindups.com",
+        "trackingpackage.express",
+        "trmff.wpengine.com",
+        "tromselementbygg.no",
+        "ultimate-tech-products.myshopify.com",
+        "um-bs.com",
+        "ups-packaging.delivery",
+        "upsbezahlung.com",
+        "usaa-verify.com",
+        "valspe.com.br",
+        "vidcopa.me",
+        "vossblues.no",
+        "webavisen.gl",
+        "wirexapp.africa.com",
+        "y6.no",
+        "yttersiden.no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 566
+  },
+  {
+    "condition": {
+      "urlFilter": "/begrensede-tilbudet/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 567
+  },
+  {
+    "condition": {
+      "urlFilter": "/bli-avbrutt-bor-du-oppdater/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 568
+  },
+  {
+    "condition": {
+      "urlFilter": "/dnb11111^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 569
+  },
+  {
+    "condition": {
+      "urlFilter": "/kiwierbjudanden1/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 570
+  },
+  {
+    "condition": {
+      "urlFilter": "/norgesecure/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 571
+  },
+  {
+    "condition": {
+      "urlFilter": "/pakkerlevering/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 572
+  },
+  {
+    "condition": {
+      "urlFilter": ".gratis-reisebilletter."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 574
+  },
+  {
+    "condition": {
+      "urlFilter": "||coop.no."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 575
+  },
+  {
+    "condition": {
+      "urlFilter": "||danskebank.no."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 576
+  },
+  {
+    "condition": {
+      "urlFilter": "||djurs.com-*."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 577
+  },
+  {
+    "condition": {
+      "urlFilter": "||dnb.no."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 578
+  },
+  {
+    "condition": {
+      "urlFilter": "||elkjop.no."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 579
+  },
+  {
+    "condition": {
+      "urlFilter": "||finn.no."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 580
+  },
+  {
+    "condition": {
+      "urlFilter": "||flysas-no."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 581
+  },
+  {
+    "condition": {
+      "urlFilter": "||komplett.no."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 582
+  },
+  {
+    "condition": {
+      "urlFilter": "||nordea.no."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 583
+  },
+  {
+    "condition": {
+      "urlFilter": "||nordnet.no."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 584
+  },
+  {
+    "condition": {
+      "urlFilter": "||norwegian.com."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 585
+  },
+  {
+    "condition": {
+      "urlFilter": "||posten.no."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 586
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord.no."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 587
+  },
+  {
+    "condition": {
+      "urlFilter": "||sbanken.no."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 588
+  },
+  {
+    "condition": {
+      "urlFilter": "||shell.no."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 589
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetaten.no."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 590
+  },
+  {
+    "condition": {
+      "urlFilter": "||sparebank1.no."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 591
+  },
+  {
+    "condition": {
+      "urlFilter": "||tusenfryd-com."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 592
+  },
+  {
+    "condition": {
+      "urlFilter": "||vg.no."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 593
+  },
+  {
+    "condition": {
+      "urlFilter": "||vipps-sikkerhet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 594
+  },
+  {
+    "condition": {
+      "urlFilter": "/?finn.no/login"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 595
+  },
+  {
+    "condition": {
+      "urlFilter": "*danmarks.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 596
+  },
+  {
+    "condition": {
+      "urlFilter": "*norgno.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 597
+  },
+  {
+    "condition": {
+      "urlFilter": "*norges.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 598
+  },
+  {
+    "condition": {
+      "urlFilter": "*norgebutikk.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 599
+  },
+  {
+    "condition": {
+      "urlFilter": "*norgestore.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 600
+  },
+  {
+    "condition": {
+      "urlFilter": "*norge-no.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 601
+  },
+  {
+    "condition": {
+      "urlFilter": "*norgestores.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 602
+  },
+  {
+    "condition": {
+      "urlFilter": "*skobutikks.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 603
+  },
+  {
+    "condition": {
+      "urlFilter": "*butikksoslo.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 604
+  },
+  {
+    "condition": {
+      "urlFilter": "||paypal.*.no|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 605
+  },
+  {
+    "condition": {
+      "urlFilter": "||paypal.*.no/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 606
+  },
+  {
+    "condition": {
+      "urlFilter": "||kongeparken.com-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 607
+  },
+  {
+    "condition": {
+      "urlFilter": "||kiwi.com-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 608
+  },
+  {
+    "condition": {
+      "urlFilter": "||getmail-no."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 609
+  },
+  {
+    "condition": {
+      "urlFilter": "||elkjop*.club^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 610
+  },
+  {
+    "condition": {
+      "urlFilter": "/css/*sparebank1.no^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 611
+  },
+  {
+    "condition": {
+      "urlFilter": "||faarup.com-*."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 612
+  },
+  {
+    "condition": {
+      "urlFilter": "||legoland.com-*."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 613
+  },
+  {
+    "condition": {
+      "urlFilter": "||ekstrabiadet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 614
+  },
+  {
+    "condition": {
+      "urlFilter": "||fintechnow*.buzz^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 615
+  },
+  {
+    "condition": {
+      "urlFilter": "||wealthnews*.xyz^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 616
+  },
+  {
+    "condition": {
+      "urlFilter": "||norge.*.icu^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 617
+  },
+  {
+    "condition": {
+      "urlFilter": "||euronews*.buzz^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 618
+  },
+  {
+    "condition": {
+      "urlFilter": "||softwaredaily*.monster^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 619
+  },
+  {
+    "condition": {
+      "urlFilter": "||stalknews*.buzz^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 620
+  },
+  {
+    "condition": {
+      "urlFilter": "||goldupdates*.xyz^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 621
+  },
+  {
+    "condition": {
+      "urlFilter": "||sikre-vipps-konto."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 622
+  },
+  {
+    "condition": {
+      "urlFilter": "/cop-no/index.htm"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 623
+  },
+  {
+    "condition": {
+      "urlFilter": "/survey/heldige^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 624
+  },
+  {
+    "condition": {
+      "urlFilter": "||sites.google.*/halaman-muka^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 625
+  },
+  {
+    "condition": {
+      "urlFilter": "||sites.google.com/view/truls-svendsen^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 626
+  },
+  {
+    "condition": {
+      "urlFilter": "||signup-*vpns.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 627
+  },
+  {
+    "condition": {
+      "urlFilter": "||telenors.*.cx^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 628
+  },
+  {
+    "condition": {
+      "urlFilter": "-sparebank1.*.net^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 629
+  },
+  {
+    "condition": {
+      "regexFilter": "^(https?:\\/\\/)?[a-z]{10,12}\\.easy\\.co(\\/.*)?$"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 630
+  },
+  {
+    "condition": {
+      "urlFilter": "||com/vg.no|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 631
+  },
+  {
+    "condition": {
+      "urlFilter": "||cx/nordea|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 632
+  },
+  {
+    "condition": {
+      "urlFilter": "||cx/sparebank"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 633
+  },
+  {
+    "condition": {
+      "urlFilter": "||cx/sbanken|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 634
+  },
+  {
+    "condition": {
+      "urlFilter": "://old.sermitsiaq.ag^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 635
+  },
+  {
+    "condition": {
+      "urlFilter": "://robot.ekstrabladet.dk^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 636
+  },
+  {
+    "condition": {
+      "urlFilter": "/noo/taxx/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 637
+  },
+  {
+    "condition": {
+      "urlFilter": "||wpenginepowered.com/refusjon"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 638
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/skatt/refusjon/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 639
+  },
+  {
+    "condition": {
+      "urlFilter": "||altinn-*.firebaseapp.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 641
+  },
+  {
+    "condition": {
+      "urlFilter": "||altinn-ids."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 642
+  },
+  {
+    "condition": {
+      "urlFilter": "||altinnnorge."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 643
+  },
+  {
+    "condition": {
+      "urlFilter": "||minside-altinn."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 644
+  },
+  {
+    "condition": {
+      "regexFilter": "^https:\\/\\/autopass\\.\\d{6}\\.com(\\/.*)?$"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 645
+  },
+  {
+    "condition": {
+      "urlFilter": "-med.footeo.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 646
+  },
+  {
+    "condition": {
+      "urlFilter": "*medisin*.over-blog.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 647
+  },
+  {
+    "condition": {
+      "urlFilter": "||xanax*.over-blog.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 648
+  }
+]

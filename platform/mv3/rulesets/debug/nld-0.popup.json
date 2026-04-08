@@ -1,0 +1,28 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "2k19.nl",
+        "go2.go2cloud.org"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 423
+  },
+  {
+    "condition": {
+      "urlFilter": "||adserver.hollandcasino.nl^",
+      "initiatorDomains": [
+        "onlinecasinoground.nl"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 487
+  }
+]

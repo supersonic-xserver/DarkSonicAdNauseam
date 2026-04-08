@@ -1,0 +1,273 @@
+[
+  {
+    "condition": {
+      "urlFilter": "&adbisactive="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 517
+  },
+  {
+    "condition": {
+      "urlFilter": "/bjmp*.htm^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 518
+  },
+  {
+    "condition": {
+      "urlFilter": "/mavenjump.htm^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 519
+  },
+  {
+    "condition": {
+      "urlFilter": "||bit.ly^",
+      "initiatorDomains": [
+        "cuevana.run",
+        "pelisplus.lat"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 520
+  },
+  {
+    "condition": {
+      "urlFilter": "||primevideo.com/?tag=^",
+      "initiatorDomains": [
+        "vergnula.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 521
+  },
+  {
+    "condition": {
+      "urlFilter": "||t.co^",
+      "initiatorDomains": [
+        "cinecalidad.run"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 522
+  },
+  {
+    "condition": {
+      "urlFilter": "||seriesmetro.net/*/footer_bg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 523
+  },
+  {
+    "condition": {
+      "urlFilter": "||pepeliculas.org/patrocinado"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 524
+  },
+  {
+    "condition": {
+      "urlFilter": "/3djuegos_media_v1^",
+      "initiatorDomains": [
+        "3djuegos.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 525
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "peliculasmega1k.com"
+      ],
+      "regexFilter": "about:blank.*"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 526
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "anime-flv.net",
+        "cuevanahd.net",
+        "divicast.com",
+        "doramasflixs.com",
+        "gnula.nu",
+        "gnula.se",
+        "ibb.co",
+        "jkanime.net",
+        "myflixertv.to",
+        "pelismartv.com",
+        "pelisplayer.xyz",
+        "pelisplus.io",
+        "pelisplus.top",
+        "pelisplushd.nu",
+        "pelispophd.com",
+        "seriesflix.live",
+        "seriesturcas.tv",
+        "tomatomatela.com"
+      ],
+      "regexFilter": "^https?:\\/\\/.*\\.(jpg|gif|png|php|svg|ico|js|txt)"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 527
+  },
+  {
+    "condition": {
+      "urlFilter": "||animejl.top/?redirect_",
+      "initiatorDomains": [
+        "hentaijl.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 528
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "leagueofslots-cl.com",
+        "minube.click",
+        "significadoconcepto.com",
+        "stressfulbrag.com",
+        "tracking.actualidad.es"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 529
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "35.193.89.147",
+        "acortar.net",
+        "adfpoint.com",
+        "admeridianads.com",
+        "adp13a.com",
+        "ahadsply.com",
+        "authorne.info",
+        "breathebuds.com",
+        "cinemalek.com",
+        "coolbytesgrill.com",
+        "dustymural.com",
+        "facesnotebook.com",
+        "freelotto.com",
+        "gadsatz.com",
+        "gadspmz.com",
+        "generouslivelinessevidence.com",
+        "granevahu.pro",
+        "hetapus.com",
+        "hetaruvg.com",
+        "hiend.xyz",
+        "highrevenuecpm.com",
+        "indefinitelytonsil.com",
+        "junmediadirect.com",
+        "killerjuke.xyz",
+        "kingko.xyz",
+        "lijaseconomic.xyz",
+        "listaglawo.com",
+        "liveadoptimizer.com",
+        "lowtyroguer.com",
+        "lukomol.com",
+        "millionairedream.co",
+        "minismss.xyz",
+        "naucaish.net",
+        "oackoubs.com",
+        "outlookabsorb.com",
+        "premiumihzvs.miliongames.com",
+        "profitablegate.com",
+        "promociones.betsala.com",
+        "pvclouds.com",
+        "retdaz.fun",
+        "riotousgrit.com",
+        "significantoperativeclearance.com",
+        "srvpcn.com",
+        "static.tellerium.com",
+        "stdirection.com",
+        "unusualbrainlessshotgun.com",
+        "wekiss.co"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 542
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "cinecalidad.com.mx",
+        "cinetux.nu",
+        "cliver.pro",
+        "cuevana.pro",
+        "enpantallas.com",
+        "feurl.com",
+        "pornocolombiano.net",
+        "seriesgod.com",
+        "seriesyonkis.io",
+        "streamz.vg",
+        "supergoku.com",
+        "zenkimex.com.mx"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 543
+  },
+  {
+    "condition": {
+      "urlFilter": "|data:text^",
+      "initiatorDomains": [
+        "atspace.cc"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 593
+  }
+]

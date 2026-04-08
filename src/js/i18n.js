@@ -31,7 +31,10 @@ const i18n$ = (...args) => i18n.getMessage(...args);
 
 /******************************************************************************/
 
-const isBackgroundProcess = document.title === 'uBlock Origin Background Page';
+// Only access document when in a document context (not Service Worker)
+const isBackgroundProcess = typeof document === 'object' && document !== null 
+    ? document.title === 'uBlock Origin Background Page'
+    : true;
 
 if ( isBackgroundProcess !== true ) {
 

@@ -1,0 +1,12 @@
+[
+  {
+    "condition": {
+      "urlFilter": "||finanzaonline.com/notizie/popup_news"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 328
+  }
+]

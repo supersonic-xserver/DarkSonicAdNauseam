@@ -1,0 +1,15 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "app.pulsmedia.is",
+        "static.airserve.net"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 11
+  }
+]

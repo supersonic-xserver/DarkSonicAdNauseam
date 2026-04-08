@@ -1,0 +1,958 @@
+[
+  {
+    "condition": {
+      "urlFilter": "/piwik.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1
+  },
+  {
+    "condition": {
+      "urlFilter": ".disqus.com/count.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2
+  },
+  {
+    "condition": {
+      "urlFilter": "||avto.net/_banner/mornar"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3
+  },
+  {
+    "condition": {
+      "urlFilter": "||bolha.com/*/banneri"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4
+  },
+  {
+    "condition": {
+      "urlFilter": "||celje.info/wp-content/uploads/*avtohisa_drev.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5
+  },
+  {
+    "condition": {
+      "urlFilter": "||celje.info/wp-content/uploads/*/krajnc*.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 6
+  },
+  {
+    "condition": {
+      "urlFilter": "||celje.info/wp-content/uploads/*/polovicka*.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 7
+  },
+  {
+    "condition": {
+      "urlFilter": "||ceneje.si/*?track="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 8
+  },
+  {
+    "condition": {
+      "urlFilter": "||engine2.livenetlife.com/ping.aspx"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 9
+  },
+  {
+    "condition": {
+      "urlFilter": "||facebook.com/tr/?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 10
+  },
+  {
+    "condition": {
+      "urlFilter": "||facebook.com/tr?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 11
+  },
+  {
+    "condition": {
+      "urlFilter": "||files.dnevnik.si/2013/porabi.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 12
+  },
+  {
+    "condition": {
+      "urlFilter": "||files.dnevnik.si/2014/emona_banner.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 13
+  },
+  {
+    "condition": {
+      "urlFilter": "||golfportal.info/*/banner*.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 14
+  },
+  {
+    "condition": {
+      "urlFilter": "||hudo.com/*/im_banner*.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 15
+  },
+  {
+    "condition": {
+      "urlFilter": "||ipromcloud.com/ipromns.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 16
+  },
+  {
+    "condition": {
+      "urlFilter": "||iprom.net/adasync.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 17
+  },
+  {
+    "condition": {
+      "urlFilter": "||itis.si/embed_advertiserspromo.aspx"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 18
+  },
+  {
+    "condition": {
+      "urlFilter": "||kuula.co/share",
+      "initiatorDomains": [
+        "avto.net"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 19
+  },
+  {
+    "condition": {
+      "urlFilter": "||lokalno.si/inc/ads-frame.asp"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 20
+  },
+  {
+    "condition": {
+      "urlFilter": "||mailerlite.com/*/banners"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 21
+  },
+  {
+    "condition": {
+      "urlFilter": "||maps.googleapis.com/maps/api/js/quotaservice.recordevent"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 22
+  },
+  {
+    "condition": {
+      "urlFilter": "||maps.googleapis.com/*/stats.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 23
+  },
+  {
+    "condition": {
+      "urlFilter": "||media.privoscite.si/dsg/4/1/214f2ce6ae3fccbff35c0fae3c3688.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 24
+  },
+  {
+    "condition": {
+      "urlFilter": "||media.privoscite.si/dsg/5/d/58f4ed3192fefe752c56782a4e35ea.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 25
+  },
+  {
+    "condition": {
+      "urlFilter": "||megabon.eu/sl/widgets/slovenske_novice"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 26
+  },
+  {
+    "condition": {
+      "urlFilter": "||mimovrste.com/*/marxy.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 27
+  },
+  {
+    "condition": {
+      "urlFilter": "||mlacom.si/modules/footermod/otherbg/mlacom-ozadje*.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 28
+  },
+  {
+    "condition": {
+      "urlFilter": "||mladina.si/*jquery.fancybox.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 29
+  },
+  {
+    "condition": {
+      "urlFilter": "||mladina.si/media/img/oglasi/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 30
+  },
+  {
+    "condition": {
+      "urlFilter": "||mojblink.si/pic/banners/*.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 31
+  },
+  {
+    "condition": {
+      "urlFilter": "||mojblink.si/pic/banners/*.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 32
+  },
+  {
+    "condition": {
+      "urlFilter": "||nepremicnine.click/ad-files/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 33
+  },
+  {
+    "condition": {
+      "urlFilter": "||novice.si/*/oglasuj.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 34
+  },
+  {
+    "condition": {
+      "urlFilter": "||oglasi.slo-tech.com^",
+      "excludedInitiatorDomains": [
+        "oglasi.slo-tech.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 35
+  },
+  {
+    "condition": {
+      "urlFilter": "||over.net/feedo.min.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 36
+  },
+  {
+    "condition": {
+      "urlFilter": "||partis.si/ads"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 37
+  },
+  {
+    "condition": {
+      "urlFilter": "||pcplus.si/media/wysiwyg/infortis/fortis/_backgrounds/default/*.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 38
+  },
+  {
+    "condition": {
+      "urlFilter": "||phobs.net/check.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 39
+  },
+  {
+    "condition": {
+      "urlFilter": "||pokukaj.si/data/oglasi/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 40
+  },
+  {
+    "condition": {
+      "urlFilter": "||pomurec.com/data/oglasi/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 41
+  },
+  {
+    "condition": {
+      "urlFilter": "||reporter.si/misc/gemius.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 42
+  },
+  {
+    "condition": {
+      "urlFilter": "||reporter.si/sites/all/themes/bootstrap_barrio/images/oglasniprevzemkorporepor.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 43
+  },
+  {
+    "condition": {
+      "urlFilter": "||reporter.si/sites/all/themes/bootstrap_barrio/images/ozadje*1920x1080.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 44
+  },
+  {
+    "condition": {
+      "urlFilter": "||reporter.si/sites/all/themes/bootstrap_barrio/images/posta-*.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 45
+  },
+  {
+    "condition": {
+      "urlFilter": "||reporter.si/sites/all/themes/custom/bootstrap_barrio/images/ozadjetriglav*.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 46
+  },
+  {
+    "condition": {
+      "urlFilter": "||studentski-servis.com/themes/e-studentski-servis/assets/media/dsg/background*.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 47
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.dijaski.net/graphics/aff/telemach2.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 48
+  },
+  {
+    "condition": {
+      "urlFilter": "||stop-neplacniki.si/*/bannerji"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 49
+  },
+  {
+    "condition": {
+      "urlFilter": "||studentarija.net/wp-content/uploads/*/*.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 50
+  },
+  {
+    "condition": {
+      "urlFilter": "||tvambienti.si/wp-admin/admin-ajax.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 51
+  },
+  {
+    "condition": {
+      "urlFilter": "||varna-voznja.si/upload/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 52
+  },
+  {
+    "condition": {
+      "urlFilter": "||vecer.com/*/oglasi/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 53
+  },
+  {
+    "condition": {
+      "urlFilter": "||widgets.outbrain.com/outbrain.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 54
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.bicikel.com/narocilo-revij.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 55
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.monolitmap.si/system/application/addons/images/page/poi_banner.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 56
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.skladi.com/images/overlay.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 57
+  },
+  {
+    "condition": {
+      "urlFilter": "||zurnal24.si/banners/*/inartc"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 58
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "ad.zurnal24.si",
+        "adform.net",
+        "ads-oglasi.api.24ur.si",
+        "ads-store.24ur.com",
+        "ads.24ur.com",
+        "bonbonijezero.xyz",
+        "clublwd.nl",
+        "hranavrt.xyz",
+        "kruhzgodovina.xyz",
+        "kuminaluna.xyz",
+        "mandljigeografija.xyz",
+        "maslootok.xyz",
+        "piscanecmatematika.xyz",
+        "sladicagora.xyz",
+        "static.plista.com",
+        "zajtrkhisa.xyz"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 59
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "reporter.si"
+      ],
+      "urlFilter": "||code.jquery.com/jquery-1*.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 60
+  },
+  {
+    "condition": {
+      "urlFilter": "||reporter.si/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.js",
+      "initiatorDomains": [
+        "reporter.si"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 61
+  },
+  {
+    "condition": {
+      "urlFilter": "||vaven.co/loader.js",
+      "initiatorDomains": [
+        "bolha.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 62
+  },
+  {
+    "condition": {
+      "urlFilter": "||amazonaws.com/banners.wave.si",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 63
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn-next.megabon.eu/sl/widgets/delo",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 64
+  },
+  {
+    "condition": {
+      "urlFilter": "||monitor.si/media/img/",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 65
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "ad.exilio.net",
+        "ad.propellente.net",
+        "ad1.si",
+        "booster3000.si",
+        "browser-update.org",
+        "ced.sascdn.com",
+        "chimpstatic.com",
+        "contentexchange.me",
+        "databreakers.com",
+        "dnetwork.si",
+        "eppmedia.si",
+        "get-native.eu",
+        "internetmedia.si",
+        "interseek.si",
+        "intextad.net",
+        "leadsdome.com",
+        "livenetlife.com",
+        "mediabooster.si",
+        "obisk.net",
+        "onthe.io",
+        "p.typekit.net",
+        "pristopmedia.network",
+        "shield.sitelock.com",
+        "smind.si",
+        "upscore.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 71
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "mallgroup.com",
+        "mg-marxy.mall.cz"
+      ],
+      "initiatorDomains": [
+        "mimovrste.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 72
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "akumulator.si"
+      ],
+      "urlFilter": "||akumulator.si/img/upload/banners/*.jpg"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 73
+  },
+  {
+    "condition": {
+      "urlFilter": "||bar.piano-media.com/dnevnik/bar.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 74
+  },
+  {
+    "condition": {
+      "urlFilter": "||celje.info/wp-content/plugins/simple-share-buttons-adder/buttons/pagepeel/*.png"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 75
+  },
+  {
+    "condition": {
+      "urlFilter": "||fbcdn.net/hads-xpt1/v/",
+      "initiatorDomains": [
+        "klip.si"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 76
+  },
+  {
+    "condition": {
+      "urlFilter": "||google-analytics.com/ga.js",
+      "initiatorDomains": [
+        "prehrana.si"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 77
+  },
+  {
+    "condition": {
+      "urlFilter": "||graph.facebook.com/",
+      "initiatorDomains": [
+        "svet24.si"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 78
+  },
+  {
+    "condition": {
+      "urlFilter": "||images.contentexchange.me/fit",
+      "initiatorDomains": [
+        "igrice.hudo.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 79
+  },
+  {
+    "condition": {
+      "urlFilter": "||mp.piano-media.com/bucket/novosense.swf",
+      "initiatorDomains": [
+        "dnevnik.si"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 80
+  },
+  {
+    "condition": {
+      "urlFilter": "||mp.piano-media.com/js/bp.html",
+      "initiatorDomains": [
+        "dnevnik.si"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 81
+  },
+  {
+    "condition": {
+      "urlFilter": "||mp.piano-media.com/uid",
+      "initiatorDomains": [
+        "dnevnik.si"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 82
+  },
+  {
+    "condition": {
+      "urlFilter": "||sparky.internetmedia.si^",
+      "initiatorDomains": [
+        "nepremicnine.net"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 83
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "igre123.com"
+      ],
+      "urlFilter": "||static.igre123.com/ads/*.gif"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 84
+  },
+  {
+    "condition": {
+      "urlFilter": "||bar.piano-media.com/auth",
+      "initiatorDomains": [
+        "dnevnik.si"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 85
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads.api.24ur.si^",
+      "initiatorDomains": [
+        "24ur.com",
+        "bibaleze.si",
+        "cekin.si",
+        "dominvrt.si",
+        "moskisvet.com",
+        "okusno.je",
+        "vizita.si",
+        "zadovoljna.si"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 86
+  },
+  {
+    "condition": {
+      "urlFilter": "||sibautomation.com/cm.html",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 87
+  }
+]

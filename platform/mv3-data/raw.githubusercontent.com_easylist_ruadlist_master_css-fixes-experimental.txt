@@ -1,0 +1,1884 @@
+[Adblock Plus 2.0]
+! Title: RU AdList CSS Fixes
+! Homepage: https://forums.lanik.us/viewforum.php?f=102
+!
+! Косметически фильтры для исправления последствий блокировки и скрытия на сайтах.
+! На данный момент работоспособность поддерживается только в uBlock Origin.
+! Используется для генерации пользовательского стиля RU AdList CSS Fixes:
+! https://userstyles.org/styles/101141/ru-adlist-css-fixes
+! Который можно установить отдельно в случае использования Adblock Plus и других баннерорезок.
+! ---
+aif.ru,ain.ua,bit.ua,budport.com.ua,ixbt.com,ko.com.ua,kv.by,livejournal.com,mc.today,newstudio.tv,oper.ru,pay-day.ru,sc2tv.ru,stopgame.ru,userstyles.org,zakarpatpost.net##body:not(#id):style(background-image: none !important)
+2pay-day.ru,4video.adult,aif.ru,ain.ua,bit.ua,budport.com.ua,ixbt.com,ko.com.ua,kv.by,livejournal.com,mc.today,newstudio.tv,oper.ru,sc2tv.ru,stopgame.ru,userstyles.org,zakarpatpost.net##html:not(#id):style(background-image: none !important)
+! ---
+baskino.film,dnepr.info,dugtor.ru,filmitorrent.net,filmitorrent.site,jetsetter.ua,kinoafisha.ua,kinobar.vip,kinoukr.com,konohatv.life,ladys.media,moskva.fm,newstudio.tv,nnm-club.me,nnmclub.ro,nnmclub.to,pay-day.ru,roem.ru,rusfootball.info,utorr.cc,vc.ru,virusinfo.info,xxxadulttorrent.org,you-anime.ru,yummyanime.tv,zombie-film.live##body:not(#id):style(padding-top: 0 !important)
+! ---
+radioromantika.ru##.main-wrapp__content:style(margin-top: 0 !important)
+101.ru##.wrapper-branding
+101.ru##.wrapper:style(padding-top: 0 !important)
+radioromantika.ru##body > a[href][target]
+! ---
+1080kino.net##.wrap:style(padding-top: 0 !important; top: 0 !important)
+! ---
+root-nation.com##.backstretch
+1informer.com,fainaidea.com,itech.co.ua,moika78.ru,root-nation.com##html > body:style(cursor: default !important)
+root-nation.com##html:not(#id) > body:not(#id):style(background: none !important)
+! ---
+1plus1.international##.cookies
+1plus1.international,2plus2.ua,bigudi.tv,plus-plus.tv##.header:style(top: 0 !important)
+2plus2.ua,bigudi.tv,plus-plus.tv##body:style(padding-top: 0 !important)
+1plus1.video##div[class^="playlist-player-branding-"] ~ .playlist-player:style(max-width: 1155px !important)
+! ---
+www.1tv.ru##div[class^="Branding_container_"]:style(margin-top: unset !important; height: auto !important)
+! ---
+24smi.org##.footer:style(margin-top: 20px !important)
+24smi.org##.out__inner > header:style(visibility: inherit !important)
+! ---
+2ip.io,2ip.ru##.consent__notice
+2ip.io,2ip.ru##.consent__notice ~ .body-blackout
+2ip.io,2ip.ru##body:style(overflow: auto !important)
+! ---
+3dnews.ru##.article > .onadlable
+3dnews.ru##.article > .onadlable ~ .js-mediator-article a[href]:not([href^="/"]):not([href^="#"]):not([href*="3dnews."]):style(pointer-events: none !important; text-decoration: none !important; color: inherit !important)
+! ---
+4pda.to##body[itemscope] [id]:first-child > style ~ a[href][target="_blank"]
+4pda.to##html:not([class]):not([style]) > body:not([itemscope]) > div[id] > div[id][href]:style(cursor: auto !important)
+4pda.to##html[style]:not([style=""]) > body [class]:not([id]):not(div):not([style]) :not(div)[class][id]:style(min-height: 0 !important; height: unset !important)
+4pda.to##iframe[src*="utm_campaign"]
+4pda.to##tbody > tr[valign="top"] > td[width*="%"] + td > a[href][target="_blank"] > img
+! ---
+4studio.com.ua###wrapper > #header:style(position: relative !important)
+4studio.com.ua###wrapper:style(padding-top: 0 !important)
+! ---
+78.ru##div[class^="sidebar_container_"]:style(height: auto !important)
+! ---
+7days.ru##body:style(margin-top: 0 !important)
+! ---
+w98008mo.beget.tech###modal-overlay
+w98008mo.beget.tech###modal-window
+noddb.ru##.remodal-is-opened
+w98008mo.beget.tech##body:style(overflow: auto !important)
+noddb.ru##html:style(overflow: auto !important)
+! ---
+adme.media##body.ReactModal__Body--open > div[style^="z-index: 999; position: absolute;"]
+adme.media##body.ReactModal__Body--open:style(overflow: auto !important)
+! ---
+ag.ru###header-links
+ag.ru###new_logo_helper01:style(top: 0 !important)
+! ---
+agronom.com.ua,tt-cup.com##body > *:style(pointer-events: auto !important)
+agronom.com.ua,tt-cup.com##body:style(cursor: auto !important)
+agronom.com.ua,tt-cup.com##body:style(pointer-events: none !important)
+! ---
+agroreview.com##.main:style(cursor: auto !important)
+! ---
+agroxxi.ru##.sidebarfix:style(margin-top: 0 !important)
+! ---
+ai-next.ru##[role="tabpanel"] > div.MuiBox-root:style(min-height: 0 !important)
+! ---
+aif.ru###container:not(#id):style(margin-top: 0 !important)
+! ---
+ain.ua###subbody:style(top: auto !important)
+ain.ua##.big-ad-wrapper:style(height: auto !important)
+ain.ua##html > body:not(#id) > *:style(pointer-events: auto !important)
+ain.ua##html > body:not(#id):style(pointer-events: none !important; background-color: #eff1f2 !important; margin-top: auto !important)
+! ---
+alexfilm.org##main > .container:style(margin-top: 50px !important)
+! ---
+alexua.tv##.static_content:style(min-height: 0 !important)
+! ---
+allapteki.ru###alia_modal
+allapteki.ru###vita_modal
+allapteki.ru,cont.ws,kraj.by,kurs.com.ua,profile.ru##body[class*="modal-"] > [class^="modal"]
+allapteki.ru,cont.ws,kraj.by,kurs.com.ua,profile.ru##body[class*="modal-"]:style(overflow: auto !important)
+! ---
+allbasketball.org##.page-content:style(margin-top: 0 !important)
+! ---
+allboxing.ru##.content-wrapper:style(margin-top: 0 !important)
+allboxing.ru##body *:style(transition: none !important)
+allboxing.ru##body:style(padding-top: 0 !important)
+! ---
+alllyr.ru##.fancybox-enabled:style(overflow: auto !important)
+! ---
+androidinsider.ru###trend:style(margin-bottom: 0 !important)
+androidinsider.ru###wrapper:style(background: none !important)
+androidinsider.ru,appleinsider.ru##[href*="://s.click.aliexpress.ru/"]:style(pointer-events: none !important; color: inherit !important; border-bottom: inherit !important)
+androidinsider.ru,appleinsider.ru##[href^="https://www.ozon.ru/product/"]:style(pointer-events: none !important; color: inherit !important; border-bottom: inherit !important)
+androidinsider.ru,appleinsider.ru##a[href*="://ali.ski/"]:style(pointer-events: none !important; color: inherit !important; border-bottom: inherit !important)
+androidinsider.ru,appleinsider.ru##a[href*="://aliexpress.ru/item/"]:style(pointer-events: none !important; color: inherit !important; border-bottom: inherit !important)
+androidinsider.ru,appleinsider.ru##a[href*="://bit.ly/"]:style(pointer-events: none !important; color: inherit !important; border-bottom: inherit !important)
+androidinsider.ru,appleinsider.ru##a[href*="://s.zbanx.com/r/"]:style(pointer-events: none !important; color: inherit !important; border-bottom: inherit !important)
+androidinsider.ru,appleinsider.ru,iguides.ru##a[href*="erid="]:style(pointer-events: none !important; color: inherit !important; border-bottom: inherit !important)
+! ---
+anekdot.ru##.nav-line:style(margin-top: 0 !important)
+anekdot.ru##body:style(background-color: rgb(255, 255, 238) !important)
+! ---
+anidub.vip,anidubonline.com##.content > .sect-header:style(margin-bottom: 0 !important)
+anidub.vip,anidubonline.com##.content:style(padding-top: 0 !important)
+anidub.vip,anidubonline.com##.full:style(padding-top: 0 !important)
+anidub.vip,anidubonline.com##.popular-in:style(padding-top: 80px !important)
+anidub.vip,anidubonline.com##.sticky-wrap:style(position: relative !important)
+anidub.vip,anidubonline.com##.wrap > .popular:style(visibility: visible !important)
+anidub.vip,anidubonline.com##main > .wrap-center:style(margin-left: auto !important; margin-right: auto !important)
+! ---
+anilib.me,animelib.org,hentailib.me,hentailib.org,mangalib.me,mangalib.org,ranobelib.me,shlib.life,yaoilib.net##img[src*="/uploads/"]:style(filter: none !important)
+! ---
+anilib.moe,anilib.one,anilib.top,anilibria.iss.one,anilibria.tv##.new-header
+! ---
+aniliberty.top,anilibria.top##.v-carousel
+aniliberty.top,anilibria.top##.v-carousel + div.d-flex
+aniliberty.top,anilibria.top##[class*="image-blur-"]:style(filter: none !important)
+! ---
+anime-bit.ru##body:style(cursor: auto !important)
+! ---
+anime-naruto.ru,blich.ru,borutoplanet.ru,bungou-stray-dogs.ru,doktor-stoun.ru,haikyu.ru,hunter-x-hunter.ru,klinok-rassekayuschiy-demonov.ru,magicheskaya-bitva.ru,my-hero-academia.ru,one-pieces.ru,reinkarnatsiya-bezrabotnogo.ru,tokiyskie-mstiteli.ru##.home:style(padding-top: 0 !important)
+anime-naruto.ru,blich.ru,borutoplanet.ru,bungou-stray-dogs.ru,doktor-stoun.ru,haikyu.ru,hunter-x-hunter.ru,klinok-rassekayuschiy-demonov.ru,magicheskaya-bitva.ru,my-hero-academia.ru,one-pieces.ru,reinkarnatsiya-bezrabotnogo.ru,tokiyskie-mstiteli.ru##.single:style(padding-top: 0 !important)
+! ---
+anime777.ru##.need-friends:style(margin-top: 125px !important)
+anime777.ru##.vsemayki-banner
+! ---
+animedia.pro##.content > .media:style(padding-bottom: unset !important)
+animedia.pro,tt.animedia.tv##.main-container:style(margin-top: 80px !important)
+animedia.pro##.right-sidebar:style(height: auto !important)
+animedia.pro,tt.animedia.tv##div[class^="promo"][class*="wrapper"]
+! ---
+animedub.ru##article.full > div .skrin ~ div:style(border: unset !important; background-color: unset !important)
+! ---
+animegid.online##.header:style(padding-block-start: 0 !important)
+! ---
+animego.online##body > .wrapper:style(padding-top: 0 !important; padding-bottom: 0 !important)
+animego.online##body:style(padding-top: 0 !important; padding-bottom: 0 !important; background-image: none !important)
+! ---
+animejapan.tv,crazyatomicgames.com,xxx-igra.com,yaldagames.com##.fon_site_pic:style(background-image: none !important; padding-top: 0 !important)
+! ---
+animemobi.ru,euro-football.ru,onlinestreams.ru,seasonvar.one##.wrapper:style(margin-top: 0 !important)
+! ---
+animemovie.ru##.htitle:style(margin-left: 0 !important; left: 150px !important)
+animemovie.ru##.logo:style(margin-left: 0 !important; left: 0 !important)
+animemovie.ru##body > .standard:style(height: 100px !important; background: transparent !important)
+animemovie.ru##header[role="banner"]:style(height: 100px !important; background: transparent !important)
+animemovie.ru##nav[role="navigation"] > ul:style(top: 0 !important)
+! ---
+animespirit.tv,fullfilmhd.space,igry-online.net###wrapper:style(margin-top: 0 !important)
+! ---
+amedias.ru,anibests.ru,anijutsu.ru,animegofans.ru,animesenpai.ru,anistars.ru,jutsubest.ru,kinogo-net.la,softbox.life###wr-bg:style(padding-top: 60px !important; margin-top: unset !important; top: unset !important)
+animevost.one,animevost.org,animevost.top,vost.pw##div[class^="headbg"] > .menu .sar:style(bottom: auto !important; top: 50px !important; z-index: 100 !important)
+animevost.one,animevost.org,animevost.top,vost.pw##div[class^="headbg"] > .menu:style(top: 0 !important)
+animevost.one,animevost.org,animevost.top,vost.pw##div[class^="headbg"]:style(background-image: none !important; height: auto !important)
+! ---
+! Домены Anistar
+anistar.org,astar.bz,online-star.org,online-stars.org##.drowmenu:style(z-index: 1999999999 !important)
+anistar.org,astar.bz,online-star.org,online-stars.org##.list-nav:style(z-index: 1 !important)
+anistar.org,astar.bz,online-star.org,online-stars.org##body > .main.wrapper:style(margin-top: 0 !important)
+anistar.org,astar.bz,online-star.org,online-stars.org##body > header:style(top: 0 !important)
+anistar.org,astar.bz,online-star.org,online-stars.org##html > body:not(#id):style(background-image: none !important)
+! ---
+anitokyo.tv,anitokyo1.top##.container > header:style(margin-top: 10px !important)
+anitokyo.tv,anitokyo1.top##.topside::after
+anitokyo.tv,anitokyo1.top##.topside::before
+anitokyo.tv,anitokyo1.top##.topside:style(max-width: 99.8% !important)
+! ---
+anti-malware.ru##body > header:style(margin-top: 0 !important)
+! ---
+apnews.com.ua##.reveal-overlay
+apnews.com.ua##html:style(position: relative !important; top: 0 !important)
+! ---
+app-time.ru##.native-brand ~ section.main:style(margin-top: 0 !important)
+app-time.ru##.native-brand:style(height: 0 !important)
+app-time.ru##header:style(position: relative !important)
+! ---
+app2top.ru##.page-wrapper:style(padding-top: 0 !important)
+! ---
+artfile.ru##body > a.bsec[href="#"]:style(top: 31px !important)
+artfile.ru##center > noindex > div[style*="height:"]
+! ---
+asn.in.ua##.lenta-wrap > .lenta:style(position: relative !important)
+asn.in.ua##.lenta-wrap:style(height: auto !important)
+! ---
+ati.su##body > div[id*="_pr_"]
+loads.ati.su,tm.ati.su,trucks.ati.su##div[class*="user-data-grid"]:style(background: none !important; height: auto !important)
+! ---
+audioportal.su###blink2[color="red"]:style(-webkit-animation: none !important; color: #837e6e !important)
+audioportal.su##div[id^="pos"] > a > img[src*="audioportal.su/!!!ads/!rotator/"]:style(zoom: 0.1 !important; filter: grayscale(1) !important)
+! ---
+autosport.com.ru##body:not(#id):style(padding-top: 0 !important; background-color: transparent !important)
+! ---
+av.by##.av-branding .page:style(padding-top: 0 !important; padding-bottom: 0 !important)
+av.by##.av-branding:style(background: none !important)
+! ---
+www.aviasales.by,www.aviasales.kg,www.aviasales.md,www.aviasales.ru,www.aviasales.ua,www.aviasales.uz##[data-test-id="avia_form"] > div[class*="footer"] label:style(zoom: 2 !important; color: #f57c00 !important; font-weight: bold !important)
+! ---
+avito.ru##.avito-ads-container:style(margin: 0 !important; min-height: 0 !important; padding-top: 0 !important)
+! ---
+abw.by##.app-branding:style(transform: none !important)
+abw.by##.application:style(top: 0 !important)
+abw.by##.cookie-modal
+abw.by##body.stop-scroll > div[class^="_overlay_"]
+abw.by##body.stop-scroll:style(position: relative !important)
+! ---
+baby.ru##.promo-background:style(padding-top: 0 !important)
+! ---
+baibako.tv##.topserial:style(height: auto !important)
+! ---
+banki.ru##.header--short.header:style(margin-top: 0 !important)
+! ---
+batenka.ru##body > .subscribe-popup
+batenka.ru##body:style(overflow: auto !important)
+! ---
+bestpersons.ru###userTabs:style(float: none !important)
+! ---
+! bigboss.video и зеркала
+1bigboss.com,bigboss.video###oframeflashcontent > pjsdiv[style*="transition: transform"]:style(transform: none !important)
+1bigboss.com,bigboss.video##video:style(filter: none !important)
+! ---
+www.bigmir.net##body > #header:style(top: 0 !important)
+www.bigmir.net##body > .page:style(padding-top: 144px !important)
+! ---
+bin.ua##div[style="position:absolute;left:0px;top:0px;width:240px;margin-top:660px"]:style(position: relative !important; margin-top: auto !important)
+! ---
+bit.ua,gidonline.fun,greenpost.ua,kinoboom.su,kinogo-720.net,lavakino.cc,mt.today,sportboom.info,urologypro.ru,virusinfo.info##body:not(#id):style(margin-top: 0 !important)
+! ---
+blisch.by###page:style(padding-top: 0 !important)
+! ---
+blitz.if.ua##aside#sidebar:style(min-height: auto !important)
+! ---
+blogs.pravda.com.ua##body > .block0:style(margin-top: 0 !important)
+! ---
+bombardir.ru##.branding:style(margin-top: 0 !important)
+! --
+bosch-home.ru##.cookielaw-modal-layer
+bosch-home.ru##body.cookielaw-blur-background > *:style(filter: none !important)
+bosch-home.ru##html > head ~ body:style(overflow-y: auto !important)
+! ---
+botanichka.ru##html > body > *:style(pointer-events: auto !important)
+botanichka.ru##html > body:style(background-image: none !important; pointer-events: none !important)
+! ---
+brestcity.com###content-padding > #content ~ hr ~ *
+brestcity.com###content-padding > *:style(color: black !important)
+brestcity.com###content-padding:style(color: white !important)
+! ---
+bryansknovosti.ru,novozybkov.su##[data-alias="Copyright"] .widget-area > .widget_text:last-child:style(border-style: none !important)
+! ---
+btu.org.ua##.alltop1:style(margin-bottom: 30px !important)
+! ---
+budport.com.ua##.wrap_nd .page-head:style(height: auto !important)
+! ---
+bugaga.ru##.body-branding:style(background: none !important; padding-top: 0 !important)
+! ---
+buh24.com.ua,ppt.ru##body > div[class^="mfp-"]
+buh24.com.ua,ppt.ru##html:style(overflow: auto !important)
+! ---
+buhgalter911.com##.b-chat:style(margin-bottom: 0 !important)
+buhgalter.com.ua,buhgalter911.com##body.access *:style(filter: none !important)
+buhgalter.com.ua,buhgalter911.com##body.access div[id^="access-au"]
+buhgalter.com.ua,buhgalter911.com##body.access:style(overflow: auto !important; position: relative !important)
+! ---
+buhonline.ru##html:style(width: auto !important; position: unset !important; overflow: auto !important)
+buhonline.ru##html[style*="overflow:"] > body > div:not([id]):not([class]):not([data-stories-widget-settings])
+! ---
+burninghut.ru##.layout-default__content--brand:style(margin-top: 0 !important)
+! ---
+businessua.com##body:style(background-color: white !important)
+! ---
+bvedomosti.ru###art-main:style(background-image: none !important)
+bvedomosti.ru##.art-Header
+bvedomosti.ru##.bg-top-menu:style(top: 0 !important)
+! ---
+car.ru##.header.header-wrapper:style(padding-top: 15px !important)
+! ---
+carambatv.ru##.content:style(background: none !important; padding: 0 !important)
+! ---
+cars.ru###main:style(margin-top: 0 !important)
+cars.ru##a[href*="/adclick.php?bannerid="]
+! ---
+casstudio.tv##.footer:style(margin-bottom: 0 !important)
+! ---
+censor.net##body > .widget_header .header_icons:style(top: 0 !important)
+censor.net##body > .widget_header .lang_switcher:style(top: 0 !important)
+censor.net##body > .widget_header .menu:style(top: 0 !important)
+censor.net##body > .widget_header:style(padding-top: 60px !important)
+! ---
+cf.ua##.hamburger__overlay.no-close
+cf.ua##.scroll-content.disable-scrolling:style(overflow:auto !important)
+cf.ua##body.overflow--hidden:style(overflow:auto !important)
+! ---
+champion.com.ua##.l-wrapper:style(margin-top: 0 !important)
+! ---
+championat.com,championat.ru##.page-sidebar > .sticky-vertical:style(position: relative !important; top: 0 !important)
+championat.com,championat.ru##html:not(#id):style(padding-top: 0 !important)
+! ---
+cherkassy-sport.com###body:style(margin-top: 0 !important)
+! ---
+chita.ru##body:style(background: none !important; margin-top: 0 !important; padding-top: 0 !important)
+! ---
+cinema-hd.ru,doramatv.su,filmshd.vip,goodfilms.su,hdrezka.it,kinoxa.cc,lordfilm.lu,lordserial.fun,lordserial.run,lordserial.top,newseries.me,yummyanime.best##.wrap:style(padding-top: 0 !important)
+! ---
+click-or-die.ru##.prose a[href]:not([href^="/"]):not([href^="https://click-or-die.ru/"]):style(pointer-events: none !important; color: inherit !important)
+! ---
+com-x.life##.blur-image:style(filter: none !important)
+! ---
+comments.ua##.back_bottom > *:style(pointer-events: auto !important)
+comments.ua##.back_bottom:style(cursor: auto !important)
+comments.ua##.back_bottom:style(pointer-events: none !important)
+! ---
+conversion.im###mainContainer:style(cursor: auto !important; padding-top: unset !important; background-color: inherit !important)
+! ---
+coop-land.ru###snow:style(animation: none !important)
+coop-land.ru##body:not(#id) > .header:style(margin-bottom: auto !important)
+! ---
+coub.com##.promo-background
+coub.com##header[class="header -transparent"]:style(background: #e0e0e0 !important)
+! ---
+cpa.rip###page-wrapper > header:style(margin-bottom: auto !important)
+! ---
+cq.ru##.box[class*="content"]:style(margin-top: auto !important)
+! ---
+creativportal.ru##.pocaz:style(width: 10px !important; height: 10px !important; position: fixed !important; top:-100px !important)
+! ---
+ctv7.ru##body > .site:style(margin-top: 0 !important)
+! ---
+cursorinfo.co.il###cmp-iframe
+cursorinfo.co.il##body:style(overflow: auto !important)
+! ---
+cyberforum.ru##body > div[style*="width"][style*="margin"]:style(margin-top: 0 !important)
+! ---
+cybersport.ru##.page-layout > main:style(padding-top: 0 !important)
+! ---
+delfi.ee##.C-ad-block-layer
+delfi.ee##body:style(overflow: auto !important)
+! ---
+delovoymir.biz##body:style(padding-top: 0 !important; background-color: transparent !important)
+! ---
+dentalmagazine.ru##.subscribe-modal
+dentalmagazine.ru##html:style(overflow: auto !important)
+! ---
+dev.ua##.island_overflow-initial > .feature_wide:style(margin: auto !important)
+! ---
+doefiratv.info##.b-cell > div[id]:style(padding-top: 0 !important)
+! ---
+draug.ru,modsforwot.ru###timer_1
+draug.ru,modsforwot.ru###timer_2:style(display: block !important)
+draug.ru,modsforwot.ru##body:style(overflow: auto !important)
+! ---
+! исправление ошибок и косяков оригинальной вёрстки
+club.dns-shop.ru##.header-space:style(max-width: 100% !important)
+! ---
+domovita.by##body.blocked > #modalCookies
+domovita.by##body.blocked > div[class*="modal-overlay"]
+domovita.by##body.blocked:style(overflow: auto !important)
+! ---
+doramalive.news##.dl-content > .ageLimit
+doramalive.news##.dl-content > .ageLimit ~ [class$="-player"]:style(display: block !important)
+doramalive.news##.dl-content:style(min-height: unset !important)
+! ---
+doramax.org##.wrapper.full:style(margin-top: 70px !important)
+! ---
+doramy.su##.site:style(margin-top: 0 !important)
+! ---
+dostfilms.info,dostfilms.site,wowskill.ru##body:not(#id) .header:style(margin-top: 0 !important)
+! ---
+dota2.ru##html:not(#id) > body > [id]:not([style]):style(background-image: none !important; padding-top: 0 !important)
+! ---
+drahelas.ru##.adb:style(position: fixed !important; transform: scale(0) !important)
+drahelas.ru##.forumAd:style(height: 1px !important)
+drahelas.ru##.navbar_notice:style(position: fixed !important; transform: scale(0) !important)
+! ---
+! Драйв
+drive2.com,drive2.ru##.o-columns:style(grid-template-columns: unset !important)
+drive2.com,drive2.ru##.u-extend-fix:style(background: center / 100% 100% no-repeat #515151 var(--res-logo) !important; border-radius: 6px !important)
+drive2.com,drive2.ru##[data-track]:not(a):style(min-height: 0 !important; padding-top: unset !important; padding-bottom: unset !important; box-shadow: inherit !important)
+drive2.com,drive2.ru##div[class$="content"] ~ div + div[class*=" "][class$="--mh"]
+!
+drive2.com,drive2.ru##div[class*="--content article "] + div
+drive2.com,drive2.ru##div[class*="--content article "] + div + div:not(:last-child)
+drive2.com,drive2.ru##div[class*="--content article "] + div ~ div:last-child > div:first-child + div[class]
+drive2.com,drive2.ru##div[class*="--content article "] + div ~ div:last-child > div:first-child:not(:only-child):style(max-width: unset !important)
+! ---
+driveroff.net##body > #right
+driveroff.net##body > #right ~ .middle:style(margin-right: 4px !important)
+! ---
+forums.drom.ru###dromRightCol
+forums.drom.ru##.contentWrap .lcWrap:style(padding-right: unset !important)
+! ---
+dtf.ru,vc.ru##.sticky-stack-sidebar__section:not(:only-child):style(min-height: 0 !important)
+dtf.ru,vc.ru##html:style(--layout-header-height-large: 60px !important)
+! суррогат
+dtf.ru##.rotator *
+dtf.ru##.rotator--limitless
+dtf.ru##.rotator:style(height: 100px !important; margin-top: -100px !important; margin-bottom: unset !important; pointer-events: none !important; background-color: transparent !important;)
+dtf.ru##.supbar--top:style(height: 100px !important; margin-top: -200px !important; pointer-events: none !important; background-color: transparent !important)
+dtf.ru##[class*="sidebar"] div[style*="banner-height"] *
+dtf.ru##[class*="sidebar"] div[style*="banner-height"]:style(height: 100px !important; margin-top: -120px !important; pointer-events: none !important; background-color: transparent !important;)
+! ---
+dugtor.ru###left-block:style(min-height: 100% !important)
+dugtor.ru###right-block:style(min-height: 100% !important)
+! ---
+dyvys.info##.td-header-sp-logo:style(max-height: 90px !important)
+dyvys.info##body > *:style(pointer-events: auto !important)
+dyvys.info##body:style(pointer-events: none !important)
+! ---
+dynamo.kiev.ua,ringside24.com##.fader-social:style(position: fixed !important; top: -10000px !important; opacity: 0 !important; z-index: -9999 !important)
+dynamo.kiev.ua,ringside24.com##.social-open:style(overflow: auto !important)
+! ---
+economistua.com##.wdpu-container
+economistua.com##.wpmui-overlay
+economistua.com##body > *:style(pointer-events: auto)
+economistua.com##body:style(padding-top: 0 !important; background: whitesmoke !important; overflow: auto !important; pointer-events: none)
+economistua.com##html:style(padding-top: 0 !important; background: whitesmoke !important; overflow: auto !important; pointer-events: none)
+! ---
+edenland.com.ua##.socials-popup
+edenland.com.ua##body:style(overflow: auto !important)
+! ---
+electric-house.ru##table[class^="header"] > tbody > tr > td ~ [class]
+! ---
+eplus.by###cookiesAgreementNotice
+eplus.by##body:style(overflow: auto !important)
+! ---
+seasonvar.ru,uniondht.org##body:not(#id):style(padding: 0 !important)
+seasonvar.ru,uniondht.org##html:not(#id):style(padding: 0 !important)
+! ---
+espreso.tv###disqus_thread:style(min-width: 700px !important)
+! ---
+eurointegration.com.ua##.header.fixed .layout:style(margin-top: 0 !important)
+eurointegration.com.ua##.right_column_content > .block_news:style(margin-top: 0 !important)
+eurointegration.com.ua##header.header:style(margin-top: 0 !important)
+! ---
+eva.ru##body > .eva:style(margin-top: 50px !important)
+! ---
+ex-fs.net###content:style(margin-top: 0 !important)
+! ---
+expertcen.ru##header .light-line:style(height: unset !important)
+! ---
+factor.ua##.b-access__auth
+factor.ua##.b-access__overlay
+factor.ua##body:style(overflow: auto !important)
+! ---
+fastpic.org##.justify-content-center > .col[id]:style(max-width: max-content !important)
+fastpic.org##body > footer:style(background: none !important)
+fastpic.org##main#mainContainer:style(max-width: unset !important)
+! ---
+fbsearch.ru###search_panel > .panel-body ~ div
+fbsearch.ru###search_panel > .panel-body:style(display: block !important)
+! ---
+fex.net##.modal_type_video-ads
+fex.net##body:style(overflow: auto !important)
+! ---
+filebase.ws##body > .root:style(top: 0 !important)
+! ---
+filmhd1080.me##.have-brand .obertka-in:style(margin-top: 70px !important)
+! ---
+filmishki.net##.wrap > .block:style(margin-top: 0 !important)
+! ---
+filmitorrent.net,filmitorrent.site,utorr.cc##body > #container:style(margin-top: 0 !important)
+! ---
+filmix.date,filmix.life,filmix.my,filmix.pub,filmix.tech,filmix.zone##.main-wrapper:style(margin-top: 0 !important)
+filmix.date,filmix.life,filmix.my,filmix.pub,filmix.tech,filmix.zone##.page-wrapper:style(margin-top: 0 !important)
+filmix.day##.wrap:style(margin-top: 0 !important)
+! ---
+filmozavr.com,filmozavr.net##.maincontent:style(margin-top: 0 !important)
+! ---
+films-online.club##.body-wrap > #content:style(margin-top:42px !important)
+! ---
+fclmnews.ru##.site:style(margin-top: 0 !important)
+! ---
+fishki.net###container:style(cursor: auto !important)
+fishki.net##[id^="videoplayer_"][aria-label="Video Player"]:style(display: block !important)
+! ---
+flashscore.com.ua,flashscore.ru.com,flashscore.ua,flashscorekz.com,livescore.in,soccerstand.com##[data-bookmaker-id]:style(pointer-events: none !important)
+! ---
+www.fontanka.ru###onesignal-promt-target > div:first-child
+www.fontanka.ru##header > div[class^="funding_"]
+! ---
+forum.flprog.ru##.sitemaker > .grid > .sm-responsive-full-width:style(width: auto !important)
+! ---
+footballhd.ru##body > #header:style(margin-top: 0 !important)
+! ---
+footballhub.com.ua##.page-container:style(top: 0 !important)
+! ---
+forbes.ru##.jNJtr:style(height: calc(var(--vh, 1vh)*100 - 1px) !important)
+forbes.ru##a[href*="?erid="]:style(pointer-events: none !important; color: inherit !important)
+! ---
+fototips.ru##.ftips-branding .td-main-page-wrap:style(padding-top: 5px !important)
+fototips.ru##.ftips-branding-ad + div:style(padding-top: 5px !important)
+fototips.ru##.ftips-branding.td_category_template_1 .td-category-header:style(padding-top: 5px !important)
+! ---
+freehat.cc###page:style(max-width: 1600px !important; margin-top: 0 !important)
+! ---
+freeopenvpn.org###advert:style(height: 1px !important)
+freeopenvpn.org##.adsbygoogle:style(max-height: 6px !important)
+freeopenvpn.org##body > a[href][target="_blank"]
+! ---
+freetp.org,freetp.ru##.fix_block > nav:style(position: relative !important)
+freetp.org,freetp.ru##.fix_block:style(position: relative !important)
+freetp.org,freetp.ru##body.pagefullbg:style(padding-top: 50px !important)
+! ---
+fssprus.ru##.tingle-modal
+fssprus.ru##html > body:style(overflow-y: auto !important; position: static !important)
+! ---
+galka.if.ua###fb-modal
+galka.if.ua##body.modal-open > .modal-backdrop
+galka.if.ua##body.modal-open:style(overflow: auto !important)
+! ---
+game2day.ru##body > .container:style(margin-top: 120px !important)
+! ---
+gamebomb.ru###content.site-max-width:style(margin-top: 0 !important; padding-top: 0 !important)
+gamebomb.ru##body > div[id] > div[id]:style(background-image: none !important)
+gamebomb.ru##body:style(background-color: #303030 !important; background-image: none !important)
+! ---
+! gamegpu.com, overclockers.ua
+gamegpu.com,overclockers.ua##a[href*="://artline.ua/"]:style(pointer-events: none !important; color: inherit !important)
+gamegpu.com,overclockers.ua##a[href*="://bit.ly/"]:style(pointer-events: none !important; color: inherit !important)
+gamegpu.com,overclockers.ua##a[href*="://brain.com.ua/"]:style(pointer-events: none !important; color: inherit !important)
+gamegpu.com,overclockers.ua##a[href*="://compx.ua/"]:style(pointer-events: none !important; color: inherit !important)
+gamegpu.com,overclockers.ua##a[href*="://rozetka.com.ua/"]:style(pointer-events: none !important; color: inherit !important)
+gamegpu.com,overclockers.ua##a[href*="://telemart.ua/"]:style(pointer-events: none !important; color: inherit !important)
+! ---
+gameguru.ru###mainContent > section:first-of-type:style(margin-top: unset !important)
+gameguru.ru##body:style(background-image: none !important; background-color: inherit !important)
+! ---
+gamemag.ru##.comment-background:style(background: none !important)
+gamemag.ru##.main-content:style(background: none !important)
+gamemag.ru##.user-profile-section:style(margin-top: unset !important)
+! ---
+gamer-info.com##.roarticlecol:style(top: 2px !important)
+gamer-info.com##body > div:not([id]):not([class]) > div[class] > div[class]:style(background-image: none !important)
+gamer-info.com##body > div:not([id]):not([class]) > div[class]:style(padding-top: unset !important; background-color: inherit !important)
+! ---
+gasolina-online.com###facebook-modal
+gasolina-online.com##body.modal-open > .modal-backdrop
+gasolina-online.com##body.modal-open:style(overflow: auto !important)
+! ---
+gastronom.ru##body > div[class^="js-nh"]:style(margin-top: 115px !important)
+! ---
+gazeta.ua###ad-300 + .w:style(margin-top: unset !important)
+! ---
+gdetraffic.com##.main.with-top-menu:style(padding-top: 100px !important)
+! ---
+gecid.com##body > *:style(pointer-events: auto !important)
+gecid.com##body:style(cursor: default !important; pointer-events: none !important; background-color: transparent !important)
+! ---
+! унификация дизайна русского домена с остальными
+gismeteo.ru##.maps .maps-block:style(height: auto !important)
+gismeteo.ru##.project-maps .wrap:style(max-width: 1010px !important)
+gismeteo.ru##.project-weather .wrap:style(max-width: 1010px !important)
+gismeteo.ru##.section-map-grid:style(display: unset !important)
+! исправление ошибок и косяков оригинальной вёрстки
+gismeteo.ru##.section-map-grid:style(margin-bottom: 20px !important)
+! ---
+! исправление ошибок и косяков оригинальной вёрстки
+glavpost.ua###navbar:style(position: relative !important)
+! ---
+glavred.info,glavred.net##.newsfeed:style(height: auto !important)
+! ---
+goclips.tv##.video_content:style(height: auto !important)
+! ---
+www.goha.ru##a[href^="https://www.goha.ru/~"]:style(pointer-events: none !important)
+! ---
+gol.ru##.wrapper__content-inner:not(#id):style(padding-top: 0 !important)
+! ---
+goodfon.ru##.wallpapers > [class^="wallpapers__item"]:style(margin-right: unset !important; width: 320px !important)
+! ---
+goodgame.ru##.main-block .main-inner-wrap:style(margin-top: 0 !important)
+! ---
+gooool365.org##body > .page:style(margin-top: 0 !important)
+! ---
+gotennis.ru##.page:style(padding-top: 0 !important)
+! ---
+! Франшиза Gorodor.ru
+kaluga-poisk.ru,yasniy-city.ru,yola-poisk.ru##body:not(#id):style(background: whitesmoke !important)
+! ---
+intermedia.ru##.general_block > a[href][target="_blank"]
+gorod.dp.ua,intermedia.ru,sefon.cc##html > body:style(padding-top: unset !important)
+! ---
+gotps3.ru###Page:style(margin-top: 0 !important)
+! ---
+govoritmoskva.ru##.rightColumn > .darkPart:style(height: auto !important)
+govoritmoskva.ru##footer.pageContainer:style(height: auto !important)
+! ---
+great-tv.ru,vserialy.com,vserialy.fun###header_box:style(height: auto !important; min-height: auto !important)
+! ---
+! Домены Grouple и qawa.org
+allhen.online,mintmanga.one##img[src]:style(filter: none !important)
+! ---
+growhow.in.ua##body:style(background-color: inherit !important)
+! ---
+gstv.ru##.page-content:style(margin-top: 0 !important)
+! ---
+gta-gaming.ru###link-b:style(display: block !important)
+gta-gaming.ru##.first-b
+! ---
+gtavicecity.ru##.wrapper-body:style(margin-top: 0 !important)
+! ---
+gta.com.ua##body:style(background-image: none !important; background-color: #f5f5f5 !important)
+! ---
+gubkinskiy.com###page-content:style(margin-top: 0 !important)
+! ---
+h-chan.me##img[style^="filter: blur"]:style(filter: none !important)
+! ---
+habr.com##.has-p-shaped:style(padding-top: 12px !important)
+! ---
+hardwareluxx.ru##[href*="ya"][href*="cc"][target="_blank"]:style(pointer-events: none !important; color: inherit !important)
+! ---
+hdkinomir.cc###wrapper > .menu:style(margin-top: auto !important)
+! ---
+hdkinozzoro.ru##.jirrua:style(margin-top: 0 !important)
+hdkinozzoro.ru##body:not(#id):style(padding-top: 0 !important)
+! ---
+! HDREZKA
+ac,ag,biz,buzz,by,city,club,co,com,fi,in,ink,kim,loan,me,name,net,org,pub,rest,run,sh,si,so,space,su,today,tv,vip,website,win##body[class^="has-brand"][class*=" active-brand"][class*="fixed-header"] > [id$="er"]:nth-child(-n+3):style(width: unset !important)
+ac,ag,biz,buzz,by,city,club,co,com,fi,in,ink,kim,loan,me,name,net,org,pub,rest,run,sh,si,so,space,su,today,tv,vip,website,win##body[class^="has-brand"][class*=" active-brand"][class*="fixed-header"]:style(padding-top: 0 !important; background-color: inherit !important)
+! ---
+hdru.net##.page:style(margin-top: 0 !important)
+! ---
+hellomagazine.com##.footer:style(position: relative !important)
+! ---
+hentai-share.one##.main .header:style(padding-top: 94px !important)
+hentai-share.one##.showfull .header:style(padding-top: 60px !important)
+hentai-share.one##img[src]:style(filter: none !important)
+! ---
+hentaiz.org##.short-poster > img:style(filter: none !important; -webkit-filter: none !important)
+! ---
+hi-fi.ru##.page-branded:style(margin-top: 0 !important)
+hi-fi.ru##body:style(background: none !important)
+! ---
+hi-tech.ua##body > noindex
+hi-tech.ua##body:style(background-image: none !important; padding-top: 0 !important)
+! ---
+holod.media##.article__bg:style(left: 49% !important)
+! ---
+! Horror Web Медиасеть
+russorosso.ru###wrapper > #header:style(margin-top: 0 !important)
+horrorzone.ru##body > .all:style(margin-top: 0 !important)
+darkermagazine.ru##body > .header:style(margin-top: 0 !important)
+! ---
+houzz.ru##.modal.in.modal-vc
+houzz.ru##body.modal-open:style(overflow: auto !important)
+houzz.ru##html:style(overflow: auto !important)
+! ---
+hs-manacost.ru###td-outer-wrap > *:style(pointer-events: auto)
+hs-manacost.ru###td-outer-wrap:style(pointer-events: none)
+hs-manacost.ru##body > *:style(pointer-events: auto)
+hs-manacost.ru##body:style(background-image: none !important; background-color: whitesmoke !important)
+hs-manacost.ru##body:style(pointer-events: none)
+! ---
+hvylya.net##.right-column > .b-newsfeed > span:style(margin-top: 0 !important)
+! ---
+i.ua##.body_container:style(padding-bottom: unset !important)
+i.ua##.footer_container:style(height: auto !important; margin-top: auto !important)
+! ---
+ictv.ua##.video-stream > *:style(pointer-events: auto !important)
+ictv.ua##.video-stream:style(background-image:none !important; pointer-events: none !important)
+! ---
+! Independent Media
+grazia.ru,mentoday.ru,techinsider.ru,thevoicemag.ru##.preview-section .vertical-video__loader
+grazia.ru,mentoday.ru,techinsider.ru,thevoicemag.ru##.preview-section .vertical-video__play-icon-wrapper:style(display: unset !important)
+! ---
+infocar.ua###totalbg:style(background-image: none !important)
+! ---
+infoua.biz###id_box_r_y1:style(position: absolute !important; top: -10000px !important; left: -10000px !important; height: 50px !important)
+infoua.biz###idbbbad:style(position: absolute !important; top: -10000px !important; left: -10000px !important; height: 50px !important)
+! ---
+infourok.ru##.footer-slow-download__btn:style(color: #57a216 !important; font-size: 19px !important; font-weight: bold !important)
+! ---
+innal.top,seedoff.net,zannn.top##body[style*="margin"]:style(margin-top: 0 !important; margin-bottom: 0 !important)
+innal.top,seedoff.net,zannn.top##div#main:style(margin-top: 0 !important; margin-bottom: 0 !important)
+! ---
+inoprosport.ru##body > .page__wrapper:style(padding-top: 60px !important)
+! ---
+instagram.com##body[style*="overflow: hidden;"]:style(overflow: auto !important)
+! ---
+investing.com###PromoteSignUpPopUp
+investing.com###__next > .fixed
+investing.com###__next > style + div[class]:not([id])
+investing.com###abPopup
+investing.com##.ad-blocker-popup
+investing.com##.js-general-overlay
+investing.com##body:style(overflow: auto !important)
+investing.com##div[class^="desktop"] > .hidden
+! ---
+iphones.ru###contentShifter:style(height: 127px !important)
+! ---
+isport.ua##body > .layout:style(margin-top: 0 !important)
+! ---
+it-actual.ru##.entry-content > [class*=" "][style="text-align: center;"]
+it-actual.ru##.fltext:style(background: none !important; position: unset !important)
+! ---
+it-world.ru##html > body > *:style(pointer-events: auto !important)
+it-world.ru##html > body:style( pointer-events: none !important; background: inherit !important)
+! ---
+itc.ua##a[href*="://rdr.fmcgsd.net/in/offer/"]:style(pointer-events: none !important; color: unset !important; border-bottom: none !important)
+itc.ua##a[href*="://telemart.ua/"]:style(pointer-events: none !important; color: unset !important; border-bottom: none !important)
+itc.ua##a[href*="utm_"][target="_blank"]:style(pointer-events: none !important; color: unset !important; border-bottom: none !important)
+itc.ua##a[href^="https://ek.ua/ua/"]:style(pointer-events: none !important; color: unset !important; border-bottom: none !important)
+itc.ua##body.age-popup-active > .age-popup-overlay
+itc.ua##body.age-popup-active:style(overflow: unset !important)
+! ---
+itnews.com.ua###content > #header > div[style^="height: 94px;"]:style(height: 6px !important)
+itnews.com.ua###content > #header:style(height: 220px !important; background-position-y: -100px !important)
+itnews.com.ua###right > div[style^="height:"]:style(height: 0 !important)
+itnews.com.ua##td.left[width="200"][valign="top"]:style(height: auto !important)
+! ---
+ivanovonews.ru##body > .layout:style(padding-top: 50px !important)
+! ---
+www.ivi.ru##.headerNotify_hasUnread .nbl-simpleControlButton:style(animation: none !important)
+www.ivi.ru##.page-wrapper > .content-main:style(padding-top: 0 !important)
+www.ivi.ru##.rollPlus
+ivi.ru##[data-test="watch_with_adv"] > .nbl-button__primaryText
+www.ivi.ru##body.watch > div[class]:not([id]):not([style]):nth-child(-n+2) > style + .content
+www.ivi.ru##body.watch > div[class]:not([id]):not([style]):nth-child(-n+2):style(background: none !important)
+www.ivi.ru##body.watch > header.ivi-top:style(top: 0 !important)
+! ---
+ixbt.com##body:not(#id) > .b-content.b-content__breadcrumbs:style(margin-top: unset !important)
+ixbt.com##body:not(#id) > .b-content__pagecontent:style(margin-top: unset !important)
+ixbt.com##body:not([class*="dark:"]):style(background-color: inherit !important)
+! ---
+forum.ixbt.com##.body_content_table > .left.column:style(margin-right: 0 !important; width: 100% !important)
+forum.ixbt.com##.body_wrapper:style(max-width: 100% !important)
+forum.ixbt.com##.deskadv:style(position: absolute !important; top: -10000px !important; height: 34px !important)
+forum.ixbt.com##.fullscreen_branding ~ .body_content_table:style(margin-top: 0 !important; z-index: 0 !important)
+forum.ixbt.com##.left.column > #question.dialog_thanks:style(left: 67% !important)
+! ---
+www.ixbt.com###page-wrapper > #header:style(margin-bottom: auto !important)
+ixbt.market,www.ixbt.com###page-wrapper > #wrapper:style(padding-top: 0 !important; margin-top: unset !important)
+www.ixbt.com###page-wrapper > .tm-wrapper > .tm:style(margin-bottom: auto !important)
+www.ixbt.com###page-wrapper:style(background-color: white !important)
+www.ixbt.com##.branding .main__container:style(margin-top: unset !important)
+! исправление ошибок и косяков оригинальной вёрстки
+ixbt.market,www.ixbt.com###page-wrapper .container:style(max-width: 100% !important)
+ixbt.com##.b-content__pagecontent > .b-content--wrapper > .g-grid:style(margin-top: unset !important)
+! ---
+jut-su.net##body:not(#id):style(padding-top: 0 !important; padding-bottom: 0 !important)
+! ---
+kanaldim.tv,uatv.ua##body > .playerlive
+! ---
+kg-portal.ru##.comments_form:style(min-height: 0 !important)
+kg-portal.ru##.content_wrap > div[class^="content_"] > div > a[href^="/go.php?id="]
+kg-portal.ru##.ten_ears_wrap:style(margin: 35px auto 0 auto !important)
+kg-portal.ru##.ten_topbar + div:not(.ten_ears_wrap)
+kg-portal.ru##.ten_topbar ~ div[class]:not([id]):nth-child(-n+10):not(.ten_ears_wrap):not(.content_wrap):not(.footer_wrap)
+kg-portal.ru##.ten_topbar:style(height: 0 !important)
+kg-portal.ru##body > .menu_wrap:style(position: relative !important)
+kg-portal.ru##body:style(background-image: none !important; background-color: #bdbdbd !important)
+! ---
+kharkovforum.com##body > table > tbody > tr > td[align="center"]
+! ---
+sovet.kidstaff.com.ua##body:style(padding-top: 40px !important; background-image: none !important)
+! ---
+kino-teatr.ua##.imaband
+ampercar.com,hi-news.ru,itechua.com,kino-teatr.ua,mmr.net.ua,uamotors.com.ua##body:style(background: none !important)
+kino-teatr.ua##html:not(#id):style(background: none !important)
+! ---
+kino.video,tasix.me###embed-video > [id^="blink"]:style(-webkit-animation: none !important; animation: none !important; color: var(--color--normal) !important; font-weight: normal !important)
+kino.video,tasix.me##.navbart > a[href] > .spin:style(animation-name: none !important)
+kino.video,tasix.me##.publisher-name > [id^="blink"]:style(-webkit-animation: none !important; animation: none !important; color: var(--color--normal) !important; font-weight: normal !important)
+! ---
+kinoakter.net##body > div[class^="wrapper"]:style(margin-top: 0 !important)
+! ---
+kinokong.sk,kinokrad.net###wrapper:not(#id):style(margin-top: 67px !important)
+kinokrad.my##body > div[style^="height:"]:style(height: auto !important)
+! ---
+kinokladovka.com##.b-background:style(background: none !important; padding-top: 0 !important)
+! ---
+kinomania.ru##.outer:style(padding-top: 0 !important)
+! ---
+kinometro.ru##body > .wrapper:style(background: none !important; padding-top: 0 !important; padding-bottom: 0 !important)
+! ---
+kinoprofi.vip##body .header .header-fixed:style(top: 0 !important)
+kinoprofi.vip##body .header:style(padding-top: 0 !important)
+! ---
+kinorium.com##body:style(margin-top: auto !important)
+! ---
+kinoshack.net,tree.tv##body > .wrapper:style(margin-top: 0 !important)
+! ---
+kinoteatr.ru##.mt-branding:style(margin-top: 100px !important)
+kinoteatr.ru##html > body:style(background-image: none !important; background-color: black !important)
+! ---
+www.kinopoisk.ru###header-info-bg:style(background-color: transparent !important; background-image: none !important)
+www.kinopoisk.ru###top > div[id][style^="height: 210px"]
+hd.kinopoisk.ru##.ReactModalPortal > div[class*="styles_fixed_"]
+www.kinopoisk.ru##.app div[class^="device"][class*=" page-main__content"]:style(background-color: black !important)
+www.kinopoisk.ru##.film-seances-page:style(box-shadow: 0 -8px 15px #333333 !important)
+www.kinopoisk.ru##.page-content > #header-info-bg + div[id]:not([class]):style(margin-bottom: 40px !important)
+www.kinopoisk.ru##.shadow.shadow-restyle:style(box-shadow: 0 -8px 15px #333333 !important)
+www.kinopoisk.ru##.top-banner-container
+www.kinopoisk.ru##.underheader-superbanner-wrapper
+www.kinopoisk.ru##.user-subscription-partial-component__subscription-item-text:style(white-space: pre-wrap !important)
+www.kinopoisk.ru##a[href^="https://kinopoisk.ru/special/"][href*="utm_campaign="]
+www.kinopoisk.ru##aside.dialog
+www.kinopoisk.ru##body[class*="styles_body"]:style(overflow: auto !important)
+www.kinopoisk.ru##div[class*=" styles_basicInfoSection"]:style(padding-top: 40px !important)
+www.kinopoisk.ru##div[class*=" styles_basicMediaSection"]:style(padding-top: 40px !important)
+www.kinopoisk.ru##div[class*=" styles_videoContainer"]:style(margin-top: 0 !important)
+kinopoisk.ru##div[class*="styles_adBlockWarningRoot"]
+www.kinopoisk.ru##div[class*="styles_baseContainer"] > div[class]:first-child > div[class]:first-child:style(min-height: 0 !important)
+www.kinopoisk.ru##div[class*="styles_baseContainer"] > div[class]:first-child:style(min-height: 0 !important)
+www.kinopoisk.ru##div[class*="styles_middleContainer"] > div[class]:first-child:style(min-height: 0 !important)
+www.kinopoisk.ru##div[class^="styles_themeTopBanner"]
+www.kinopoisk.ru##div[class^="styles_wideContentContainer"] > div[class]:first-child:style(min-height: 0 !important)
+www.kinopoisk.ru##div[class^="toaster-container"]
+www.kinopoisk.ru##div[data-type="teaserspec"]
+www.kinopoisk.ru##div[style="min-width: 1px;"]:style(min-height: 0 !important)
+www.kinopoisk.ru##div[style="min-width:1px"]:style(min-height: 0 !important)
+! правила для обфусцированной версии
+www.kinopoisk.ru###__next > div[class^="styles_root__"]:first-of-type > div[class^="styles_root__"]:first-child + div > div:first-child:style(min-height: 0 !important)
+www.kinopoisk.ru###modal-root > [class^="styles_root_"] ~ div:not([class^="styles_modal_"]):not([class^="styles_overlay_"])
+www.kinopoisk.ru##.app__page > div:not([class*="media"]):not([class*="content"]):first-child:style(min-height: 0 !important)
+www.kinopoisk.ru##.desktop-layout-with-sidebar__middle > .desktop-layout-with-sidebar__wrapper > div[class*="-container_"]:not([class*="kinopoisk"]):first-child
+www.kinopoisk.ru##.media-post-page > div:not([class*="media"]):first-child:style(min-height: 0 !important)
+www.kinopoisk.ru##.page-content > div[id]:not(#header-info-bg):empty
+www.kinopoisk.ru##.page-content > div[id]:not(#header-info-bg):empty + div[id]:not(#top):style(margin-bottom: 40px !important)
+www.kinopoisk.ru##div[class*="__EPaSo"]
+www.kinopoisk.ru##div[class*="kinopoisk-media-container_pending"]:style(min-height: 0 !important)
+www.kinopoisk.ru##div[id*="_superbanner_"]
+! исправление ошибок и косяков оригинальной вёрстки
+www.kinopoisk.ru###actorListBlock:style(padding-right: 19px !important)
+www.kinopoisk.ru##.content-container_app-width_wide:style(max-width: 100% !important)
+www.kinopoisk.ru##.desktop-layout-with-sidebar__content > div[class][data-tid]:style(width: auto !important)
+www.kinopoisk.ru##.filmsListNew .info:style(padding-right: 116px !important)
+www.kinopoisk.ru##.header-navigation:style(max-width: 100% !important)
+www.kinopoisk.ru##.modal-root div[class^="fullscreen-selector"]:style(opacity: inherit !important)
+www.kinopoisk.ru##div > a[aria-label="КиноПоиск"] ~ div > button ~ div:style(opacity: inherit !important)
+www.kinopoisk.ru##div[class*="styles_headerContainer"] + div[class^="styles_"]:style(max-width: 100% !important)
+www.kinopoisk.ru##div[class*="user-bar"] > div > button ~ div:style(opacity: inherit !important)
+www.kinopoisk.ru##div[class^="styles_emptyItems__"] div:style(background-color: transparent !important)
+www.kinopoisk.ru##div[class^="styles_footerContainer__"]:style(max-width: 100% !important)
+! ---
+kinovibe.vip##div[class^="center-box"]:style(margin-top: unset !important)
+! ---
+kirovnet.ru##.bg_container:style(padding-top: 0 !important)
+kirovnet.ru##.subbody2:style(margin-top: 0 !important)
+! ---
+kirov.online##.bg_container > .wrapper-content:style(padding-top: 0 !important)
+! ---
+klops.ru##.page-detail .section-detail-news:style(margin-left: 0 !important)
+! ---
+ko.com.ua##.gbg:style(top: auto !important)
+!
+korabel.ru##div[id^="newsid_"] > .row0[style="margin-bottom:8px;"]:style(pointer-events: none !important)
+! ---
+kp.ru###allrecords > #t-header + div + div[id^="rec"][style*="padding-top:"]:style(padding-top: 0 !important)
+kp.ru###allrecords > #t-header + div[id^="rec"][style*="padding-top:"]:style(padding-top: 0 !important)
+kp.kg,kp.kz,kp.md,kp.ru##.page-header__promo-btn[href*="/reklama/"]
+kp.ru##.page-wrapper > .page-inner:style(margin-top: auto !important)
+kp.kg,kp.kz,kp.md,kp.ru##a[href^="https://advert.kp.ru"]
+kp.kg,kp.kz,kp.md,kp.ru##body > #app [data-branding-wrapper]:style(padding-top: 0 !important)
+kp.kg,kp.kz,kp.md,kp.ru##body > #app div[style="display:block !important"] > div:first-child > div:first-child + div > div:first-child + div > div[data-name]:first-child + div:style(margin-top: auto !important)
+! ---
+! krasview.ru - зеркала
+hlamer.ru,ru##body[style*="://image.krasview.ru/channel"]:style(background-color: #596c84 !important)
+! ---
+kredos.com.ua,smartphone.ua###header:style(height: auto !important)
+! ---
+kufar.by##div[class*=" styles_empty_collapse"]
+! ---
+kv.by###page:style(top: 0 !important)
+! ---
+l2top.ru##.container[style="max-width: unset;"] > .container:style(margin-top: auto !important)
+! ---
+lafa.site##.wrapper-header:style(margin-top: 0 !important)
+! ---
+latifundimag.com##body > .wrapper > *:style(pointer-events: auto !important)
+latifundimag.com##body > .wrapper:style(pointer-events: none !important)
+! ---
+leingpt.ru##.m-container > #yandex_rtb_R:style(display: block !important)
+! ---
+lenta.ru##.longgrid-list__box:style(justify-content: unset !important)
+! ---
+lifehacker.ru##.promo__container:style(pointer-events: none !important; background: none !important)
+lifehacker.ru##.recipes-layout__content:style(margin-top: 0 !important)
+! Фикс для плеера VIQEO
+lifehacker.ru##[data-video_status="initial"] .splash-pause
+lifehacker.ru##[data-video_status] .previewContainer:style(z-index: unset !important)
+lifehacker.ru##[data-video_status] .splash-icon_animation_container:style(opacity: unset !important)
+lifehacker.ru##[data-video_status] .splashContainer:style(display: unset !important)
+lifehacker.ru##[data-video_status]:not([data-video_status="initial"]) .splash-play
+! ---
+lifetambov.ru##.theme-wrapper > .container > div:style(padding-bottom: unset !important)
+! ---
+liveball.gg,liveball.my,liveball.space,liveball.sx,liveball.uno,liveball.ws##footer:style(max-width: 100% !important)
+liveball.gg,liveball.my,liveball.space,liveball.sx,liveball.uno,liveball.ws##main.main_div:style(margin-top: 0 !important; max-width: 100% !important; border-radius: inherit !important)
+! ---
+livecars.ru,livesport.ru##.content:style(margin-top: 0 !important)
+! ---
+liveinternet.ru##.allpage .currency a:style(pointer-events: none !important)
+liveinternet.ru##[style="margin-top:-24px;"] ~ .leftcolumn > div ~ div
+liveinternet.ru##[style="margin-top:-24px;"] ~ br + div
+! исправление ошибок и косяков обфусцированной вёрстки
+www.liveinternet.ru##:not(.allpageinner) > :not(.header) > .logo > a[href="/"] > span:style(top: inherit !important; left: inherit !important; font-size: x-large !important; font-weight: bold !important; color: #0183cb !important)
+! ---
+! LiveJournal
+www.livejournal.com##.mainpage > div[class]:style(min-height: 0 !important)
+levik.blog,livejournal.com,olegmakarenko.ru,periskop.su,shakko.ru,shiro-kino.ru,vadimrazumov.ru##.mdspost > div[class]:style(min-height: 0 !important)
+levik.blog,livejournal.com,olegmakarenko.ru,periskop.su,shakko.ru,shiro-kino.ru,vadimrazumov.ru##.s-layout > div[class]:style(min-height: 0 !important)
+levik.blog,livejournal.com,olegmakarenko.ru,periskop.su,shakko.ru,shiro-kino.ru,vadimrazumov.ru##header > div[class]:style(min-height: 0 !important)
+! ---
+liveresult.ru##.main:style(margin-top: 0 !important)
+! ---
+livesport.ws##body > div:not([id]):not([class]) + div:not([id]):not([class]) + div:not([id]):not([class]) + div:not([id]):not([class]) ~ div[id]:not([class])
+livesport.ws##body:style(padding-top: 0 !important)
+! ---
+lostfilm.info###neheraplper_9000 > a[href] > span
+lostfilm.info##.footer-logo:style(filter: invert(0.8) !important)
+lostfilm.download,lostfilm.life,lostfilm.one,lostfilm.pro,lostfilm.space,lostfilm.today,lostfilm.tv,lostfilm.tw,lostfilm.uno,lostfilm.win,lostfilmtv.site,lostfilmtv.uno,lostfilmtv2.site,lostfilmtv3.site,lostfilmtv5.site##.footer:style(background: #1c1e1f !important; color: #fff !important)
+lostfilm.download,lostfilm.life,lostfilm.one,lostfilm.pro,lostfilm.space,lostfilm.today,lostfilm.tv,lostfilm.tw,lostfilm.uno,lostfilm.win,lostfilmtv.site,lostfilmtv.uno,lostfilmtv2.site,lostfilmtv3.site,lostfilmtv5.site##.gallery_img_preload:style(position: absolute !important; display: block !important; opacity: 0 !important; margin-top: 155px !important; margin-left: 20px !important; width: calc(100% - 40%);)
+lostfilm.download,lostfilm.life,lostfilm.one,lostfilm.pro,lostfilm.space,lostfilm.today,lostfilm.tv,lostfilm.tw,lostfilm.uno,lostfilm.win,lostfilmtv.site,lostfilmtv.uno,lostfilmtv2.site,lostfilmtv3.site,lostfilmtv5.site##.lstfml .footer .links a:style(color: #fff !important)
+lostfilm.download,lostfilm.life,lostfilm.one,lostfilm.pro,lostfilm.space,lostfilm.today,lostfilm.tv,lostfilm.tw,lostfilm.uno,lostfilm.win,lostfilmtv.site,lostfilmtv.uno,lostfilmtv2.site,lostfilmtv3.site,lostfilmtv5.site##body > * > div[style^="padding-top"]
+lostfilm.download,lostfilm.life,lostfilm.one,lostfilm.pro,lostfilm.space,lostfilm.today,lostfilm.tv,lostfilm.tw,lostfilm.uno,lostfilm.win,lostfilmtv.site,lostfilmtv.uno,lostfilmtv2.site,lostfilmtv3.site,lostfilmtv5.site##body > a[onclick]
+lostfilm.download,lostfilm.life,lostfilm.one,lostfilm.pro,lostfilm.space,lostfilm.today,lostfilm.tv,lostfilm.tw,lostfilm.uno,lostfilm.win,lostfilmtv.site,lostfilmtv.uno,lostfilmtv2.site,lostfilmtv3.site,lostfilmtv5.site##body > div:not([id]):not([class]):not([style])
+lostfilm.download,lostfilm.life,lostfilm.one,lostfilm.pro,lostfilm.space,lostfilm.today,lostfilm.tv,lostfilm.tw,lostfilm.uno,lostfilm.win,lostfilmtv.site,lostfilmtv.uno,lostfilmtv2.site,lostfilmtv3.site,lostfilmtv5.site##body > span:nth-child(-n+6)
+lostfilm.download,lostfilm.life,lostfilm.one,lostfilm.pro,lostfilm.space,lostfilm.today,lostfilm.tv,lostfilm.tw,lostfilm.uno,lostfilm.win,lostfilmtv.site,lostfilmtv.uno,lostfilmtv2.site,lostfilmtv3.site,lostfilmtv5.site##body:style(background-image: none !important; background-color: #1c1e1f !important)
+lostfilm.info##img[src="/vision/footer-logo.png"]:style(filter: invert(0.8) !important)
+! ---
+lrepacks.net##[href*="poluchenie-premium-dostupa.html"] > b > .fa-spin:style(animation: none !important)
+! ---
+m24.ru##.vjs-big-play-button:style(background: #0fc3c3 !important)
+! ---
+video.matchtv.ru##.video-js::after:style(background: none !important)
+! ---
+mc.today##.category-all #content:style(background-image: none !important; cursor: auto !important)
+! ---
+! сайты Mediafort.ru
+asienda.ru,mycharm.ru,myjane.ru###pagewrapper:style(margin-top: 0 !important)
+relook.ru###topcontainer:style(margin-top: 40px !important)
+stranamam.ru##.n-main-branding-container:style(margin-top: 0 !important)
+povarenok.ru##.page-width:style(margin-top: 0 !important)
+povarenok.ru##.sp-header-block:style(height: 50px !important)
+diets.ru##body > #container:style(top: 0 !important)
+asienda.ru,diets.ru,mycharm.ru,myjane.ru,povarenok.ru,relook.ru,stranamam.ru##body:style(background-color: inherit !important)
+! ---
+mediasat.info##.td-ad-background-link #td-outer-wrap:style(cursor: default !important)
+! ---
+mega.io,mega.nz##.cookie-dialog
+mega.io,mega.nz##.fm-dialog-overlay
+mega.io,mega.nz##.overlayed .bottom-page.scroll-block:style(filter: none !important; -webkit-filter: none !important)
+! ---
+megogo.net###videoViewPlayer:style(padding-top: unset !important)
+! ---
+mel.fm##.i-layout__branding-content-wrapper:style(margin-top: 0 !important)
+mel.fm##.i-layout_branding:style(background-image: none !important)
+! ---
+meta-ratings.kz,metarating.com.ua,metaratings.by,metaratings.ru,metaratings.tj##div[class^="MatchCarousel-module-"][class*="homePage"] header > a[href="/match-center/"]:style(color: #fff !important)
+meta-ratings.kz,metarating.com.ua,metaratings.by,metaratings.ru,metaratings.tj##div[class^="MatchCarousel-module-"][class*="homePage"]:style(background-color: #7e8f9f !important)
+! ---
+meta.ua##.infobar > .info-block:not(.mail):not(.weather):style(border: none !important)
+! ---
+mintmanga.live,selfmanga.live##.hide-dn img:style(filter: none !important)
+! ---
+www.mirf.ru##main[style^="background-color:"]:style(background-color: inherit !important)
+! ---
+gamma.mirtesen.ru##.aggregator-page:style(pointer-events: none !important; opacity: 0 !important)
+! ---
+mivmeste.info###SITE_PAGES > div > div[id]:style(min-height: auto !important)
+mivmeste.info##[data-mesh-id]:style(min-height: auto !important; height: auto !important)
+! ---
+mmo13.ru###page > .content:style(margin-top: 74px !important)
+mmo13.ru##.header-wrapper:style(min-height: 0 !important)
+mmo13.ru##div[class^="bnr-background"]
+! ---
+mobile-review.com##body > .navbar:style(margin-top: 0 !important)
+mobile-review.com##html > body:style(background-color: white !important)
+! ---
+modernrock.ru##body:style(background: none !important)
+! ---
+more.tv##.framework__subscription
+! ---
+moscowtimes.eu,moscowtimes.ru##.contribute-modal
+moscowtimes.eu,moscowtimes.ru##body:style(overflow: auto !important)
+! ---
+motorpage.ru##body.noscroll::before:style(content: none !important)
+motorpage.ru##body.noscroll:style(overflow: auto !important)
+! ---
+movieshok.ru##.wrapp_content:style(margin-top: 0 !important)
+! ---
+my-hit.org##.navbar-default:style(margin-bottom: 0 !important)
+! ---
+myseason.club##.wrapper main:style(margin-top: 0 !important)
+! ---
+myshows.me##.DefaultLayout-main:style(margin-top: 0 !important)
+myshows.me##.LayoutWrapper__promo ~ .LayoutWrapper__main:style(margin-top: 0 !important)
+myshows.me##body:style(padding-right: unset !important; overflow: auto !important)
+! ---
+namba.kz##body:style(background: #e8ecff !important)
+namba.kg##html > body:not(#id):style(overflow: auto !important)
+! ---
+naruto-base.su##body > #fll:style(margin-top: 0 !important)
+! ---
+naruto-brand.ru##[style^="background:url(/img"][style*="padding"]
+naruto-brand.ru##a[href*="/test/"][target="_blank"]
+! ---
+nashaplaneta.net##header > .body:style(margin-top: 54px !important)
+! ---
+nevasport.ru,ru-drivemusic.net##.main-wrapper:style(margin-top: 0 !important)
+! ---
+newkaliningrad.ru###page-wrapper:style(margin-top: 0 !important)
+newkaliningrad.ru##.col-side > .opinion-teaser:style(border-top: none !important)
+! ---
+newsland.com##.main__branding:style(margin-top: 0 !important)
+newsland.com##.news-line > .news-line__block:hover:style(-webkit-animation: scroll 30s linear 0s infinite !important; animation: scroll 30s linear 0s infinite !important)
+newsland.com##.news-line > .news-line__block:style(-webkit-animation: none !important; animation: none !important)
+! ---
+newsyou.info##.home:style(background-image: none !important; padding-top: 0 !important)
+newsyou.info##body:style(overflow: auto !important)
+! ---
+news-sport.info##body > #page:style(margin-top: 0 !important)
+! ---
+nezavisim.tv##html:not(#id) *:style(-webkit-filter: none !important; filter: none !important)
+! ---
+nn.by###mainWrapper:style(background: none !important; padding-top: 0 !important)
+! ---
+nnm-club.me,nnmclub.ro,nnmclub.to##.postquotehref:style(position: inherit !important)
+nnm-club.me,nnmclub.ro,nnmclub.to##body > .wrap:style(top: 0 !important)
+nnm-club.me,nnmclub.ro,nnmclub.to##body:style(background: none !important)
+! ---
+noob-club.ru###header-b:style(margin-bottom: 11px !important)
+! ---
+nrj.ua##.wrapper > .header:style(height: 150px !important)
+! ---
+nv.ua###home_page:style(max-width: 100% !important)
+nv.ua##body:style(padding-top: 0 !important)
+! ---
+obozrevatel.com##body > .header:style(margin-top: 0 !important)
+! ---
+ofxme.co##.wrapper > .main-content:style(margin-top: 0 !important)
+! ---
+ogo.ua##.ast-below-header-bar .site-below-header-wrap:style(min-height: 0 !important)
+! ---
+ogorodniki.com##.b-mask
+ogorodniki.com##body:style(overflow: auto !important)
+! ---
+ogorod.ru##div[class="global-top-menus article_menu_type"]:style(margin-top: auto !important)
+! ---
+ohotniki.ru##.adv-banner__right:style(min-height: 0 !important)
+! ---
+www.okino.ua##.fader-social
+www.okino.ua##.social-open:style(overflow: auto !important)
+! ---
+online-fix.me##.full-story-header:style(color: #222 !important)
+! ---
+onliner.by##.adfox-banner-background ~ .layout-container:style(max-width: unset !important; top: unset !important)
+pogoda.onliner.by,tech.onliner.by##.g-container-outer > div:style(height: auto !important)
+! ---
+open3dmodel.com##.downloadlink a:style(color: #09c !important; text-decoration: underline !important)
+open3dmodel.com##.post-info > div[style^="width: 730px;"][style*="#f9f9f9"]:style(background-color: #333 !important)
+open3dmodel.com##body > div:style(filter: none !important; -webkit-filter: none !important)
+open3dmodel.com##body [class^="mdp-deblocker-"]
+! ---
+oper.ru###wrapper:style(background-image: none !important; padding-bottom: 0 !important)
+! ---
+! Сеть новостных сайтов Orenday
+buzulukday.ru,nsday.ru,orenday.ru,perevolockday.ru,saltday.ru,sorochinskday.ru##html:style(background: none !important)
+! ---
+otzovik.com##[class*="_no_abs"] > *:style(height: auto !important)
+otzovik.com##[class*="_no_abs"]:style(height: auto !important)
+! ---
+outlook.live.com##div[tabindex][role="region"][aria-label] ~ div[data-max-width][class] + div[class^="_3_"]
+! ---
+overclockers.ru##a.over-hiddenlink-html[href*="erid="][target="_blank"]:style(pointer-events: none !important; color: inherit !important)
+! ---
+partnerkin.com##body > [class^="fix_"]:style(margin-bottom: -5px !important)
+! ---
+patrioty.org.ua##footer:style(margin: 0 !important)
+! ---
+pb.wtf,pirat.one,piratbit.fun,piratbit.org,piratbit.top##div[class^="raleas-navbar"] .ad + .ad ~ .all_it:style(left: -206px !important)
+! ---
+penzainform.ru##body:style(cursor: auto !important; background: whitesmoke !important)
+! ---
+peterburg2.ru##body > .a:style(background-image: none !important)
+peterburg2.ru##body:style(background-color: inherit !important)
+! ---
+! Picforall и зеркала
+freescreens.ru,imgbase.ru,imgcach.ru,imgclick.ru,payforpic.ru,picclick.ru,picclock.ru,picforall.ru##div[id^="pai_thumbz_"][id$="_side"]:style(background: #363636 !important)
+! ---
+pikabu.ru###menu-subs > [href]::after
+pikabu.ru##.app > .app__inner[style*="padding-top"]:style(padding-top: 64px !important)
+pikabu.ru##.footer__inner:style(background-color: var(--color--app__bg) !important; color: var(--color--app__text) !important)
+pikabu.ru##.sidebar-game-block
+pikabu.ru##aside > .sidebar-block > div > div > div > div:style(min-height: unset !important)
+pikabu.ru##aside > .sidebar-block > div > div > div:style(min-height: unset !important)
+pikabu.ru##aside > .sidebar-block > div > div:style(min-height: unset !important)
+pikabu.ru##aside > .sidebar-block > div:style(min-height: unset !important)
+pikabu.ru##aside > .sidebar-block:style(min-height: unset !important)
+pikabu.ru##div[class*="page-story"][class*="ments"] div:style(min-height: 0 !important)
+pikabu.ru##header > .header__main:style(background-color: var(--color--header__bg) !important)
+! ---
+pimpletv.ru##body > #branding:style(padding-top: 0 !important)
+! ---
+playground.ru##.bonus-landing-page .panel-collapse > .panel-body:style(background-color: white !important)
+playground.ru##.bonus-landing-page .panel-default > .panel-heading:style(background-color: white !important)
+playground.ru##.bonus-landing-page-faq > .title:style(color: white !important)
+playground.ru##a[href*="clck.ru/"]:style(pointer-events: none !important; color: inherit !important)
+playground.ru##a[href*="dns-shop.ru/"]:style(pointer-events: none !important; color: inherit !important)
+playground.ru##a[href*="market.yandex.ru/"]:style(pointer-events: none !important; color: inherit !important)
+playground.ru##a[href*="ozon.ru/"]:style(pointer-events: none !important; color: inherit !important)
+playground.ru##a[href*="wildberries.ru/"]:style(pointer-events: none !important; color: inherit !important)
+playground.ru##body[data-user-id]:style(background: #242424 !important)
+! исправление ошибок и косяков оригинальной вёрстки
+playground.ru##.gp-game-card .user-profile-sidebar:style(max-width: unset !important)
+! ---
+playua.net##body > #page:style(margin-top: 65px !important)
+playua.net##html > body:style(background-image: none !important; background-color: transparent !important)
+! ---
+playvillage.ru##._1z_ ._21_:style(width: 1000% !important; height: 1000% !important; position: absolute !important)
+playvillage.ru##._1z_:style(background: none !important)
+! ---
+pluggedin.ru##.banner-advertise:style(margin-top: 0 !important)
+pluggedin.ru##.open-main-container:style(margin-top: 60px !important)
+! ---
+pochta.ru##div[id][class*=" BannerPlace-"]:style(filter: grayscale(1) !important)
+! ---
+podrobno.uz###offerPopup
+podrobno.uz##.main:style(margin-top: 0 !important)
+podrobno.uz##body:style(overflow: auto !important)
+! ---
+politobzor.net##.banner:style(height: 90px !important)
+! ---
+dumka.poltava.ua##.page-element__ads:style(pointer-events: none !important)
+! ---
+pornolab.biz,pornolab.cc,pornolab.lib,pornolab.net##.site-logo:style(max-height: 90px !important; width: auto !important)
+! ---
+portaltele.com.ua##.header-main .container .row:style(min-height: unset !important)
+! ---
+portalvirtualreality.ru##.foundation-wrapper:style(padding-top: 0 !important)
+! ---
+postimees.ee##.cookie-paywall-visible .cookie-paywall
+postimees.ee##.cookie-paywall-visible div > .article-body-content ~ .article-body-content:style(display: flex !important)
+! ---
+prikol.ru###container:style(top: auto !important)
+prikol.ru##html > body > *:style(pointer-events: auto !important)
+prikol.ru##html > body:style(background-image:none !important; pointer-events: none !important)
+! ---
+profootball.ua###page:style(margin-top: 0 !important)
+! ---
+promodj.com###topbrandingspot:style(padding-top: 0 !important; background: none !important)
+promodj.com##html:not(#id) > body:style(background: none !important)
+! ---
+prophotos.ru##body:not(#id):style(padding-top: 130px !important)
+! ---
+proxima.net.ua##body.modal-open #ft_custom_modal
+proxima.net.ua##body.modal-open > .modal-backdrop
+proxima.net.ua##body.modal-open:style(overflow: auto !important)
+! ---
+pvpru.com###ad_global_below_navbar:style(position: fixed !important; transform: scale(0) !important; top: -10000px !important)
+pvpru.com###header ~ *:style(position: fixed !important; transform: scale(0) !important; top: -10000px !important)
+pvpru.com##.above_body > div[style]:style(height: auto !important)
+! ---
+radioclub.ua###js-content:style(padding-top: 40px !important)
+! ---
+www.rambler.ru###app > div:style(min-height: 0 !important)
+avtorambler.com,rambler.ru##.commercial-branding > div script ~ div > div:last-child div:style(min-height: 0 !important)
+avtorambler.com,rambler.ru##.commercial-branding > div script ~ div > div:style(min-height: 0 !important)
+avtorambler.com,rambler.ru##.commercial-branding article > div:only-child > div:first-child + div > div > div:first-child + div:style(box-shadow: none !important)
+avtorambler.com,rambler.ru##.commercial-branding:style(margin-top: unset !important; margin-bottom: unset !important)
+mail.rambler.ru##div[class*="WithRightBarWrapper"] > div[class*="AutoAppContainer"] ~ *
+mail.rambler.ru##div[class*="WithRightBarWrapper"] > div[class*="AutoAppContainer"]:style(max-width: 100% !important)
+horoscopes.rambler.ru,tv.rambler.ru,weather.rambler.ru##div[class]:style(min-height: 0 !important)
+nova.rambler.ru##html > body:not(#id):style(overflow: unset !important)
+! исправление ошибок и косяков оригинальной вёрстки
+horoscopes.rambler.ru##.ad_branding_main > div[class]:first-child > div:style(max-width: 100% !important)
+horoscopes.rambler.ru##.ad_branding_main > div[class]:first-child:style(margin-left: 0 !important)
+horoscopes.rambler.ru##.ad_branding_main > div[class]:style(max-width: 100% !important)
+horoscopes.rambler.ru##.ad_branding_main:style(max-width: 100% !important)
+www.rambler.ru##footer:style(max-width: 100% !important)
+! ---
+rayon.in.ua##body.lock #subscribes
+rayon.in.ua##body.lock:style(overflow: auto !important; padding-right: 0 !important)
+! ---
+rbkgames.com##.branding .main-content:style(margin-top: 90px !important)
+rbkgames.com##html[xmlns]:style(background-image: none !important)
+! ---
+redheadsound.studio##.page__text > div[style^="color:"] + p:style(margin-bottom: unset !important)
+! ---
+regnum.news,regnum.ru##.page-column > .right-adv-container:style(top: 100px !important)
+! ---
+mag.relax.by##.b-global-branding[branding_url*=http] .b-global-wrap:style(cursor: auto !important)
+mag.relax.by##.b-global-wrap > .b-global-offset:style(padding: unset !important)
+! ---
+repack.me##main > .container:style(padding-top: 0 !important; margin-top: 0 !important)
+! ---
+reshebnik.com##div[id*="-error-page"] > p:style(height: 0 !important; opacity: 0 !important)
+! ---
+retail.ru##.header-container:style(height: auto !important)
+retail.ru##header[class^="header--standard"]:style(margin-top: unset !important)
+! ---
+context.reverso.net##.blocked .text:style(filter: none !important; -webkit-filter: none !important)
+context.reverso.net##.blocked:style(filter: none !important; -webkit-filter: none !important)
+context.reverso.net##.popup[id*="-results-banner"]
+context.reverso.net##[class*="locked"] .example:style(filter: none !important; -webkit-filter: none !important)
+! ---
+rezka.biz##.container > #content:style(margin-top: unset !important)
+! ---
+rezkahd.life##.have-brand .wrap:style(margin-top: 0 !important)
+! ---
+rg.ru###cookie-consent
+rg.ru###cookie-consent ~ [class*="_root_"]:style(top: unset !important)
+rg.ru##div[class*="_spiegelWrapper"]:style(padding-top: 0 !important)
+rg.ru##div[class^="PageMediaContentVideo_mainContent"]:style(min-height: 0 !important)
+rg.ru##div[class^="Page_main"][style*="min-height:"]:style(min-height: 0 !important)
+rg.ru##html[style*="overflow:"] > body:style(padding-right: 0 !important)
+rg.ru##html[style*="overflow:"]:style(overflow: auto !important)
+! ---
+ria.ru##.m-blur ~ #modalLayer
+ria.ru##.m-blur:style(filter: none !important; position: relative !important)
+! ---
+riotpixels.com##body:not(#id) .all-wrapper:style(top: 0 !important)
+riotpixels.com##body:not(#id) .bottom-bar:style(top: 0 !important)
+riotpixels.com##body:style(background-image: none !important)
+! ---
+riperam.org###main-wrapper > #wrap:style(padding: 0 10px !important)
+! ---
+ritsatv.ru##body[style*="overflow-x: hidden"]:style(overflow-x: unset !important)
+! ---
+rp5.am,rp5.by,rp5.co.nz,rp5.kz,rp5.md,rp5.ru###FheaderContent > div[id]:not([class]):style(min-height: 0 !important)
+! ---
+rserials.net###subheader:style(padding-top: 0 !important)
+! ---
+forum.ru-board.com##.ny-lights:style(animation: none !important)
+forum.ru-board.com##.tpc > .post > a[href]:style(word-break: break-all)
+forum.ru-board.com##.tpc > .post > table[width] > tbody > tr > .lgf:style(word-break: break-word)
+! ---
+rusnext.ru##.header20-00:style(height: auto !important)
+! ---
+rusprofile.ru###subscription_banner_root
+rusprofile.ru##body:style(overflow: auto !important)
+! ---
+! Rustorka и зеркала
+apad2.top,game4you.top,innal.top,naylo.top,rustorka.com,rustorka.net,rustorka.top,rustorkacom.lib##div#body_container:style(margin-top: 0 !important; margin-bottom: 0 !important)
+! ---
+rutr.life,rutracker.lib,rutracker.net,rutracker.org###topic_main > [id^="post_"] ~ .hide-for-print
+rutr.life,rutracker.lib,rutracker.net,rutracker.org###topic_main > [id^="post_"] ~ tbody:not([id^="post_"]) > [class]
+rutr.life,rutracker.lib,rutracker.net,rutracker.org##[class^="internal-promo-"]
+! ---
+s13.ru##body > .wrapper:style(top: 0 !important)
+! ---
+! Sdamgia
+sdamgia.ru###old_school > .App > div > [color="red"]
+sdamgia.ru##.menu[role="navigation"] div[style]:style(height: auto !important)
+sdamgia.ru##[role="main"] div[style^="position: absolute; top: 0px; "]
+sdamgia.ru##aside > div[class]:first-child div:style(height: auto !important)
+sdamgia.ru##center > div[style^="position: absolute; top: 0px; "]
+sdamgia.ru##div[style] > a[target="_blank"] > img[src^="data:"]
+! ---
+sc2tv.ru##.body--brranding > .content:style(margin-top: unset !important)
+sc2tv.ru##html:not(#id) > body:not(#id) .body--brranding > *:style(pointer-events: auto !important)
+sc2tv.ru##html:not(#id) > body:not(#id) .body--brranding:style(pointer-events: none !important)
+! ---
+! Shkulev Media
+ru##[data-ns-portal] .branding[data-page] div[class^="content_"] > div[class^="bottom"]:style(max-width: 100% !important)
+ru##[data-ns-portal] .branding[data-page]:style(--grid-breakpoint-lg: unset !important; margin-top: unset !important; width: 100% !important)
+www.e1.ru##[data-test="sticky-header"] > div:first-child > div:first-child + div > div:not(:last-child):style(margin-right: 60px !important)
+www.e1.ru##[data-test="sticky-header"] > div:style(max-width: 1280px !important)
+116.ru,14.ru,161.ru,164.ru,173.ru,178.ru,26.ru,29.ru,35.ru,43.ru,45.ru,48.ru,51.ru,53.ru,56.ru,59.ru,60.ru,63.ru,68.ru,71.ru,72.ru,74.ru,76.ru,86.ru,89.ru,93.ru,chita.ru,e1.ru,ircity.ru,izh1.ru,mgorsk.ru,msk1.ru,ngs.ru,ngs22.ru,ngs24.ru,ngs42.ru,ngs55.ru,ngs70.ru,nn.ru,sochi1.ru,sterlitamak1.ru,tolyatty.ru,ufa1.ru,v1.ru,vladivostok1.ru,voronezh1.ru,ya62.ru##div[class^="articleBlockViqeo_"][class*="notReady_"]:style(padding-bottom: unset !important)
+! ---
+season-var.net###main-wrapper:style(top: 0 !important)
+! ---
+securitymedia.org##body > .content:style(padding-top: 0 !important)
+! ---
+senior.ua##.mfp-bg
+senior.ua##.mfp-content:style(background-color: #ddd !important)
+senior.ua##.mfp-wrap:style(position: unset !important)
+senior.ua##.subscribe-popup
+senior.ua##html:style(overflow: auto !important)
+! ---
+seolik.ru##body > div[style^="background-color:"]:style(height: unset !important)
+! ---
+shaiba.kz##.page-layout-without-banner:style(margin-top: 0 !important)
+! ---
+shazoo.ru##html.dark > body:style(background-color: #171717 !important)
+shazoo.ru##html:not(.dark) > body:style(background: initial !important)
+! ---
+shedevrum.ai###app > .items-center > div[class]:style(height: unset !important)
+! ---
+sherdog.com##body > div[class]:not([id])[style^="background-color"][style*="z-index:"]
+sherdog.com##html > body:style(overflow: auto !important)
+sherdog.com##html:style(overflow: auto !important)
+! ---
+simhost.org##.top_bg:style(height: 0 !important)
+! ---
+slushat-tekst-pesni.ru##.abp:style(transform: none !important; direction: ltr !important)
+! ---
+smartmama.com.ua###page:style(margin-top: 0 !important)
+smartmama.com.ua##body > a
+smartmama.com.ua##body:style(background-image: none !important)
+! ---
+snob.ru##.promotion .h-layoutWide:style(cursor: auto !important)
+! ---
+sobaka.ru##.b-site-body:style(padding-top: 0 !important)
+! ---
+soccer.ru###main_body > .block:style(height: auto !important)
+soccer.ru###site:style(margin-top: 0 !important)
+! ---
+soccer365.com.ua,soccer365.ru##.header_top:style(margin-top: 0 !important)
+! ---
+softbox.tv###cn-content.playlists-iframe:style(display: block !important)
+! ---
+softportal.com##.btn-download > .submit-spinner
+softportal.com##.btn-download:style(opacity: 1 !important; pointer-events: auto !important)
+softportal.com##.cardPageDescMain > div[id][style]
+softportal.com##.contentWrap > .st-browser__page ~ div[id][style]
+softportal.com##a[href^="prog"][target="_blank"]
+softportal.com##a[href^="prog"][target="_blank"] ~ *
+softportal.com##html:style(overflow: auto !important)
+! ---
+sovetromantica.com##.mainContainer:style(padding-top: 0 !important)
+! ---
+sport-express.ua##.main-container:style(margin-top: 0 !important)
+! ---
+sport-interfax.ru##.tab__sport a[href^="https://www.championat.com/"]:style(pointer-events: none !important)
+! ---
+old.sport-tv.by###page:style(padding-top: 0 !important)
+sport-tv.by##.main:style(padding-top: 0 !important)
+! ---
+sport.ua###outer-top:style(padding-top: initial !important)
+! ---
+sportkp.ru##.header-middle-wrapper:style(height: auto !important)
+! ---
+sports.ru###branding-layout > * > *:style(pointer-events: auto !important)
+sports.ru###branding-layout > a:style(width: 0 !important; height: 0 !important; left:-10000px !important)
+sports.ru###branding-layout:not(#id):style(padding-top: 0 !important)
+sports.ru###branding-layout:style(pointer-events: none !important)
+sports.ru##.columns-layout__right > div > div[id][class]:style(min-height: 0 !important)
+sports.ru##.x5-popup-overlay
+sports.ru##:not(.nba-global-nav-wrapper) + #branding-layout:not(#id):style(margin-top: 96px !important)
+sports.ru##[data-content-name="banner-static"]:style(position: fixed !important; left: -10000px !important; transform: scale(0) !important; display: none !important)
+sports.ru##body > div[id][style="padding-top: 306px; margin-top: 0px;"]:style(padding-top: 96px !important)
+sports.ru##body.img-bg:style(padding-top: 0 !important)
+sports.ru##body.is-fixed:style(overflow: auto !important)
+! ---
+sportsdaily.ru###branding-wrapper:style(padding-top: 0 !important)
+! ---
+spot.uz###header-dummy:not(#id):style(min-height: 70px !important)
+! ---
+stadion.uz###site_container:style(margin-top: auto !important)
+! ---
+stalker-mods.clan.su,stalker-mods.su,stalkerportaal.ru,top-mods.ru###timer_1
+stalker-mods.clan.su,stalker-mods.su,stalkerportaal.ru,top-mods.ru###timer_2:style(display: block !important)
+! ---
+star-wars-film.ru##.main_background
+star-wars-film.ru##body:style(padding-top: 0 !important)
+! ---
+stopgame.ru###preroll_mediaplayer
+stopgame.ru##body:style(cursor: default !important)
+stopgame.ru##div[id^="videoplayer_"][class^="iframe_wrapper"]:style(display: block !important)
+! ---
+stratege.ru###vbulletin_html .above_body:style(margin-bottom: auto !important)
+stratege.ru##html:style(background-color: #dbdbdb !important)
+! ---
+stravy.net##.right-sidebar:style(margin-top: 0 !important; overflow: hidden !important)
+! ---
+study.ru###header:style(height: 94px !important)
+study.ru##.header-inner:style(height: 94px !important)
+! ---
+surl.li###redirect-button > #timer
+surl.li##.redirect-button:style(pointer-events: auto !important; opacity: 1 !important)
+! ---
+tass.ru##div[class^="LoopChannelPlaceholder_bottom"]:style(background: none !important)
+tass.ru##div[class^="LoopChannelPlaceholder_container"]:style(box-shadow: none !important)
+tass.ru##div[class^="LoopChannel_widget"] > [class^="SimpleCaption_wrapper"]:style(background: none !important)
+tass.ru##div[class^="LoopChannel_wrapper"][role="presentation"]:style(box-shadow: none !important)
+! ---
+doba.te.ua###popup-root
+doba.te.ua##body.locked:style(overflow:auto !important)
+doba.te.ua##html.locked:style(overflow:auto !important)
+! ---
+tehnot.com##body > #td-outer-wrap > *:style(pointer-events: auto !important)
+tehnot.com##body > #td-outer-wrap:style(pointer-events: none !important; cursor: auto !important)
+tehnot.com##html > body:style(background-image: none !important; background-color: #e8e8e8 !important; cursor: auto !important)
+! ---
+teleport2001.ru##body:not(.path-frontpage) .page-main:style( min-height: unset !important)
+! ---
+teleprogramma.org##.page-header:style(height: auto !important)
+! ---
+texterra.ru##html:style(overflow: auto !important)
+! ---
+the-geek.ru##.site-content:style(margin-top: 0 !important)
+! ---
+the-village-kz.com,the-village.me,the-village.ru,village.com.ua##.page-content:style(background-color: inherit !important)
+the-village-kz.com,the-village.me,the-village.ru,village.com.ua##.page-content:style(padding-top: 0 !important)
+! ---
+thebell.io##.post_content.newsletter ~ .post_subscribe
+thebell.io##.post_content.newsletter:style(max-height: unset !important)
+! ---
+thg.ru##body:style(background: whitesmoke !important)
+! ---
+tochka.net###comments_block:style(margin-top: unset !important)
+tochka.net##.embed-instagram > iframe:style(max-width: unset !important)
+! ---
+torent-igruha.com##body > .header-menu-bg:style(margin-bottom: 0 !important)
+! ---
+torrentinka.me##.dwrp:style(margin-top: 0 !important)
+! ---
+tort.fm###topper_up:style(height: 88px !important)
+! ---
+tourpom.ru##.modal-open .adv_modal
+tourpom.ru##.modal-open > .modal-backdrop
+tourpom.ru##.modal-open:style(overflow: auto !important)
+! ---
+! исправление ошибок и косяков оригинальной вёрстки
+tproger.ru##.tp-widget-pinned-post-item__title > a:style(pointer-events: auto !important)
+! ---
+translit.ru##.tBlurred:style(-webkit-filter: none !important)
+translit.ru##.tPechenkiInfoblock
+! ---
+trashbox.ru##html[prefix] > body:style(background-color: #202030 !important; background-image: none !important)
+! ---
+kino.tricolor.tv##html.bx-no-touch button[data-analytics$="-watch-with-ads-btn"]:style(min-width: 0 !important; max-width: unset !important; width: 115px !important; overflow: hidden !important; padding-left: 15px !important)
+! ---
+ts.kg##.main-container:style(margin-top: 0 !important)
+ts.kg##body:style(background-color: inherit !important)
+! ---
+tut.by##html[class] > body:style(background-color: #e6e6e6 !important)
+! ---
+tv-kanali.online##iframe.youtube-video:not([src*="//utraff.com/"]):style(display: block !important)
+! ---
+ua-cinema.com##.head-top:style(position: absolute !important)
+ua-cinema.com##body:style(background: #091016 !important)
+! ---
+ua.news##body:style(background-image: none !important; background-color: #ffffff !important; padding-top: 0 !important)
+! ---
+uakino.best##body > .all-wrap:style(margin-top: 0 !important)
+! ---
+uakino.com##header .container:style(padding-top: 30px !important)
+! ---
+ukr.bio###site:style(top: 0 !important)
+! ---
+www.ukr.net##.right-banner > div:style(height: auto !important)
+www.ukr.net##a[href*="adpool.bet/"]:style(pointer-events: none !important; opacity: 0 !important; height: 0 !important)
+! ---
+ukrainianwall.com##.navbar:style(position: relative !important)
+ukrainianwall.com##.right-column > .sticky-box:style(position: relative !important)
+ukrainianwall.com##body:style(padding-top: unset !important)
+! ---
+ukrfootball.ua##.main-container:style(margin-top: 0 !important)
+! ---
+uniondht.org##.colorAdmin:style(color: black !important; font-weight: 100 !important; font-size: 8px !important)
+! ---
+uteka.ua###page:style(-webkit-filter:none !important; filter: none !important)
+uteka.ua##.fancybox-lock .fancybox-overlay
+uteka.ua##.fancybox-lock body:style(overflow: auto !important)
+! ---
+valetudo.ru##body > *:style(pointer-events: auto !important)
+valetudo.ru##body:style(pointer-events: none !important)
+! ---
+versii.if.ua##.fb-sidebar__main > a[href]:style(pointer-events: none !important)
+! ---
+vgae.ru###cmain:style(margin-left: unset !important)
+! ---
+vgtimes.com,vgtimes.ru##a[href^="https://keysforgamers.com/"]:style(pointer-events: none !important; color: inherit !important)
+! ---
+videomore.ru##.with-cookies-agreements .channels-line:style(top: calc(70px + 0px) !important)
+videomore.ru##.with-cookies-agreements .header:style(top: 0 !important)
+videomore.ru##.with-cookies-agreements .wrapper:style(margin-top: 120px !important)
+videomore.ru##.wrapper.adfoxClickable > div:style(pointer-events: auto !important)
+videomore.ru##.wrapper.adfoxClickable:style(padding-top: 0 !important; background-image: none !important; pointer-events: none !important; background-color: #ECEFF2 !important)
+videomore.ru##body > .wrapper:style(padding-top: 0 !important; background-color: #ECEFF2 !important)
+!
+videoredaktor.ru##div[style^="min-height: 100vh;"]:style(min-height: 0 !important)
+! ---
+! VIQEO, обще стили для плеера
+kp.kg,kp.kz,kp.md,media,ru,russian.rt.com##.buttonContainer[data-name="play"][style*="left: 10px;"]:style(opacity: unset !important)
+cdn.viqeo.tv##[data-video_status="paused"] .buttonContainer[data-name="play"][style*="left: 10px;"]:style(opacity: unset !important)
+! Фикс для VK-плеера во фреймах VIQEO
+club,com,kg,kz,md,media,net,org,ru,su,tv##[data-video_status][data-adapter="vk"] .previewContainer
+! ---
+virtualbrest.ru##body > div[id][class] > .header > div > div:not([class^="header"]) > *
+virtualbrest.ru##body > div[id][class] > .header ~ div[class] > ul > li[class]:not(.ttyyuu)
+virtualbrest.ru##ul.tabsmenuverch li:style(padding-right: 2px !important; padding-left: 2px !important)
+! ---
+vk.com##.JoinForm__notNow:style(font-weight: bold !important; color: red !important; border: 3px solid red !important; padding: 6px !important)
+! исправление ошибок и косяков оригинальной вёрстки
+vkvideo.ru##body.video_showcase #page_body:style(max-width: 100% !important)
+vkvideo.ru##body.video_showcase .VideoGrid.video_items_list:style(max-width: 97% !important)
+vkvideo.ru##body.video_showcase .VideoLayout:style(max-width: 100% !important)
+! ---
+vm.ru##.ly.header:style(top: -1px !important)
+vm.ru##.onair[style^="height:"] > .onair_wrapper > [name="btn_air_close"]:style(opacity: unset !important)
+vm.ru##.onair_wrapper:style(position: relative !important; bottom: unset !important; right: unset !important; -webkit-animation: none !important; animation: none !important)
+vm.ru##.vjs-poster:style(position: inherit !important)
+! ---
+volnorez.com.ua##.block-type-widget-area:style(min-height: 0 !important; box-shadow: none !important)
+! ---
+volynpost.com##body > #layout-center > *:style(pointer-events: auto !important)
+volynpost.com##body > #layout-center:style(pointer-events: none !important)
+! ---
+vrtp.ru##td[width="100%"][valign="top"][class^="post"] > .postcolor > img:style(max-width: 100% !important)
+! ---
+vse-pro-sport.com.ua,vseprosport.by,vseprosport.kz,vseprosport.ru##.full-banner-page:style(padding-top: 0 !important)
+! ---
+! исправление ошибок и косяков оригинальной вёрстки
+vsviti.com.ua##body.td-animation-stack-type0 .post img:style(opacity: unset !important)
+vsviti.com.ua##body.td-animation-stack-type0 .td-animation-stack .entry-thumb:style(opacity: unset !important)
+! ---
+vtb-league.com##body.home > [class*="modal"]
+vtb-league.com##body.home:style(overflow: auto !important)
+! ---
+vtimes.io##body:style(position: unset !important)
+vtimes.io##div[class^="cookies-modal"]
+! ---
+vuzopedia.ru##img[src*="/storage/app/resources/"][style*="blur"]:style(filter: none !important)
+! ---
+warfiles.ru###header + .banner:style(height: 100px !important)
+! ---
+webdesign-master.ru##body > div[class] > p
+! ---
+webfile.ru##.p_wrap:style(margin-top: 0 !important)
+! ---
+weukraine.tv##.eael-sticky-video-wrapper > #videobox:style(all: inherit !important)
+! ---
+winzoro.net##.dpbAll:style(display: block !important)
+winzoro.net##.dpbTimeOut
+! ---
+wotspeak.ru###popup-1
+wotspeak.ru##.wrap:style(transform: none !important; margin-top: 0 !important)
+! ---
+wtftime.ru##body:style(background-color: #f1f3f6 !important)
+! ---
+! исправление ошибок и косяков оригинальной вёрстки
+www.xcom-shop.ru##body:style(overflow-y: hidden !important)
+www.xcom-shop.ru##html:style(overflow-y: auto !important)
+! ---
+xsport.ua##.site:style(margin-top: 0 !important)
+! ---
+! Yandex
+ya.ru##.document_overflow-scroll_yes:not(.document_new-year-feed-own-scroll_yes) body:style(overflow-y: unset !important)
+ya.ru##.i-mini-bem[style]
+ya.ru,yandex.by,yandex.kz,yandex.uz##.link-bro
+ya.ru##.market-feed
+ya.ru##.reasoning-section
+ya.ru##[action="https://ya.ru/search/"] ~ div[style]
+ya.ru##[class*="feed"][class*="masonry"]
+ya.ru##[id^="ryt"][id*="fe"]
+ya.ru##html[class*="_neuro"] aside ~ div[style]
+ya.ru##html[class*="_reaso"] aside ~ div[style]
+ya.ru##html[class*="document_feed_"] aside ~ div[style]
+! афиша
+afisha.yandex.ru##[style^="width:"][style*="100%;"][style*="height:"][style*="240px;"][style*="display:"][style*="block;"]:empty
+afisha.yandex.ru##[style^="width:"][style*="100%;"][style*="height:"][style*="250px;"][style*="display:"][style*="block;"]:empty
+afisha.yandex.ru##header + div > div:style(height: auto !important)
+! ---
+! диск
+disk.yandex.by,disk.yandex.com,disk.yandex.kz,disk.yandex.ru,disk.yandex.uz##[target][class*="fullscreen-banner"]
+disk.yandex.by,disk.yandex.com,disk.yandex.kz,disk.yandex.ru,disk.yandex.uz##div[class^="direct-public"]
+! ---
+! дзен
+! главная
+dzen.ru##[class*="CardRtb"]
+dzen.ru##[class*="card-rtb"]
+dzen.ru##[class*="desktop"] ~ [id*="teaser"]
+dzen.ru##[class*="dzen-desktop--flash-modal"]
+dzen.ru##[class^="dzen-desktop--main-page-"]:style(opacity: 0 !important)
+dzen.ru##[data-is-rendered="false"]
+dzen.ru##[data-testid*="-ad-block"]
+dzen.ru##[id*="card-rtb"]
+dzen.ru##a[href*="://yandex.ru/an/count/"]
+dzen.ru##a[href*="://yandex.ru/an/count/"] ~ a[href*="://yandex.ru/an/count/"] ~ div
+dzen.ru##article[data-card-type*="-promo"]
+dzen.ru##body:style(overflow-y: unset !important)
+dzen.ru##div[class*="--corner-banner_"]
+dzen.ru##div[class*="-top-of-the-day-ad"]:style(opacity: 0 !important)
+dzen.ru##div[class*="__bannerContainer"]
+dzen.ru##div[class*="dzen-"][class*="-banner-"]
+dzen.ru##div[class*="dzen-desktop--"][class*="__ad-"]
+dzen.ru##div[class*="dzen-desktop--top-sidebar-desktop-ad__root"]
+dzen.ru##div[class*="topContent"] > div:first-child + div > article[class*="_cardWrapper-"][id]:style(background: inherit !important)
+dzen.ru##div[class^="dzen-desktop--"][class*="_main-"] div[style^="--top-padding:"]
+dzen.ru##div[id*="splashscreen"]
+dzen.ru##div[style*="12.362637362637363"]
+dzen.ru##div[style*="important"] div[class*="__main"]
+! исправление ошибок и косяков оригинальной вёрстки
+dzen.ru###SECOND_CHUNK_APP_CONTAINER_MicroRoot div[class^="dzen-layout--desktop-page-layout__left"]:style(height: calc(91vh - var(--desktopPageLayoutHeaderHeight)) !important)
+dzen.ru###SECOND_CHUNK_APP_CONTAINER_MicroRoot div[class^="dzen-layout--desktop-page-layout__root"]:style(min-height: 0 !important; --desktopPageLayoutCenterPadding: inherit !important)
+! видео
+dzen.ru##div[class*="watch-page-content"] [aria-label] > div[id]
+! статьи
+dzen.ru##.content--styles__banner-cc + [aria-label] ~ div
+dzen.ru##[class*="yandex-direct"]
+dzen.ru##[data-testid="dzenpro-banner"]
+dzen.ru##div[class*="-ad-block_"]
+dzen.ru##div[class*="-right-ad-column"]
+dzen.ru##div[class*="_advertDoc2Doc-"]
+dzen.ru##div[class*="adContentWrapper"]
+dzen.ru##div[class*="adSplitEmbed"]
+dzen.ru##div[class*="bannerMain"]
+dzen.ru##div[class*="dzenProBanner"]
+dzen.ru##div[class*="multiEmbedMode"]
+dzen.ru##div[class^="content--article-bottom-single-"]
+dzen.ru##div[id$="-rtb"]
+dzen.ru##div[id^="article-showcase-"]
+! новости
+dzen.ru###ad-feed
+dzen.ru##.news-page-layout__content > div[class*="position"]
+dzen.ru##.news-page-layout__rubricator ~ [id]
+dzen.ru##.news-rubric-desktop__adv-column
+dzen.ru##.news-rubric-desktop__news > section > div > div[id]
+dzen.ru##.news-secondary-layout-column__secondary div[id]
+dzen.ru##.news-story-page div[id] > div:not([id]) > div[id]
+dzen.ru##[aria-label] div[id][class*="-desktop__ad-"]
+dzen.ru##div[class*="AdvertTsar"]
+dzen.ru##div[class*="BrandingAdvertLayoutColumn-"]
+dzen.ru##div[class*="_content_with-new-"] > div[id] ~ div[class*="withDiscreteScroll"]
+dzen.ru##div[class*="body_branding"]:style(background: inherit !important)
+dzen.ru##div[class*="content_with-new-layout"] > div[id] ~ div[id]
+dzen.ru##div[class*="content_with-new-layout"] > div[id]:first-child + div[class^="news"]:not(:last-child):not([aria-label])
+dzen.ru##div[class*="discreteStory"] > div[class*="metachannel"] ~ div[id]
+dzen.ru##div[class*="new"] [class$="__rubricator"] + div[class*=" "] > div:only-child
+dzen.ru##div[class^="news"] [class*="skeleton"]:style(background-color: transparent !important)
+dzen.ru##div[class^="news-site-"][class*="-desktop-"]:style(background-color: transparent !important)
+dzen.ru,sportsdzen.ru##div[class^="news-site-"][class*="skeleton"]:style(background-color: transparent !important)
+dzen.ru##div[id] > div[class*="-desktop-"] > div[class*="__image-"]:empty
+dzen.ru##div[id] > div[class*="-desktop-"] > div[class*="__image-"]:empty + div[class*="__content-"]
+dzen.ru##div[id^="ad-"][class*=" news-"]
+! исправление ошибок и косяков оригинальной вёрстки
+dzen.ru##.news-page-layout__content:style(width: var(--news-content-size) !important; margin-left: auto !important; margin-right: auto !important)
+dzen.ru,sportsdzen.ru##body:style(scroll-snap-type: none !important)
+dzen.ru,sportsdzen.ru##html:style(scroll-snap-type: none !important)
+!
+! погода
+dzen.ru##.adv-ecom
+dzen.ru##.b-page_type_maps div[class$="__content"] > [class$="__ad"] > div:style(width: unset !important)
+dzen.ru##.climate-calendar__cell:style(width: 13.8% !important; -webkit-flex-basis: 13.8% !important; flex-basis: 13.8% !important)
+dzen.ru##[class*="segment__container"] > div > article[class^="card "] ~ div:last-child
+dzen.ru##div[class*="dzen-wrapper-with-top-content-desktop__topContent-"]:style(grid-template-columns: inherit !important)
+! ---
+! игры
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.app__wrapper div[style^="width: calc(100% "]:style(width: unset !important)
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.stack [class*="sticky"][class*="banner"]
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.stack [id*="sticky"][id*="banner"]
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.stack div[class*="modal"][class*="-R-A"]
+! ---
+! картинки
+ya.ru,yandex.by,yandex.kz,yandex.ru,yandex.uz##.AdvRsyaCrossPage
+ya.ru,yandex.by,yandex.kz,yandex.ru,yandex.uz##.DirectInline
+ya.ru,yandex.by,yandex.kz,yandex.ru,yandex.uz##.DirectSnippet
+ya.ru,yandex.by,yandex.kz,yandex.ru,yandex.uz##div[class*="Images"] .SimpleSkeleton
+ya.ru,yandex.by,yandex.kz,yandex.ru,yandex.uz##div[class*="Images"] div[class*="-Card_bottomAdv"]
+ya.ru,yandex.by,yandex.kz,yandex.ru,yandex.uz##div[id*="Images"] .SimpleSkeleton
+! обфускация
+ya.ru,yandex.by,yandex.kz,yandex.ru,yandex.uz##div[class*="Images"] div[class*="_filled"][style^="max-width:"]
+ya.ru,yandex.by,yandex.kz,yandex.ru,yandex.uz##div[id*="Images"] div[class*="_filled"][style^="max-width:"]
+! ---
+! карты
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.search-advert-badge__advert
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.search-list-view__advert-offer-banner
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.sidebar-container ._id_branding_tele2
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.sidebar-container .card-providers-view__item._big
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.sidebar-container .search-advert-badge
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.sidebar-container a[class*="_id_campaign_"]
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.sidebar-container div[class^="banner-placeholder"]
+yandex.by,yandex.kz,yandex.ru,yandex.uz##a[href^="/maps/"][href*="/tinkoff_has_offer"]
+! ---
+! кью
+yandex.ru##body[class*="page_q"] .top-root > div:style(min-height: 0 !important)
+yandex.ru##div > .banner-root ~ .page-root > #page > div[class]:first-child > div[class]:first-child + div + div > div[style] > div[style] > div > div:last-child div:style(min-height: 0 !important)
+yandex.ru##div > .banner-root ~ .page-root > #page > div[class]:first-child > div[class]:first-child + div > section > div[class]:first-child ~ div > div > div:style(min-height: 0 !important)
+yandex.ru##div > .banner-root ~ .page-root > #page > div[class]:first-child > div[class]:first-child + div > section > div[class]:first-child ~ div > div > span ~ div > div[class]:style(min-height: 0 !important)
+! ---
+! маркет
+market.yandex.by,market.yandex.kz,market.yandex.ru###MainHeader:style(margin-top: unset !important)
+! ---
+! погода
+dzen.ru,yandex.by,yandex.kz,yandex.ru,yandex.uz##.b-page_type_maps div[class$="__content"] > [class$="__ad"] > div:style(width: unset !important)
+dzen.ru,yandex.by,yandex.kz,yandex.ru,yandex.uz##.climate-calendar__cell:style(width: 13.8% !important; -webkit-flex-basis: 13.8% !important; flex-basis: 13.8% !important)
+! исправление ошибок и косяков оригинальной вёрстки
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.suggest2_align_center[data-bem*="weather_"]:style(max-width: 100% !important)
+! ---
+! почта
+mail.yandex.by,mail.yandex.com,mail.yandex.kz,mail.yandex.ru,mail.yandex.uz##[class*="ComposeDoneScreen"] *:style(height: auto !important; min-height: 0 !important)
+! ---
+! тв
+tv.yandex.by,tv.yandex.kz,tv.yandex.ru,tv.yandex.uz###mount main > div[class^="content__"] > .content__main ~ div[class*="content__"] > *
+tv.yandex.by,tv.yandex.kz,tv.yandex.ru,tv.yandex.uz###mount main > div[class^="content__"] ~ div:not([class^="content__"]):not(.zen):not(.bread-crumbs) > *
+tv.yandex.by,tv.yandex.kz,tv.yandex.ru,tv.yandex.uz##.main-controller__grid-wrapper > [class*="grid_period_"] ~ * > *
+tv.yandex.by,tv.yandex.kz,tv.yandex.ru,tv.yandex.uz##.page_controller_channel main.content > div[class]:first-child > div:first-child[style*="background-image"]
+tv.yandex.by,tv.yandex.kz,tv.yandex.ru,tv.yandex.uz##.zen
+tv.yandex.by,tv.yandex.kz,tv.yandex.ru,tv.yandex.uz##[class*="grid_period_"] > div[class] > div[class^="grid__"] ~ div:not([class^="grid__"])
+tv.yandex.by,tv.yandex.kz,tv.yandex.ru,tv.yandex.uz##body > #mount > div[class] > :not(header):not(main):not(footer):not(.metrika-loader)
+! ---
+ya.ru,yandex.by,yandex.kz,yandex.ru,yandex.uz###rsya-guarantee
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.Root > .ECommerceCarousel
+ya.ru,yandex.by,yandex.kz,yandex.ru,yandex.uz##.SearchPageGrid-Item_direct
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.adv_pos_compare-bottom
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.adv_pos_compare-side
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.adv_pos_popup
+ya.ru,yandex.by,yandex.kz,yandex.ru,yandex.uz##.b-page.overlay:style(overflow-y: auto !important)
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.b-page:style(padding-top: 0 !important)
+ya.ru,yandex.by,yandex.kz,yandex.ru,yandex.uz##.b-page[style*="padding-right:"]:style(overflow-y: auto !important; padding-right: 0 !important)
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.blocks-grid__item_static > .direct_type_stripe
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.head-stripe:style(position: fixed !important; transform: scale(0) !important)
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.monetization-group > .monetization-group__item:style(height: auto !important)
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.serp-header:style(margin-top: 0 !important)
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.serp.main__carousel .Label_theme_direct
+ya.ru,yandex.by,yandex.kz,yandex.ru,yandex.uz##.serp.main__carousel:not([data-bem*="collectionId"])
+dzen.ru,ya.ru,yandex.by,yandex.kz,yandex.ru,yandex.uz##[class*="mini-suggest__item"] > a[href*="://yabs.yandex."][href*="/count/"]
+dzen.ru,ya.ru,yandex.by,yandex.kz,yandex.ru,yandex.uz##[class*="mini-suggest__item"] > a[href*="://yandex."][href*="/clck/"]
+dzen.ru,ya.ru,yandex.by,yandex.kz,yandex.ru,yandex.uz##[class*="mini-suggest__item"] > a[href][target="_blank"]
+dzen.ru,ya.ru,yandex.by,yandex.kz,yandex.ru,yandex.uz##[id^="suggest-item-"] > a[href*="://yabs.yandex."][href*="/count/"]
+dzen.ru,ya.ru,yandex.by,yandex.kz,yandex.ru,yandex.uz##[id^="suggest-item-"] > a[href][target="_blank"]
+yandex.by,yandex.kz,yandex.ru,yandex.uz##body > .popup[data-bem*="https://yabs.yandex.ru/count/"]
+yandex.by,yandex.kz,yandex.ru,yandex.uz##body > .route-tip-view
+yandex.by,yandex.kz,yandex.ru,yandex.uz##body.b-page > .b-page__container .card.content__adv.card:style(margin-bottom: unset !important; padding: unset !important)
+yandex.by,yandex.kz,yandex.ru,yandex.uz##div[aria-label="Реклама"]
+yandex.by,yandex.kz,yandex.ru,yandex.uz##div[class*=" news-"][class$="_mode_daas"]
+yandex.by,yandex.kz,yandex.ru,yandex.uz##div[class*="cl-teaser cl-teaser_card cl-teaser_fixed"] ~ div[class="cl-teaser cl-teaser_card cl-teaser_fixed"]
+yandex.by,yandex.kz,yandex.ru,yandex.uz##div[class*="sidebar"] > .direct-snippet
+! исправление ошибок и косяков оригинальной вёрстки
+rasp.yandex.by,rasp.yandex.kz,rasp.yandex.ru,rasp.yandex.uz##.StationPage__centralArea:style(margin-top: 20px !important)
+ya.ru,yandex.by,yandex.kz,yandex.ru,yandex.uz##[data-vnl*="rsya_guarantee"]
+ya.ru,yandex.by,yandex.kz,yandex.ru,yandex.uz##div[class="serp-item RsyaGuarantee"]
+! ---
+yap.ru,yaplakal.com###footer:style(background: none !important; padding: 0 !important)
+yap.ru,yaplakal.com##body:not(#id):style(background-color: #9ab9a7 !important)
+! ---
+yk.kz##.top-line
+yk.kz##.top-line + header.main:style(top: auto !important)
+! ---
+zagonka.net,zagonka.tv,zagonko.org,zagonkop.gb.net,zagonkov.gb.net,zogonka.org###sitebox:not(#id):style(margin-top: 0 !important)
+! ---
+zaycev.online##.content:not(#id):style(margin-top: 80px !important)
+! ---
+zerno-ua.com##.branding_wrapper > *:style(pointer-events: auto !important)
+zerno-ua.com##.branding_wrapper:style(pointer-events: none !important)
+! ---
+znak.com##.wrapper > header:style(margin-top: 15px !important)
+! ---
+www.zoneofgames.ru###columns > .transparent:style(background-color: transparent !important)
+www.zoneofgames.ru##.branding:style(background: none !important; height: auto !important)
+www.zoneofgames.ru##.logo:style(background: none !important; height: auto !important)
+www.zoneofgames.ru##body[style^="padding-top:"][style*="250px"][style*="!important"] > #mkwrapper:style(margin-top: -250px !important)
+www.zoneofgames.ru##html > body:not(#id):style(background-color: #3a3a3a !important)
+! ---
+zr.ru##.rotate-block:style(display: table !important)
+zr.ru##aside > div[class^="styled__SidebarWrap-"]:style(height: auto !important)
+! ---
+autoua.net,gagadget.com##.fader-social
+autoua.net##.social-open:style(overflow: auto !important)
+gagadget.com,gazeta.press,gazeta.ru,lenta.ru,rambler.ru##body:not(#id):style(overflow-y: auto !important)
+! исправление ошибок и косяков оригинальной вёрстки
+gazeta.press,gazeta.ru##.b_content:style(max-width: 100% !important)
+gazeta.press,gazeta.ru##.b_footer:style(max-width: 100% !important)
+gazeta.press,gazeta.ru##.b_header:style(min-width: 100% !important)
+gazeta.press,gazeta.ru##.b_main:style(max-width: 100% !important)
+gazeta.press,gazeta.ru##.b_subject_bar:style(max-width: 100% !important)
+! ---
+rbc.ru,rbcrealty.ru,sportrbc.ru###js_col_left > .l-sticky:style(position: relative !important; top: unset !important)
+zoom.cnews.ru##.article_inner.news_content_inner + .sidebar:style(top: 0 !important)
+rbc.ru,sportrbc.ru##.g-banner__news-footer:style(min-height: 0 !important)
+rbc.ru##.g-icon-big.g-play::after:style(bottom: calc(50% - 55px) !important; left: calc(50% - 55px) !important; cursor: pointer !important)
+rbc.ru,sportrbc.ru##.g-relative > .forecast:style(height: auto !important)
+autonews.ru,rbc.ru,rbcautonews.ru,rbcrealty.ru,sportrbc.ru##.is-outline .topline__item:style(border-color: transparent !important)
+rbc.ru,sportrbc.ru##.l-col-100h:style(min-height: 0 !important; height: auto !important)
+rbc.ru##.l-small-width-top-padding:style(padding-top: unset !important)
+rbc.ru##.l-sticky-right-parent
+zoom.cnews.ru##.main_content:style(margin-top: 12px !important)
+www.cnews.ru##.mt-auto:style(margin-top: unset !important)
+rbc.ru##.popup_push
+rbc.ru,rbclifemedia.ru##.topline-desktop-project-large:style(border-color: transparent !important)
+rbc.ru##body > [data-yandex-name="blockad_click"]
+! исправление ошибок и косяков оригинальной вёрстки
+rbc.ru##.video-gallery-popup.single .video-gallery-popup__body:style(left: 200px !important; right: 200px !important)
+rbc.ru##.video-gallery-popup.single .video-gallery-popup__wrap:style(max-width: 100% !important)
+rbc.ru##article .tabs-content-wrapper:style(margin-bottom: 0 !important)
+rbc.ru##article > .gutter-b:last-child:style(padding-bottom: 0 !important)
+! ---
+26-2.ru,arbitr-praktika.ru,budgetnik.ru,buhsoft.ru,business.ru,cxychet.ru,dirsalona.ru,fd.ru,gazeta-unp.ru,gd.ru,glavbukh.ru,hr-director.ru,kdelo.ru,kom-dir.ru,law.ru,menobr.ru,pro-goszakaz.ru,pro-personal.ru,resobr.ru,rnk.ru,sekretariat.ru,stroychet.ru,trudohrana.ru,ugpr.ru,zarplata-online.ru,zdrav.ru##.body *:style(opacity: 1 !important; filter: none !important; pointer-events: auto !important)
+26-2.ru,arbitr-praktika.ru,budgetnik.ru,buhsoft.ru,business.ru,cxychet.ru,dirsalona.ru,fd.ru,gazeta-unp.ru,gd.ru,glavbukh.ru,hr-director.ru,kdelo.ru,kom-dir.ru,law.ru,menobr.ru,pro-goszakaz.ru,pro-personal.ru,resobr.ru,rnk.ru,sekretariat.ru,stroychet.ru,trudohrana.ru,ugpr.ru,zarplata-online.ru,zdrav.ru##.megaShadow
+26-2.ru,arbitr-praktika.ru,budgetnik.ru,buhsoft.ru,business.ru,cxychet.ru,dirsalona.ru,fd.ru,gazeta-unp.ru,gd.ru,glavbukh.ru,hr-director.ru,kdelo.ru,kom-dir.ru,law.ru,menobr.ru,pro-goszakaz.ru,pro-personal.ru,resobr.ru,rnk.ru,sekretariat.ru,stroychet.ru,trudohrana.ru,ugpr.ru,zarplata-online.ru,zdrav.ru##.paywall-activated
+e.otruda.ru##body > .page-wrapper-common ~ div[id][class=""]
+e.arbitr-praktika.ru##body > div[id][class=""][style]
+26-2.ru,arbitr-praktika.ru,budgetnik.ru,buhsoft.ru,business.ru,cxychet.ru,dirsalona.ru,fd.ru,gazeta-unp.ru,gd.ru,glavbukh.ru,hr-director.ru,kdelo.ru,kom-dir.ru,law.ru,menobr.ru,pro-goszakaz.ru,pro-personal.ru,resobr.ru,rnk.ru,sekretariat.ru,stroychet.ru,trudohrana.ru,ugpr.ru,zarplata-online.ru,zdrav.ru##body:style(overflow: auto !important)
+! ---
+e.mail.ru,octavius.mail.ru###app-canvas .application-mail__layout .layout__column_right:style(width: auto !important)
+e.mail.ru,octavius.mail.ru###app-canvas .letter-list-item-adv__container
+e.mail.ru,octavius.mail.ru###app-canvas .paginator-container:style(right: 8px !important)
+e.mail.ru,octavius.mail.ru###popup-placeholder
+e.mail.ru,octavius.mail.ru##.advert-column:style(width: 0 !important)
+e.mail.ru,octavius.mail.ru##.application-mail__wrap > .application-mail__layout > .layout[style*="grid-template-columns:"]:style(grid-template-columns: 232px 1fr 0 0 !important)
+e.mail.ru,octavius.mail.ru##.application_new-toolbar .application-mail:not(.application-mail_webview-mobile) [class*="top-line-adv"]:style(--letter-list-top-native-adv-height: inherit !important; --scrollable-top-native-adv-height: inherit !important)
+e.mail.ru,octavius.mail.ru##.layer-sent-page > .layer:style(min-height: 0 !important)
+e.mail.ru,octavius.mail.ru##.letter-meta > .skeleton
+e.mail.ru##.ph-project__link[href^="https://cloud.mail.ru/promo/"]
+e.mail.ru##.ph-projects > a[href^="https://e.mail.ru/messages/inbox?utm_"]:style(pointer-events: none !important)
+! ---
+news.mail.ru###article-root section > main + [class] > div div:not([style]):style(min-height: 0 !important; padding: unset !important)
+mail.ru###bubble-home
+mail.ru###grid .widget__container > .calendar-container
+mail.ru###grid .widget__container > .event-list-widget
+mail.ru###grid .widget__container > .games-widget
+mail.ru###grid .widget__container > .progress-bar-widget
+mail.ru###grid .widget__container [class*="promo"]
+mail.ru###grid [class^="asteroid-"]
+mail.ru###grid div[class^="feed__"]
+my.mail.ru###history_container > div[class][style*="display: block!important"]
+minigames.mail.ru###like-buttons
+minigames.mail.ru###portal-headline:style(margin-top: auto !important)
+hi-tech.mail.ru###portal-menu:style(margin: 0 !important)
+mail.ru###user-settings-modal > .user-settings-container > .user-settings-types > .user-settings-types__item:first-child
+mail.ru###user-settings-modal > .user-settings-container > .user-settings-types > .user-settings-types__item:last-child
+my.mail.ru##.app-event-bubbles
+mail.ru##.article__item_source_viqeo .article__container::before:style(content: initial !important)
+mail.ru##.balloon-anchor > .balloon
+mail.ru##.grid__ccol > .tabs-content:style(margin-top: 5px !important)
+mail.ru##.grid__header .ph-modal-projects-overlay:style(top: inherit !important)
+mail.ru##.grid__main-col .eventbar-wrapper:style(margin-top: 0 !important)
+mail.ru##.grid__main-col > div[slot="main-column"] .search-container:style(margin-top: 4px !important; margin-bottom: 4px !important)
+mail.ru##.grid_blocked #mailbox:not(#id):style(visibility: unset !important; pointer-events: unset !important)
+mail.ru##.grid_blocked div[slot="main-column"] > :nth-child(-n+2) ~ [class] > [class]:style(visibility: unset !important; pointer-events: unset !important)
+hi-tech.mail.ru##.header-banner:style(margin: 0 !important)
+news.mail.ru,pogoda.mail.ru,sportmail.ru##.layout_footer > .block
+sportmail.ru##.layout_footer:style(margin-top: 20px !important)
+mail.ru##.mailbox__add-btn-logo
+mail.ru,sportmail.ru##.media-ui-slider-track div:first-child + div:not([style]):last-child:style(min-height: 0 !important; width: unset !important)
+sportmail.ru##.p-article-bookmakers ~ div a[href^="https://r.mail.ru/"]:style(pointer-events: none !important; text-decoration: none !important; color: inherit !important)
+finance.mail.ru,news.mail.ru,vfokuse.mail.ru##.p-catchup
+mail.ru##.ph-ext
+mail.ru##.ph-project__user-icon-mask:style(mask-image: inherit !important)
+mail.ru##.resplash-btn.noadsButton
+mail.ru##.tabs-content > :first-child > a > .news-main__img:style(max-width: unset !important; min-width: unset !important; height: 5em !important; width: 6.66em !important)
+mail.ru##.tabs-content > :first-child > a > .news-main__text-wrapper:style(max-height: 5em !important; white-space: pre-line !important)
+mail.ru##.tabs-content > :first-child > a::after:style(position: unset !important)
+mail.ru##.tabs-content > :first-child > a:style(max-height: 5em !important; position: static !important)
+mail.ru##.tabs-content > :first-child ~ li:style(max-width: 660px !important)
+mail.ru##.tabs-content > :first-child:style(max-width: 750px !important)
+mail.ru##.weather_right-column .weather__block:style(height: auto !important)
+mail.ru##.weather_right-column .weather__description::after
+my.mail.ru##:not(.l-common__container) > div[style*="position"][style*="display"][style*="visible"][style*="opacity"][style*="background-color"]
+mail.ru##[data-testid="grid-left-col"] > .logo:style(margin-top: 4px !important; margin-bottom: 4px !important)
+mail.ru##[data-testid="news-tabs"] ~ div > div ~ div > div[style]
+mail.ru,sportmail.ru##a[id^="tb-"][class^="tb-"][target="_blank"]
+finance.mail.ru,vfokuse.mail.ru##aside > div > div:style(min-height: 0 !important)
+mail.ru##body > #grid:not(.grid) .widget__container:nth-child(3) ~ .widget__container
+news.mail.ru##body > .block > .tag:style(z-index: 1400 !important; cursor: pointer !important)
+mail.ru##body > .grid .grid__lcol > .footer:style(margin-top: 10px !important)
+mail.ru##body > .grid .grid__rcol:style(margin-left: 0 !important)
+mail.ru##body > .grid > div[class^="grid"][class*="__header"] > .toolbar
+mail.ru##body > .zeropixel ~ * .balloon
+mail.ru##body > .zeropixel ~ * .stripe-wrapper
+mail.ru##body > .zeropixel ~ * div[class][style^="color:"][style$="background-size:auto 40px"]
+mail.ru##body > .zeropixel ~ div > style ~ div:style(pointer-events: none !important; opacity: 0 !important)
+mail.ru##body:not(.js-module) .searchContainer ~ div > a.dmb
+mail.ru##body:not(.js-module) .tabs + div[class] > :first-child:style(width: 100% !important)
+mail.ru##body:not(.js-module) .tabs + div[class]:style(min-width: fit-content !important)
+mail.ru##body:not(.js-module) .tabs > .tabs__item:style(padding: 0 4px !important; font-size: 14px !important)
+mail.ru##div:not(.grid__main-col) > div[slot="main-column"] .search-container:style(margin-top: 4px !important; margin-bottom: 20px !important)
+cloud.mail.ru##div[class^="Public-desktop_"][class*="_shove--"]:style(background-color: inherit !important)
+cloud.mail.ru##div[class^="Public-desktop__rightCol-"]
+cloud.mail.ru##div[class^="Public__folderContent"]:style(padding-right: 0 !important)
+cloud.mail.ru##div[class^="ReactViewer__attachesinfo-"]
+cloud.mail.ru##div[class^="ReactViewer__root-"]:style(--bottom-banner-height: 1px !important)
+cloud.mail.ru##div[class^="ShovePublic__content"]:style(width: 100% !important)
+cloud.mail.ru##div[class^="ShovePublic__folder"]:style(width: 100% !important)
+cloud.mail.ru##div[class^="ShovePublic__root"]:style(background-color: inherit !important)
+my.mail.ru##div[class^="app-adv-"]
+news.mail.ru,sportmail.ru##div[data-module="LazyLoad.PromoPopup"] .js-module.block
+mail.ru,sportmail.ru##div[data-mp*="LazyPulse"]
+mail.ru##div[slot="main-column"] .tabs:style(margin-top: 5px !important)
+mail.ru##div[slot="main-column"] > .header
+mail.ru##div[slot="main-column"] > .header ~ .swiper
+mail.ru##div[slot="main-column"] > .micro-widgets:style(height: auto !important; margin: auto !important)
+mail.ru##div[slot="main-column"] > .tabs__container:style(margin-top: 5px !important)
+my.mail.ru##html.window-loaded .b-video-backscreen
+my.mail.ru##html.window-loaded .b-video-controls__inside-play-button:style(visibility: visible !important; opacity: 0 !important; width: 100% !important; height: 100% !important; top: 0 !important; left: 0 !important)
+mail.ru##html[style*="-tgbv"] > body[style*="position: fixed;"] > div[class=""][style=""] > .modal
+mail.ru##html[style*="-tgbv"] > body[style*="position: fixed;"]:style(position: unset !important)
+mail.ru##main#grid .promo-news
+mail.ru##main#grid .tabs__settings
+mail.ru##main#grid > .grid-middle ~ div:not([class]):not([id])

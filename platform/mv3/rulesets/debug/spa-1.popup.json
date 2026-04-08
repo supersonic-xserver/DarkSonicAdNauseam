@@ -1,0 +1,30 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "ads.impulsosocial.online",
+        "bcgame.top",
+        "crummydevioussucculent.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 618
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "filmes-e-seriados.blogspot.com",
+        "peliculas4.net"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 635
+  }
+]

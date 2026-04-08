@@ -1,0 +1,15 @@
+[
+  {
+    "condition": {
+      "initiatorDomains": [
+        "kickass-top.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 32
+  }
+]

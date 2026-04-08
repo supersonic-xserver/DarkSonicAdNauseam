@@ -1,0 +1,8653 @@
+[
+  {
+    "condition": {
+      "urlFilter": "||widgets.sprinklecontent.com^",
+      "initiatorDomains": [
+        "klikk.no",
+        "musikknyheter.no",
+        "startsiden.no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1
+  },
+  {
+    "condition": {
+      "urlFilter": "||dk/ad/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2
+  },
+  {
+    "condition": {
+      "urlFilter": "||dk/ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3
+  },
+  {
+    "condition": {
+      "urlFilter": "||is/ad/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4
+  },
+  {
+    "condition": {
+      "urlFilter": "||is/augl/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5
+  },
+  {
+    "condition": {
+      "urlFilter": "||is/netbordar/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 6
+  },
+  {
+    "condition": {
+      "urlFilter": "||is/skrar/augl/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 7
+  },
+  {
+    "condition": {
+      "urlFilter": "||no/ad/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 8
+  },
+  {
+    "condition": {
+      "urlFilter": "/annonsar/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 9
+  },
+  {
+    "condition": {
+      "urlFilter": "/auglysing/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 10
+  },
+  {
+    "condition": {
+      "urlFilter": "/auglysingar/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 11
+  },
+  {
+    "condition": {
+      "urlFilter": "/vefauglysingar/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 12
+  },
+  {
+    "condition": {
+      "excludedInitiatorDomains": [
+        "ad.amediakreativ.no",
+        "ad.dep.no",
+        "ad.hem.no",
+        "ad.mallingeiendommer.no",
+        "ba.no"
+      ],
+      "urlFilter": "||ad.*.no^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 13
+  },
+  {
+    "condition": {
+      "urlFilter": "||ad.*.dk^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 14
+  },
+  {
+    "condition": {
+      "urlFilter": "||ad1.*.dk^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 15
+  },
+  {
+    "condition": {
+      "urlFilter": "||ad1.*.no^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 16
+  },
+  {
+    "condition": {
+      "excludedInitiatorDomains": [
+        "ads.mst.dk"
+      ],
+      "urlFilter": "||ads.*.dk^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 17
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads.*.is^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 18
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads.*.no^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 19
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads2.*.no^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 20
+  },
+  {
+    "condition": {
+      "urlFilter": "||adserver.*.dk^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 21
+  },
+  {
+    "condition": {
+      "excludedInitiatorDomains": [
+        "annonser.gess.no"
+      ],
+      "urlFilter": "||annonser.*.no^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 22
+  },
+  {
+    "condition": {
+      "urlFilter": "||banner.*.no^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 23
+  },
+  {
+    "condition": {
+      "urlFilter": "||helios.*.no^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 24
+  },
+  {
+    "condition": {
+      "urlFilter": "||advert.*.no^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 25
+  },
+  {
+    "condition": {
+      "urlFilter": "||advertisement.*.no^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 26
+  },
+  {
+    "condition": {
+      "urlFilter": "/bannerannonser/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 27
+  },
+  {
+    "condition": {
+      "urlFilter": "_nettannonse."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 28
+  },
+  {
+    "condition": {
+      "urlFilter": "/binary/*-banner-*.gif^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 29
+  },
+  {
+    "condition": {
+      "urlFilter": "/binary/*%20200x300.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 30
+  },
+  {
+    "condition": {
+      "urlFilter": "/byteads^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 31
+  },
+  {
+    "condition": {
+      "urlFilter": "/polarnexus.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 32
+  },
+  {
+    "condition": {
+      "urlFilter": "/hnuannonse^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 33
+  },
+  {
+    "condition": {
+      "urlFilter": "/wp-content/uploads/i123_ads/*.gif|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 34
+  },
+  {
+    "condition": {
+      "urlFilter": "/wp-content/uploads/i123_ads/*_460x196.jpg|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 35
+  },
+  {
+    "condition": {
+      "urlFilter": "/wp-content/uploads/i123_ads/930x180_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 36
+  },
+  {
+    "condition": {
+      "urlFilter": "/system_files/banner/ckfinder^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 37
+  },
+  {
+    "condition": {
+      "urlFilter": "/images/augl^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 38
+  },
+  {
+    "condition": {
+      "urlFilter": "||tac.is/kunnar^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 39
+  },
+  {
+    "condition": {
+      "urlFilter": "||img.norrbom.com/*-300x60.png^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 40
+  },
+  {
+    "condition": {
+      "urlFilter": "/gfx/fishfingers^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 41
+  },
+  {
+    "condition": {
+      "urlFilter": "||images.staticjw.com/*/casino24.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 42
+  },
+  {
+    "condition": {
+      "urlFilter": "/globalassets/banner_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 43
+  },
+  {
+    "condition": {
+      "urlFilter": "/wp-content/uploads/ad-html^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 44
+  },
+  {
+    "condition": {
+      "urlFilter": "/convertpro/*/cp-popup.min.css|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 45
+  },
+  {
+    "condition": {
+      "urlFilter": "/annoncer/scripts/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 46
+  },
+  {
+    "condition": {
+      "urlFilter": "/annonser-vert.gif^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 47
+  },
+  {
+    "condition": {
+      "urlFilter": "/images/*_auglysingar^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 48
+  },
+  {
+    "condition": {
+      "urlFilter": "/aller-ads",
+      "excludedInitiatorDomains": [
+        "seiska.fi"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 49
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "bilnorge.no",
+        "yrkesbil.no"
+      ],
+      "urlFilter": "/gifs/*emty.gif^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 50
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "eroguide.dk",
+        "noresk.com"
+      ],
+      "urlFilter": "/930x180_*.gif^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 51
+  },
+  {
+    "condition": {
+      "urlFilter": "/banners^",
+      "initiatorDomains": [
+        "bilasolur.is",
+        "fotbolti.is",
+        "musikknyheter.no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 52
+  },
+  {
+    "condition": {
+      "urlFilter": "/bilder/erotikk1.jpg",
+      "initiatorDomains": [
+        "eavisa.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 53
+  },
+  {
+    "condition": {
+      "urlFilter": "/js/smartbanner/",
+      "initiatorDomains": [
+        "tvkampen.com",
+        "tvsporten.dk"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 54
+  },
+  {
+    "condition": {
+      "urlFilter": "/liveodds-button_nordicbet",
+      "initiatorDomains": [
+        "tvkampen.com",
+        "tvsporten.dk"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 55
+  },
+  {
+    "condition": {
+      "urlFilter": "/nordicbet_logo",
+      "initiatorDomains": [
+        "tvkampen.com",
+        "tvsporten.dk"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 56
+  },
+  {
+    "condition": {
+      "urlFilter": "/resources/dfp/",
+      "initiatorDomains": [
+        "nettavisen.no",
+        "www-nettavisen-no.translate.goog"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 57
+  },
+  {
+    "condition": {
+      "urlFilter": "/tv2ads.js",
+      "initiatorDomains": [
+        "tv2-dk.translate.goog",
+        "tv2.dk"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 58
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "hnytt.no",
+        "karfan.is"
+      ],
+      "urlFilter": "/wp-content/uploads/*.gif^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 59
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "alvdalmiv.no",
+        "tynsetingen.no"
+      ],
+      "urlFilter": "/wp-content/uploads/*bruktbilann*.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 60
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "ranaposten.no",
+        "viralefilmer.no",
+        "xn--bodposten-n8a.no"
+      ],
+      "urlFilter": "/wp-content/uploads/*casino"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 61
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "ilaks.no"
+      ],
+      "urlFilter": "_300x250px-*.gif^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 62
+  },
+  {
+    "condition": {
+      "urlFilter": "||amino.dk/images/partners/agera/240x140-forside-hardcoded*.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 63
+  },
+  {
+    "condition": {
+      "urlFilter": "||annoncelight.dk/graphics/banner^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 64
+  },
+  {
+    "condition": {
+      "urlFilter": "||appetitt.no/uploads/library/*_1150x350*.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 65
+  },
+  {
+    "condition": {
+      "urlFilter": "||appetitt.no/uploads/library/*_widescreen_1920x1080_*.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 66
+  },
+  {
+    "condition": {
+      "urlFilter": "||appetitt.no/uploads/library/320x640-*.png^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 67
+  },
+  {
+    "condition": {
+      "urlFilter": "||appetitt.no/uploads/library/annis.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 68
+  },
+  {
+    "condition": {
+      "urlFilter": "||appetitt.no/uploads/library/topp-banner-*.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 69
+  },
+  {
+    "condition": {
+      "urlFilter": "||arendalstidende.no/wp-content/uploads/*_490px.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 70
+  },
+  {
+    "condition": {
+      "urlFilter": "||austurfrett.is/images/*augl.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 71
+  },
+  {
+    "condition": {
+      "urlFilter": "||ballade.no/wp-content/uploads/*uke*_sky"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 72
+  },
+  {
+    "condition": {
+      "urlFilter": "||bilbasen.dk/vip/getvipfinancebanner^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 73
+  },
+  {
+    "condition": {
+      "urlFilter": "||bobilverden.no/wp-content/uploads/*/banner-1200x300px.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 74
+  },
+  {
+    "condition": {
+      "urlFilter": "||check-in.dk/wp-content/uploads/*_930x180.gif^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 75
+  },
+  {
+    "condition": {
+      "urlFilter": "||cms.sona.fo/ads^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 76
+  },
+  {
+    "condition": {
+      "urlFilter": "||erotikmix.dk/mixads300.html^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 77
+  },
+  {
+    "condition": {
+      "urlFilter": "||export.prisguiden.no^",
+      "initiatorDomains": [
+        "diskusjon.no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 78
+  },
+  {
+    "condition": {
+      "urlFilter": "||eyjar.net/skrar/ads"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 79
+  },
+  {
+    "condition": {
+      "urlFilter": "||fcbarcelona.dk/images/bcn_*.gif^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 80
+  },
+  {
+    "condition": {
+      "urlFilter": "||feltet.dk/*/topbanner_*.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 81
+  },
+  {
+    "condition": {
+      "urlFilter": "||feltet.dk/*/wallpaper_1.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 82
+  },
+  {
+    "condition": {
+      "urlFilter": "||feltet.dk/*_300x60.gif^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 83
+  },
+  {
+    "condition": {
+      "urlFilter": "||footy.dk/wp-content/uploads/*/sk%c3%a6rmbillede-*.png^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 84
+  },
+  {
+    "condition": {
+      "urlFilter": "||frilansinfo.no/wp-content/themes/frilansinfo-no/img/*-annonse.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 85
+  },
+  {
+    "condition": {
+      "urlFilter": "||gamer.no/?module=tumedia\\dfproxy\\modules^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 86
+  },
+  {
+    "condition": {
+      "urlFilter": "||gaysir.no/rek^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 87
+  },
+  {
+    "condition": {
+      "urlFilter": "||i0.wp.com/bobilportalen.no/*/180x500.png^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 88
+  },
+  {
+    "condition": {
+      "urlFilter": "||img.sofabold.dk/images/banner^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 89
+  },
+  {
+    "condition": {
+      "urlFilter": "||isolor.no/wp-content/uploads/*_480x150px.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 90
+  },
+  {
+    "condition": {
+      "urlFilter": "||karfan.is/*-470x130*.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 91
+  },
+  {
+    "condition": {
+      "urlFilter": "||karfan.is/*300x250.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 92
+  },
+  {
+    "condition": {
+      "urlFilter": "||ksu247.no/wp-content/uploads/*-300x64.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 93
+  },
+  {
+    "condition": {
+      "urlFilter": "||ksu247.no/wp-content/uploads/*/banner-*.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 94
+  },
+  {
+    "condition": {
+      "urlFilter": "||ksu247.no/wp-content/uploads/*/bp-logo-*.png^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 95
+  },
+  {
+    "condition": {
+      "urlFilter": "||ksu247.no/wp-content/uploads/*/bunnpris2.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 96
+  },
+  {
+    "condition": {
+      "urlFilter": "||leikjaland.is/images/*logo.png|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 97
+  },
+  {
+    "condition": {
+      "urlFilter": "||malviknytt.no/*/ani*-*.gif^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 98
+  },
+  {
+    "condition": {
+      "urlFilter": "||malviknytt.no/wp-content/uploads/*-998x1024.jpeg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 99
+  },
+  {
+    "condition": {
+      "urlFilter": "||mc-avisa.no/wp-content/uploads/*/banner-*.jpg|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 100
+  },
+  {
+    "condition": {
+      "urlFilter": "||melkoghonning.no/wp-content/uploads/*_980x300px.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 101
+  },
+  {
+    "condition": {
+      "urlFilter": "||n247.no/salg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 102
+  },
+  {
+    "condition": {
+      "urlFilter": "||ni.dk/ni-img/*banner"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 103
+  },
+  {
+    "condition": {
+      "urlFilter": "||nocc.no/system_promoteringssaker^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 104
+  },
+  {
+    "condition": {
+      "urlFilter": "||norskenettsider.no/images/ageras-banner.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 105
+  },
+  {
+    "condition": {
+      "urlFilter": "||norskenettsider.no/images/remember-banner-2016.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 106
+  },
+  {
+    "condition": {
+      "urlFilter": "||r7.fo/lysing^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 107
+  },
+  {
+    "condition": {
+      "urlFilter": "||radiohallingdal.no/abanners^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 108
+  },
+  {
+    "condition": {
+      "urlFilter": "||radiorana.no/wp-content/uploads/*-300x300.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 109
+  },
+  {
+    "condition": {
+      "urlFilter": "||radiorana.no/wp-content/uploads/*/meyership.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 110
+  },
+  {
+    "condition": {
+      "urlFilter": "||radiorana.no/wp-content/uploads/*/telemix2.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 111
+  },
+  {
+    "condition": {
+      "urlFilter": "||reavisa.blob.core.windows.net/*-net.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 112
+  },
+  {
+    "condition": {
+      "urlFilter": "||reavisa.blob.core.windows.net/*-nett.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 113
+  },
+  {
+    "condition": {
+      "urlFilter": "||reavisa.blob.core.windows.net/*_nett.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 114
+  },
+  {
+    "condition": {
+      "urlFilter": "||rett24.no^*bannerizor.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 115
+  },
+  {
+    "condition": {
+      "urlFilter": "||ridr.dk/images/partners^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 116
+  },
+  {
+    "condition": {
+      "urlFilter": "||s3-eu-west-1.amazonaws.com/froya/*-annonse-*.gif|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 117
+  },
+  {
+    "condition": {
+      "urlFilter": "||s3-eu-west-1.amazonaws.com/froya/*.-jpg.jpg|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 118
+  },
+  {
+    "condition": {
+      "urlFilter": "||s3-eu-west-1.amazonaws.com/froya/*.jpeg.jpg|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 119
+  },
+  {
+    "condition": {
+      "urlFilter": "||s3-eu-west-1.amazonaws.com/froya/bilder/nordbohus.gif|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 120
+  },
+  {
+    "condition": {
+      "urlFilter": "||saernieh.no/wp-content/uploads/2020/03/j%c3%b8rn-jensen.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 121
+  },
+  {
+    "condition": {
+      "urlFilter": "||semegleren.com/video^",
+      "initiatorDomains": [
+        "canariajournalen.no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 122
+  },
+  {
+    "condition": {
+      "urlFilter": "||skagensavis.dk/annonceblok_baggrund.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 123
+  },
+  {
+    "condition": {
+      "urlFilter": "||skagensavis.dk/wp-content/uploads/i123_ads/skagennet"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 124
+  },
+  {
+    "condition": {
+      "urlFilter": "||smakmagasinet.no/contentassets/*/170x500-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 125
+  },
+  {
+    "condition": {
+      "urlFilter": "||smakmagasinet.no/contentassets/*/970x250-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 126
+  },
+  {
+    "condition": {
+      "urlFilter": "||spaniaidag.no/wp-content/uploads/*/alltihus.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 127
+  },
+  {
+    "condition": {
+      "urlFilter": "||spaniaidag.no/wp-content/uploads/*/ceru-design-web-*.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 128
+  },
+  {
+    "condition": {
+      "urlFilter": "||spaniaidag.no/wp-content/uploads/*/kolstad-gif-si.gif^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 129
+  },
+  {
+    "condition": {
+      "urlFilter": "||spanienidag.es/sites/default/files/patrocinadores^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 130
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "aftenbladet.no",
+        "aftenposten.no"
+      ],
+      "urlFilter": "||static.finncdn.no/*/finnexternaldistribution.js^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 131
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.vg.no/css/admark_top.gif^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 132
+  },
+  {
+    "condition": {
+      "urlFilter": "||stream.fo/wp-content/uploads/*-300x111.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 133
+  },
+  {
+    "condition": {
+      "urlFilter": "||tvsporten.dk/media/tvchannels/100x60_logo.png^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 134
+  },
+  {
+    "condition": {
+      "urlFilter": "||thainytt.no/files/*-160.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 135
+  },
+  {
+    "condition": {
+      "urlFilter": "||trolli.is/wp-content/*/benecta.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 136
+  },
+  {
+    "condition": {
+      "urlFilter": "||trolli.is/wp-content/uploads/*logo-*.png^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 137
+  },
+  {
+    "condition": {
+      "urlFilter": "||trolli.is/wp-content/uploads/2018/05/untitled-1-1.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 138
+  },
+  {
+    "condition": {
+      "urlFilter": "||tv-kalundborg.dk/system_files/banner^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 139
+  },
+  {
+    "condition": {
+      "urlFilter": "||utrop.no/wp-content/uploads/2019/07/utrop.no_-1.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 140
+  },
+  {
+    "condition": {
+      "urlFilter": "||utvarpsaga.is/file/*-bordi.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 141
+  },
+  {
+    "condition": {
+      "urlFilter": "||utvarpsaga.is/file/*_banner.png^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 142
+  },
+  {
+    "condition": {
+      "urlFilter": "||veitingageirinn.is/haus20g.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 143
+  },
+  {
+    "condition": {
+      "urlFilter": "||verktoy24.no/wp-content/uploads/*/banner-*px.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 144
+  },
+  {
+    "condition": {
+      "urlFilter": "||verktoy24.no/wp-content/uploads/*_300px-scaled.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 145
+  },
+  {
+    "condition": {
+      "urlFilter": "||vf.is/media/1/*2000x616.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 146
+  },
+  {
+    "condition": {
+      "urlFilter": "||vf.is/media/1/geysir-dekkjaskipti.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 147
+  },
+  {
+    "condition": {
+      "urlFilter": "||elton.app/widget/",
+      "initiatorDomains": [
+        "tek.no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 148
+  },
+  {
+    "condition": {
+      "urlFilter": "||vikari.is/skjol/frjalsi-lif*.png^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 149
+  },
+  {
+    "condition": {
+      "urlFilter": "||viralefilmer.no/wp-content/uploads/*slot-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 150
+  },
+  {
+    "condition": {
+      "urlFilter": "||webforumet.no/blogg/wp-content/uploads/ad-*.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 151
+  },
+  {
+    "condition": {
+      "urlFilter": "||webforumet.no/images/*-250x250.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 152
+  },
+  {
+    "condition": {
+      "urlFilter": "||xklub.dk/bannercache^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 153
+  },
+  {
+    "condition": {
+      "urlFilter": "||xklub.dk/xsite/img/banner^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 154
+  },
+  {
+    "condition": {
+      "urlFilter": "||yrkesbil.no/gifs/1pix.gif^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 155
+  },
+  {
+    "condition": {
+      "urlFilter": "||ytresogn.no/ete/index.html^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 156
+  },
+  {
+    "condition": {
+      "urlFilter": "||ytresogn.no/wp-content/*-copy.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 157
+  },
+  {
+    "condition": {
+      "urlFilter": "||ytresogn.no/wp-content/*-topbanner-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 158
+  },
+  {
+    "condition": {
+      "urlFilter": "||ytresogn.no/wp-content/uploads/*-1.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 159
+  },
+  {
+    "condition": {
+      "urlFilter": "||ytresogn.no/wp-content/uploads/*-nett.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 160
+  },
+  {
+    "condition": {
+      "urlFilter": "||ytresogn.no/wp-content/uploads/2016/04/128829765_1713260288837784_946999945581640675_n.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 161
+  },
+  {
+    "condition": {
+      "urlFilter": "||ytresogn.no/wp-content/uploads/2016/04/default_file-1607345037.png^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 162
+  },
+  {
+    "condition": {
+      "urlFilter": "||ytresogn.no/wp-content/uploads/2016/04/fj.-varmepumpe.png^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 163
+  },
+  {
+    "condition": {
+      "urlFilter": "||ytresogn.no/wp-content/uploads/2016/05/fureli-nett-mobil.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 164
+  },
+  {
+    "condition": {
+      "urlFilter": "||ytresogn.no/wp-content/uploads/2017/04/image007.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 165
+  },
+  {
+    "condition": {
+      "urlFilter": "||ytresogn.no/wp-content/uploads/2020/02/ytre_718_360_2.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 166
+  },
+  {
+    "condition": {
+      "urlFilter": "||gamereactor.*/ads^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 167
+  },
+  {
+    "condition": {
+      "urlFilter": "||gamereactor.*/exclusive.json^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 168
+  },
+  {
+    "condition": {
+      "urlFilter": "||datamaskin.biz/ad/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 169
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdplanet.no/images/previews/*_app_preview.png^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 170
+  },
+  {
+    "condition": {
+      "urlFilter": "||infohelgeland.no/banner^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 171
+  },
+  {
+    "condition": {
+      "urlFilter": "||fotballen.eu/*468*.gif^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 172
+  },
+  {
+    "condition": {
+      "urlFilter": "||fotballen.eu/20*/chips.jpg|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 173
+  },
+  {
+    "condition": {
+      "urlFilter": "||fotballen.eu/20*/folkeriket.jpg|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 174
+  },
+  {
+    "condition": {
+      "urlFilter": "||fotballen.eu/20*/html/images/jack.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 175
+  },
+  {
+    "condition": {
+      "urlFilter": "||kjavis.dk/wp-content/uploads/20*/berghodt.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 176
+  },
+  {
+    "condition": {
+      "urlFilter": "||kjavis.dk/wp-content/uploads/20*/vvs-eks.png^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 177
+  },
+  {
+    "condition": {
+      "urlFilter": "||kjavis.dk/wp-content/uploads/2025/04/byg.png|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 178
+  },
+  {
+    "condition": {
+      "urlFilter": "||kjavis.dk/wp-content/uploads/2025/01/breg.png|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 179
+  },
+  {
+    "condition": {
+      "urlFilter": "||kjavis.dk/wp-content/uploads/20*/benedikte-1.png|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 180
+  },
+  {
+    "condition": {
+      "urlFilter": "||kjavis.dk/wp-content/uploads/20*/munkebo-kro.png|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 181
+  },
+  {
+    "condition": {
+      "urlFilter": "||klokkeonline.no/img/hac^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 182
+  },
+  {
+    "condition": {
+      "urlFilter": "||vf.is/banners^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 183
+  },
+  {
+    "condition": {
+      "urlFilter": "||tv-kalundborg.b-cdn.net//system_files/banner^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 184
+  },
+  {
+    "condition": {
+      "urlFilter": "||dagens.dk/wp-content/themes/mgdk-master/pricerunner-widget.php^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 185
+  },
+  {
+    "condition": {
+      "urlFilter": "||kabaler.dk/templates/blue3/images/demens.jpg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 186
+  },
+  {
+    "condition": {
+      "urlFilter": "||f.nordiskemedier.dk/*.gif^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 187
+  },
+  {
+    "condition": {
+      "urlFilter": "||f.nordiskemedier.dk/banner^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 188
+  },
+  {
+    "condition": {
+      "urlFilter": "||bcm.interactives.dk/script/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 189
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.polarismedia.no/*/cxense.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 190
+  },
+  {
+    "condition": {
+      "urlFilter": "||kindredplc.com/ad."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 191
+  },
+  {
+    "condition": {
+      "urlFilter": "||media.comeon.com/tracking."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 192
+  },
+  {
+    "condition": {
+      "urlFilter": "||media.folkeautomaten.com/tracking."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 193
+  },
+  {
+    "condition": {
+      "urlFilter": "||media.getlucky.com/tracking."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 194
+  },
+  {
+    "condition": {
+      "urlFilter": "://sponsorship.public.tv2.no/spons/play/v2?params="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 195
+  },
+  {
+    "condition": {
+      "urlFilter": "||smakelig.com/wp-content/uploads/202*.gif|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 196
+  },
+  {
+    "condition": {
+      "urlFilter": "_980banner_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 197
+  },
+  {
+    "condition": {
+      "urlFilter": "||samimag.no/wp-content/uploads/2019/11/screenshot-2020-03-21-at-12.40.32.png^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 198
+  },
+  {
+    "condition": {
+      "urlFilter": "://178.79.136.45^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 199
+  },
+  {
+    "condition": {
+      "urlFilter": "://3.248.18.175^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 200
+  },
+  {
+    "condition": {
+      "urlFilter": "://35.227.231.163^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 201
+  },
+  {
+    "condition": {
+      "urlFilter": "://45.58.146.154^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 202
+  },
+  {
+    "condition": {
+      "urlFilter": "://82.196.13.38^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 203
+  },
+  {
+    "condition": {
+      "urlFilter": "://82.221.81.9^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 204
+  },
+  {
+    "condition": {
+      "urlFilter": "||s.api.no/mittari/c/article/*/sectionid/*.gif^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 205
+  },
+  {
+    "condition": {
+      "urlFilter": "||ktg-content.cdn.prismic.io/api/*/documents/*(my.newsletter_popup.uid"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 206
+  },
+  {
+    "condition": {
+      "urlFilter": "||googletagmanager.com/gtm.js^",
+      "initiatorDomains": [
+        "bornholm.nu",
+        "dk"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 207
+  },
+  {
+    "condition": {
+      "urlFilter": "||vgc.no/cdn/js/libs/homad-config.json$xml,redirect=noopjson"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 208
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "vglive.no"
+      ],
+      "urlFilter": "||cloudfront.net/v*/liveoddsen.aspx^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 209
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.allermedia.se/se-aller-ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 210
+  },
+  {
+    "condition": {
+      "urlFilter": "||img.sofabold.dk/images/banner"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 211
+  },
+  {
+    "condition": {
+      "urlFilter": "||vg.no/vgc/cdn/vgno/assets/feature/_astro/gifthelperpymframe."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 212
+  },
+  {
+    "condition": {
+      "urlFilter": "||openx.gamereactor.dk/adclick.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 213
+  },
+  {
+    "condition": {
+      "urlFilter": "://52.216.146.90^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 214
+  },
+  {
+    "condition": {
+      "urlFilter": "://92.42.104.146^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 215
+  },
+  {
+    "condition": {
+      "urlFilter": "||appleid.*.no^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 216
+  },
+  {
+    "condition": {
+      "urlFilter": "||itunesconnect-*.no^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 217
+  },
+  {
+    "condition": {
+      "urlFilter": "||bankid-sperret."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 218
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "109.230.237.116",
+        "147.93.63.211",
+        "154.223.16.232",
+        "158.94.209.86",
+        "158.94.209.87",
+        "158.94.209.88",
+        "158.94.209.89",
+        "158.94.209.90",
+        "195.242.152.122",
+        "196.251.85.197",
+        "212.224.107.120",
+        "223.29.226.200",
+        "43.100.125.58",
+        "43.159.140.215",
+        "43.162.119.45",
+        "47.76.132.29",
+        "65.21.200.49",
+        "790northsierrabonita.com",
+        "85.159.213.158",
+        "a2ics.eu",
+        "acc-inf.com",
+        "acc-ntfix.com",
+        "ad.shareholders.dk",
+        "adext.inkclub.com",
+        "aib-loginsecure.com",
+        "as-dao.icu",
+        "banner.3loops.com",
+        "be-sms.com",
+        "bilborsen.webannonse.no",
+        "borger-sundhed.com",
+        "clarks-dk.com",
+        "clarksskonorge.com",
+        "connection-info.com",
+        "dao-as.cc",
+        "dao-as.com",
+        "dao-as.top",
+        "dao-as.vip",
+        "dao-as.xyz",
+        "dao-ascu.top",
+        "dao-asdk.cc",
+        "dao-asdk.vip",
+        "dao-ase.cc",
+        "dao-ase.vip",
+        "dao-asen.bond",
+        "dao-asi.cc",
+        "dao-asi.vip",
+        "dao-asiiv.icu",
+        "dao-asioiiv.icu",
+        "dao-asl.vip",
+        "dao-aso.cc",
+        "dao-asoi.icu",
+        "dao-asoiiv.icu",
+        "dao-asr.cc",
+        "dao-asr.vip",
+        "dao-ass.cc",
+        "dao-ass.vip",
+        "dao-assion.icu",
+        "dao-asuui.icu",
+        "dao-asvisu.icu",
+        "dao-post.icu",
+        "daoao.icu",
+        "daoas-en.bond",
+        "daoasa.cyou",
+        "daoasa.sbs",
+        "daobo.bond",
+        "daodo.bond",
+        "daoicom.bond",
+        "daoiiox.icu",
+        "daoios.icu",
+        "daoipost.icu",
+        "daonevt.com",
+        "daoosi.icu",
+        "daopakke.sbs",
+        "daopst.icu",
+        "daosa.cyou",
+        "daosa.shop",
+        "daosviz.com",
+        "daoteams.com",
+        "daovisx.com",
+        "daoxo.bond",
+        "desidert.no",
+        "dhl-trackng.com",
+        "directdigital-services.com",
+        "disneyplus-tv.com",
+        "dk-fornysundhed.com",
+        "dk-sundhed.com",
+        "dkdk.shop",
+        "dksundhed.com",
+        "dlssneykonto.com",
+        "dpd-sio.icu",
+        "drbrand.herokuapp.com",
+        "dundeehills.group",
+        "earnifi-claiming.com",
+        "eccolabgroup.com",
+        "eccoskonorge.com",
+        "elderlyscissors.com",
+        "eltlnorsgogle.is-a-cpa.com",
+        "flix-area.com",
+        "flix-request.com",
+        "fr135.net",
+        "galerijajava.ba",
+        "gogle.net",
+        "gtm.findroommate.dk",
+        "hagebakken.no",
+        "haglofstilbud.com",
+        "havfruen4220.dk",
+        "healtheweb.co.uk",
+        "helse-norge.com",
+        "hokanorgeno.com",
+        "hokaonenorge.com",
+        "hokaskooutlet.co.no",
+        "hunter-danmark.com",
+        "idj.no",
+        "idportal.vercel.app",
+        "info-sundhed.com",
+        "infopostdk.com",
+        "infos-sundhed.com",
+        "infosundhed.com",
+        "infosundheds.com",
+        "inquisitivebed.info",
+        "levering-myups.com",
+        "lib.idg.no",
+        "linkednordersalenavigate.com",
+        "lnfoskonto.com",
+        "logg-inn.online",
+        "marked.no",
+        "mdb.nu",
+        "minskat-no.com",
+        "mitld-forholdsregler.com",
+        "my-subscriptions.net",
+        "myups-pakket.com",
+        "myups.express",
+        "nestnose.com",
+        "netfx-acc.com",
+        "ney-acc.com",
+        "nflix-management.com",
+        "nflix-reactivacion.com",
+        "noapp.sbs",
+        "nono.qpon",
+        "norgeposten.today",
+        "ntfx-acc.com",
+        "nyhetsnett.no",
+        "off-whitedanmark.com",
+        "off-whitenorge.com",
+        "oofosnorgeoutlet.com",
+        "ozarkvillage.net",
+        "p-stn.net",
+        "pakke.click",
+        "pakkeposten.today",
+        "payement-renew.me",
+        "pestseminars.com",
+        "post-dk.cfd",
+        "postendk.lol",
+        "postendsk.lat",
+        "postennorge.today",
+        "postenpakke.today",
+        "postenserves.today",
+        "postenspor.today",
+        "postnord-24.site",
+        "postnord-eco.buzz",
+        "postnord-eco.cfd",
+        "postnord-eco.sbs",
+        "postnord-eco.xyz",
+        "postnord-update.help",
+        "postnorddk.vip",
+        "postnordse.asia",
+        "postuin.bond",
+        "premosupplements.com",
+        "printablemagic.com",
+        "rumendia.com",
+        "s.free.fr",
+        "santandersecurept.com",
+        "saucony-dk.com",
+        "sikkerklientopdatering.com",
+        "skat-skts-dk.com",
+        "sporpakke-dk.com",
+        "sporposten.today",
+        "spotfy-regulation.com",
+        "start-myaltinn.com",
+        "statautos.com",
+        "static-dscn.net",
+        "storustovu.dk",
+        "sundhed-info.com",
+        "sundhed-infodk.com",
+        "sundhed-infos.com",
+        "sundhed-skort.com",
+        "sundhed-web.com",
+        "sundhedinfo.com",
+        "svindel.info",
+        "tachyoniums.eu.com",
+        "tnord.click",
+        "tnord.qpon",
+        "tnord.sbs",
+        "tnordh.shop",
+        "trackingfindups.com",
+        "trackingpackage.express",
+        "trafikkskoleapp.no",
+        "trmff.wpengine.com",
+        "updatesysteme.com",
+        "ups-packaging.delivery",
+        "upsbezahlung.com",
+        "usaa-verify.com",
+        "vanssnorge.com",
+        "wirexapp.africa.com",
+        "www-presse-fotos-dk.filesusr.com",
+        "y6.no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 219
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "comoutlook.com",
+        "onlinemailmicrosotfvalidation.com",
+        "skatteetaten-support.com",
+        "skatteetaten.app",
+        "skatteetaten.ceo",
+        "skatteetaten.cfd",
+        "skatteetaten.do",
+        "skatteetaten.info.gf",
+        "skatteetaten.online",
+        "skatteetaten.pages.dev",
+        "skatteetaten.rianicefe.com",
+        "skatteetaten.sharefile.eu",
+        "skatteetaten.site",
+        "skatteetaten.support",
+        "skatteetaten.support.do",
+        "skatteetaten.sytes.net",
+        "skatteetaten.top",
+        "skatteetatten.com"
+      ],
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 220
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetate-n.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 221
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetateennoo.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 222
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetatei.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 223
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetaten-altinn.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 224
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetaten-konferense.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 225
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetaten-mine-sider.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 226
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetaten-no.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 227
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetaten-norge.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 228
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetaten-norway.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 229
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetaten-porten.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 230
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetaten-refusjon.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 231
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetaten-skatteetaten.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 232
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetaten-tax.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 233
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetaten-track.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 234
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetatenadministration.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 235
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetatenaltinninformasjon.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 236
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetatencomp.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 237
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetatencompno.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 238
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetatenid.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 239
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetateninfo.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 240
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetateninformasjon.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 241
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetateninnboks.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 242
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetatenkunden24.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 243
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetatenmelding.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 244
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetatenn0.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 245
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetatenno.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 246
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetatennorge.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 247
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetatennorway.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 248
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetatens.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 249
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetatensupport.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 250
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetatentax.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 251
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetatentrack.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 252
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetatentrackpro.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 253
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetatentracks.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 254
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetatn-person.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 255
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "altrasgshoes.com",
+        "altrask.com",
+        "gantnorge.com",
+        "gymshark-no.com",
+        "hilfigerdenmark.com",
+        "louboutinnorge.com",
+        "montec-danmark.com",
+        "umbrodk.com",
+        "umbrono.com",
+        "underarmourdk.com",
+        "xn--gymsharkklrnorge-3ob.com"
+      ],
+      "excludedResourceTypes": [
+        "main_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 256
+  },
+  {
+    "condition": {
+      "urlFilter": "://212.27.60.108^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 257
+  },
+  {
+    "condition": {
+      "urlFilter": "||dnnbcorporat*.mine.nu^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 258
+  },
+  {
+    "condition": {
+      "urlFilter": "://94.156.65.204^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 259
+  },
+  {
+    "condition": {
+      "urlFilter": "-norge.co.no^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 260
+  },
+  {
+    "condition": {
+      "urlFilter": "*skodanmark.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 261
+  },
+  {
+    "condition": {
+      "urlFilter": "||hokalopesko."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 262
+  },
+  {
+    "condition": {
+      "regexFilter": "^(https?:\\/\\/)?hokaoneone[a-z0-9].*$"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 263
+  },
+  {
+    "condition": {
+      "urlFilter": "*norgeskosalg."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 264
+  },
+  {
+    "condition": {
+      "urlFilter": "*norge-salg.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 265
+  },
+  {
+    "condition": {
+      "urlFilter": "*norgesalgs.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 266
+  },
+  {
+    "condition": {
+      "urlFilter": "*danmarkdk.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 267
+  },
+  {
+    "condition": {
+      "urlFilter": "*skodktilbud."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 268
+  },
+  {
+    "condition": {
+      "urlFilter": "*skonorgeeu.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 269
+  },
+  {
+    "condition": {
+      "urlFilter": "*sneakersnorgeshop."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 270
+  },
+  {
+    "condition": {
+      "urlFilter": "*sneakersdkshop.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 271
+  },
+  {
+    "condition": {
+      "urlFilter": "*skodanmarks."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 272
+  },
+  {
+    "condition": {
+      "urlFilter": "||dnb-oppdater."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 273
+  },
+  {
+    "condition": {
+      "excludedInitiatorDomains": [
+        "no"
+      ],
+      "urlFilter": "||no-forny*"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 274
+  },
+  {
+    "condition": {
+      "excludedInitiatorDomains": [
+        "no"
+      ],
+      "urlFilter": "||my-altinn*"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 275
+  },
+  {
+    "condition": {
+      "urlFilter": "||no-oppdatere."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 276
+  },
+  {
+    "condition": {
+      "urlFilter": "||no-oppdatert.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 277
+  },
+  {
+    "condition": {
+      "urlFilter": "://179.43.189.62^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 278
+  },
+  {
+    "condition": {
+      "urlFilter": "://74.119.239.234^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 279
+  },
+  {
+    "condition": {
+      "urlFilter": "://162.241.194.206^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 280
+  },
+  {
+    "condition": {
+      "urlFilter": "://51.195.133.131^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 281
+  },
+  {
+    "condition": {
+      "urlFilter": "://66.206.3.34^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 282
+  },
+  {
+    "condition": {
+      "urlFilter": "://82.118.242.69^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 283
+  },
+  {
+    "condition": {
+      "urlFilter": "://134.209.82.119^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 284
+  },
+  {
+    "condition": {
+      "urlFilter": "://136.243.73.30^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 285
+  },
+  {
+    "condition": {
+      "urlFilter": "://138.201.126.227^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 286
+  },
+  {
+    "condition": {
+      "urlFilter": "://154.213.16.136^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 287
+  },
+  {
+    "condition": {
+      "urlFilter": "://156.236.126.173^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 288
+  },
+  {
+    "condition": {
+      "urlFilter": "://158.247.212.220^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 289
+  },
+  {
+    "condition": {
+      "urlFilter": "://165.227.168.212^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 290
+  },
+  {
+    "condition": {
+      "urlFilter": "://167.71.49.177^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 291
+  },
+  {
+    "condition": {
+      "urlFilter": "://196.196.230.76^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 292
+  },
+  {
+    "condition": {
+      "urlFilter": "://132.148.220.142^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 293
+  },
+  {
+    "condition": {
+      "urlFilter": "://104.160.10.",
+      "excludedInitiatorDomains": [
+        "in-addr.arpa"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 294
+  },
+  {
+    "condition": {
+      "urlFilter": "://165.231.154.",
+      "excludedInitiatorDomains": [
+        "in-addr.arpa"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 295
+  },
+  {
+    "condition": {
+      "urlFilter": "://167.99.196.225^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 296
+  },
+  {
+    "condition": {
+      "urlFilter": "||monetrizer*."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 297
+  },
+  {
+    "condition": {
+      "urlFilter": "://38.180.96.244^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 298
+  },
+  {
+    "condition": {
+      "urlFilter": "://193.143.1.45^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 299
+  },
+  {
+    "condition": {
+      "urlFilter": "://193.143.1.214^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 300
+  },
+  {
+    "condition": {
+      "urlFilter": "://193.143.1.217^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 301
+  },
+  {
+    "condition": {
+      "urlFilter": "||storage.googleapis.com/absales^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 302
+  },
+  {
+    "condition": {
+      "urlFilter": "||minid-portalen.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 303
+  },
+  {
+    "condition": {
+      "urlFilter": "||kredinor-portal.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 304
+  },
+  {
+    "condition": {
+      "urlFilter": "||myskatteetaten.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 305
+  },
+  {
+    "condition": {
+      "urlFilter": "||nav-innlogging-portal.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 306
+  },
+  {
+    "condition": {
+      "urlFilter": "||norwegianautopaskonto.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 307
+  },
+  {
+    "condition": {
+      "urlFilter": "||noskatteetaten.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 308
+  },
+  {
+    "condition": {
+      "urlFilter": "||nyskatteetaten.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 309
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetateneu.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 310
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetatenof.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 311
+  },
+  {
+    "condition": {
+      "urlFilter": "||skattrefusjono.",
+      "excludedInitiatorDomains": [
+        "no"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 312
+  },
+  {
+    "condition": {
+      "urlFilter": "||wpenginepowered.com/skatteetaten^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 313
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/sikkerskatt/refusjon^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 314
+  },
+  {
+    "condition": {
+      "urlFilter": "://5.39.217.206^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 315
+  },
+  {
+    "condition": {
+      "urlFilter": "://5.39.221.180^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 316
+  },
+  {
+    "condition": {
+      "urlFilter": "://193.148.70.153^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 317
+  },
+  {
+    "condition": {
+      "urlFilter": "||altinn-*.web.app^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 318
+  },
+  {
+    "condition": {
+      "urlFilter": "||altinn-beskytte."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 319
+  },
+  {
+    "condition": {
+      "urlFilter": "||altinn-melding-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 320
+  },
+  {
+    "condition": {
+      "urlFilter": "||altinn-minside."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 321
+  },
+  {
+    "condition": {
+      "urlFilter": "||altinnskatteetaten."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 322
+  },
+  {
+    "condition": {
+      "urlFilter": "||finn-no-n."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 323
+  },
+  {
+    "condition": {
+      "urlFilter": "||finnobrukerlogg."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 324
+  },
+  {
+    "condition": {
+      "urlFilter": "://147.45.198.199^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 325
+  },
+  {
+    "condition": {
+      "urlFilter": "://16.170.34.33^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 326
+  },
+  {
+    "condition": {
+      "urlFilter": "://43.160.248.24^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 327
+  },
+  {
+    "condition": {
+      "urlFilter": "://43.157.122.86^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 328
+  },
+  {
+    "condition": {
+      "urlFilter": "://43.157.46.83^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 329
+  },
+  {
+    "condition": {
+      "urlFilter": "://43.164.196.209^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 330
+  },
+  {
+    "condition": {
+      "urlFilter": "://88.255.216.16^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 331
+  },
+  {
+    "condition": {
+      "regexFilter": "((https?|tcp):\\/\\/)?204\\.194\\.54\\.\\d{1,3}([:/].*)?$"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 332
+  },
+  {
+    "condition": {
+      "urlFilter": "||post-nord-levering."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 333
+  },
+  {
+    "condition": {
+      "urlFilter": "||post-nord-receiving."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 334
+  },
+  {
+    "condition": {
+      "urlFilter": "||posten-nno."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 335
+  },
+  {
+    "condition": {
+      "urlFilter": "||posten-tracks."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 336
+  },
+  {
+    "condition": {
+      "urlFilter": "||postenn-no."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 337
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord-all."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 338
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord-confirmation."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 339
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord-delay."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 340
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord-order-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 341
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord-paket."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 342
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord-pay."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 343
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord-post."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 344
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord-se-delivery."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 345
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord-step."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 346
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord-step1."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 347
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord-tk."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 348
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord-tracks."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 349
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnorde-swe."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 350
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnordexpress."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 351
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnordexpressdelivery-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 352
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnordspara."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 353
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnorg-dk*"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 354
+  },
+  {
+    "condition": {
+      "urlFilter": "://1.14.61.188^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 355
+  },
+  {
+    "condition": {
+      "urlFilter": "/?r=dir&zoneid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 356
+  },
+  {
+    "condition": {
+      "urlFilter": "/?referral=sythe"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 357
+  },
+  {
+    "condition": {
+      "urlFilter": "/?track=*&key="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 358
+  },
+  {
+    "condition": {
+      "urlFilter": "/advertisement/video/static/advantage.xml^",
+      "excludedResourceTypes": [
+        "main_frame",
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 359
+  },
+  {
+    "condition": {
+      "urlFilter": "/ajax/banner/list?page=",
+      "excludedResourceTypes": [
+        "main_frame",
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 360
+  },
+  {
+    "condition": {
+      "urlFilter": "/all-for-adsense/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 361
+  },
+  {
+    "condition": {
+      "urlFilter": "/api/spots/*&kw=",
+      "excludedResourceTypes": [
+        "main_frame",
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 362
+  },
+  {
+    "condition": {
+      "urlFilter": "/api/spots/*^fill=",
+      "excludedResourceTypes": [
+        "main_frame",
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 363
+  },
+  {
+    "condition": {
+      "urlFilter": "/api/users/*^fill=",
+      "excludedResourceTypes": [
+        "main_frame",
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 364
+  },
+  {
+    "condition": {
+      "urlFilter": "/clc?aid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 365
+  },
+  {
+    "condition": {
+      "urlFilter": "/click?pid=*&offer_id="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 366
+  },
+  {
+    "condition": {
+      "urlFilter": "/config?key=6922a2c8-d1e9-43be-b201-749543d28fe1"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 367
+  },
+  {
+    "condition": {
+      "urlFilter": "/config?key=d35e161b-abb4-4949-b523-003165d250bb"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 368
+  },
+  {
+    "condition": {
+      "urlFilter": "/embed-1/ajax/e-1/banners|",
+      "excludedResourceTypes": [
+        "main_frame",
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 369
+  },
+  {
+    "condition": {
+      "urlFilter": "/embed-1/e-1/banners|",
+      "excludedResourceTypes": [
+        "main_frame",
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 370
+  },
+  {
+    "condition": {
+      "urlFilter": "/js/ppndr."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 371
+  },
+  {
+    "condition": {
+      "urlFilter": "/promo/next/adb/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 372
+  },
+  {
+    "condition": {
+      "urlFilter": "/promo/next/mural/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 373
+  },
+  {
+    "condition": {
+      "urlFilter": "/propeller-ads"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 374
+  },
+  {
+    "condition": {
+      "urlFilter": "/sytheb"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 375
+  },
+  {
+    "condition": {
+      "urlFilter": "/v2/for-page?body=%",
+      "excludedResourceTypes": [
+        "main_frame",
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 376
+  },
+  {
+    "condition": {
+      "urlFilter": "/zone?pub"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 377
+  },
+  {
+    "condition": {
+      "urlFilter": "/1betsson.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 378
+  },
+  {
+    "condition": {
+      "urlFilter": "/1unibet.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 379
+  },
+  {
+    "condition": {
+      "urlFilter": "/250x90_motortrend.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 380
+  },
+  {
+    "condition": {
+      "urlFilter": "/728xx90.jpg?sid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 381
+  },
+  {
+    "condition": {
+      "urlFilter": "/banners*swf"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 382
+  },
+  {
+    "condition": {
+      "urlFilter": "/hitfile_730_90.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 383
+  },
+  {
+    "condition": {
+      "urlFilter": "/kasynos_online.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 384
+  },
+  {
+    "condition": {
+      "urlFilter": "/lvbet-tv.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 385
+  },
+  {
+    "condition": {
+      "urlFilter": "||bold.dk/_nuxtv3/n*banner",
+      "resourceTypes": [
+        "script",
+        "stylesheet"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 386
+  },
+  {
+    "condition": {
+      "urlFilter": "||gfx.no^*/refererpromo",
+      "resourceTypes": [
+        "script",
+        "stylesheet"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 387
+  },
+  {
+    "condition": {
+      "urlFilter": "/images/banners",
+      "initiatorDomains": [
+        "austurfrett.is",
+        "fcbarcelona.dk",
+        "norsk-rally.com",
+        "samler.no"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 388
+  },
+  {
+    "condition": {
+      "urlFilter": "/annonse_",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 389
+  },
+  {
+    "condition": {
+      "urlFilter": "/annonse-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 390
+  },
+  {
+    "condition": {
+      "urlFilter": "/wp-content/uploads/*_annonse_",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 391
+  },
+  {
+    "condition": {
+      "urlFilter": "_toppbanner_",
+      "excludedInitiatorDomains": [
+        "dahl.no",
+        "onninen.no"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 392
+  },
+  {
+    "condition": {
+      "urlFilter": "/_annonser^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 393
+  },
+  {
+    "condition": {
+      "urlFilter": "/nettbanner-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 394
+  },
+  {
+    "condition": {
+      "urlFilter": "||lh3.googleusercontent.com/*=w468-h60-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 395
+  },
+  {
+    "condition": {
+      "urlFilter": "||lh3.googleusercontent.com/*=w970-h250-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 396
+  },
+  {
+    "condition": {
+      "urlFilter": "/getbanner.php^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 397
+  },
+  {
+    "condition": {
+      "urlFilter": "_nettbanner_",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 398
+  },
+  {
+    "condition": {
+      "urlFilter": "_visittkortannonse_",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 399
+  },
+  {
+    "condition": {
+      "urlFilter": "-visittkortannonse-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 400
+  },
+  {
+    "condition": {
+      "urlFilter": "||is/static/strevda/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 401
+  },
+  {
+    "condition": {
+      "urlFilter": "/images/bannere^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 402
+  },
+  {
+    "condition": {
+      "urlFilter": "-skyskraper-annonse.",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 403
+  },
+  {
+    "condition": {
+      "urlFilter": ".no/images/banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 404
+  },
+  {
+    "condition": {
+      "urlFilter": ".dk/wp-content/uploads/ap-plugin-upload^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 405
+  },
+  {
+    "condition": {
+      "urlFilter": "||cloudfront.net/mediaxpress/ad^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 406
+  },
+  {
+    "condition": {
+      "urlFilter": "||cloudfront.net/mediaxpress/banner^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 407
+  },
+  {
+    "condition": {
+      "urlFilter": "/wp-content/uploads/*-vefbordar3",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 408
+  },
+  {
+    "condition": {
+      "urlFilter": "/wp-content/uploads/*_vefbordi_",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 409
+  },
+  {
+    "condition": {
+      "urlFilter": "/static/strevda^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 410
+  },
+  {
+    "condition": {
+      "urlFilter": "-vefbordar-*x",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 411
+  },
+  {
+    "condition": {
+      "urlFilter": "/starfsauglysing-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 412
+  },
+  {
+    "condition": {
+      "urlFilter": "/wp-content/uploads/*_augl_10",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 413
+  },
+  {
+    "condition": {
+      "urlFilter": ".is/wp-content/uploads/*1018x360",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 414
+  },
+  {
+    "condition": {
+      "urlFilter": "-banner_",
+      "initiatorDomains": [
+        "hnytt.no"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 415
+  },
+  {
+    "condition": {
+      "urlFilter": "-l%c3%bdsing-",
+      "initiatorDomains": [
+        "news.fo"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 416
+  },
+  {
+    "condition": {
+      "urlFilter": "/bannere/",
+      "initiatorDomains": [
+        "gamer.no",
+        "tek.no"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 417
+  },
+  {
+    "condition": {
+      "urlFilter": "/mediaxpress/ad^",
+      "initiatorDomains": [
+        "bygge-anlaegsavisen.dk"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 418
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "tvkampen.com",
+        "tvsporten.dk"
+      ],
+      "urlFilter": "/partners/*_ad_icon",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 419
+  },
+  {
+    "condition": {
+      "urlFilter": "/wp-content/banners^",
+      "initiatorDomains": [
+        "arendalstidende.no",
+        "avvir.no"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 420
+  },
+  {
+    "condition": {
+      "urlFilter": "_300x500pix",
+      "initiatorDomains": [
+        "rykindribe.dk"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 421
+  },
+  {
+    "condition": {
+      "urlFilter": "_930x180pix",
+      "initiatorDomains": [
+        "rykindribe.dk"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 422
+  },
+  {
+    "condition": {
+      "urlFilter": "|blob:https://www.veier24.no/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 423
+  },
+  {
+    "condition": {
+      "urlFilter": "||1819.is/infosmall/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 424
+  },
+  {
+    "condition": {
+      "urlFilter": "||appetitt.no/uploads/library/*_bannere_",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 425
+  },
+  {
+    "condition": {
+      "urlFilter": "||appetitt.no/uploads/library/1150*",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 426
+  },
+  {
+    "condition": {
+      "urlFilter": "||austevollforlag.no/wp-content/*/yachtmarine2014.",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 427
+  },
+  {
+    "condition": {
+      "urlFilter": "||biip.no/wp-content/uploads/*320x250.jpg^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 428
+  },
+  {
+    "condition": {
+      "urlFilter": "||bornholm.nu/nonsec/banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 429
+  },
+  {
+    "condition": {
+      "urlFilter": "||canariposten.no/wp-content/uploads/300x1500",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 430
+  },
+  {
+    "condition": {
+      "urlFilter": "||danishfamilysearch.dk/images/xp2^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 431
+  },
+  {
+    "condition": {
+      "urlFilter": "||detailersclub.no/uploads/*_banner.",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 432
+  },
+  {
+    "condition": {
+      "urlFilter": "||dust2.dk/img/banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 433
+  },
+  {
+    "condition": {
+      "urlFilter": "||escort46.dk/bg_images^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 434
+  },
+  {
+    "condition": {
+      "urlFilter": "||fcbarcelona.dk/*/images/footerbg.jpg^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 435
+  },
+  {
+    "condition": {
+      "urlFilter": "||healthtalkweb.s3.amazonaws.com/images/*_560x210.",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 436
+  },
+  {
+    "condition": {
+      "urlFilter": "||hnytt.no/wp-content/uploads/*/fluffy.jpg^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 437
+  },
+  {
+    "condition": {
+      "urlFilter": "||indblik.net/wp-content/uploads/angwp^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 438
+  },
+  {
+    "condition": {
+      "urlFilter": "||isolor.no/wp-content/uploads/*-toppbanner-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 439
+  },
+  {
+    "condition": {
+      "urlFilter": "||karfan.is/wp-content/uploads/*-vefbor%c3%b0i-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 440
+  },
+  {
+    "condition": {
+      "urlFilter": "||leikjaland.is/*/bannerstopright/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 441
+  },
+  {
+    "condition": {
+      "urlFilter": "||levmeddiabetes.no/content/uploads/*/accu-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 442
+  },
+  {
+    "condition": {
+      "urlFilter": "||magasinetreiselyst.no/wp-content/*_annonse*promo",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 443
+  },
+  {
+    "condition": {
+      "urlFilter": "||malviknytt.no/wp-content/uploads/*-firkant-*e1*.",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 444
+  },
+  {
+    "condition": {
+      "urlFilter": "||melkoghonning.no/wp-content/uploads/*_banner_",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 445
+  },
+  {
+    "condition": {
+      "urlFilter": "||nvnytt.no/images/*annonse-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 446
+  },
+  {
+    "condition": {
+      "urlFilter": "||nyteknikk.no/images.php/180x^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 447
+  },
+  {
+    "condition": {
+      "urlFilter": "||nyteknikk.no/images.php/x150^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 448
+  },
+  {
+    "condition": {
+      "urlFilter": "||oppdrettstorget.no/images/cms^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 449
+  },
+  {
+    "condition": {
+      "urlFilter": "||oyggjatidindi.com/vev_banners/*l%c3%bdsing",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 450
+  },
+  {
+    "condition": {
+      "urlFilter": "||reavisa.blob.core.windows.net/*-annonse-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 451
+  },
+  {
+    "condition": {
+      "urlFilter": "||reavisa.blob.core.windows.net/*_300x100",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 452
+  },
+  {
+    "condition": {
+      "urlFilter": "||reavisa.blob.core.windows.net/*_annonse_",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 453
+  },
+  {
+    "condition": {
+      "urlFilter": "||reavisa.blob.core.windows.net/*visittkort",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 454
+  },
+  {
+    "condition": {
+      "urlFilter": "||reiseliv.no/wp-content/uploads/*-annons%c3%b8rinnhold-*-aksjer-*.",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 455
+  },
+  {
+    "condition": {
+      "urlFilter": "||rett24.no*/_/attachment/inline/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 456
+  },
+  {
+    "condition": {
+      "urlFilter": "||s3-eu-west-1.amazonaws.com/froya/*-980x500-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 457
+  },
+  {
+    "condition": {
+      "urlFilter": "||s3-eu-west-1.amazonaws.com/froya/*-toppannonse-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 458
+  },
+  {
+    "condition": {
+      "urlFilter": "||s3-eu-west-1.amazonaws.com/froya/*nettannonse-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 459
+  },
+  {
+    "condition": {
+      "urlFilter": "||seksualitet24.no/wp-content/uploads/*/sinful_",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 460
+  },
+  {
+    "condition": {
+      "urlFilter": "||teknologiskmatforum.no/viewimage.aspx?*width=343^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 461
+  },
+  {
+    "condition": {
+      "urlFilter": "||thainytt.no/files/160_",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 462
+  },
+  {
+    "condition": {
+      "urlFilter": "||travservice.dk/wp-content^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 463
+  },
+  {
+    "condition": {
+      "urlFilter": "||trolli.is/wp-content/*/banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 464
+  },
+  {
+    "condition": {
+      "urlFilter": "||trolli.is/wp-content/*/hollin_olafsfirdi",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 465
+  },
+  {
+    "condition": {
+      "urlFilter": "||trolli.is/wp-content/*/syngjum-kubbur",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 466
+  },
+  {
+    "condition": {
+      "urlFilter": "||trolli.is/wp-content/*/vefsmarinn",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 467
+  },
+  {
+    "condition": {
+      "urlFilter": "||trolli.is/wp-content/*/videoval_logo",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 468
+  },
+  {
+    "condition": {
+      "urlFilter": "||tunnelsyn1.files.wordpress.com/*/sotra-trelast-isolasjon",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 469
+  },
+  {
+    "condition": {
+      "urlFilter": "||tv2.no/prod/sponsor^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 470
+  },
+  {
+    "condition": {
+      "urlFilter": "||tvkampen.com/media/*/banner*",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 471
+  },
+  {
+    "condition": {
+      "urlFilter": "||tvkampen.com/media/partners/unibet-lo",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 472
+  },
+  {
+    "condition": {
+      "urlFilter": "||utrop.no/wp-content/uploads/*/banner_utrop",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 473
+  },
+  {
+    "condition": {
+      "urlFilter": "||vaktin.is/grkuk^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 474
+  },
+  {
+    "condition": {
+      "urlFilter": "||fotballen.eu/20*/bet",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 475
+  },
+  {
+    "condition": {
+      "urlFilter": "||fotballen.eu/20*/vaiplay",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 476
+  },
+  {
+    "condition": {
+      "urlFilter": "||fotballen.eu/20*casino.",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 477
+  },
+  {
+    "condition": {
+      "urlFilter": "||sportsidioten.no/wp-content/uploads/*-oslo-sportslager-pc.",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 478
+  },
+  {
+    "condition": {
+      "urlFilter": "||counter4all.dk/wp-content/uploads/*-300x250.",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 479
+  },
+  {
+    "condition": {
+      "urlFilter": "||kjavis.dk/wp-content/uploads/20*/900x180_",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 480
+  },
+  {
+    "condition": {
+      "urlFilter": "||kjavis.dk/wp-content/uploads/20*-banner-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 481
+  },
+  {
+    "condition": {
+      "urlFilter": "||kjavis.dk/wp-content/uploads/20*/ann-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 482
+  },
+  {
+    "condition": {
+      "urlFilter": "||kjavis.dk/wp-content/uploads/20*/jme3.png^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 483
+  },
+  {
+    "condition": {
+      "urlFilter": "||kjavis.dk/wp-content/uploads/20*_300x250px_",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 484
+  },
+  {
+    "condition": {
+      "urlFilter": "||kjavis.dk/wp-content/uploads/20*/vaffelhuset-1.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 485
+  },
+  {
+    "condition": {
+      "urlFilter": "||kjavis.dk/wp-content/uploads/20*/ryobi-slag-jpeg.",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 486
+  },
+  {
+    "condition": {
+      "urlFilter": "||kjavis.dk/wp-content/uploads/20*_ann_",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 487
+  },
+  {
+    "condition": {
+      "urlFilter": "||kjavis.dk/wp-content/uploads/20*/annonce-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 488
+  },
+  {
+    "condition": {
+      "urlFilter": "||kjavis.dk/wp-content/uploads/20*/marslev-cykler-1.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 489
+  },
+  {
+    "condition": {
+      "urlFilter": "||kjavis.dk/wp-content/uploads/20*/kirkeladen.png^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 490
+  },
+  {
+    "condition": {
+      "urlFilter": "||kjavis.dk/wp-content/uploads/20*/aeldresagen-1-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 491
+  },
+  {
+    "condition": {
+      "urlFilter": "||kjavis.dk/wp-content/uploads/20*/cykelgaarden-1.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 492
+  },
+  {
+    "condition": {
+      "urlFilter": "||kjavis.dk/wp-content/uploads/20*/930x120_",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 493
+  },
+  {
+    "condition": {
+      "urlFilter": "||kjavis.dk/wp-content/uploads/20*/930x180_",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 494
+  },
+  {
+    "condition": {
+      "urlFilter": "||kjavis.dk/wp-content/uploads/20*/20-3.jpg|",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 495
+  },
+  {
+    "condition": {
+      "urlFilter": "||kjavis.dk/wp-content/uploads/20*/topann-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 496
+  },
+  {
+    "condition": {
+      "urlFilter": "||kjavis.dk/wp-content/uploads/20*/ellinge4.png|",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 497
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.hvidovreavis.dk/media/*/hvidover-*-1080x1080.",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 498
+  },
+  {
+    "condition": {
+      "urlFilter": "||nummeruke.no/*-banner.",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 499
+  },
+  {
+    "condition": {
+      "urlFilter": "||handkastid.net/wp-content/uploads/*310*400",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 500
+  },
+  {
+    "condition": {
+      "urlFilter": "||handkastid.net/wp-content/uploads/*830*135",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 501
+  },
+  {
+    "condition": {
+      "urlFilter": "||vf.is/media/*310x400-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 502
+  },
+  {
+    "condition": {
+      "urlFilter": "||vf.is/media/*1300x360-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 503
+  },
+  {
+    "condition": {
+      "urlFilter": "||vf.is/media/*1170x360",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 504
+  },
+  {
+    "condition": {
+      "urlFilter": "||pixel.tv/wp-content/uploads/202*-300x300-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 505
+  },
+  {
+    "condition": {
+      "urlFilter": "/lykill_banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 506
+  },
+  {
+    "condition": {
+      "urlFilter": "||images.sprinklecontent.com/*.amazonaws.com%2fimages%",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 507
+  },
+  {
+    "condition": {
+      "urlFilter": ".no/api/unit-image?config=",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 508
+  },
+  {
+    "condition": {
+      "urlFilter": "||eu/annonse/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 509
+  },
+  {
+    "condition": {
+      "urlFilter": "/wp-content/uploads/i123_ads^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 510
+  },
+  {
+    "condition": {
+      "urlFilter": ".dk/media/*-topbanner-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 511
+  },
+  {
+    "condition": {
+      "urlFilter": "/banners/casinotop",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 512
+  },
+  {
+    "condition": {
+      "urlFilter": "*galleri.dk/content/images/fixed^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 513
+  },
+  {
+    "condition": {
+      "urlFilter": "||fo/css/img/banner2x1.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 514
+  },
+  {
+    "condition": {
+      "urlFilter": "||images.media.xxlsports.com/images/h90/h9d/9339713159198/bg.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 515
+  },
+  {
+    "condition": {
+      "urlFilter": "||platekompaniet.no/assets/img/background.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 516
+  },
+  {
+    "condition": {
+      "urlFilter": "||pepcall.no/wp-content/uploads/2015/04/bakgrunn-forside.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 517
+  },
+  {
+    "condition": {
+      "urlFilter": "||tv2.no/s/lab/2.5/p/img/tv2-background.svg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 518
+  },
+  {
+    "condition": {
+      "urlFilter": "||dagligvarehandelen.no/sites/all/themes/custom/ledelseas/gfx/veil.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 519
+  },
+  {
+    "condition": {
+      "urlFilter": "||vg.no/vgc/pool/tipster.png^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 520
+  },
+  {
+    "condition": {
+      "urlFilter": "/pustehullet/betting-header.png^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 521
+  },
+  {
+    "condition": {
+      "urlFilter": "||akamai.vgc.no/drfront3^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 522
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "85.17.76.181",
+        "boligkanalen-maestro-new.azurewebsites.net",
+        "ndstage.wpengine.com",
+        "print2web.sn.dk"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 523
+  },
+  {
+    "condition": {
+      "urlFilter": "||no/vendor/apx^",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 524
+  },
+  {
+    "condition": {
+      "urlFilter": "-bazaar-",
+      "initiatorDomains": [
+        "nettavisen.no",
+        "www-nettavisen-no.translate.goog"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 525
+  },
+  {
+    "condition": {
+      "urlFilter": "/bazaar/",
+      "initiatorDomains": [
+        "nettavisen.no",
+        "www-nettavisen-no.translate.goog"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 526
+  },
+  {
+    "condition": {
+      "urlFilter": "||aa-cdn.mytaste.org/js/ad.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 527
+  },
+  {
+    "condition": {
+      "urlFilter": "||aftenposten.no/seksjon/dist/ads-",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 528
+  },
+  {
+    "condition": {
+      "urlFilter": "||viasport-assets.mtg-api.com/*/prod/comscore-*.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 529
+  },
+  {
+    "condition": {
+      "urlFilter": ":not(:empty/adc-ads-lib|",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 530
+  },
+  {
+    "condition": {
+      "urlFilter": "/backend_loader",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 531
+  },
+  {
+    "condition": {
+      "urlFilter": "/get/*?zoneid=",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 532
+  },
+  {
+    "condition": {
+      "urlFilter": "/lv/esnk/",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 533
+  },
+  {
+    "condition": {
+      "urlFilter": "/teo4.",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 534
+  },
+  {
+    "condition": {
+      "urlFilter": "||api.frende.no/webshop/log",
+      "initiatorDomains": [
+        "www.frende.no"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 535
+  },
+  {
+    "condition": {
+      "urlFilter": "contentmarketing",
+      "initiatorDomains": [
+        "sol-no.translate.goog",
+        "sol.no"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 536
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "no"
+      ],
+      "regexFilter": "^.*:\\/\\/w{3}\\.(tu|d\\ig\\i)\\.n\\o\\/(\\d|[a-zA-Z_-]){130,}$",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 537
+  },
+  {
+    "condition": {
+      "urlFilter": "://aj2*.online^",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 538
+  },
+  {
+    "condition": {
+      "urlFilter": "://aj2*.bid^",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 539
+  },
+  {
+    "condition": {
+      "urlFilter": "||piano.io/xbuilder/experience/execute^",
+      "initiatorDomains": [
+        "www.digi.no",
+        "www.tu.no"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 540
+  },
+  {
+    "condition": {
+      "urlFilter": "||auglysingar.*.is^",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 541
+  },
+  {
+    "condition": {
+      "urlFilter": "||s3.eu-west-1.amazonaws.com/ads.",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 542
+  },
+  {
+    "condition": {
+      "urlFilter": "||730.no/banner/*/sonymusic/",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 543
+  },
+  {
+    "condition": {
+      "urlFilter": "||banner.landbrugsavisen.dk/reklame.aspx",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 544
+  },
+  {
+    "condition": {
+      "urlFilter": "||finn.no^",
+      "initiatorDomains": [
+        "bt.no"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 545
+  },
+  {
+    "condition": {
+      "urlFilter": "||forum.flyprat.no/images/r/header^",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 546
+  },
+  {
+    "condition": {
+      "urlFilter": "||mmm.dk/safeframe^",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 547
+  },
+  {
+    "condition": {
+      "urlFilter": "||nordlysid.fo/lysing^",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 548
+  },
+  {
+    "condition": {
+      "urlFilter": "||thaiguiden.no/tg-980.html",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 549
+  },
+  {
+    "condition": {
+      "urlFilter": "||youtube.com/embed/*&origin=https%3a%2f%2fwww.feltet.dk&widgetid=1",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 550
+  },
+  {
+    "condition": {
+      "urlFilter": "||ukenr.no/bobs/iframe.php^",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 551
+  },
+  {
+    "condition": {
+      "urlFilter": "||ugenr.dk/bobs/iframe.php^",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 552
+  },
+  {
+    "condition": {
+      "urlFilter": "||artodata.net/site/ads/",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 553
+  },
+  {
+    "condition": {
+      "urlFilter": "||innlogging.nrk.no^",
+      "initiatorDomains": [
+        "www-nrk-no.translate.goog"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 554
+  },
+  {
+    "condition": {
+      "urlFilter": "||widget.tippebannere.no^",
+      "excludedInitiatorDomains": [
+        "tipster.no"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 555
+  },
+  {
+    "condition": {
+      "urlFilter": "||tipster.no/embed",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 556
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "import.roninmedia.io",
+        "isweb.no"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 557
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "akamaihd.net",
+        "dnitv.com"
+      ],
+      "initiatorDomains": [
+        "discoveryplus.com"
+      ],
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 558
+  },
+  {
+    "condition": {
+      "urlFilter": "||minklarna.",
+      "excludedInitiatorDomains": [
+        "dk",
+        "no",
+        "se"
+      ],
+      "resourceTypes": [
+        "main_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 562
+  },
+  {
+    "condition": {
+      "urlFilter": "/finn.no/finno.htm",
+      "excludedInitiatorDomains": [
+        "facebook.com"
+      ],
+      "resourceTypes": [
+        "main_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 573
+  },
+  {
+    "condition": {
+      "urlFilter": "/sikkerskatt/refusjon/",
+      "excludedInitiatorDomains": [
+        "no"
+      ],
+      "resourceTypes": [
+        "main_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 640
+  },
+  {
+    "condition": {
+      "urlFilter": "_1170x400.",
+      "initiatorDomains": [
+        "eyjafrettir.is"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 649
+  },
+  {
+    "condition": {
+      "urlFilter": "/1170x400_",
+      "initiatorDomains": [
+        "eyjafrettir.is"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 650
+  },
+  {
+    "condition": {
+      "urlFilter": "||vg.no/cnp-assets/src/sites/vg/components/adblockmodal",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 651
+  },
+  {
+    "condition": {
+      "urlFilter": ".no/api/unit-image?",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 652
+  },
+  {
+    "condition": {
+      "urlFilter": "||no/app/aas^",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "ping",
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 653
+  },
+  {
+    "condition": {
+      "urlFilter": "://aas.*.no/a/|",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "ping",
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 654
+  },
+  {
+    "condition": {
+      "urlFilter": "||vefbordar.*.is^",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 655
+  },
+  {
+    "condition": {
+      "urlFilter": "||vevlysingar.*.com^",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 656
+  },
+  {
+    "condition": {
+      "urlFilter": "||s3-bm-adtech.",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 657
+  },
+  {
+    "condition": {
+      "regexFilter": "^.*:\\/\\/f\\.nordiskemedier\\.dk\\/2[a-z0-9]{12,}\\.(jpe?g|png)((\\?|&).*)?$",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 658
+  },
+  {
+    "condition": {
+      "urlFilter": "||content.livesportmedia.eu/api/v*/banners^",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 659
+  },
+  {
+    "condition": {
+      "urlFilter": "||services.api.no/api/bazaar^",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 660
+  },
+  {
+    "condition": {
+      "urlFilter": "||ni.dk/ni-news/*feed/*-bottom.html^",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 661
+  },
+  {
+    "condition": {
+      "urlFilter": "||norsktippingpartner.no^",
+      "excludedInitiatorDomains": [
+        "norsktipping.no",
+        "tipster.no"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 662
+  },
+  {
+    "condition": {
+      "urlFilter": "||travian.dk/?uc=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 663
+  },
+  {
+    "condition": {
+      "urlFilter": "/a/na/js/",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 664
+  },
+  {
+    "condition": {
+      "urlFilter": "/api/model/feed?siteid=",
+      "excludedResourceTypes": [
+        "main_frame",
+        "xmlhttprequest"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 665
+  },
+  {
+    "condition": {
+      "urlFilter": "/cuid/?f=https%",
+      "excludedResourceTypes": [
+        "main_frame",
+        "xmlhttprequest"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 666
+  },
+  {
+    "condition": {
+      "urlFilter": "/gb/zone?zid=",
+      "excludedResourceTypes": [
+        "main_frame",
+        "xmlhttprequest"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 667
+  },
+  {
+    "condition": {
+      "urlFilter": "/lhzbsrfkjf/js/",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 668
+  },
+  {
+    "condition": {
+      "urlFilter": "/utx?tid=",
+      "excludedResourceTypes": [
+        "main_frame",
+        "xmlhttprequest"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 669
+  },
+  {
+    "condition": {
+      "urlFilter": "/vast/?zid=",
+      "excludedResourceTypes": [
+        "main_frame",
+        "xmlhttprequest"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 670
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "admob.dk",
+        "admob.no",
+        "adnordics.com",
+        "adpepper.dk",
+        "adserver.xh.no",
+        "adservice.com",
+        "adservicemedia.dk",
+        "banner10.zetasystem.dk",
+        "be.contimo.app",
+        "betterbanners.org",
+        "bytelab.dk",
+        "cluster.chart.dk",
+        "cncpt.dk",
+        "collector.schibsted.io",
+        "delivered-by-madington.com",
+        "easy-ad.no",
+        "easy-ads.dk",
+        "gcp.passendo.com",
+        "heartbeat.airserve.net",
+        "images.passendo.com",
+        "kunde.apt.no",
+        "kynning.olis.is",
+        "nichehuset.dk",
+        "openad.visir.is",
+        "plausible.webfokus.no",
+        "pliing.com",
+        "psscdn.com",
+        "samfilm.codelab.is",
+        "sannsyn.com",
+        "spania.no",
+        "static.airserve.net",
+        "step.dk",
+        "tankeogteknikk.no",
+        "vefbordi.is",
+        "videotool.fbg.dk",
+        "widget.tippebannere.no",
+        "xss.my.id"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 671
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "matriell.dm-storage.no",
+        "tracking-genesisaffiliates.com"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 672
+  },
+  {
+    "condition": {
+      "urlFilter": "||service.tekhus.dk/*.jpg^",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 673
+  },
+  {
+    "condition": {
+      "urlFilter": "||skisverige.dk/*banner_*.gif^",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 674
+  },
+  {
+    "condition": {
+      "urlFilter": "||finn.no/distribution-carousel?",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "object"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 675
+  },
+  {
+    "condition": {
+      "urlFilter": "/1clkn/",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 676
+  },
+  {
+    "condition": {
+      "urlFilter": "/jsrepo?rnd=",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 677
+  },
+  {
+    "condition": {
+      "urlFilter": "/wcm/?sh=",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 678
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "app.pulsmedia.is",
+        "tize.no",
+        "vevlysingar.fo"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 679
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.rikstoto.no/expert/gameshop^",
+      "excludedInitiatorDomains": [
+        "tipster.no"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 680
+  },
+  {
+    "condition": {
+      "urlFilter": "||deals.innocode.no/api^",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 681
+  },
+  {
+    "condition": {
+      "urlFilter": "||media.sonymusic.no/marketing/*.html",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 682
+  },
+  {
+    "condition": {
+      "urlFilter": "||finn.no/distribution-front/external/carousel^",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 683
+  },
+  {
+    "condition": {
+      "urlFilter": ".cloudfront.net/oddsen^",
+      "excludedInitiatorDomains": [
+        "norsk-tipping.no",
+        "tipster.no"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 684
+  },
+  {
+    "condition": {
+      "urlFilter": "/in/p/?spot_id=",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 685
+  },
+  {
+    "condition": {
+      "urlFilter": "/watchnew?shu=",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 686
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdnboligkanalen.azureedge.net/*width=2000^"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 687
+  },
+  {
+    "condition": {
+      "urlFilter": "||musikknyheter.no/banners/skribent"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 688
+  },
+  {
+    "condition": {
+      "urlFilter": "||n247.no/salg/an_%7b40"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 689
+  },
+  {
+    "condition": {
+      "urlFilter": "||n247.no/salg/an_%7b6c"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 690
+  },
+  {
+    "condition": {
+      "urlFilter": "||n247.no/salg/karusell_17"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 691
+  },
+  {
+    "condition": {
+      "urlFilter": "||radiohallingdal.no/abanners/img/facebook."
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 692
+  },
+  {
+    "condition": {
+      "urlFilter": "||schibsted.com/autotracker",
+      "initiatorDomains": [
+        "vg.no"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 693
+  },
+  {
+    "condition": {
+      "urlFilter": "||medlemskap.*.no^"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 694
+  },
+  {
+    "condition": {
+      "urlFilter": "/pm-blikunde/1x1.png^",
+      "initiatorDomains": [
+        "sparebank1.no"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 695
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "realityportalen.dk"
+      ],
+      "urlFilter": "/images/*youtube.jpg"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 696
+  },
+  {
+    "condition": {
+      "urlFilter": "||api.instagram.com^",
+      "initiatorDomains": [
+        "samiteahter.org"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 697
+  },
+  {
+    "condition": {
+      "urlFilter": "||cookieinformation.com^",
+      "initiatorDomains": [
+        "altibox.no",
+        "degulesider.dk",
+        "gulesider.no",
+        "krak.dk"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 698
+  },
+  {
+    "condition": {
+      "urlFilter": "/newsletter/newsletter_popup.gif^",
+      "initiatorDomains": [
+        "lampegiganten.dk",
+        "lampegiganten.no"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 699
+  },
+  {
+    "condition": {
+      "urlFilter": "://billink*.blob.core.windows.net/*/annonser^"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 700
+  },
+  {
+    "condition": {
+      "urlFilter": "||bluesnews.no/files/images/annonser^"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 701
+  },
+  {
+    "condition": {
+      "urlFilter": "||lnk.no/wp-content/uploads/*/ads"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 702
+  },
+  {
+    "condition": {
+      "urlFilter": "||marketingfabrikken.dk/page-data/google-ads/page-data.json^"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 703
+  },
+  {
+    "condition": {
+      "urlFilter": "_980x100.",
+      "initiatorDomains": [
+        "ruijan-kaiku.no"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 704
+  },
+  {
+    "condition": {
+      "urlFilter": "://imasdk.googleapis.com/js/sdkloader/ima3.js^",
+      "initiatorDomains": [
+        "tv2.dk"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 705
+  },
+  {
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/core/bridge^",
+      "initiatorDomains": [
+        "ekstrabladet.dk"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 706
+  },
+  {
+    "condition": {
+      "urlFilter": "||fe.adstate.net/assets/common/img/web_ad^",
+      "initiatorDomains": [
+        "aasavis.no",
+        "amta.no",
+        "an.no",
+        "ao.no",
+        "auraavis.no",
+        "austagderblad.no",
+        "avisenagder.no",
+        "ba.no",
+        "bygdebladet.no",
+        "bygdeposten.no",
+        "dalane-tidende.no",
+        "dt.no",
+        "eikerbladet.no",
+        "enebakkavis.no",
+        "f-b.no",
+        "finnmarkdagblad.no",
+        "finnmarken.no",
+        "firda.no",
+        "firdaposten.no",
+        "fremover.no",
+        "gbnett.no",
+        "gjengangeren.no",
+        "glomdalen.no",
+        "h-avis.no",
+        "ha-halden.no",
+        "hadeland.no",
+        "hardanger-folkeblad.no",
+        "helg.no",
+        "iharstad.no",
+        "indre.no",
+        "jarlsbergavis.no",
+        "jbl.no",
+        "kv.no",
+        "kvinnheringen.no",
+        "laagendalsposten.no",
+        "lierposten.no",
+        "lofotposten.no",
+        "lyngdalsavis.no",
+        "moss-avis.no",
+        "nidaros.no",
+        "noblad.no",
+        "nordhordland.no",
+        "nordlys.no",
+        "oa.no",
+        "oblad.no",
+        "op.no",
+        "ostlendingen.no",
+        "oyene.no",
+        "r-a.no",
+        "rablad.no",
+        "ranablad.no",
+        "rb.no",
+        "retten.no",
+        "rha.no",
+        "ringblad.no",
+        "ringsaker-blad.no",
+        "sa.no",
+        "sandeavis.no",
+        "sandnesposten.no",
+        "sb.no",
+        "smaalenene.no",
+        "sognavis.no",
+        "solabladet.no",
+        "solungavisa.no",
+        "strandbuen.no",
+        "svelviksposten.no",
+        "ta.no",
+        "tb.no",
+        "telen.no",
+        "tk.no",
+        "tvedestrandsposten.no",
+        "varingen.no",
+        "vestbyavis.no"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 707
+  },
+  {
+    "condition": {
+      "urlFilter": "||fe.adstate.net/stream_file.php?type=ad_preview_image",
+      "initiatorDomains": [
+        "aasavis.no",
+        "amta.no",
+        "an.no",
+        "ao.no",
+        "auraavis.no",
+        "austagderblad.no",
+        "avisenagder.no",
+        "ba.no",
+        "bygdebladet.no",
+        "bygdeposten.no",
+        "dalane-tidende.no",
+        "dt.no",
+        "eikerbladet.no",
+        "enebakkavis.no",
+        "f-b.no",
+        "finnmarkdagblad.no",
+        "finnmarken.no",
+        "firda.no",
+        "firdaposten.no",
+        "fremover.no",
+        "gbnett.no",
+        "gjengangeren.no",
+        "glomdalen.no",
+        "h-avis.no",
+        "ha-halden.no",
+        "hadeland.no",
+        "hardanger-folkeblad.no",
+        "helg.no",
+        "iharstad.no",
+        "indre.no",
+        "jarlsbergavis.no",
+        "jbl.no",
+        "kv.no",
+        "kvinnheringen.no",
+        "laagendalsposten.no",
+        "lierposten.no",
+        "lofotposten.no",
+        "lyngdalsavis.no",
+        "moss-avis.no",
+        "nidaros.no",
+        "noblad.no",
+        "nordhordland.no",
+        "nordlys.no",
+        "oa.no",
+        "oblad.no",
+        "op.no",
+        "ostlendingen.no",
+        "oyene.no",
+        "r-a.no",
+        "rablad.no",
+        "ranablad.no",
+        "rb.no",
+        "retten.no",
+        "rha.no",
+        "ringblad.no",
+        "ringsaker-blad.no",
+        "sa.no",
+        "sandeavis.no",
+        "sandnesposten.no",
+        "sb.no",
+        "smaalenene.no",
+        "sognavis.no",
+        "solabladet.no",
+        "solungavisa.no",
+        "strandbuen.no",
+        "svelviksposten.no",
+        "ta.no",
+        "tb.no",
+        "telen.no",
+        "tk.no",
+        "tvedestrandsposten.no",
+        "varingen.no",
+        "vestbyavis.no"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 708
+  },
+  {
+    "condition": {
+      "urlFilter": "||ad.amediakreativ.no/widgets/stillingskarusell^"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 709
+  },
+  {
+    "condition": {
+      "urlFilter": "||glassoginterior.no/css/modules/consent.css^"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 710
+  },
+  {
+    "condition": {
+      "urlFilter": "||cl.k5a.io^",
+      "initiatorDomains": [
+        "abcnyheter.no"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 711
+  },
+  {
+    "condition": {
+      "urlFilter": "||politainment.no^*/cookieconsent.min.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 712
+  },
+  {
+    "condition": {
+      "urlFilter": "||fwmrm.net/crossdomain.xml",
+      "initiatorDomains": [
+        "embed.viaplay.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 713
+  },
+  {
+    "condition": {
+      "urlFilter": "||sumo.cdn.tv2.no/ads^"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 714
+  },
+  {
+    "condition": {
+      "urlFilter": ".v.fwmrm.net/ad/g^*:mtg_play_"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 715
+  },
+  {
+    "condition": {
+      "urlFilter": "/vendor/_a/gpt.js?"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 716
+  },
+  {
+    "condition": {
+      "urlFilter": "/ad-banner-sponsor-advertisement/"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 717
+  },
+  {
+    "condition": {
+      "urlFilter": "||borsen.dk/themes/borsen.dk/js/dfp.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 718
+  },
+  {
+    "condition": {
+      "urlFilter": "||bt.dk/build/prebid-ads-advertisement_adbanner.*.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 719
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.maskinbladet.dk/*assets/templates/*/img/adblocker/ads.png"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 720
+  },
+  {
+    "condition": {
+      "urlFilter": "||googletagservices.com/tag/js/gpt.js",
+      "initiatorDomains": [
+        "vegetarbloggen.no"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 721
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "vegetarbloggen.no"
+      ],
+      "urlFilter": "||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 722
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "finn.no"
+      ],
+      "urlFilter": "||static.finncdn.no/*/travel/*/_next/static/chunks/pages/ad.html-*.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 723
+  },
+  {
+    "condition": {
+      "urlFilter": "||v.fwmrm.net/ad/g/1",
+      "initiatorDomains": [
+        "bold.dk"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 724
+  },
+  {
+    "condition": {
+      "urlFilter": "||v.fwmrm.net/ad/l/1",
+      "initiatorDomains": [
+        "bold.dk"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 725
+  },
+  {
+    "condition": {
+      "urlFilter": "||v.fwmrm.net/crossdomain.xml",
+      "initiatorDomains": [
+        "bold.dk"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 726
+  },
+  {
+    "condition": {
+      "urlFilter": "||oddstips.norsktippingpartner.no^"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 727
+  },
+  {
+    "condition": {
+      "urlFilter": "||siglo.is/static/strevda/*upphafssida",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 728
+  },
+  {
+    "condition": {
+      "urlFilter": "||easy-ads.com/subscriber^",
+      "initiatorDomains": [
+        "aasavis.no",
+        "amta.no",
+        "an.no",
+        "ao.no",
+        "auraavis.no",
+        "austagderblad.no",
+        "avisenagder.no",
+        "ba.no",
+        "bygdebladet.no",
+        "bygdeposten.no",
+        "dalane-tidende.no",
+        "dt.no",
+        "eikerbladet.no",
+        "enebakkavis.no",
+        "f-b.no",
+        "finnmarkdagblad.no",
+        "finnmarken.no",
+        "firda.no",
+        "firdaposten.no",
+        "fremover.no",
+        "gbnett.no",
+        "gjengangeren.no",
+        "glomdalen.no",
+        "h-avis.no",
+        "ha-halden.no",
+        "hadeland.no",
+        "hardanger-folkeblad.no",
+        "helg.no",
+        "iharstad.no",
+        "indre.no",
+        "jarlsbergavis.no",
+        "jbl.no",
+        "kv.no",
+        "kvinnheringen.no",
+        "laagendalsposten.no",
+        "lierposten.no",
+        "lofotposten.no",
+        "lyngdalsavis.no",
+        "moss-avis.no",
+        "nidaros.no",
+        "noblad.no",
+        "nordhordland.no",
+        "nordlys.no",
+        "oa.no",
+        "oblad.no",
+        "op.no",
+        "ostlendingen.no",
+        "oyene.no",
+        "r-a.no",
+        "rablad.no",
+        "ranablad.no",
+        "rb.no",
+        "retten.no",
+        "rha.no",
+        "ringblad.no",
+        "ringsaker-blad.no",
+        "sa.no",
+        "sandeavis.no",
+        "sandnesposten.no",
+        "sb.no",
+        "smaalenene.no",
+        "sognavis.no",
+        "solabladet.no",
+        "solungavisa.no",
+        "strandbuen.no",
+        "svelviksposten.no",
+        "ta.no",
+        "tb.no",
+        "telen.no",
+        "tk.no",
+        "tvedestrandsposten.no",
+        "varingen.no",
+        "vestbyavis.no"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 729
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "agrar-plus.dk",
+        "dagensbyggeri.dk",
+        "fritidsmarkedet.dk",
+        "gronteknik.dk",
+        "maskinbladet.dk",
+        "maskinteknik.dk"
+      ],
+      "urlFilter": ".dk/assets/templates/*/ads.png^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 730
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "billetlugen.dk",
+        "eventim.no"
+      ],
+      "regexFilter": "obj\\/global\\/feature\\/tagCommander",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 731
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.easy-ads.com/js/swipemod.js^",
+      "initiatorDomains": [
+        "aasavis.no",
+        "amta.no",
+        "an.no",
+        "ao.no",
+        "auraavis.no",
+        "austagderblad.no",
+        "avisenagder.no",
+        "ba.no",
+        "bygdebladet.no",
+        "bygdeposten.no",
+        "dalane-tidende.no",
+        "dt.no",
+        "eikerbladet.no",
+        "enebakkavis.no",
+        "f-b.no",
+        "finnmarkdagblad.no",
+        "finnmarken.no",
+        "firda.no",
+        "firdaposten.no",
+        "fremover.no",
+        "gbnett.no",
+        "gjengangeren.no",
+        "glomdalen.no",
+        "h-avis.no",
+        "ha-halden.no",
+        "hadeland.no",
+        "hardanger-folkeblad.no",
+        "helg.no",
+        "iharstad.no",
+        "indre.no",
+        "jarlsbergavis.no",
+        "jbl.no",
+        "kv.no",
+        "kvinnheringen.no",
+        "laagendalsposten.no",
+        "lierposten.no",
+        "lofotposten.no",
+        "lyngdalsavis.no",
+        "moss-avis.no",
+        "nidaros.no",
+        "noblad.no",
+        "nordhordland.no",
+        "nordlys.no",
+        "oa.no",
+        "oblad.no",
+        "op.no",
+        "ostlendingen.no",
+        "oyene.no",
+        "r-a.no",
+        "rablad.no",
+        "ranablad.no",
+        "rb.no",
+        "retten.no",
+        "rha.no",
+        "ringblad.no",
+        "ringsaker-blad.no",
+        "sa.no",
+        "sandeavis.no",
+        "sandnesposten.no",
+        "sb.no",
+        "smaalenene.no",
+        "sognavis.no",
+        "solabladet.no",
+        "solungavisa.no",
+        "strandbuen.no",
+        "svelviksposten.no",
+        "ta.no",
+        "tb.no",
+        "telen.no",
+        "tk.no",
+        "tvedestrandsposten.no",
+        "varingen.no",
+        "vestbyavis.no"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 732
+  },
+  {
+    "condition": {
+      "urlFilter": "||dialogue.sp-prod.net/messagingwithoutdetection.js",
+      "initiatorDomains": [
+        "ekstrabladet.dk"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 733
+  },
+  {
+    "condition": {
+      "urlFilter": "://consent.cookiebot.com^",
+      "initiatorDomains": [
+        "politiken.dk"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 734
+  },
+  {
+    "condition": {
+      "urlFilter": "||tv2.no/*/snowplow/",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 735
+  },
+  {
+    "condition": {
+      "urlFilter": ".no/api/tekjobb|",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 736
+  },
+  {
+    "condition": {
+      "urlFilter": "||notice.sp-prod.net^",
+      "initiatorDomains": [
+        "ekstrabladet.dk"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 737
+  },
+  {
+    "condition": {
+      "urlFilter": ".isdownorblocked.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 739
+  },
+  {
+    "condition": {
+      "domainType": "firstParty",
+      "urlFilter": "||bestill.help.no^"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 740
+  },
+  {
+    "condition": {
+      "urlFilter": "||ask.antalis.",
+      "domainType": "firstParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 741
+  },
+  {
+    "condition": {
+      "urlFilter": "||app.*kino.no^",
+      "domainType": "firstParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 742
+  },
+  {
+    "condition": {
+      "urlFilter": "||images.medlem.",
+      "domainType": "firstParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 743
+  },
+  {
+    "condition": {
+      "urlFilter": "://chart.dk^",
+      "domainType": "firstParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 744
+  },
+  {
+    "condition": {
+      "urlFilter": "://vinkelvej12.dk^",
+      "domainType": "firstParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 745
+  },
+  {
+    "condition": {
+      "urlFilter": "://haslundalsted.dk^",
+      "domainType": "firstParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 746
+  },
+  {
+    "condition": {
+      "urlFilter": "://mettelindberg.dk^",
+      "domainType": "firstParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 747
+  },
+  {
+    "condition": {
+      "urlFilter": "://nhn.dk^",
+      "domainType": "firstParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 748
+  },
+  {
+    "condition": {
+      "urlFilter": "/js/ads.js",
+      "initiatorDomains": [
+        "tvkampen.com",
+        "tvsporten.dk"
+      ],
+      "domainType": "firstParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 749
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.tv2.no/s/js/ads.js",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 750
+  },
+  {
+    "condition": {
+      "urlFilter": "||glow.posten.no/api/tracking/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 751
+  },
+  {
+    "condition": {
+      "urlFilter": "||tv2.no/*/config/analytics.json",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 752
+  },
+  {
+    "condition": {
+      "urlFilter": "||cmp.ekstrabladet.dk/get_site_data",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 753
+  },
+  {
+    "condition": {
+      "urlFilter": "||sixscissors.com^",
+      "initiatorDomains": [
+        "itavisen.no"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 754
+  },
+  {
+    "condition": {
+      "urlFilter": "||v.fwmrm.net/ad/g/",
+      "initiatorDomains": [
+        "ekstrabladet.dk"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 755
+  },
+  {
+    "condition": {
+      "urlFilter": "||xn--bredbnd-ixa.dk/wp-content/*/velkommen_banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 756
+  },
+  {
+    "condition": {
+      "urlFilter": "||acdn.adnxs.com/ast/ast.js",
+      "initiatorDomains": [
+        "vg.no"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 757
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "vg.no"
+      ],
+      "urlFilter": "||ssl.p.jwpcdn.com^*/jwpsrv.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "_warning": [
+      "Salvaged rule by ignoring 2 unsupported domain= option: eurosport.*|gamereactor.*|vg.no"
+    ],
+    "id": 758
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "vg.no"
+      ],
+      "urlFilter": "||ssl.p.jwpcdn.com^*/vast.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "_warning": [
+      "Salvaged rule by ignoring 2 unsupported domain= option: eurosport.*|gamereactor.*|vg.no"
+    ],
+    "id": 759
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopjs",
+    "condition": {
+      "urlFilter": "||acdn.adnxs.com/ast/ast.js",
+      "initiatorDomains": [
+        "vgtv.no"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.js"
+      }
+    },
+    "priority": 41,
+    "id": 760
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopjs",
+    "condition": {
+      "urlFilter": "||damoh.vgtv.no/hic_qos",
+      "initiatorDomains": [
+        "vg.no"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.js"
+      }
+    },
+    "priority": 11,
+    "id": 761
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "googletagservices-gpt",
+    "condition": {
+      "urlFilter": "||googletagservices.com/tag/js/gpt.js",
+      "initiatorDomains": [
+        "vegetarbloggen.no"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/googletagservices_gpt.js"
+      }
+    },
+    "priority": 41,
+    "id": 762
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "google-ima3",
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "initiatorDomains": [
+        "berlingske.dk",
+        "bt.dk",
+        "feltet.dk"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/google-ima.js"
+      }
+    },
+    "priority": 11,
+    "id": 763
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopmp3-0.1s",
+    "condition": {
+      "urlFilter": "||freewheel-mtgx-tv.akamaized.net^",
+      "initiatorDomains": [
+        "embed.viaplay.com"
+      ],
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop-0.1s.mp3"
+      }
+    },
+    "priority": 11,
+    "id": 764
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopmp4-1s",
+    "condition": {
+      "initiatorDomains": [
+        "bold.dk"
+      ],
+      "urlFilter": "||freewheel-mtgx-tv.akamaized.net/*.mp4",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop-1s.mp4"
+      }
+    },
+    "priority": 11,
+    "id": 765
+  }
+]

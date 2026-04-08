@@ -1,0 +1,68 @@
+[
+  {
+    "condition": {
+      "urlFilter": "||bmw.si/sl/all-models/",
+      "initiatorDomains": [
+        "golfportal.si"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 66
+  },
+  {
+    "condition": {
+      "urlFilter": "||podocnjaki.si^",
+      "initiatorDomains": [
+        "studentarija.net"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 67
+  },
+  {
+    "condition": {
+      "urlFilter": "||s-graf.si^",
+      "initiatorDomains": [
+        "mojblink.si"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 68
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.posita.si^",
+      "initiatorDomains": [
+        "reporter.si"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 69
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "hit.gemius.pl",
+        "triglav.si",
+        "triglavtek.si"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 70
+  }
+]

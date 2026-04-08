@@ -1,0 +1,29 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "hqq.to",
+        "nh-technologies.ru.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 258
+  },
+  {
+    "condition": {
+      "urlFilter": "||cruncherpatiencestoreroom.com^",
+      "initiatorDomains": [
+        "cap3.lol",
+        "qmh.one"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 259
+  }
+]

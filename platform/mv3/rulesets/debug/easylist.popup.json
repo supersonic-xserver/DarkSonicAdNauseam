@@ -1,0 +1,6134 @@
+[
+  {
+    "condition": {
+      "urlFilter": "/a/display.php?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2351
+  },
+  {
+    "condition": {
+      "urlFilter": "/adserve/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2401
+  },
+  {
+    "condition": {
+      "urlFilter": "/aff_ad?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2425
+  },
+  {
+    "condition": {
+      "urlFilter": "://adn.*/zone/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2788
+  },
+  {
+    "condition": {
+      "urlFilter": "/earn.php?z="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2795
+  },
+  {
+    "condition": {
+      "urlFilter": "&adb=y&adb=y^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2830
+  },
+  {
+    "condition": {
+      "urlFilter": "&cbiframe="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2831
+  },
+  {
+    "condition": {
+      "urlFilter": "&popunder="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2832
+  },
+  {
+    "condition": {
+      "urlFilter": "&popundersperip="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2833
+  },
+  {
+    "condition": {
+      "urlFilter": "&zoneid=*&ad_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2834
+  },
+  {
+    "condition": {
+      "urlFilter": "&zoneid=*&direct="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2835
+  },
+  {
+    "condition": {
+      "urlFilter": ".co/ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2836
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/ads?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2837
+  },
+  {
+    "condition": {
+      "urlFilter": ".fuse-cloud.com/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2838
+  },
+  {
+    "condition": {
+      "urlFilter": ".net/adx.php?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2839
+  },
+  {
+    "condition": {
+      "urlFilter": ".prtrackings.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2840
+  },
+  {
+    "condition": {
+      "urlFilter": "/?placement=*&redirect"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2841
+  },
+  {
+    "condition": {
+      "urlFilter": "/?redirect&placement="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2842
+  },
+  {
+    "condition": {
+      "urlFilter": "/?zoneid=*&timeout="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2843
+  },
+  {
+    "condition": {
+      "urlFilter": "/_xa/ads?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2844
+  },
+  {
+    "condition": {
+      "urlFilter": "/ad.php?tag="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2845
+  },
+  {
+    "condition": {
+      "urlFilter": "/ad.php?zone"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2846
+  },
+  {
+    "condition": {
+      "urlFilter": "/ad/ad?p="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2847
+  },
+  {
+    "condition": {
+      "urlFilter": "/ad/display.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2848
+  },
+  {
+    "condition": {
+      "urlFilter": "/ad/window.php?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2849
+  },
+  {
+    "condition": {
+      "urlFilter": "/ad_pop.php?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2850
+  },
+  {
+    "condition": {
+      "urlFilter": "/adclick."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2851
+  },
+  {
+    "condition": {
+      "urlFilter": "/adclick/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2852
+  },
+  {
+    "condition": {
+      "urlFilter": "/adclick?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2853
+  },
+  {
+    "condition": {
+      "urlFilter": "/adhandler.aspx?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2854
+  },
+  {
+    "condition": {
+      "urlFilter": "/adpreview?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2855
+  },
+  {
+    "condition": {
+      "urlFilter": "/ads/click?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2856
+  },
+  {
+    "condition": {
+      "urlFilter": "/adserver."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2857
+  },
+  {
+    "condition": {
+      "urlFilter": "/adstream_sx.ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2858
+  },
+  {
+    "condition": {
+      "urlFilter": "/adx.php?source="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2859
+  },
+  {
+    "condition": {
+      "urlFilter": "/afu.php?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2860
+  },
+  {
+    "condition": {
+      "urlFilter": "/api/users?token="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2861
+  },
+  {
+    "condition": {
+      "urlFilter": "/fb_hilltopads.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2862
+  },
+  {
+    "condition": {
+      "urlFilter": "/gtm.js?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2863
+  },
+  {
+    "condition": {
+      "urlFilter": "/iprp.php?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2864
+  },
+  {
+    "condition": {
+      "urlFilter": "/jump/next.php?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2865
+  },
+  {
+    "condition": {
+      "urlFilter": "/links/popad"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2866
+  },
+  {
+    "condition": {
+      "urlFilter": "/out?zoneid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2867
+  },
+  {
+    "condition": {
+      "urlFilter": "/pop-imp/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2868
+  },
+  {
+    "condition": {
+      "urlFilter": "/pop.go?ctrlid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2869
+  },
+  {
+    "condition": {
+      "urlFilter": "/popunder."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2870
+  },
+  {
+    "condition": {
+      "urlFilter": "/popunder_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2871
+  },
+  {
+    "condition": {
+      "urlFilter": "/popupads."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2872
+  },
+  {
+    "condition": {
+      "urlFilter": "/prod/go.html?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2873
+  },
+  {
+    "condition": {
+      "urlFilter": "/prod/redirect.html?lu="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2874
+  },
+  {
+    "condition": {
+      "urlFilter": "/redirect/?spot_id="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2875
+  },
+  {
+    "condition": {
+      "urlFilter": "/redirect?tid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2876
+  },
+  {
+    "condition": {
+      "urlFilter": "/show?bver="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2877
+  },
+  {
+    "condition": {
+      "urlFilter": "/smartpop/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2878
+  },
+  {
+    "condition": {
+      "urlFilter": "/tr?id=*&tk="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2879
+  },
+  {
+    "condition": {
+      "urlFilter": "/zcredirect?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2880
+  },
+  {
+    "condition": {
+      "urlFilter": "/zcvisitor/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2881
+  },
+  {
+    "condition": {
+      "urlFilter": "/zp-redirect?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2882
+  },
+  {
+    "condition": {
+      "urlFilter": "://ads.",
+      "excludedInitiatorDomains": [
+        "ad.olx.pl",
+        "ads.mercadolibre.com.ar",
+        "ads.mercadolibre.com.cl",
+        "ads.mercadolibre.com.co",
+        "ads.mercadolibre.com.ec",
+        "ads.mercadolibre.com.mx",
+        "ads.mercadolibre.com.pe",
+        "ads.mercadolibre.com.ve",
+        "ads.mercadolivre.com.br",
+        "ads.umd.edu",
+        "axon.ai",
+        "kakaku.com",
+        "reddit.com",
+        "smartnews.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2883
+  },
+  {
+    "condition": {
+      "urlFilter": "://adv.",
+      "excludedInitiatorDomains": [
+        "adv.kompas.id",
+        "adv.lack-girl.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2884
+  },
+  {
+    "condition": {
+      "urlFilter": "|javascript:*settimeout"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2885
+  },
+  {
+    "condition": {
+      "urlFilter": "|javascript:*window.location"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2886
+  },
+  {
+    "condition": {
+      "urlFilter": "|data:text",
+      "excludedInitiatorDomains": [
+        "clker.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2887
+  },
+  {
+    "condition": {
+      "urlFilter": "|dddata:text"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2888
+  },
+  {
+    "condition": {
+      "urlFilter": "||betvictor.com*&utm_campaign="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2889
+  },
+  {
+    "condition": {
+      "urlFilter": "||cams.com/go/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2890
+  },
+  {
+    "condition": {
+      "urlFilter": "||chaturbate.com*popunder"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2891
+  },
+  {
+    "condition": {
+      "urlFilter": "||clickbank.net/*offer_id="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2892
+  },
+  {
+    "condition": {
+      "urlFilter": "||gamdom.com/?utm_source="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2893
+  },
+  {
+    "condition": {
+      "urlFilter": "||isohuntx.com/vpn/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2894
+  },
+  {
+    "condition": {
+      "urlFilter": "||net.geo.opera.com^*utm_source=oft"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2895
+  },
+  {
+    "condition": {
+      "urlFilter": "||nutaku.net/signup/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2896
+  },
+  {
+    "condition": {
+      "urlFilter": "||opera.com^*admaven"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2897
+  },
+  {
+    "condition": {
+      "urlFilter": "||opera.com^*pwngames"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2898
+  },
+  {
+    "condition": {
+      "urlFilter": "||shuffle.com/*&clickid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2899
+  },
+  {
+    "condition": {
+      "urlFilter": "||wizslots.com*&utm_campaign="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2900
+  },
+  {
+    "condition": {
+      "urlFilter": "||url.rw/*&a="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2901
+  },
+  {
+    "condition": {
+      "urlFilter": "||url.rw/*&mid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2902
+  },
+  {
+    "condition": {
+      "urlFilter": "||203.195.121."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2903
+  },
+  {
+    "condition": {
+      "urlFilter": "||216.21.13.",
+      "excludedInitiatorDomains": [
+        "in-addr.arpa"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2904
+  },
+  {
+    "condition": {
+      "urlFilter": "||23.109.248."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2905
+  },
+  {
+    "condition": {
+      "urlFilter": "||adobe.com/td_redirect.html"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2906
+  },
+  {
+    "condition": {
+      "urlFilter": "||avatrade.io/ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2907
+  },
+  {
+    "condition": {
+      "urlFilter": "||bet365.com^*affiliate="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2908
+  },
+  {
+    "condition": {
+      "urlFilter": "||bettingpremier.com/direct/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2909
+  },
+  {
+    "condition": {
+      "urlFilter": "||brazzers.com/click/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2910
+  },
+  {
+    "condition": {
+      "urlFilter": "||chinesean.com/affiliate/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2911
+  },
+  {
+    "condition": {
+      "urlFilter": "||downloadoperagx.com/ef/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2912
+  },
+  {
+    "condition": {
+      "urlFilter": "||eatcells.com/land/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2913
+  },
+  {
+    "condition": {
+      "urlFilter": "||fleshlight.com/?link="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2914
+  },
+  {
+    "condition": {
+      "urlFilter": "||flirt.com/aff.php?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2915
+  },
+  {
+    "condition": {
+      "urlFilter": "||goodoffer24.com/go/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2916
+  },
+  {
+    "condition": {
+      "urlFilter": "||google.com/favicon.ico"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2917
+  },
+  {
+    "condition": {
+      "urlFilter": "||iqbroker.com/land/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2918
+  },
+  {
+    "condition": {
+      "urlFilter": "||iqbroker.com/lp/*?aff="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2919
+  },
+  {
+    "condition": {
+      "urlFilter": "||iqoption.com/land/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2920
+  },
+  {
+    "condition": {
+      "urlFilter": "||lbank.com/partner_seo/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2921
+  },
+  {
+    "condition": {
+      "urlFilter": "||linkbux.com/track?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2922
+  },
+  {
+    "condition": {
+      "urlFilter": "||nutaku.net/images/lp/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2923
+  },
+  {
+    "condition": {
+      "urlFilter": "||offer.alibaba.com/cps/*rc="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2924
+  },
+  {
+    "condition": {
+      "urlFilter": "||s.click.aliexpress.com/e/*?dp="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2925
+  },
+  {
+    "condition": {
+      "urlFilter": "||stake.com/*&clickid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2926
+  },
+  {
+    "condition": {
+      "urlFilter": "||unibet.co.uk/*affiliate"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2927
+  },
+  {
+    "condition": {
+      "urlFilter": "||werbestandard.de/out2/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2928
+  },
+  {
+    "condition": {
+      "urlFilter": "||yield.app^*utm_source="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2929
+  },
+  {
+    "condition": {
+      "urlFilter": "||bongacams8.com/track?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2930
+  },
+  {
+    "condition": {
+      "urlFilter": "||cam4.com/?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2931
+  },
+  {
+    "condition": {
+      "urlFilter": "||cam4.com^*&utm_source="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2932
+  },
+  {
+    "condition": {
+      "urlFilter": "||fantasti.cc/ajax/gw.php?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2933
+  },
+  {
+    "condition": {
+      "urlFilter": "||flirthits.com/landing/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2934
+  },
+  {
+    "condition": {
+      "urlFilter": "||info-milfme.com/landing/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2935
+  },
+  {
+    "condition": {
+      "urlFilter": "||mrskin.com/?_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2936
+  },
+  {
+    "condition": {
+      "urlFilter": "||prelanding3.cuntempire.com/?utm_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2937
+  },
+  {
+    "condition": {
+      "urlFilter": "||zillastream.com/api/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2938
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "piracyproxy.app",
+        "piraproxy.info",
+        "unblocked.club",
+        "unblockedstreaming.net"
+      ],
+      "urlFilter": "/&"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2939
+  },
+  {
+    "condition": {
+      "urlFilter": "/?ref=",
+      "initiatorDomains": [
+        "hltv.org"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2940
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "piracyproxy.app",
+        "piraproxy.info",
+        "unblocked.club",
+        "unblockedstreaming.net"
+      ],
+      "urlFilter": "/hkz*"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2941
+  },
+  {
+    "condition": {
+      "urlFilter": "|blob:",
+      "initiatorDomains": [
+        "hqq.tv",
+        "waaw.to",
+        "watchadsontape.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2942
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "amazon-adsystem.com",
+        "flashtalking.com"
+      ],
+      "initiatorDomains": [
+        "twitch.tv"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2943
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "b.link",
+        "bitskins.com",
+        "csgfst.com",
+        "mercurybest.com",
+        "routeumber.com",
+        "t.co"
+      ],
+      "initiatorDomains": [
+        "hltv.org"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2944
+  },
+  {
+    "condition": {
+      "urlFilter": "||binance.com^",
+      "initiatorDomains": [
+        "usagoals.sx"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2945
+  },
+  {
+    "condition": {
+      "urlFilter": "||bit.ly^",
+      "initiatorDomains": [
+        "dexerto.com",
+        "eteknix.com",
+        "gdriveplayer.us",
+        "kitguru.com",
+        "ouo.io",
+        "ouo.press",
+        "sh.st"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2946
+  },
+  {
+    "condition": {
+      "urlFilter": "||casinobet.com*&click_id="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2947
+  },
+  {
+    "condition": {
+      "urlFilter": "||csgofastx.com/?clickid=",
+      "initiatorDomains": [
+        "hltv.org"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2948
+  },
+  {
+    "condition": {
+      "urlFilter": "||facebook.com/ads/ig_redirect/",
+      "initiatorDomains": [
+        "instagram.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2949
+  },
+  {
+    "condition": {
+      "urlFilter": "||flaticon.com/edge/banner/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2950
+  },
+  {
+    "condition": {
+      "urlFilter": "||gg.bet^",
+      "initiatorDomains": [
+        "cq-esports.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2951
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "hltv.org"
+      ],
+      "urlFilter": "||hltv.org^*=|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2952
+  },
+  {
+    "condition": {
+      "urlFilter": "||hqq.tv/out.php?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2953
+  },
+  {
+    "condition": {
+      "urlFilter": "||hurawatch.ru/?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2954
+  },
+  {
+    "condition": {
+      "urlFilter": "||jackpotcitycasino.com/*&a="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2955
+  },
+  {
+    "condition": {
+      "urlFilter": "||jpg.church/*.php?cat"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2956
+  },
+  {
+    "condition": {
+      "urlFilter": "||kissanimeonline.com/driectlink"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2957
+  },
+  {
+    "condition": {
+      "urlFilter": "||listentoyt.com/button/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2958
+  },
+  {
+    "condition": {
+      "urlFilter": "||listentoyt.com/vidbutton/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2959
+  },
+  {
+    "condition": {
+      "urlFilter": "||mp3-convert.org/p"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2960
+  },
+  {
+    "condition": {
+      "urlFilter": "||notube.*/p/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2961
+  },
+  {
+    "condition": {
+      "urlFilter": "||pinoymovies.es/links/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2962
+  },
+  {
+    "condition": {
+      "urlFilter": "||rentalcars.com/?affiliatecode=",
+      "initiatorDomains": [
+        "seatguru.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2963
+  },
+  {
+    "condition": {
+      "urlFilter": "||rx.link^",
+      "initiatorDomains": [
+        "uploadgig.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2964
+  },
+  {
+    "condition": {
+      "urlFilter": "||s.click.aliexpress.com^",
+      "initiatorDomains": [
+        "dzapk.com",
+        "up-4ever.net"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2965
+  },
+  {
+    "condition": {
+      "urlFilter": "||sendspace.com/defaults/sendspace-pop.html"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2966
+  },
+  {
+    "condition": {
+      "urlFilter": "||skycheats.com^",
+      "initiatorDomains": [
+        "elitepvpers.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2967
+  },
+  {
+    "condition": {
+      "urlFilter": "||thesurferprotector.com^",
+      "initiatorDomains": [
+        "piratebay.live"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2968
+  },
+  {
+    "condition": {
+      "urlFilter": "||topeuropix.site/svop4/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2969
+  },
+  {
+    "condition": {
+      "urlFilter": "||vpnfortorrents.*?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2970
+  },
+  {
+    "condition": {
+      "urlFilter": "||yout.pw/button/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2971
+  },
+  {
+    "condition": {
+      "urlFilter": "||yout.pw/vidbutton/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2972
+  },
+  {
+    "condition": {
+      "urlFilter": "||ytmp4converter.com/wp-content/uploads"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2973
+  },
+  {
+    "condition": {
+      "urlFilter": "|about:",
+      "initiatorDomains": [
+        "22pixx.xyz",
+        "adblockstrtape.link",
+        "bitporno.com",
+        "clipconverter.cc",
+        "dailyuploads.net",
+        "dood.la",
+        "dood.so",
+        "dood.to",
+        "dood.video",
+        "dood.watch",
+        "dood.ws",
+        "doodcdn.com",
+        "flashx.net",
+        "gospeljingle.com",
+        "hqq.tv",
+        "imagetwist.com",
+        "mixdrop.bz",
+        "mixdrop.sx",
+        "mp4upload.com",
+        "nextgencloudtools.com",
+        "playtube.ws",
+        "popads.net",
+        "powvideo.net",
+        "powvldeo.cc",
+        "putlocker.style",
+        "run-syndicate.com",
+        "soap2day.tf",
+        "strcloud.link",
+        "streamani.net",
+        "streamtape.cc",
+        "streamtape.com",
+        "streamtape.site",
+        "strtape.cloud",
+        "strtape.tech",
+        "strtapeadblock.club",
+        "strtapeadblock.me",
+        "strtpe.link",
+        "supervideo.cc",
+        "tapecontent.net",
+        "turboimagehost.com",
+        "upstream.to",
+        "uptostream.com",
+        "uptostream.eu",
+        "uptostream.fr",
+        "uptostream.link",
+        "userload.co",
+        "vev.red",
+        "vevo.io",
+        "vidcloud.co",
+        "vidoza.net",
+        "voe.sx",
+        "vortez.net",
+        "vshare.eu",
+        "watchserieshd.tv"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2974
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "databasegdriveplayer.co",
+        "dood.la",
+        "dood.so",
+        "dood.to",
+        "dood.video",
+        "dood.watch",
+        "dood.ws",
+        "doodcdn.com",
+        "fmovies.world",
+        "masafun.com",
+        "strtpe.link",
+        "voe-unblock.com"
+      ],
+      "regexFilter": "^https?:\\/\\/.*\\.(club|xyz|top|casa)\\/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2975
+  },
+  {
+    "condition": {
+      "urlFilter": ".com./",
+      "initiatorDomains": [
+        "pornhub.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2976
+  },
+  {
+    "condition": {
+      "urlFilter": "||boyfriend.tv/out/bg-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2977
+  },
+  {
+    "condition": {
+      "urlFilter": "||boyfriendtv.com/out/bg-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2978
+  },
+  {
+    "condition": {
+      "urlFilter": "||chaturbate.com^",
+      "initiatorDomains": [
+        "xxxbios.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2979
+  },
+  {
+    "condition": {
+      "urlFilter": "||clicknplay.to/api/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2980
+  },
+  {
+    "condition": {
+      "urlFilter": "||icepbns.com^",
+      "initiatorDomains": [
+        "iceporn.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2981
+  },
+  {
+    "condition": {
+      "urlFilter": "||livejasmin.com/pu/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2982
+  },
+  {
+    "condition": {
+      "urlFilter": "||missav.com/pop?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2983
+  },
+  {
+    "condition": {
+      "urlFilter": "||nhentai.net/api/_/popunder?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2984
+  },
+  {
+    "condition": {
+      "urlFilter": "||porndude.link/porndudepass",
+      "initiatorDomains": [
+        "theporndude.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2985
+  },
+  {
+    "condition": {
+      "urlFilter": "||simpcity.su/magic/goodpapi.php?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2986
+  },
+  {
+    "condition": {
+      "urlFilter": "||t.ly^",
+      "initiatorDomains": [
+        "veev.to"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2987
+  },
+  {
+    "condition": {
+      "urlFilter": "||temu.com^",
+      "initiatorDomains": [
+        "pornproxy.art"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2988
+  },
+  {
+    "condition": {
+      "urlFilter": "||videowood.tv/pop?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2989
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "bitporno.com",
+        "iceporn.com",
+        "katestube.com",
+        "videowood.tv"
+      ],
+      "regexFilter": "about:blank.*"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2990
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "00771944.xyz",
+        "00857731.xyz",
+        "04424170.xyz",
+        "05420795.xyz",
+        "07421283.xyz",
+        "07c225f3.online",
+        "09745951.xyz",
+        "0i0i0i0.com",
+        "10614305.xyz",
+        "10753990.xyz",
+        "10k8ovyv.art",
+        "11152646.xyz",
+        "11778562.xyz",
+        "11x11.com",
+        "123-stream.org",
+        "123vidz.com",
+        "142.91.159.107",
+        "142.91.159.127",
+        "142.91.159.136",
+        "142.91.159.139",
+        "142.91.159.146",
+        "142.91.159.147",
+        "142.91.159.164",
+        "142.91.159.169",
+        "142.91.159.179",
+        "142.91.159.220",
+        "142.91.159.223",
+        "142.91.159.244",
+        "143.244.184.39",
+        "146.59.223.83",
+        "15272973.xyz",
+        "157.90.183.248",
+        "158.247.208.115",
+        "16327739.xyz",
+        "167.71.252.38",
+        "16972675.xyz",
+        "17022993.xyz",
+        "172.255.103.171",
+        "172.255.6.135",
+        "172.255.6.137",
+        "172.255.6.139",
+        "172.255.6.150",
+        "172.255.6.152",
+        "172.255.6.199",
+        "172.255.6.2",
+        "172.255.6.217",
+        "172.255.6.228",
+        "172.255.6.248",
+        "172.255.6.254",
+        "172.255.6.59",
+        "176.31.68.242",
+        "185.147.34.126",
+        "188.42.84.110",
+        "188.42.84.159",
+        "188.42.84.160",
+        "188.42.84.162",
+        "188.42.84.199",
+        "188.42.84.21",
+        "188.42.84.23",
+        "19199675.xyz",
+        "1asb.com",
+        "1betandgonow.com",
+        "1jutu5nnx.com",
+        "1lzz.com",
+        "1redirb.com",
+        "1ts11.top",
+        "1ts17.top",
+        "1winpb.com",
+        "1x001.com",
+        "1xlite-522762.top",
+        "203.195.121.0",
+        "203.195.121.103",
+        "203.195.121.119",
+        "203.195.121.134",
+        "203.195.121.184",
+        "203.195.121.195",
+        "203.195.121.209",
+        "203.195.121.217",
+        "203.195.121.219",
+        "203.195.121.224",
+        "203.195.121.229",
+        "203.195.121.24",
+        "203.195.121.28",
+        "203.195.121.29",
+        "203.195.121.34",
+        "203.195.121.36",
+        "203.195.121.40",
+        "203.195.121.70",
+        "203.195.121.72",
+        "203.195.121.73",
+        "203.195.121.74",
+        "20382207.xyz",
+        "20729617.xyz",
+        "212.117.186.252",
+        "22bettracking.online",
+        "22media.world",
+        "23.109.121.254",
+        "23.109.150.101",
+        "23.109.150.208",
+        "23.109.170.19",
+        "23.109.170.198",
+        "23.109.170.228",
+        "23.109.170.241",
+        "23.109.170.255",
+        "23.109.170.60",
+        "23.109.248.129",
+        "23.109.248.130",
+        "23.109.248.135",
+        "23.109.248.139",
+        "23.109.248.14",
+        "23.109.248.149",
+        "23.109.248.174",
+        "23.109.248.183",
+        "23.109.248.247",
+        "23.109.248.29",
+        "23.109.82.104",
+        "23.109.82.119",
+        "23.109.82.173",
+        "23.109.82.222",
+        "23.109.82.44",
+        "23.109.82.74",
+        "23.109.87.101",
+        "23.109.87.118",
+        "23.109.87.123",
+        "23.109.87.127",
+        "23.109.87.139",
+        "23.109.87.14",
+        "23.109.87.15",
+        "23.109.87.182",
+        "23.109.87.192",
+        "23.109.87.213",
+        "23.109.87.217",
+        "23.109.87.42",
+        "23.109.87.47",
+        "23.109.87.71",
+        "23.109.87.74",
+        "23.83.67.164",
+        "23879858.xyz",
+        "23907453.xyz",
+        "24-sportnews.com",
+        "2477april2024.com",
+        "24837724.xyz",
+        "24affiliates.com",
+        "24click.top",
+        "24x7report.com",
+        "2annalea.com",
+        "2ltm627ho.com",
+        "2qj7mq3w4uxe.com",
+        "2smarttracker.com",
+        "2track.info",
+        "30937261.xyz",
+        "32472254.xyz",
+        "33848102.xyz",
+        "33862684.xyz",
+        "34.102.137.201",
+        "34475780.xyz",
+        "35.227.234.222",
+        "35.232.188.118",
+        "367p.com",
+        "36833185.xyz",
+        "37.1.213.100",
+        "37066957.xyz",
+        "38835571.xyz",
+        "38941752.xyz",
+        "38g2n1ww.icu",
+        "38hgc.com",
+        "47296536.xyz",
+        "47415889.xyz",
+        "48304789.xyz",
+        "49706204.xyz",
+        "49766251.xyz",
+        "4b6994dfa47cee4.com",
+        "4dsply.com",
+        "4gforkh4.icu",
+        "5.45.79.15",
+        "5.61.55.143",
+        "51.178.195.171",
+        "51.195.115.102",
+        "51.89.115.13",
+        "54199287.xyz",
+        "554koaylwga7.top",
+        "567bets10.com",
+        "56gbgkvtd.xyz",
+        "59768910.xyz",
+        "5dimes.com",
+        "5mno3.com",
+        "5vbs96dea.com",
+        "6-partner.com",
+        "60571086.xyz",
+        "60dxug5hu.click",
+        "62ad.com",
+        "65035033.xyz",
+        "65894140.xyz",
+        "72075223.xyz",
+        "72356275.xyz",
+        "72560514.xyz",
+        "72716408.xyz",
+        "72888710.xyz",
+        "735pwa.com",
+        "74142961.xyz",
+        "75690049.xyz",
+        "77886044.xyz",
+        "78847798.xyz",
+        "79pa4bxa86.com",
+        "7app.top",
+        "7ca78m3csgbrid7ge.com",
+        "83409127.xyz",
+        "83761158.xyz",
+        "83887336.xyz",
+        "84631949.xyz",
+        "86124673.xyz",
+        "88.42.84.136",
+        "88129513.xyz",
+        "88545539.xyz",
+        "888media.net",
+        "888promos.com",
+        "89263907.xyz",
+        "89407765.xyz",
+        "89sa.com",
+        "8s5s.com",
+        "900bets10.com",
+        "905trk.com",
+        "91301246.xyz",
+        "92790388.xyz",
+        "94597672.xyz",
+        "95urbehxy2dh.top",
+        "98140548.xyz",
+        "98738797.xyz",
+        "98853171.xyz",
+        "9gg23.com",
+        "9l3s3fnhl.com",
+        "9t5.me",
+        "a-ads.com",
+        "a1087.b.akamai.net",
+        "a64x.com",
+        "aagm.link",
+        "abadit5rckb.com",
+        "abadit5rckd.com",
+        "abanetabipon.top",
+        "ablogica.com",
+        "aboveredirect.top",
+        "abtrcker.com",
+        "acacdn.com",
+        "acam-2.com",
+        "accecmtrk.com",
+        "acceptableredheadcaviar.com",
+        "access-the-website.com",
+        "accesshomeinsurance.co",
+        "accompanycollapse.com",
+        "accomplishedpersuadedprinter.com",
+        "accurstscaur.shop",
+        "acdcdn.com",
+        "acedirect.net",
+        "achcdn.com",
+        "aclktrkr.com",
+        "acrooktait.top",
+        "activate-game.com",
+        "aculturerpa.info",
+        "ad-adblock.com",
+        "ad-addon.com",
+        "ad-block-offer.com",
+        "ad-free.info",
+        "ad-maven.com",
+        "ad.22betpartners.com",
+        "ad.pornimg.xyz",
+        "ad.soicos.com",
+        "ad.ymcdn.org",
+        "ad4game.com",
+        "adbetclickin.pink",
+        "adblock-360.com",
+        "adblock-guru.com",
+        "adblock-one-protection.com",
+        "adblock-zen-download.com",
+        "adblock-zen.com",
+        "adblocker-sentinel.net",
+        "adblockeromega.com",
+        "adblockersentinel.com",
+        "adblockstream.com",
+        "adblockstrtape.link",
+        "adblockstrtech.link",
+        "adboost.it",
+        "adbooth.com",
+        "adca.st",
+        "adcash.com",
+        "adcdnx.com",
+        "adcell.com",
+        "adcleanerpage.com",
+        "adclickbyte.com",
+        "addefenderplus.info",
+        "addotnet.com",
+        "adentifi.com",
+        "adexchangecloud.com",
+        "adexchangegate.com",
+        "adexchangeguru.com",
+        "adexchangemachine.com",
+        "adexchangeprediction.com",
+        "adexchangetracker.com",
+        "adexmedias.com",
+        "adextrem.com",
+        "adfgetlink.net",
+        "adform.net",
+        "adfpoint.com",
+        "adglare.net",
+        "adhealers.com",
+        "adhoc2.net",
+        "aditsafeweb.com",
+        "adjuggler.net",
+        "adk2x.com",
+        "adkmbc.com",
+        "adlogists.com",
+        "adlserq.com",
+        "adltserv.com",
+        "admachina.com",
+        "admediatex.net",
+        "admedit.net",
+        "admeerkat.com",
+        "admeking.com",
+        "admeridianads.com",
+        "admitad.com",
+        "admjmp.com",
+        "admobe.com",
+        "admothreewallent.com",
+        "adnetworkperformance.com",
+        "adnotebook.com",
+        "adnxs-simple.com",
+        "adonweb.ru",
+        "adop.co",
+        "adplxmd.com",
+        "adpool.bet",
+        "adport.io",
+        "adreactor.com",
+        "adrealclick.com",
+        "adrgyouguide.com",
+        "adright.co",
+        "adro.pro",
+        "adrunnr.com",
+        "ads.sexier.com",
+        "ads4trk.com",
+        "adsb4trk.com",
+        "adsblockersentinel.info",
+        "adsbreak.com",
+        "adsbtrk.com",
+        "adscdn.net",
+        "adsco.re",
+        "adserverplus.com",
+        "adserving.unibet.com",
+        "adshostnet.com",
+        "adskeeper.co.uk",
+        "adskeeper.com",
+        "adskpak.com",
+        "adsmarket.com",
+        "adsplex.com",
+        "adspredictiv.com",
+        "adspyglass.com",
+        "adsquash.info",
+        "adsquasher.com",
+        "adsrv4k.com",
+        "adstean.com",
+        "adstik.click",
+        "adstreampro.com",
+        "adsupply.com",
+        "adsupplyads.com",
+        "adsupplyads.net",
+        "adsurve.com",
+        "adtelligent.com",
+        "adtng.com",
+        "adtrace.org",
+        "adtraction.com",
+        "adult.xyz",
+        "advancedadblocker.pro",
+        "adverdirect.com",
+        "advertiserurl.com",
+        "advertizmenttoyou.com",
+        "advertserve.com",
+        "advmedialtd.com",
+        "advmonie.com",
+        "advotionhot.com",
+        "adw9.com",
+        "adx-t.com",
+        "adxpansion.com",
+        "adxpartner.com",
+        "adzblockersentinel.net",
+        "adzerk.net",
+        "adzshield.info",
+        "aeeg5idiuenbi7erger.com",
+        "aeelookithdifyf.com",
+        "aetvellt.net",
+        "afcpatrk.com",
+        "aff-handler.com",
+        "aff-track.net",
+        "affbuzzads.com",
+        "affcpatrk.com",
+        "affflow.com",
+        "affili.st",
+        "affiliate-wg.com",
+        "affiliateboutiquenetwork.com",
+        "affiliates.fantasticbet.com",
+        "affiliateservices.net",
+        "affiliatestonybet.com",
+        "affiliride.com",
+        "affilirise.com",
+        "affinity.net",
+        "afflat3a1.com",
+        "afflat3d2.com",
+        "afflat3e1.com",
+        "affpa.top",
+        "affstreck.com",
+        "afilliatetraff.com",
+        "afodreet.net",
+        "afront.io",
+        "aftmostlaen.shop",
+        "aftrk1.com",
+        "aftrk3.com",
+        "agacelebir.com",
+        "agalumineonr.com",
+        "agl001.bid",
+        "aglobally.com",
+        "ahadsply.com",
+        "ahbdsply.com",
+        "ahscdn.com",
+        "aifolr.com",
+        "aigaithojo.com",
+        "aigeno.com",
+        "aikrighawaks.com",
+        "aimging.com",
+        "aimukreegee.net",
+        "aiphotomania.com",
+        "aitsatho.com",
+        "aj1070.online",
+        "aj1574.online",
+        "ajkrls.com",
+        "ajump1.com",
+        "ajump2.com",
+        "ajxx98.online",
+        "ak-is2.net",
+        "akmxts.com",
+        "akumeha.onelink.me",
+        "akutapro.com",
+        "alarmenvious.com",
+        "albonsa.com",
+        "alexatracker.com",
+        "alfa-track2.site",
+        "algocashmaster.com",
+        "alibabatraffic.com",
+        "alightbornbell.com",
+        "alitems.co",
+        "alitems.site",
+        "alleviatepracticableaddicted.com",
+        "allhypefeed.com",
+        "allsportsflix.best",
+        "allsportsflix.top",
+        "allsporttv.com",
+        "almstda.tv",
+        "aloatchuraimti.net",
+        "alowbowsohef.com",
+        "alpenridge.top",
+        "alpheratzscheat.top",
+        "alpine-vpn.com",
+        "alpinedrct.com",
+        "alreadyballetrenting.com",
+        "altairaquilae.top",
+        "alternads.info",
+        "alternativecpmgate.com",
+        "alxbgo.com",
+        "am10.ru",
+        "am15.net",
+        "amatrck.com",
+        "amazing-dating.com",
+        "ambiliarcarwin.com",
+        "ambuizeler.com",
+        "amelatrina.com",
+        "amesgraduatel.xyz",
+        "ammankeyan.com",
+        "amoteehoodaumse.net",
+        "amplayeranydwou.info",
+        "anacampaign.com",
+        "anadistil.com",
+        "anamuel-careslie.com",
+        "ancalfulpige.co.in",
+        "andcomemunicateth.info",
+        "androidfilehost.cfd",
+        "angege.com",
+        "aniltramps.top",
+        "animeloundry.com",
+        "animemeat.com",
+        "ankdoier.com",
+        "anmdr.link",
+        "annual-gamers-choice.com",
+        "annulmentequitycereals.com",
+        "antcixn.com",
+        "antentgu.co.in",
+        "anteog.com",
+        "antiadblocksystems.com",
+        "antivirussprotection.com",
+        "antjgr.com",
+        "apapuacauthong.com",
+        "apiecelee.com",
+        "applstr.com",
+        "appoineditardwide.com",
+        "appointeeivyspongy.com",
+        "apprefaculty.pro",
+        "appslime.com",
+        "apptjmp.com",
+        "appzery.com",
+        "aquete.com",
+        "arborerplanful.shop",
+        "ardoqxdinqucirei.info",
+        "ardsklangr.com",
+        "ardslediana.com",
+        "argrowlitheor.com",
+        "arjunbeatee.shop",
+        "arkdcz.com",
+        "armedtidying.com",
+        "arminius.io",
+        "arrlnk.com",
+        "articlepawn.com",
+        "arwobaton.com",
+        "asce.xyz",
+        "ascertainedthetongs.com",
+        "asdasdad.net",
+        "asensoithecb.com",
+        "asgclickpp.com",
+        "ashoupsu.com",
+        "aslnk.link",
+        "aso1.net",
+        "asqconn.com",
+        "astjigglypuffchan.com",
+        "astrokompas.com",
+        "astrologybacklightsinless.com",
+        "atala-apw.com",
+        "atas.io",
+        "atentherel.org",
+        "athletedurable.com",
+        "atinsolutions.com",
+        "atsg.me",
+        "attachedkneel.com",
+        "attirecideryeah.com",
+        "audrte.com",
+        "auforau.com",
+        "augailou.com",
+        "augurersoilure.space",
+        "august15download.com",
+        "aungudie.com",
+        "ausoafab.net",
+        "austeemsa.com",
+        "authognu.com",
+        "avlmy.com",
+        "avocams.com",
+        "avthelkp.net",
+        "awasrqp.xyz",
+        "awecrptjmp.com",
+        "awejmp.com",
+        "awempire.com",
+        "awesome-blocker.com",
+        "awptjmp.com",
+        "awsclic.com",
+        "axlikeoedipus.shop",
+        "backgroundrunway.com",
+        "backspinreentryupright.com",
+        "baipahanoop.net",
+        "baitenthenaga.com",
+        "baiweluy.com",
+        "bakabok.com",
+        "bakjaqa.net",
+        "baldo-toj.com",
+        "balldollars.com",
+        "ballyhoopla.club",
+        "banners.cams.com",
+        "banners.livepartners.com",
+        "banquetunarmedgrater.com",
+        "banyaikipe.top",
+        "barometercorrodingunease.com",
+        "batheunits.com",
+        "baucuptaugo.com",
+        "bayshorline.com",
+        "bbccn.org",
+        "bbcrgate.com",
+        "bbrdbr.com",
+        "bbuni.com",
+        "beamobserver.com",
+        "becomeapartner.io",
+        "becoquin.com",
+        "becorsolaom.com",
+        "befirstcdn.com",
+        "behim.click",
+        "belavoplay.com",
+        "believemefly.com",
+        "belovedset.com",
+        "belwrite.com",
+        "bemachopor.com",
+        "bemobpath.com",
+        "bemobtrcks.com",
+        "bemobtrk.com",
+        "benaughty.com",
+        "bend-me-over.com",
+        "beniluuxen.com",
+        "benoopto.com",
+        "benumelan.com",
+        "berapt-medii.com",
+        "berendcarols.shop",
+        "berkshiretoday.xyz",
+        "best-global-apps.com",
+        "best-offer-for-you.com",
+        "best-u.vip",
+        "best-vpn-app.com",
+        "best4fuck.com",
+        "bestadsforyou.com",
+        "bestanimegame.com",
+        "bestbonusprize.life",
+        "bestchainconnection.com",
+        "bestcleaner.online",
+        "bestcontentaccess.top",
+        "bestcontentfood.top",
+        "bestconvertor.club",
+        "bestgames-2022.com",
+        "bestmoviesflix.xyz",
+        "bestonlinecasino.club",
+        "bestplaceforall.com",
+        "bestproducttesters.com",
+        "bestreceived.com",
+        "bestrevenuenetwork.com",
+        "betforakiea.com",
+        "betoga.com",
+        "betotodilea.com",
+        "betpupitarr.com",
+        "betshucklean.com",
+        "bettentacruela.com",
+        "better-u.vip",
+        "betteradsystem.com",
+        "betterdomino.com",
+        "bettraff.com",
+        "betzone2000.com",
+        "beyourxfriend.com",
+        "bfpartners.click",
+        "bidverdrd.com",
+        "bidverdrs.com",
+        "bidvertiser.com",
+        "bigbasketshop.com",
+        "bigeagle.biz",
+        "bigelowcleaning.com",
+        "billilia.com",
+        "bilqi-omv.com",
+        "bimbim.com",
+        "binaryoptionsgame.com",
+        "bincatracs.com",
+        "bindirect.click",
+        "bingohall.ag",
+        "binomlink.com",
+        "binomnet.com",
+        "binomnet3.com",
+        "binomtrcks.site",
+        "biphic.com",
+        "bitadexchange.com",
+        "bitdefender.top",
+        "bitterstrawberry.com",
+        "biturl.co",
+        "bitzv.com",
+        "blackandwhite-temporary.com",
+        "blacklinknow.com",
+        "blacklinknowss.co",
+        "blancoshrimp.com",
+        "blcdog.com",
+        "bleandworldw.org",
+        "blehcourt.com",
+        "blinksbobblepadding.com",
+        "block-ad.com",
+        "blockadsnot.com",
+        "blockadstop.info",
+        "blockchaintop.nl",
+        "blogostock.com",
+        "blubberspoiled.com",
+        "blueistheneworanges.com",
+        "bluelinknow.com",
+        "blueparrot.media",
+        "blurbreimbursetrombone.com",
+        "blzz.xyz",
+        "bmmads.com",
+        "bmndx.com",
+        "bmtmicro.com",
+        "bngpt.com",
+        "bngtrak.com",
+        "bobabillydirect.org",
+        "bobgames-prolister.com",
+        "bodrumshuttle.net",
+        "bollixceltist.shop",
+        "boloptrex.com",
+        "bonafides.club",
+        "bongacams10.com",
+        "bongacams11.com",
+        "bonzuna.com",
+        "bookmakers.click",
+        "booster-vax.com",
+        "boskodating.com",
+        "bot-checker.com",
+        "bouhoagy.net",
+        "bounceads.net",
+        "boustahe.com",
+        "boxlivegarden.com",
+        "braidsmbalolo.top",
+        "brainberries.co",
+        "brandreachsys.com",
+        "brationalfilarded.com",
+        "brazzerssurvey.com",
+        "brieflizard.com",
+        "brightadnetwork.com",
+        "bringmesports.com",
+        "britishinquisitive.com",
+        "brllllantsdates.com",
+        "bro4.biz",
+        "broadensilkslush.com",
+        "browse-boost.com",
+        "browsekeeper.com",
+        "brutishlylifevoicing.com",
+        "btpnav.com",
+        "buffooncountabletreble.com",
+        "buikolered.com",
+        "bukusukses.com",
+        "bullfeeding.com",
+        "bulochka.xyz",
+        "bunintruder.com",
+        "bunth.net",
+        "buqkrzbrucz.com",
+        "bursa33.xyz",
+        "bursultry-exprights.com",
+        "busterry.com",
+        "buy404s.com",
+        "buyadvupfor24.com",
+        "buyeasy.by",
+        "buythetool.co",
+        "buzzadnetwork.com",
+        "buzzonclick.com",
+        "bvmbnr.xyz",
+        "bwredir.com",
+        "byvngx98ssphwzkrrtsjhnbyz5zss81dxygxvlqd05.com",
+        "byvue.com",
+        "c0me-get-s0me.net",
+        "c0nect.com",
+        "c3j7rk-rtbix.top",
+        "c43a3cd8f99413891.com",
+        "c4tracking01.com",
+        "cabbagereporterpayroll.com",
+        "cactusheadroomscaling.com",
+        "cagothie.net",
+        "calcatesituate.top",
+        "callyourinformer.com",
+        "calvali.com",
+        "camliveshow.xyz",
+        "camptrck.com",
+        "candyoffers.com",
+        "careerjournalonline.com",
+        "casefyparamos.com",
+        "cashgzb.com",
+        "casino.betsson.com",
+        "casiyouaffiliates.com",
+        "casumoaffiliates.com",
+        "catchtheclick.com",
+        "catherinebrochure.com",
+        "catsnbootsncats2020.com",
+        "cautommityring.com",
+        "cavecoat.top",
+        "cbdedibles.site",
+        "cddtsecure.com",
+        "cdn.optmd.com",
+        "cdn4ads.com",
+        "cdnativepush.com",
+        "cdnondemand.org",
+        "cdnquality.com",
+        "cdntechone.com",
+        "cdrvrs.com",
+        "ceethipt.com",
+        "celeritascdn.com",
+        "centent.stemplay.cc",
+        "chaintopdom.nl",
+        "chalkplayground.co",
+        "chargeit.baby",
+        "cheap-jewelry-online.com",
+        "check-out-this.site",
+        "checkcdn.net",
+        "cheerfullybakery.com",
+        "chekrilsoumpoab.net",
+        "cherrytv.media",
+        "chestgoingpunch.com",
+        "chetchoa.com",
+        "chicks4date.com",
+        "chiglees.com",
+        "childishenough.com",
+        "chl7rysobc3ol6xla.com",
+        "chokertraffic.com",
+        "choogeet.net",
+        "choosingoffer.lol",
+        "chooxaur.com",
+        "choseing.com",
+        "choto.xyz",
+        "chpadblock.com",
+        "chrantary-vocking.com",
+        "chrysostrck.com",
+        "chultoux.com",
+        "cijoorsairgusa.com",
+        "cimeterbren.top",
+        "cipledecline.buzz",
+        "cityofsin3d.com",
+        "cjewz.com",
+        "ckre.net",
+        "ckrf1.com",
+        "clbanners16.com",
+        "clbjmp.com",
+        "clcktrck.com",
+        "cld5r.com",
+        "clean-1-clean.club",
+        "clean-blocker.com",
+        "clean-browsing.com",
+        "cleanmypc.click",
+        "clearwatch.tv",
+        "clentrk.com",
+        "click-cdn.com",
+        "click-for-preview.com",
+        "click.ggpickyaff.com",
+        "click.quk.com",
+        "clickadsource.com",
+        "clickdaly.com",
+        "clickfilter.co",
+        "clickfuse.com",
+        "clickmetertracking.com",
+        "clickmobad.net",
+        "clickppcbuzz.com",
+        "clickprotects.com",
+        "clickpunch.icu",
+        "clickpupbit.com",
+        "clicks4tc.com",
+        "clicksgear.com",
+        "clicksor.com",
+        "clicksor.net",
+        "clicksyncflow.com",
+        "clicktripz.com",
+        "clicktrixredirects.com",
+        "clickwork7secure.com",
+        "clictrck.com",
+        "clixcrafts.com",
+        "clkfeed.com",
+        "clkmon.com",
+        "clkpback3.com",
+        "clkrev.com",
+        "clobberprocurertightwad.com",
+        "clodsplit.com",
+        "closercopy.cfd",
+        "cloudpsh.top",
+        "cloudtrack-camp.com",
+        "cloudtraff.com",
+        "cloudvideosa.com",
+        "clumsyshare.com",
+        "clunen.com",
+        "clunkyentirelinked.com",
+        "cm-trk2.com",
+        "cm65.com",
+        "cmpgns.net",
+        "cms100.xyz",
+        "cmtrkg.com",
+        "cn846.com",
+        "cngcpy.com",
+        "co5457chu.com",
+        "code4us.com",
+        "codedexchange.com",
+        "codeonclick.com",
+        "coefficienttolerategravel.com",
+        "coffee2play.com",
+        "coldflownews.com",
+        "colleem.com",
+        "colonistnobilityheroic.com",
+        "colossal-pathway.life",
+        "colossalanswer.com",
+        "come-get-s0me.com",
+        "come-get-s0me.net",
+        "comfortablepossibilitycarlos.com",
+        "concealmentmimic.com",
+        "concedederaserskyline.com",
+        "concord.systems",
+        "condles-temark.com",
+        "condolencessumcomics.com",
+        "conestreshow.com",
+        "connexity.net",
+        "conqueredallrightswell.com",
+        "consali.com",
+        "constructpreachystopper.com",
+        "content-loader.com",
+        "contentcrocodile.com",
+        "controlclickflow.com",
+        "convertmb.com",
+        "coolserving.com",
+        "coosync.com",
+        "coppercranberrylamp.com",
+        "cor8ni3shwerex.com",
+        "cordinghology.info",
+        "correry.com",
+        "coticoffee.com",
+        "cotrck.com",
+        "countabledawdlerunaudited.com",
+        "countertrck.com",
+        "courageousdiedbow.com",
+        "cpacrack.com",
+        "cpalabtracking.com",
+        "cpaoffers.network",
+        "cpm20.com",
+        "cpmclktrk.online",
+        "cpmterra.com",
+        "cpvadvertise.com",
+        "cpvlabtrk.online",
+        "cpxdeliv.com",
+        "cr-brands.net",
+        "crambidnonutilitybayadeer.com",
+        "crbbgate.com",
+        "crbck.link",
+        "crdefault.link",
+        "crdefault1.com",
+        "crdefault2.com",
+        "creaseinprofitst.com",
+        "creativecdn.com",
+        "creepy-frame.com",
+        "crentexgate.com",
+        "cretgate.com",
+        "creticennoic.top",
+        "crevicedepressingpumpkin.com",
+        "crisp-freedom.com",
+        "cristochris.com",
+        "crjpgate.com",
+        "crjpingate.com",
+        "crjugate.com",
+        "crlcw.link",
+        "crmapt.livejasmin.com",
+        "crmt.livejasmin.com",
+        "crockuncomfortable.com",
+        "crpdt.livejasmin.com",
+        "crpop.livejasmin.com",
+        "crprt.livejasmin.com",
+        "crptentry.com",
+        "crptgate.com",
+        "crt.livejasmin.com",
+        "cruel-love.com",
+        "cryingforanyth.com",
+        "cryorganichash.com",
+        "cryptopuffs.io",
+        "cryptowheel.net",
+        "crystal-blocker.com",
+        "css-load.com",
+        "ctcdwm.com",
+        "ctosrd.com",
+        "ctrdwm.com",
+        "ctwmed.com",
+        "cubiclerunner.com",
+        "cuddlethehyena.com",
+        "cuevastrck.com",
+        "cuffinliever.shop",
+        "cullemple-motline.com",
+        "curvyalpaca.cc",
+        "cute-cursor.com",
+        "cuteab.com",
+        "cuveeoxanate.top",
+        "cvastico.com",
+        "cwn0drtrk.com",
+        "cyan92010.com",
+        "cyber-guard.me",
+        "cyberlink.pro",
+        "cyberprivacy.pro",
+        "cybkit.com",
+        "czh5aa.xyz",
+        "d3jqverr.pro",
+        "dadsats.com",
+        "dafabet.odds.am",
+        "dagnar.com",
+        "daichoho.com",
+        "daily-guard.net",
+        "dailyc24.com",
+        "dailychronicles2.xyz",
+        "daleelerah.info",
+        "dalyio.com",
+        "dalymix.com",
+        "dalysb.com",
+        "dalysv.com",
+        "dark-reader.com",
+        "data-px.services",
+        "datacluster.club",
+        "datatechdrift.com",
+        "datatechone.com",
+        "date-4-fuck.com",
+        "date-for-more.com",
+        "date-till-late.us",
+        "date2024.com",
+        "date4sex.pro",
+        "datedate.today",
+        "dateguys.online",
+        "datemefast.com",
+        "datessuppressed.com",
+        "dateyou2024.com",
+        "datingforyour4.site",
+        "datingkoen.site",
+        "datingshall.life",
+        "datingstyle.top",
+        "datingtoday.top",
+        "datingtorrid.top",
+        "datoporn.com",
+        "daughterinlawrib.com",
+        "daylongtrigae.top",
+        "dc-rotator.com",
+        "ddbhm.pro",
+        "dddomainccc.com",
+        "debaucky.com",
+        "deckedsi.com",
+        "dedating.online",
+        "deebcards-themier.com",
+        "deeperhundredpassion.com",
+        "defas.site",
+        "deghooda.net",
+        "deloplen.com",
+        "deloton.com",
+        "demowebcode.online",
+        "dendrito.name",
+        "denza.pro",
+        "depreciatorybollocksupkitchen.com",
+        "derevya2sh8ka09.com",
+        "desertsutilizetopless.com",
+        "desklks.com",
+        "detectedadvancevisiting.com",
+        "detentionquasipairs.com",
+        "devaluequalmrelative.com",
+        "dexpredict.com",
+        "di7stero.com",
+        "diagramjawlineunhappy.com",
+        "dianomi.com",
+        "diffusedpassionquaking.com",
+        "difice-milton.com",
+        "digitaldsp.com",
+        "directcpmfwr.com",
+        "directdexchange.com",
+        "directrev.com",
+        "directtrck.com",
+        "dirty-messenger.com",
+        "dirty-tinder.com",
+        "disdainsneeze.com",
+        "dishleyinsite.shop",
+        "dispatchfeed.com",
+        "displayvertising.com",
+        "disprovefacilityjolt.com",
+        "distributionland.website",
+        "ditchdigging.lat",
+        "dithodackee.com",
+        "ditingdecording.info",
+        "divaresnapshareagido.com",
+        "dive77kt.com",
+        "dkswshap-3.online",
+        "dlrectdates.com",
+        "dmeukeuktyoue.info",
+        "dmiredindeed.com",
+        "dmzjmp.com",
+        "doct-umb.org",
+        "dolatiaschan.com",
+        "dolohen.com",
+        "dompeterapp.com",
+        "donecperficiam.net",
+        "donkeyflower.xyz",
+        "donorstuffed.com",
+        "dooloust.net",
+        "doostozoa.net",
+        "dopaleads.com",
+        "dopansearor.com",
+        "dope.autos",
+        "doruffleton.com",
+        "dotyruntchan.com",
+        "doubleadserve.com",
+        "doubleclick.net",
+        "doublepimp.com",
+        "douglasjamestraining.com",
+        "douploadfiles.click",
+        "dowerlesssightseehow.com",
+        "down-paradise.com",
+        "download-adblockgenius.com",
+        "download-file.org",
+        "download-performance.com",
+        "downloadboutique.com",
+        "downloadoffice2010.org",
+        "downloads-windows-pc.com",
+        "downlon.com",
+        "dpuppers.com",
+        "dradvice.in",
+        "drctcldff.com",
+        "dreamteamaffiliates.com",
+        "dreamytabs.com",
+        "dribbleads.com",
+        "drsmediaexchange.com",
+        "drumskilxoa.click",
+        "dsb68d.com",
+        "dsp.wtf",
+        "dsp5stero.com",
+        "dspultra.com",
+        "dtssrv.com",
+        "dtx.click",
+        "dubzenom.com",
+        "dukingdraon.com",
+        "dulativergs.com",
+        "dxtv1.com",
+        "dynsrvtbg.com",
+        "dynsrvwer.com",
+        "dyptanaza.com",
+        "dzhjmp.com",
+        "ea6c0ac4.xyz",
+        "eaaratte.net",
+        "eabids.com",
+        "eacdn.com",
+        "ealeo.com",
+        "earlinessone.xyz",
+        "earnbeginnerdocument.com",
+        "eas696r.xyz",
+        "easelegbike.com",
+        "eastfeukufu.info",
+        "eastrk-dn.com",
+        "easyads28.mobi",
+        "easyconverts.com",
+        "easysearch.click",
+        "eavesofefinegoldf.info",
+        "eclinerybelfast.org",
+        "eclipse-adblocker.pro",
+        "eclipseadblock.info",
+        "eclipseadblocker.net",
+        "eclkmpsa.com",
+        "ecrwqu.com",
+        "ectozoaquagga.top",
+        "ecusemis.com",
+        "edalloverwiththinl.info",
+        "edchargina.pro",
+        "edgypollnormandy.com",
+        "edonhisdhi.com",
+        "edpl9v.pro",
+        "edttmar.com",
+        "eeco.xyz",
+        "eehuzaih.com",
+        "eergortu.net",
+        "eessoong.com",
+        "eetognauy.net",
+        "eetspaae.net",
+        "effectivecpmcontent.com",
+        "effectiveratecpm.com",
+        "efficientdescent.com",
+        "efficientorbit.co",
+        "egmyz.com",
+        "egraglauvoathog.com",
+        "egretswamper.com",
+        "eiteribesshaints.com",
+        "ejuiashsateampl.info",
+        "elephant-ads.com",
+        "eliwitensirg.net",
+        "emancytal.com",
+        "embarkvision.top",
+        "emotomalf.com",
+        "emumuendaku.info",
+        "encouragedmemistress.com",
+        "endivestlr.shop",
+        "endlessloveonline.online",
+        "endorico.com",
+        "enframement.pics",
+        "enlightencentury.com",
+        "enloweb.com",
+        "ennedranorway.top",
+        "enrtx.com",
+        "entjgcr.com",
+        "entterto.com",
+        "eofst.com",
+        "eonsmedia.com",
+        "eontappetito.com",
+        "epicgameads.com",
+        "eptougry.net",
+        "equilibriumfestive.com",
+        "era67hfo92w.com",
+        "eralway.com",
+        "erdecisesgeorg.info",
+        "ero-advertising.com",
+        "eroge.com",
+        "errumoso.xyz",
+        "escortlist.pro",
+        "eshkol.io",
+        "eshkol.one",
+        "eskimi.com",
+        "esports1x.com",
+        "estimatedrick.com",
+        "eudstudio.com",
+        "euphoriccommittee.com",
+        "ever8trk.com",
+        "everyview.info",
+        "evil-candle.pro",
+        "ewesmedia.com",
+        "ewhareey.com",
+        "ewogloarge.com",
+        "exaltationinsufficientintentional.com",
+        "excellingvista.com",
+        "exceptional-ingress.life",
+        "exclkplat.com",
+        "exclplatmain.com",
+        "exclusivesearch.online",
+        "exdynsrv.com",
+        "existenceassociationvoice.com",
+        "exnesstrack.com",
+        "exoclick.com",
+        "exodusjailhousetarantula.com",
+        "exoletegallate.top",
+        "exosrv.com",
+        "expdirclk.com",
+        "explore-site.com",
+        "exporder-patuility.com",
+        "exrtbsrv.com",
+        "extensions-media.com",
+        "extensionworthwhile.com",
+        "externalfavlink.com",
+        "extractdissolve.com",
+        "extractionatticpillowcase.com",
+        "extsoft.info",
+        "exxtended-access.com",
+        "ey43.com",
+        "eyauknalyticafra.info",
+        "eyewondermedia.com",
+        "ezadblocker.com",
+        "ezcgojaamg.com",
+        "ezdownloadpro.info",
+        "ezmob.com",
+        "fackeyess.com",
+        "fadssystems.com",
+        "fadszone.com",
+        "faiverty-station.com",
+        "familyborn.com",
+        "fapmeth.com",
+        "fardasub.xyz",
+        "fast-redirecting.com",
+        "fastclick.net",
+        "fastdntrk.com",
+        "fastgolbalserver.com",
+        "fastincognitomode.com",
+        "fastlnd.com",
+        "fbmedia-bls.com",
+        "fbmedia-ckl.com",
+        "fbpqvs.com",
+        "fdelphaswcealifornica.com",
+        "februaryinjectionproudly.com",
+        "feed-xml.com",
+        "feedfinder23.info",
+        "feedyourheadmag.com",
+        "feelsoftgood.info",
+        "fefinegoldforeyes.com",
+        "felipby.live",
+        "femvxitrquzretxzdq.info",
+        "fenacheaverage.com",
+        "fentent.stre4mplay.one",
+        "fer2oxheou4nd.com",
+        "feuageepitoke.com",
+        "fhserve.com",
+        "fiinnancesur.com",
+        "filthygracefulspinach.com",
+        "finalice.net",
+        "finance-hot-news.com",
+        "finanvideos.com",
+        "findbetterresults.com",
+        "finreporter.net",
+        "firstclass-download.com",
+        "firstload.de",
+        "fitcenterz.com",
+        "fitsazx.xyz",
+        "fittiercutlets.top",
+        "fittingcentermondaysunday.com",
+        "flagads.net",
+        "flairadscpc.com",
+        "flamebeard.top",
+        "fleamx.com",
+        "flingforyou.com",
+        "flowerdicks.com",
+        "flowworksfivesphere.com",
+        "flrdra.com",
+        "flyingadvert.com",
+        "fodsoack.com",
+        "fontdeterminer.com",
+        "for-j.com",
+        "forarchenchan.com",
+        "forflygonom.com",
+        "forooqso.tv",
+        "fortyphlosiona.com",
+        "forzubatr.com",
+        "fourwhenstatistics.com",
+        "fouwheepoh.com",
+        "fovcy1jg.pro",
+        "fpctraffic2.com",
+        "fpctraffic3.com",
+        "fpgedsewst.com",
+        "fpukxcinlf.com",
+        "fractionfridgejudiciary.com",
+        "fralstamp-genglyric.icu",
+        "freeadblockerbrowser.com",
+        "freecamsexposed.com",
+        "freegamefinder.com",
+        "freegamezone.net",
+        "freehookupaffair.com",
+        "freeprize.org",
+        "freetrckr.com",
+        "frequentjam.com",
+        "freshpops.net",
+        "frettedmalta.top",
+        "friendfinder.com",
+        "friendlyduck.com",
+        "fronthlpr.com",
+        "frs2c.com",
+        "frtya.com",
+        "frtyb.com",
+        "frtye.com",
+        "frtyi.com",
+        "fstsrv.com",
+        "fstsrv16.com",
+        "fstsrv5.com",
+        "fstsrv9.com",
+        "fudukrujoa.com",
+        "fugcgfilma.com",
+        "funkydaters.com",
+        "funmatrix.net",
+        "furstraitsbrowse.com",
+        "fuse-cloud.com",
+        "fusetracking.com",
+        "fuwin.sbs",
+        "fwbntw.com",
+        "fwmrm.net",
+        "fyglovilo.pro",
+        "fzev75-rtbix.top",
+        "g0wow.net",
+        "g2afse.com",
+        "g33ktr4ck.com",
+        "gabbartmiotics.top",
+        "gadlt.nl",
+        "gadssystems.com",
+        "gagheroinintact.com",
+        "galaxyearningsfly.com",
+        "galaxypush.com",
+        "galotop1.com",
+        "gamerhit.co",
+        "gamezon.top",
+        "gaming-adult.com",
+        "gamingadlt.com",
+        "gamingonline.top",
+        "gammamkt.com",
+        "gamonalsmadevel.com",
+        "gandmotivatin.info",
+        "gangwaynumberprivacy.com",
+        "gb1aff.com",
+        "gbengene.com",
+        "gdecordingholo.info",
+        "gdeigri.com",
+        "gdmconvtrck.com",
+        "geegleshoaph.com",
+        "geejetag.com",
+        "gemfowls.com",
+        "geniusdexchange.com",
+        "gensonal.com",
+        "gentent.stre4mplay.one",
+        "gentwoleads.top",
+        "geotrkclknow.com",
+        "get-express-vpn.online",
+        "get-express-vpns.com",
+        "get-gx.net",
+        "get-link.xyz",
+        "get-me-wow.in",
+        "get-partner.life",
+        "get.stoplocker.com",
+        "getdownloadfree.cfd",
+        "getflowads.net",
+        "getgx.net",
+        "getitquickly.biz",
+        "getmatchedlocally.com",
+        "getmyads.com",
+        "getrunbestlovemy.info",
+        "getsmartyapp.com",
+        "getsthis.com",
+        "getthisappnow.com",
+        "gettopple.com",
+        "gfdfhdh5t5453.com",
+        "gfstrck.com",
+        "ggbet-online.net",
+        "ggbetpromo.com",
+        "ghostnewz.com",
+        "giftandgamecentral.com",
+        "girls.xyz",
+        "girlstaste.life",
+        "gkrtmc.com",
+        "glakraptaidsupi.net",
+        "glamorous-mail.com",
+        "glassmilheart.com",
+        "glasssmash.site",
+        "glazedugra.com",
+        "gleagainedam.info",
+        "glersakr.com",
+        "glersooy.net",
+        "glimpsemankind.com",
+        "gliptoacaft.net",
+        "gliraimsofu.net",
+        "glizauvo.net",
+        "global-adblocker.com",
+        "global-trk.com",
+        "globaladblocker.com",
+        "globaladblocker.net",
+        "globeofnews.com",
+        "globwo.online",
+        "gloogruk.com",
+        "glowingnews.com",
+        "gloytrkb.com",
+        "glsfreeads.com",
+        "glugherg.net",
+        "gluxouvauure.com",
+        "gml-grp.com",
+        "gmxvmvptfm.com",
+        "go-cpa.click",
+        "go-srv.com",
+        "go-to-website.com",
+        "go.aff.betplays.com",
+        "go.aff.estrelabetpartners.com",
+        "go.betobet.net",
+        "go.camterest.com",
+        "go.nsfwlivechat.com",
+        "go.playlg.com",
+        "go.roobet.com",
+        "go.thunder.partners",
+        "go.xhamsterlive.com",
+        "go2affise.com",
+        "go2bdmbet.com",
+        "go2crystalroll.com",
+        "go2linkfast.com",
+        "go2offer-1.com",
+        "go2oh.net",
+        "go2rph.com",
+        "goads.pro",
+        "goaffmy.com",
+        "goapoachowoovol.net",
+        "goaserv.com",
+        "goathaga.top",
+        "godkc.com",
+        "godpvqnszo.com",
+        "gold2762.com",
+        "gomo.cc",
+        "goobakocaup.com",
+        "goonsupper.com",
+        "goosebomb.com",
+        "gophykopta.com",
+        "gorclck.com",
+        "gositego.live",
+        "gosoftwarenow.com",
+        "got-to-be.com",
+        "gotibetho.pro",
+        "gotohouse1.club",
+        "gotoplaymillion.com",
+        "gotrackier.com",
+        "grabclix.com",
+        "gracefullouisatemperature.com",
+        "graitsie.com",
+        "grapseex.com",
+        "gratisreem.shop",
+        "grazingmarrywomanhood.com",
+        "greatdexchange.com",
+        "greatlifebargains2024.com",
+        "grecmaru.com",
+        "greeghupoalrie.net",
+        "green-search-engine.com",
+        "greenadblocker.com",
+        "greenlinknow.com",
+        "greenplasticdua.com",
+        "greewepi.net",
+        "grefutiwhe.com",
+        "greygrid.net",
+        "grosserhis.top",
+        "grtya.com",
+        "grtyj.com",
+        "grtyv.com",
+        "grunoaph.net",
+        "gruntremoved.com",
+        "grupif.com",
+        "grygrothapi.pro",
+        "gsecurecontent.com",
+        "gtbdhr.com",
+        "gucucmaikaups.com",
+        "guesswhatnews.com",
+        "guineasbufo.top",
+        "gvcaffiliates.com",
+        "gwithearamajo.org",
+        "h0w-t0-watch.net",
+        "h74v6kerf.com",
+        "hammerhewer.top",
+        "handbaggather.com",
+        "handgripvegetationhols.com",
+        "harrowliquid.com",
+        "hatwasallokmv.info",
+        "hauchiwu.com",
+        "haveameet.com",
+        "havegrosho.com",
+        "hazoopso.net",
+        "hbloveinfo.com",
+        "heavenfull.com",
+        "hegemonjujus.shop",
+        "hehighursoo.com",
+        "helicient.com",
+        "helmethomicidal.com",
+        "hentaifap.land",
+        "heptix.net",
+        "heratheacle.com",
+        "heremployeesihi.info",
+        "heresanothernicemess.com",
+        "hespe-bmq.com",
+        "hetadinh.com",
+        "hetaint.com",
+        "hetapus.com",
+        "hetartwg.com",
+        "hetarust.com",
+        "hetaruvg.com",
+        "hetaruwg.com",
+        "heyserves.com",
+        "hh-btr.com",
+        "hhbypdoecp.com",
+        "hiasor.com",
+        "hibids10.com",
+        "hicpm10.com",
+        "hiend.xyz",
+        "highcpmgate.com",
+        "highercldfrev.com",
+        "higheurest.com",
+        "highmaidfhr.com",
+        "highperformancecpm.com",
+        "highperformancecpmgate.com",
+        "highperformancecpmnetwork.com",
+        "highperformancedformats.com",
+        "highperformancegate.com",
+        "highratecpm.com",
+        "highrevenuecpmnetwork.com",
+        "highrevenuegate.com",
+        "highrevenuenetwork.com",
+        "highwaycpmrevenue.com",
+        "hiiona.com",
+        "hilltopads.com",
+        "hilltopads.net",
+        "hilove.life",
+        "hiltonbett.com",
+        "himunpractical.com",
+        "hinaprecent.info",
+        "hinkhimunpractical.com",
+        "hintonjour.com",
+        "hipersushiads.com",
+        "historyactorabsolutely.com",
+        "hisurnhuh.com",
+        "hitcpm.com",
+        "hitopadxdz.xyz",
+        "hkl4h1trk.com",
+        "hnrgmc.com",
+        "hoa44trk.com",
+        "hoadaphagoar.net",
+        "hoalaicheey.com",
+        "hoctor-pharity.xyz",
+        "hoglinsu.com",
+        "hoktrips.com",
+        "holahupa.com",
+        "holdhostel.space",
+        "hollysocialspuse.com",
+        "honestlyvicinityscene.com",
+        "hooliganapps.com",
+        "hooligapps.com",
+        "hooligs.app",
+        "hoopbeingsmigraine.com",
+        "hopelessrolling.com",
+        "hopghpfa.com",
+        "hot-growngames.life",
+        "hottest-girls-online.com",
+        "hotxpromo.com",
+        "hoveltran.xyz",
+        "howboxmaa.site",
+        "howsliferightnow.com",
+        "hpyjmp.com",
+        "hpyrdr.com",
+        "hqtrk.com",
+        "hrahdmon.com",
+        "hrtya.com",
+        "hrtye.com",
+        "hrtyh.com",
+        "hsrvz.com",
+        "html-load.cc",
+        "html-load.com",
+        "htmonster.com",
+        "htoptracker11072023.com",
+        "hue2b.com",
+        "hue2n.com",
+        "hue4c.com",
+        "hueads.com",
+        "hugeedate.com",
+        "hugregregy.pro",
+        "huluads.info",
+        "hundredpercentmargin.com",
+        "hungryrise.com",
+        "hurlmedia.design",
+        "hxmanga.com",
+        "hyenadata.com",
+        "iamiraqi.com",
+        "ibeeckaidse.net",
+        "icgirls.com",
+        "icodstatus.shop",
+        "icubeswire.co",
+        "idescargarapk.com",
+        "ientent.stre4mplay.one",
+        "ieyipznx.art",
+        "ifdnzact.com",
+        "ifigent.com",
+        "ignals.com",
+        "ignitorkneecap.shop",
+        "ikengoti.com",
+        "ilaterdeallyig.info",
+        "illuminateinconveniencenutrient.com",
+        "imaxcash.com",
+        "img-load.com",
+        "imghst-de.com",
+        "imitrk13.com",
+        "imkirh.com",
+        "impactserving.com",
+        "improvebin.xyz",
+        "inabsolor.com",
+        "inaltariaon.com",
+        "inbrowserplay.com",
+        "indianfriendfinder.com",
+        "indiscreetarcadia.com",
+        "infeebasr.com",
+        "inflectionquake.com",
+        "infopicked.com",
+        "infra.systems",
+        "inheritknow.com",
+        "inncreasukedrev.info",
+        "inouva.com",
+        "inpagepush.com",
+        "inshelmetan.com",
+        "insideofnews.com",
+        "insigit.com",
+        "install-check.com",
+        "installupdate.online",
+        "instancesflushedslander.com",
+        "instant-adblock.xyz",
+        "instantpaydaynetwork.com",
+        "intab.fun",
+        "intellipopup.com",
+        "interclics.com",
+        "internewsweb.com",
+        "internodeid.com",
+        "interpersonalskillse.info",
+        "intorterraon.com",
+        "inumbreonr.com",
+        "invaderannihilationperky.com",
+        "investigationsuperbprone.com",
+        "investing-globe.com",
+        "invle.co",
+        "invol.co",
+        "iociley.com",
+        "ioffers.icu",
+        "iogjhbnoypg.com",
+        "iopiopiop.net",
+        "irkantyip.com",
+        "irresponsibilityhookup.com",
+        "irrigatenotwithstandingcommit.com",
+        "irtya.com",
+        "isabellagodpointy.com",
+        "isawthenews.com",
+        "ismlks.com",
+        "isolatedovercomepasted.com",
+        "isquitehappymut.org",
+        "isready2.online",
+        "issomeoneinth.info",
+        "istipaumophy.com",
+        "istlnkcl.com",
+        "itespurrom.com",
+        "itgiblean.com",
+        "itnuzleafan.com",
+        "itponytaa.com",
+        "itrustzone.site",
+        "itskiddien.club",
+        "itstuffnews.com",
+        "ittontrinevengre.info",
+        "ittorchicer.com",
+        "iuyggvhq.icu",
+        "ivpnoffers.com",
+        "iwanttodeliver.com",
+        "iwantusingle.com",
+        "iyfnz.com",
+        "iyfnzgb.com",
+        "iyfsearch.com",
+        "izeeto.com",
+        "ja2n2u30a6rgyd.com",
+        "jaavnacsdw.com",
+        "jads.co",
+        "jambosmodesty.com",
+        "jamstech.store",
+        "jashautchord.com",
+        "java8.xyz",
+        "jeekomih.com",
+        "jegiopad.top",
+        "jepsauveel.net",
+        "jerboasjourney.com",
+        "jeroud.com",
+        "jfjle4g5l.com",
+        "jggegj-rtbix.top",
+        "jhsnshueyt.click",
+        "jiuwert.online",
+        "jizzy.org",
+        "jjcwq.site",
+        "jjmrmeovo.world",
+        "joggerkochia.top",
+        "joglomsexurgod.net",
+        "joinpropeller.com",
+        "joohugreene.net",
+        "joudauhee.com",
+        "jowingtykhana.click",
+        "jpgtrk.com",
+        "jqtfoe92.com",
+        "jrpkizae.com",
+        "js-check.com",
+        "jsmentry.com",
+        "jsmjmp.com",
+        "jsmptjmp.com",
+        "jubsaugn.com",
+        "judebelii.com",
+        "juiceadv.com",
+        "juicyads.com",
+        "jump-path1.com",
+        "junbi-tracker.com",
+        "junkyadexchange.com",
+        "junmediadclikrmdi.com",
+        "justonemorenews.com",
+        "jwalf.com",
+        "jwalkin.com",
+        "kagonst.com",
+        "kaigaidoujin.com",
+        "kakbik.info",
+        "kamalafooner.space",
+        "kaminari.systems",
+        "kanoodle.com",
+        "karafutem.com",
+        "karoon.xyz",
+        "katecrochetvanity.com",
+        "kauriessizzler.shop",
+        "keenmagwife.live",
+        "keewoach.net",
+        "kektds.com",
+        "kentent.stre4mplay.one",
+        "ker2clk.com",
+        "kerumal.com",
+        "ketheappyrin.com",
+        "kettakihome.com",
+        "kgfjrb711.com",
+        "kgorilla.net",
+        "kiksajex.com",
+        "kindredplc.com",
+        "king3rsc7ol9e3ge.com",
+        "kingtrck1.com",
+        "kirteexe.tv",
+        "kirujh.com",
+        "kitchiepreppie.com",
+        "kllpelaa.net",
+        "kolkwi4tzicraamabilis.com",
+        "koogreep.com",
+        "korexo.com",
+        "krjxhvyyzp.com",
+        "ku2d3a7pa8mdi.com",
+        "ku42hjr2e.com",
+        "kunvertads.com",
+        "kuurza.com",
+        "kxnggkh2nj.com",
+        "kzt2afc1rp52.com",
+        "kzvcggahkgm.com",
+        "lacquerreddeform.com",
+        "lactasetooth.shop",
+        "ladrecaidroo.com",
+        "lambercoronel.top",
+        "lamplynx.com",
+        "land.pixelsee.app",
+        "landerhq.com",
+        "landing.candynetwork.ai",
+        "landing1.brazzersnetwork.com",
+        "lanesusanne.com",
+        "lassampy.com",
+        "last0nef1le.com",
+        "lavatorydownybasket.com",
+        "lavender64369.com",
+        "lby2kd27c.com",
+        "leadsecnow.com",
+        "leadshurriedlysoak.com",
+        "leapretrieval.com",
+        "lechosabode.shop",
+        "leesaushoah.net",
+        "leglikedescantwonder.com",
+        "lementwrencespri.info",
+        "lenkmio.com",
+        "lensmenfratchy.shop",
+        "leonbetvouum.com",
+        "leoyard.com",
+        "lepetitdiary.com",
+        "letitnews.com",
+        "letitredir.com",
+        "letsbegin.online",
+        "letshareus.com",
+        "letzonke.com",
+        "liaoptse.net",
+        "libertystmedia.com",
+        "lickingimprovementpropulsion.com",
+        "lidsaich.net",
+        "lifeporn.net",
+        "ligatus.com",
+        "liglomsoltuwhax.net",
+        "likedatings.life",
+        "lilinstall11x.com",
+        "lindychat.com",
+        "link.365av.net",
+        "link.advancedsystemrepairpro.com",
+        "linkadvdirect.com",
+        "linkboss.shop",
+        "linkchangesnow.com",
+        "linkmepu.com",
+        "linkonclick.com",
+        "linkredirect.biz",
+        "linksprf.com",
+        "lionessgrandchild.com",
+        "liquidfire.mobi",
+        "litteracywing.pro",
+        "liveadexchanger.com",
+        "livecams.com",
+        "livechatflirt.com",
+        "liveleadtracking.com",
+        "livepromotools.com",
+        "livezombymil.com",
+        "lizebruisiaculi.info",
+        "lkcoffe.com",
+        "lkstrck2.com",
+        "llpgpro.com",
+        "lmn-pou-win.com",
+        "lmp3.org",
+        "lnk8j7.com",
+        "lnkgt.com",
+        "lntrigulngdates.com",
+        "loaditfile.com",
+        "loazuptaice.net",
+        "localelover.com",
+        "locked-link.com",
+        "locooler-ageneral.com",
+        "lody24.com",
+        "logchipspumoid.shop",
+        "logicdate.com",
+        "logicschort.com",
+        "lone-pack.com",
+        "loodauni.com",
+        "loohaiturigavik.net",
+        "lookandfind.me",
+        "looksmart.com",
+        "loosebelt.com",
+        "lootynews.com",
+        "lorswhowishe.com",
+        "losingoldfry.com",
+        "loveaholics.com",
+        "loverevenue.com",
+        "lovesparkle.space",
+        "lowrihouston.pro",
+        "lowseedotr.com",
+        "lowtyroguer.com",
+        "lowtyruntor.com",
+        "loyeesihighlyreco.info",
+        "lp247p.com",
+        "lplimjxiyx.com",
+        "lpmediastorage.com",
+        "lpquizzhubon.com",
+        "lptrak.com",
+        "ltingecauyuksehi.com",
+        "luckyads.pro",
+        "luckyforbet.com",
+        "lukyday.xyz",
+        "luntedepsom.top",
+        "lurdoocu.com",
+        "lurgaimt.net",
+        "lusinlepading.com",
+        "lust-burning.rest",
+        "lust-goddess.buzz",
+        "luvaihoo.com",
+        "luxetalks.com",
+        "luxq8.com",
+        "lwnbts.com",
+        "lwonclbench.com",
+        "lxkzcss.xyz",
+        "lycheenews.com",
+        "lyconery-readset.com",
+        "lywasnothycanty.info",
+        "ma3ion.com",
+        "macacussimpson.top",
+        "macan-native.com",
+        "madeupice.com",
+        "madurird.com",
+        "mafroad.com",
+        "magicads.nl",
+        "magmafurnace.top",
+        "magsrv.com",
+        "mainadcenter.com",
+        "mainexclkdir.com",
+        "making.party",
+        "maleenhancement.top",
+        "mallettraumatize.com",
+        "maltunfaithfulpredominant.com",
+        "mamaunweft.click",
+        "manbycus.com",
+        "manconsider.com",
+        "mandjasgrozde.com",
+        "manolishutzpah.top",
+        "maper.info",
+        "maquiags.com",
+        "maredpt.com",
+        "masklink.org",
+        "masonrycruor.shop",
+        "massivebelieved.com",
+        "matchjunkie.com",
+        "matildawu.online",
+        "maxickedpantents.com",
+        "maxidefender.xyz",
+        "maxidownload.com",
+        "maxigamma.com",
+        "maybejanuarycosmetics.com",
+        "mb-npltfpro.com",
+        "mb01.com",
+        "mb102.com",
+        "mb103.com",
+        "mb104.com",
+        "mb223.com",
+        "mb38.com",
+        "mb57.com",
+        "mbjrkm2.com",
+        "mbreviews.info",
+        "mbsrv2.com",
+        "mbsspads.com",
+        "mbvlmz.com",
+        "mbvsm.com",
+        "mcfstats.com",
+        "mcpuwpsh.com",
+        "mcurrentlysea.info",
+        "mddsp.info",
+        "mdmexclusives.com",
+        "me4track.com",
+        "meantimesubside.com",
+        "meddlespeckers.top",
+        "media-412.com",
+        "media-serving.com",
+        "mediahell.world",
+        "mediasama.com",
+        "mediaxchange.co",
+        "meenetiy.com",
+        "meetradar.com",
+        "meetsexygirls.org",
+        "meetstorages.com",
+        "meetwebclub.com",
+        "megacot.com",
+        "megaffiliates.com",
+        "megdexchange.com",
+        "meherdewogoud.com",
+        "menepe.com",
+        "menews.org",
+        "meofmukindwoul.info",
+        "mericantpastellih.org",
+        "merterpazar.com",
+        "mesqwrte.net",
+        "messagereceiver.com",
+        "messenger-notify.xyz",
+        "metabatted.com",
+        "metatrckpixel.com",
+        "meteorclashbailey.com",
+        "metrepeaches.com",
+        "metrezaannatto.shop",
+        "metrica-yandex.com",
+        "mevarabon.com",
+        "mghkpg.com",
+        "mgid.com",
+        "mhiiopll.net",
+        "migrantspiteconnecting.com",
+        "milksquadronsad.com",
+        "millustry.top",
+        "mimosaavior.top",
+        "mirfakpersei.com",
+        "mirfakpersei.top",
+        "mirsuwoaw.com",
+        "misarea.com",
+        "miserly-phone.com",
+        "misspkl.com",
+        "mistysteel.co",
+        "mk-ads.com",
+        "mkaff.com",
+        "mkjsqrpmxqdf.com",
+        "mladedda.net",
+        "mlatrmae.net",
+        "mmentorapp.com",
+        "mmrtb.com",
+        "mnaspm.com",
+        "mndsrv.com",
+        "moartraffic.com",
+        "mob1ledev1ces.com",
+        "mobagent.com",
+        "mobileraffles.com",
+        "mobiletracking.ru",
+        "mobipromote.com",
+        "mobreach.com",
+        "mobsuitem.com",
+        "modificationdispatch.com",
+        "modoodeul.com",
+        "moilizoi.com",
+        "moksoxos.com",
+        "moleconcern.com",
+        "molypsigry.pro",
+        "momotrk.com",
+        "moncoerbb.com",
+        "monetag.com",
+        "moneysavinglifehacks.pro",
+        "monieraldim.click",
+        "monsterofnews.com",
+        "moonrocketaffiliates.com",
+        "mordoops.com",
+        "more1.biz",
+        "mosrtaek.net",
+        "mountaincaller.top",
+        "mourny-clostheme.com",
+        "moustachepoke.com",
+        "mouthdistance.bond",
+        "movemeforward.co",
+        "movfull.com",
+        "moviemediahub.com",
+        "moviesflix4k.club",
+        "moviesflix4k.xyz",
+        "movingfwd.co",
+        "mplayeranyd.info",
+        "mptentry.com",
+        "mqdownload.com",
+        "mrdzuibek.com",
+        "mtypitea.net",
+        "muheodeidsoan.info",
+        "muletatyphic.com",
+        "muvflix.com",
+        "mvmbs.com",
+        "my-promo7.com",
+        "my-rudderjolly.com",
+        "myadcash.com",
+        "myaffpartners.com",
+        "mybestdc.com",
+        "mybettermb.com",
+        "mydailynewz.com",
+        "myeasetrack.com",
+        "myemailtracking.com",
+        "myhugewords.com",
+        "myhypestories.com",
+        "myjollyrudder.com",
+        "mylot.com",
+        "mynutraresearch.com",
+        "myperfect2give.com",
+        "mypopadpro.com",
+        "myreqdcompany.com",
+        "mysagagame.com",
+        "mywondertrip.com",
+        "n4sredirect.com",
+        "n91hg.com",
+        "nabauxou.net",
+        "naiwoalooca.net",
+        "nalraughaksie.net",
+        "nan0cns.com",
+        "nanoadexchange.com",
+        "nanouwho.com",
+        "nasosettoourm.com",
+        "nasssmedia.com",
+        "nathanaeldan.pro",
+        "native-track.com",
+        "natregs.com",
+        "naugaugair.com",
+        "naughtydate.com",
+        "navigatingnautical.xyz",
+        "naxadrug.com",
+        "nbo-protect.pro",
+        "ndcomemunica.com",
+        "nectsideaments.com",
+        "neeceeglogu.net",
+        "needlive.com",
+        "negotiaterealm.com",
+        "nemppa.com",
+        "neptuntrack.com",
+        "nereu-gdr.com",
+        "nersionitsumpute.com",
+        "nessainy.net",
+        "nestlelento.shop",
+        "netcpms.com",
+        "netpatas.com",
+        "netrefer.co",
+        "nettrackway.com",
+        "netund.com",
+        "network.nutaku.net",
+        "neuralmi.top",
+        "never2never.com",
+        "newbluetrue.xyz",
+        "newjulads.com",
+        "newmytrp.com",
+        "newoffertops.info",
+        "newrtbside.com",
+        "news-place1.xyz",
+        "news-portals1.xyz",
+        "news-site1.xyz",
+        "news-universe1.xyz",
+        "news-weekend1.xyz",
+        "newscadence.com",
+        "newsforyourmood.com",
+        "newsfrompluto.com",
+        "newsignites.com",
+        "newslikemeds.com",
+        "newstemptation.com",
+        "newsyour.net",
+        "newtab-media.com",
+        "next-lust.cfd",
+        "nextoptim.com",
+        "nextpointkaynersave.com",
+        "nextyourcontent.com",
+        "ngfruitiesmatc.info",
+        "ngplansforourco.com",
+        "ngsinspiringtga.info",
+        "nicatethebene.info",
+        "nicerisle.com",
+        "nightbesties.com",
+        "nigroopheert.com",
+        "nimrute.com",
+        "ninancukankin.org",
+        "nindsstudio.com",
+        "ninetyninesec.com",
+        "nn125.com",
+        "noavoahevugrib.com",
+        "nomadsbrand.com",
+        "nomadsfit.com",
+        "nominalclck.name",
+        "nonculifus.com",
+        "nonsynchronous.yachts",
+        "nontraditionally.rest",
+        "noohapou.com",
+        "noolt.com",
+        "north-verification.com",
+        "northdownload.com",
+        "northrtbads.top",
+        "nossairt.net",
+        "notifpushnext.net",
+        "notimoti.com",
+        "notmil.com",
+        "nougacoush.com",
+        "noughttrustthreshold.com",
+        "novelslopeoppressive.com",
+        "novibet.partners",
+        "novitrk7.com",
+        "novitrk8.com",
+        "nozoakamsaun.net",
+        "npcad.com",
+        "nreg.world",
+        "nrs6ffl9w.com",
+        "nsmpydfe.net",
+        "nsultingcoe.net",
+        "ntoftheusysia.info",
+        "ntoftheusysianedt.info",
+        "ntrfr.leovegas.com",
+        "ntrftrk.com",
+        "ntrftrksec.com",
+        "ntvpforever.com",
+        "nukeluck.net",
+        "numbertrck.com",
+        "nurewsawaninc.info",
+        "nutchaungong.com",
+        "nv3tosjqd.com",
+        "nwwrtbbit.com",
+        "nxgmqhll.com",
+        "nxt-psh.com",
+        "nya2.com",
+        "nyetm2mkch.com",
+        "nylonnickel.xyz",
+        "nythingamglad.com",
+        "o18.click",
+        "o333o.com",
+        "oabaubsutha.com",
+        "oalsauwy.net",
+        "oamsedsaiph.net",
+        "oaphoace.net",
+        "oassackegh.net",
+        "oataltaul.com",
+        "obqj2.com",
+        "obsidiancutter.top",
+        "ockremarkedon.com",
+        "ocmhood.com",
+        "ocoaksib.com",
+        "odalrevaursartu.net",
+        "odemonstrat.pro",
+        "odintsures.click",
+        "ofcuboneom.com",
+        "offaces-butional.com",
+        "offergate-ecommerce-cdn5.com",
+        "offergate-games-download1.com",
+        "offergate-software11.com",
+        "offernow24.com",
+        "offershub.net",
+        "offerstrack.net",
+        "offersuperhub.com",
+        "offertops.info",
+        "officetablntry.org",
+        "offshuppetchan.com",
+        "ofphanpytor.com",
+        "ofredirect.com",
+        "ofseedotom.com",
+        "oghqvffmnt.com",
+        "oglalavoodoo.world",
+        "ogrepsougie.net",
+        "ogtrk.net",
+        "ohrdsplu.com",
+        "okueroskynt.com",
+        "omciecoa37tw4.com",
+        "omegaadblock.net",
+        "omegadblocker.com",
+        "omgpm.com",
+        "omgt3.com",
+        "omgt4.com",
+        "omgt5.com",
+        "omklefkior.com",
+        "omzal.com",
+        "on1nzbp3.com",
+        "onad.eu",
+        "onatallcolumn.com",
+        "oncesets.com",
+        "onclasrv.com",
+        "onclckpop.com",
+        "onclickads.net",
+        "onclickalgo.com",
+        "onclickclear.com",
+        "onclickgenius.com",
+        "onclickmax.com",
+        "onclickmega.com",
+        "onclickperformance.com",
+        "onclickprediction.com",
+        "onclicksuper.com",
+        "onclicktop.com",
+        "one-name-studio.com",
+        "oneclickpic.net",
+        "onetouch12.com",
+        "online-deal.click",
+        "onlinecashmethod.com",
+        "onlinedeltazone.online",
+        "onlinefinanceworld.com",
+        "onlinepuonline.com",
+        "onmantineer.com",
+        "onstunkyr.com",
+        "ontrklnk.com",
+        "oodrampi.com",
+        "oopatet.com",
+        "openadserving.com",
+        "opengalaxyapps.monster",
+        "openmindter.com",
+        "operarymishear.store",
+        "ophoacit.com",
+        "opoxv.com",
+        "opparasecton.com",
+        "opportunitysearch.net",
+        "opptmzpops.com",
+        "opskln.com",
+        "optimizesrv.com",
+        "optnx.com",
+        "optvz.com",
+        "optyruntchan.com",
+        "optzsrv.com",
+        "opus-whisky.com",
+        "oranegfodnd.com",
+        "oraubsoux.net",
+        "orbitercocket.top",
+        "organicowner.com",
+        "orgassme.com",
+        "orhassagvaqw.com",
+        "orlowedonhisdhilt.info",
+        "osarmapa.net",
+        "oscarey.my.id",
+        "osfultrbriolenai.info",
+        "ossfloetteor.com",
+        "ossmightyenar.net",
+        "ossshucklean.com",
+        "ostlon.com",
+        "otherofherlittle.info",
+        "otieu.com",
+        "otnolabttmup.com",
+        "otnolatrnup.com",
+        "otoadom.com",
+        "ougeechimp.net",
+        "oulsaultaulert.com",
+        "oulsools.com",
+        "oungimuk.net",
+        "ourcommonnews.com",
+        "ourcommonstories.com",
+        "ourcoolposts.com",
+        "ourcoolstories.com",
+        "outgratingknack.com",
+        "outhulem.net",
+        "outlookabsorb.com",
+        "outoctillerytor.com",
+        "outwingullom.com",
+        "ovardu.com",
+        "ovdimin.buzz",
+        "overcrowdsillyturret.com",
+        "overninetalesor.com",
+        "oversolosisor.com",
+        "ow5a.net",
+        "owrkwilxbw.com",
+        "oxbbzxqfnv.com",
+        "oxtsale1.com",
+        "oyi9f1kbaj.com",
+        "ozcarcupboard.com",
+        "ozonerexhaled.click",
+        "ozongees.com",
+        "p12acx.com",
+        "p8wj9zko.com",
+        "pa5ka.com",
+        "paaeeets.net",
+        "paeastei.net",
+        "paehceman.com",
+        "pagerrentablespotlight.com",
+        "paid.outbrain.com",
+        "paikapiglauthi.com",
+        "palmmalice.com",
+        "pamcallets.shop",
+        "panelghostscontractor.com",
+        "parentlargevia.com",
+        "parisjeroleinpg.com",
+        "parkingridiculous.com",
+        "parturemv.top",
+        "passeura.com",
+        "passfixx.com",
+        "passtechusa.com",
+        "pasxfixs.com",
+        "patronimproveyourselves.com",
+        "paulastroid.com",
+        "paxsfiss.com",
+        "paxxfiss.com",
+        "payvclick.com",
+        "pclk.name",
+        "pcmclks.com",
+        "pctsrv.com",
+        "pearlysweepoverface.com",
+        "pecialukizeias.info",
+        "peethach.com",
+        "peezette-intial.com",
+        "pejzeexukxo.com",
+        "pelis-123.org",
+        "pemsrv.com",
+        "peopleloves.me",
+        "pereliaastroid.com",
+        "perfecttoolmedia.com",
+        "performancetrustednetwork.com",
+        "perispro.com",
+        "permanentillnessclever.com",
+        "perpetraterummage.com",
+        "perryvolleyball.com",
+        "pertersacstyli.com",
+        "pertfinds.com",
+        "pertlouv.com",
+        "pesterolive.com",
+        "petendereruk.com",
+        "pewyophic.top",
+        "pexorise.com",
+        "pexu.com",
+        "pgmediaserve.com",
+        "phaitaghy.com",
+        "pheniter.com",
+        "phenotypebest.com",
+        "phirussacmush.net",
+        "phoognol.com",
+        "phumpauk.com",
+        "pickaflick.co",
+        "pierisrapgae.com",
+        "pigeonside.com",
+        "pilotstracking.com",
+        "pinco225.win",
+        "pipaffiliates.com",
+        "pipsol.net",
+        "pisism.com",
+        "pitchedfurs.com",
+        "pitysuffix.com",
+        "pixellitomedia.com",
+        "pk910324e.com",
+        "pki87n.pro",
+        "placetobeforever.com",
+        "planetarium-planet.com",
+        "planmybackup.co",
+        "plantalwauk.top",
+        "planyourbackup.co",
+        "play-lg.com",
+        "playamopartners.com",
+        "playerswhisper.com",
+        "playgirl.com",
+        "playonlinegames.space",
+        "playrainbet.com",
+        "playstretch.host",
+        "playvideoclub.com",
+        "pleasetrack.com",
+        "plexop.net",
+        "plinksplanet.com",
+        "plirkep.com",
+        "pllsadrp.net",
+        "plorexdry.com",
+        "pnouting.com",
+        "pnperf.com",
+        "poawooptugroo.com",
+        "podefr2.net",
+        "pointclicktrack.com",
+        "pointroll.com",
+        "poisism.com",
+        "polyh-nce.com",
+        "pon-prairie.com",
+        "ponk.pro",
+        "pooksys.site",
+        "popads.net",
+        "popblockergold.info",
+        "popcash.net",
+        "popcornvod.com",
+        "poperblocker.com",
+        "popgoldblocker.info",
+        "popmyads.com",
+        "popped.biz",
+        "populationrind.com",
+        "popunder.bid",
+        "popunderjs.com",
+        "popupblockergold.com",
+        "popupsblocker.org",
+        "pornhb.me",
+        "postback1win.com",
+        "postlnk.com",
+        "potawe.com",
+        "potsaglu.net",
+        "potskolu.net",
+        "poweredbyliquidfire.mobi",
+        "ppcmate.com",
+        "ppcnt.co",
+        "ppcnt.eu",
+        "ppcnt.us",
+        "ppcnwt.com",
+        "ppwpn.com",
+        "practicallyfire.com",
+        "prdredir.com",
+        "precisejoker.com",
+        "predictiondexchange.com",
+        "predictiondisplay.com",
+        "predictionds.com",
+        "predictivadnetwork.com",
+        "predictivadvertising.com",
+        "predictivdisplay.com",
+        "premium-members.com",
+        "premium4kflix.website",
+        "premiumaffi.com",
+        "premonitioninventdisagree.com",
+        "press-here-to-continue.com",
+        "pressyour.com",
+        "pretrackings.com",
+        "prfwhite.com",
+        "primarkingfun.giving",
+        "prime-vpnet.com",
+        "princesinistervirus.com",
+        "privacysafeguard.net",
+        "privatedqualizebrui.info",
+        "privilegedmansfieldvaguely.com",
+        "prizefrenzy.top",
+        "prmtracking.com",
+        "pro-adblocker.com",
+        "processsky.com",
+        "prodtraff.com",
+        "professionalswebcheck.com",
+        "proffering.xyz",
+        "profitablecpmgate.com",
+        "profitableexactly.com",
+        "profitablegate.com",
+        "profitablegatecpm.com",
+        "profitablegatetocontent.com",
+        "profitableratecpm.com",
+        "profitabletrustednetwork.com",
+        "promenaded.autos",
+        "promerycergerful.com",
+        "promo-bc.com",
+        "promo.pixelsee.app",
+        "pronouncedlaws.com",
+        "pronovosty.org",
+        "propadsviews.com",
+        "propbn.com",
+        "propellerads.com",
+        "propellerclick.com",
+        "propellerpops.com",
+        "propertyofnews.com",
+        "protect-your-privacy.net",
+        "protected-redirect.click",
+        "protectflow.life",
+        "protrckit.com",
+        "provenpixel.com",
+        "prpops.com",
+        "prtord.com",
+        "prtrackings.com",
+        "prwave.info",
+        "psaiceex.net",
+        "psaltauw.net",
+        "psaugourtauy.com",
+        "psaussasta.net",
+        "psauwaun.com",
+        "psegeevalrat.net",
+        "psilaurgi.net",
+        "psma02.com",
+        "psoabojaksou.net",
+        "psockapa.net",
+        "psotudev.com",
+        "pssy.xyz",
+        "psumpupsauket.com",
+        "ptaupsom.com",
+        "pteemsolrirgegi.com",
+        "ptistyvymi.com",
+        "ptoakrok.net",
+        "ptoftashulsee.com",
+        "ptongouh.net",
+        "pttraffic.online",
+        "ptugnins.net",
+        "ptupsewo.net",
+        "ptwmcd.com",
+        "ptwmjmp.com",
+        "ptyalinbrattie.com",
+        "pubdirecte.com",
+        "publisherads.click",
+        "publited.com",
+        "pubtrky.com",
+        "puldhukelpmet.com",
+        "pulinkme.com",
+        "pulseonclick.com",
+        "punsong.com",
+        "pupspu.com",
+        "pupur.net",
+        "pupur.pro",
+        "pureadexchange.com",
+        "purpleads.io",
+        "push-news.click",
+        "push-sense.com",
+        "push1000.top",
+        "pushclk.com",
+        "pushking.net",
+        "pushmobilenews.com",
+        "pushtorm.net",
+        "pushub.net",
+        "pushwelcome.com",
+        "pussl3.com",
+        "pussl48.com",
+        "putchumt.com",
+        "pvclouds.com",
+        "q8ntfhfngm.com",
+        "qelllwrite.com",
+        "qertewrt.com",
+        "qksrv.cc",
+        "qksrv1.com",
+        "qnp16tstw.com",
+        "qr-captcha.com",
+        "qrlsx.com",
+        "qrprobopassor.com",
+        "quadrinhoseroticos.net",
+        "qualiclicks.com",
+        "qualityadverse.com",
+        "qualitydating.top",
+        "quantumadblocker.com",
+        "quernstomped.top",
+        "questioningexperimental.com",
+        "quickwittedfeedback.pro",
+        "quilladot.org",
+        "quixoticzest.com",
+        "qwikln.com",
+        "qxdownload.com",
+        "qz496amxfh87mst.com",
+        "r-tb.com",
+        "r3f.technology",
+        "rallantynethebra.com",
+        "random-affiliate.atimaze.com",
+        "rankpeers.com",
+        "raordukinarilyhuk.com",
+        "raosmeac.net",
+        "rapidhits.net",
+        "rapolok.com",
+        "rashbarnabas.com",
+        "raunooligais.net",
+        "rbtfit.com",
+        "rbxtrk.com",
+        "rcdn-web.com",
+        "rdrsec.com",
+        "rdsa2012.com",
+        "rdsrv.com",
+        "rdtk.io",
+        "rdtracer.com",
+        "rdvinfidele.club",
+        "readserv.com",
+        "realcfadsblog.com",
+        "reallyzills.top",
+        "realsh.xyz",
+        "realsrv.com",
+        "realtime-bid.com",
+        "realxavounow.com",
+        "rearedblemishwriggle.com",
+        "rebrew-foofteen.com",
+        "recesstransport.icu",
+        "reclod.com",
+        "recommended-twice.com",
+        "recompensecombinedlooks.com",
+        "record.commissionkings.ag",
+        "record.rizk.com",
+        "recyclinganewupdated.com",
+        "recyclingbees.com",
+        "red-direct-n.com",
+        "redaffil.com",
+        "redirect-ads.com",
+        "redirect-path1.com",
+        "redirecting.online",
+        "redirectingat.com",
+        "redirectvoluum.com",
+        "redrotou.net",
+        "redwingmagazine.com",
+        "reebr.com",
+        "referredscarletinward.com",
+        "refpa.top",
+        "refpa4293501.top",
+        "refpabuyoj.top",
+        "refpaikgai.top",
+        "refpamjeql.top",
+        "refpasrasw.world",
+        "refpaxfbvjlw.top",
+        "refundsreisner.life",
+        "refutationtiptoe.com",
+        "regulushamal.top",
+        "rehvbghwe.cc",
+        "rekipion.com",
+        "rel-s.com",
+        "relevefr.top",
+        "reliablemore.com",
+        "relievedgeoff.com",
+        "remembergirl.com",
+        "reminews.com",
+        "remv43-rtbix.top",
+        "rencessedessations.com",
+        "rentalrebuild.com",
+        "rentingimmoderatereflecting.com",
+        "reopenshelly.cfd",
+        "reorganizeache.com",
+        "replaceexplanationevasion.com",
+        "reporo.net",
+        "reprintvariousecho.com",
+        "reroplittrewheck.pro",
+        "resentreaccotia.com",
+        "residenceseeingstanding.com",
+        "responsiverender.com",
+        "resterent.com",
+        "restions-planted.com",
+        "restorationbowelsunflower.com",
+        "retgspondingco.com",
+        "retrosowenian.shop",
+        "revenuenetwork.com",
+        "reviewdollars.com",
+        "revimedia.com",
+        "rewardtk.com",
+        "rewqpqa.net",
+        "rexsrv.com",
+        "rhinoaffiliates.com",
+        "rhoditegrunter.shop",
+        "rhudsplm.com",
+        "rhvdsplm.com",
+        "rhxdsplm.com",
+        "riflesurfing.xyz",
+        "riftharp.com",
+        "rightypulverizetea.com",
+        "riowrite.com",
+        "riverhit.com",
+        "rizzomdaledh.top",
+        "rm358.com",
+        "rmaticalacm.info",
+        "rmhfrtnd.com",
+        "rmzsglng.com",
+        "rndhaunteran.com",
+        "rndskittytor.com",
+        "roadcontagion.com",
+        "roaddataay.live",
+        "roastoup.com",
+        "rochestertrend.com",
+        "rockstorageplace.com",
+        "rockytrails.top",
+        "rocoads.com",
+        "rolltrk4.com",
+        "rolltrk9.com",
+        "romil-jdd.com",
+        "roobetaffiliates.com",
+        "roots.baby",
+        "rootzaffiliates.com",
+        "rose2919.com",
+        "rotumal.com",
+        "roudoduor.com",
+        "rougloujouwoate.com",
+        "rounddescribe.com",
+        "roundflow.net",
+        "routes.name",
+        "routgveriprt.com",
+        "roverinvolv.bid",
+        "rovno.xyz",
+        "royalcactus.com",
+        "rozamimo9za10.com",
+        "rsaltsjt.com",
+        "rsppartners.com",
+        "rtbbhub.com",
+        "rtbbpowaq.com",
+        "rtbix.xyz",
+        "rtbreachads.com",
+        "rtbsuperhub.com",
+        "rtmark.net",
+        "rtoukfareputfe.info",
+        "rtyznd.com",
+        "rubylife.go2cloud.org",
+        "rudderwebmy.com",
+        "rum39bxk.fun",
+        "runslin.com",
+        "runtnc.net",
+        "rvetreyu.net",
+        "rvisofoseveralye.com",
+        "rvrpushserv.com",
+        "s0cool.net",
+        "s20dh7e9dh.com",
+        "s3g6.com",
+        "safe-connection21.com",
+        "saillevity.com",
+        "saltpairwoo.live",
+        "samage-bility.icu",
+        "sandyrecordingmeet.com",
+        "sarcasmadvisor.com",
+        "sasontnwc.net",
+        "savinist.com",
+        "scaredframe.com",
+        "scenbe.com",
+        "score-feed.com",
+        "scoredconnect.com",
+        "scratchy-map.com",
+        "screenov.site",
+        "sealthatleak.com",
+        "searchmulty.com",
+        "searchsecurer.com",
+        "seatrackingdomain.com",
+        "secretarypleasure.xyz",
+        "secthatlead.com",
+        "secureclickers.com",
+        "securecloud-smart.com",
+        "securecloud-sml.com",
+        "secureclouddt-cd.com",
+        "secured-ad.com",
+        "securedsmcd.com",
+        "securedt-sm.com",
+        "securegfm.com",
+        "secureleadsrn.com",
+        "sedodna.com",
+        "seethisinaction.com",
+        "semqraso.net",
+        "senonsiatinus.com",
+        "seo-overview.com",
+        "ser678uikl.xyz",
+        "sereanstanza.com",
+        "serve-servee.com",
+        "serve.prestigecasino.com",
+        "serve.williamhillcasino.com",
+        "servetean.site",
+        "serving-refor.com",
+        "servsserverz.com",
+        "seteamsobtantion.com",
+        "setoinc.com",
+        "setravieso.com",
+        "sevenbuzz.com",
+        "sex-and-flirt.com",
+        "sexad.net",
+        "sexemulator.com",
+        "sexfamilysim.net",
+        "sexflirtbook.com",
+        "sexintheuk.com",
+        "shakingtacklingunpeeled.com",
+        "sharpofferlinks.com",
+        "shaugacakro.net",
+        "shauladubhe.com",
+        "shauladubhe.top",
+        "shbzek.com",
+        "she-want-fuck.com",
+        "sheecmimty.net",
+        "sheegiwo.com",
+        "sherouscolvered.com",
+        "shinebliss.com",
+        "shipwreckclassmate.com",
+        "shoagloumtoamir.net",
+        "shoopusahealth.com",
+        "shopeasy.by",
+        "short.bitchute.com",
+        "shortpixel.ai",
+        "shortssibilantcrept.com",
+        "shotgunchancecruel.com",
+        "show-me-how.net",
+        "showcasead.com",
+        "showcasethat.com",
+        "shuanshu.com.com",
+        "shulugoo.net",
+        "shussausach.com",
+        "signamentswithd.com",
+        "simple-isl.com",
+        "sing-tracker.com",
+        "singledatetime.com",
+        "singlesexdates.com",
+        "singlewomenmeet.com",
+        "sixft-apart.com",
+        "skated.co",
+        "skipvideoads.com",
+        "skylindo.com",
+        "skymobi.agency",
+        "skyscrapertowel.com",
+        "slashstar.net",
+        "slatecharm.co",
+        "slcuse.com",
+        "slideff.com",
+        "slikslik.com",
+        "slimspots.com",
+        "sloto.live",
+        "slowww.xyz",
+        "smallestexpectedspecialty.com",
+        "smallfunnybears.com",
+        "smart-wp.com",
+        "smartadtags.com",
+        "smartblocker.org",
+        "smartcj.com",
+        "smartcpatrack.com",
+        "smartmnews.pro",
+        "smarttds.org",
+        "smarttopchain.nl",
+        "smentbrads.info",
+        "smlypotr.net",
+        "smrt-content.com",
+        "snammar-jumntal.com",
+        "snapcheat16s.com",
+        "sneakyadministration.com",
+        "snoreempire.com",
+        "snowdayonline.xyz",
+        "snuff-brownsprintcountry.com",
+        "snugglethesheep.com",
+        "sobakenchmaphk.com",
+        "socialsex.biz",
+        "socialsex.com",
+        "sodefender.pro",
+        "sofinpushpile.com",
+        "softonixs.xyz",
+        "solaranalytics.org",
+        "soldierreproduceadmiration.com",
+        "solispartner.com",
+        "somebestgamesus.com",
+        "soocaips.com",
+        "sotchoum.com",
+        "sousefulhead.com",
+        "spacecatholicpalmful.com",
+        "spacetraff.com",
+        "spackgeranic.shop",
+        "spanpromo-link.com",
+        "spareforads.top",
+        "sparkmatch.life",
+        "sparkstudios.com",
+        "sparta-tracking.xyz",
+        "spdate.com",
+        "special-offers.online",
+        "special-promotions.online",
+        "special-trending-news.com",
+        "speednetwork14.com",
+        "speedsupermarketdonut.com",
+        "spendcrazy.net",
+        "sperans-beactor.com",
+        "sperebnf.click",
+        "spicygirlshere.life",
+        "spin83qr.com",
+        "spklmis.com",
+        "splungedhobie.click",
+        "sports-streams-online.best",
+        "sports-tab.com",
+        "spotlesscomplaint.com",
+        "spotofspawn.com",
+        "spotscenered.info",
+        "spreadingsinew.com",
+        "sprinlof.com",
+        "sptrkr.com",
+        "spunorientation.com",
+        "spuppeh.com",
+        "spuppeh.net",
+        "spygenix.xyz",
+        "sr7pv7n5x.com",
+        "srtrak.com",
+        "srv2trking.com",
+        "srvpcn.com",
+        "srvqck11.com",
+        "srvqck15.com",
+        "srvqck3.com",
+        "srvqck5.com",
+        "srvtrck.com",
+        "ssteeraa.net",
+        "staaqwe.com",
+        "stableflowconnection.co.in",
+        "staggersuggestedupbrining.com",
+        "stardomcoit.com",
+        "starmobmedia.com",
+        "starry-galaxy.com",
+        "startd0wnload22x.com",
+        "statistic-data.com",
+        "statsmobi.com",
+        "stawhoph.com",
+        "steerensout.net",
+        "stemboastfulrattle.com",
+        "stenexeb.xyz",
+        "steroidbazaarbalance.com",
+        "stethepsartopo.com",
+        "sthoutte.com",
+        "stikroltiltoowi.net",
+        "stimaariraco.info",
+        "stoopfalse.com",
+        "stoorgel.com",
+        "stoorgouzoy.com",
+        "stop-adblocker.info",
+        "stopadblocker.com",
+        "stopadzblock.net",
+        "stopblockads.com",
+        "storader.com",
+        "storyunicornupper.com",
+        "stream-all.com",
+        "streamereasy.click",
+        "streamsearchclub.com",
+        "streamyourvid.com",
+        "strenuoustarget.com",
+        "strettechoco.com",
+        "strewdirtinessnestle.com",
+        "strtgic.com",
+        "stt6.cfd",
+        "studiocustomers.com",
+        "stuffedbeforehand.com",
+        "stvbiopr.net",
+        "stvkr.com",
+        "stvwell.online",
+        "subjectsfaintly.com",
+        "suddenvampire.com",
+        "sudukrirga.net",
+        "sulkvulnerableexpecting.com",
+        "sumbreta.com",
+        "sunflowerbright106.io",
+        "superadexchange.com",
+        "superfastcdn.com",
+        "superfasti.co",
+        "supersedeforbes.com",
+        "suppliedhopelesspredestination.com",
+        "supremeadblocker.com",
+        "suptraf.com",
+        "surge.systems",
+        "surrogateausteritywhence.com",
+        "surveyonline.top",
+        "surveyspaid.com",
+        "swathedneural.shop",
+        "swinity.com",
+        "swomanifefashionis.org",
+        "sxlflt.com",
+        "synccora.com",
+        "syncedvision.com",
+        "synonymdetected.com",
+        "systeme-business.online",
+        "systemleadb.com",
+        "szqxvo.com",
+        "t2lgo.com",
+        "taghaugh.com",
+        "taginova.xyz",
+        "tagsd.com",
+        "takabaubles.shop",
+        "takecareproduct.com",
+        "takegerman.com",
+        "takelnk.com",
+        "takeyouforward.co",
+        "tapdb.net",
+        "taprtopcldfa.co",
+        "taprtopcldfard.co",
+        "taprtopcldfb.co",
+        "targeta41.net",
+        "targetingnow.com",
+        "targetmatch.co",
+        "targhe.info",
+        "taroads.com",
+        "tatrck.com",
+        "tbeiu658gftk.com",
+        "tcare.today",
+        "tdspa.top",
+        "teamsoutspoken.com",
+        "techiteration.com",
+        "techreviewtech.com",
+        "tegleebs.com",
+        "tejoafotocmal.com",
+        "teksishe.net",
+        "telyn610zoanthropy.com",
+        "temksrtd.net",
+        "temperrunnersdale.com",
+        "tencableplug.com",
+        "terbit2.com",
+        "terpenwordman.top",
+        "terraclicks.com",
+        "tessaragair.top",
+        "tfaln.com",
+        "tffkroute.com",
+        "tgp1.brazzersnetwork.com",
+        "thairoob.com",
+        "thanosofcos5.com",
+        "thaoheakolons.info",
+        "thaudray.com",
+        "the-binary-trader.biz",
+        "thebestgame2020.com",
+        "thebigadsstore.com",
+        "thecarconnections.com",
+        "thechronicles2.xyz",
+        "theepsie.com",
+        "theerrortool.com",
+        "theextensionexpert.com",
+        "thefacux.com",
+        "theirbellstudio.co",
+        "theonesstoodtheirground.com",
+        "thesafersearch.com",
+        "thetoptrust.com",
+        "theusualsuspects.biz",
+        "theyellownewtab.com",
+        "thickspaghetti.com",
+        "thiltoocmom.com",
+        "thinkaction.com",
+        "thirawogla.com",
+        "thisisyourprize.site",
+        "thofteert.com",
+        "thomasalthoughhear.com",
+        "thoroughlypantry.com",
+        "thouptoorg.com",
+        "ticalfelixstownru.info",
+        "tiger-spotted.cyou",
+        "tigerbrluck.com",
+        "tigerking.world",
+        "tilttrk.com",
+        "tiltwin.com",
+        "timot-cvk.info",
+        "tingswifing.click",
+        "tinsus.com",
+        "tisaneata.com",
+        "titaniumveinshaper.com",
+        "tjoomo.com",
+        "tjwsg.com",
+        "tl2go.com",
+        "tm-offers.gamingadult.com",
+        "tmb5trk.com",
+        "tmtrck.com",
+        "tnctrx.com",
+        "tnkexchange.com",
+        "toenailannouncehardworking.com",
+        "toequiet.website",
+        "togerspas.com",
+        "together2night.com",
+        "toiletpaper.life",
+        "tomatoqqamber.click",
+        "tomladvert.com",
+        "tomlldahehun.org",
+        "tonefuse.com",
+        "tonsilsuggestedtortoise.com",
+        "toonujoops.net",
+        "toopsoug.net",
+        "toothcauldron.com",
+        "top-performance.best",
+        "topatincompany.com",
+        "topblockchainsolutions.nl",
+        "topclickguru.com",
+        "topdealad.com",
+        "topfdeals.com",
+        "topflownews.com",
+        "topgurudeals.com",
+        "topodat.info",
+        "toprevenuegate.com",
+        "toptrendyinc.com",
+        "toroadvertisingmedia.com",
+        "torpsol.com",
+        "torrent-protection.com",
+        "toscytheran.com",
+        "totadblock.com",
+        "totaladblock.com",
+        "totaladperformance.com",
+        "totalnicefeed.com",
+        "totalwownews.com",
+        "totlnkcl.com",
+        "touroumu.com",
+        "tourukaustoglee.net",
+        "toxtren.com",
+        "tozoruaon.com",
+        "tpmr.com",
+        "tr-boost.com",
+        "tr-bouncer.com",
+        "tr-monday.xyz",
+        "tr-rollers.xyz",
+        "tr-usual.com",
+        "tracemonitorusa.life",
+        "track-campaing.club",
+        "track-victoriadates.com",
+        "track.kinetiksoft.com",
+        "track.livesportnet.com",
+        "track.totalav.com",
+        "track4ref.com",
+        "trackcherry.com",
+        "trackclicks00.com",
+        "tracker-2.com",
+        "tracker-tds.info",
+        "tracker.loropartners.com",
+        "trackerflw.com",
+        "trackerrr.com",
+        "trackerx.ru",
+        "trackeverything.co",
+        "tracking-aws-5.com",
+        "trackingtraffo.com",
+        "trackmundo.com",
+        "tracks20.com",
+        "tracksfaster.com",
+        "trackstracker.com",
+        "tracktds.com",
+        "tracktds.live",
+        "tracktilldeath.club",
+        "trackvisible.com",
+        "trackvoluum.com",
+        "trackwilltrk.com",
+        "tracot.com",
+        "tradeadexchange.com",
+        "traffic-c.com",
+        "traffic.club",
+        "trafficbass.com",
+        "trafficborder.com",
+        "trafficbroker.com",
+        "trafficdecisions.com",
+        "trafficdok.com",
+        "trafficforce.com",
+        "traffichaus.com",
+        "trafficholder.com",
+        "traffichunt.com",
+        "trafficinvest.com",
+        "trafficlide.com",
+        "trafficmagnates.com",
+        "trafficmoon.com",
+        "trafficmoose.com",
+        "trafficstars.com",
+        "trafforsrv.com",
+        "traffrout.com",
+        "trafyield.com",
+        "trailmadamecorrelation.com",
+        "trakaff.net",
+        "trakit20.com",
+        "traktortds.com",
+        "traktrafficflow.com",
+        "trakzon.com",
+        "trandlife.info",
+        "trasupr.com",
+        "trck.wargaming.net",
+        "trcklks.com",
+        "trckswrm.com",
+        "trcyrn.com",
+        "trellian.com",
+        "trftopp.biz",
+        "trigsfrisky.shop",
+        "trilema.com",
+        "trk-access.com",
+        "trk-vod.com",
+        "trk301.com",
+        "trkbc.com",
+        "trkbng.com",
+        "trkings.com",
+        "trkless.com",
+        "trklnks.com",
+        "trknext.com",
+        "trknk.com",
+        "trknovi.com",
+        "trkred.com",
+        "trksmorestreacking.com",
+        "trmobc.com",
+        "troopsassistedstupidity.com",
+        "troublebrought.com",
+        "trpool.org",
+        "trpop.xyz",
+        "truevibe.live",
+        "trustedcpmrevenue.com",
+        "trustedgatetocontent.com",
+        "trustedpeach.com",
+        "trustedzone.info",
+        "trustvarietywee.com",
+        "trustyable.com",
+        "trustzonevpn.info",
+        "truthtraff.com",
+        "trw12.com",
+        "try.opera.com",
+        "tseywo.com",
+        "tsml.fun",
+        "tsyndicate.com",
+        "ttoc8ok.com",
+        "tubeadvertising.eu",
+        "tubecup.net",
+        "tubroaffs.org",
+        "tuffoonincaged.com",
+        "tundrafolder.com",
+        "turndynamicforbes.com",
+        "turnhub.net",
+        "turnstileunavailablesite.com",
+        "tutvp.com",
+        "tvas-b.pw",
+        "twigwisp.com",
+        "twinfill.com",
+        "twinkle-fun.net",
+        "twinrdengine.com",
+        "twinrdsrv.com",
+        "twinrdsyn.com",
+        "twinrdsyte.com",
+        "txzaazmdhtw.com",
+        "tychon.bid",
+        "typical-hub.com",
+        "typicalsecuritydevice.com",
+        "tyqwjh23d.com",
+        "tyrotation.com",
+        "tyserving.com",
+        "tzaqkp.com",
+        "tzvpn.site",
+        "u1pmt.com",
+        "ubilinkbin.com",
+        "ublockpop.com",
+        "ucheephu.com",
+        "uel-uel-fie.com",
+        "ufpcdn.com",
+        "ugroocuw.net",
+        "uhpdsplo.com",
+        "uidhealth.com",
+        "uilts.com",
+        "uitopadxdy.com",
+        "ujw1y54r.fun",
+        "ukoffzeh.com",
+        "ultimate-captcha.com",
+        "ultracdn.top",
+        "ultrapartners.com",
+        "ultravpnoffers.com",
+        "unblockedapi.com",
+        "uncernedasesiumw.org",
+        "unclesnewspaper.com",
+        "unheadedsouptotal.com",
+        "unicornpride123.com",
+        "unmistdistune.guru",
+        "unoptedcoupe.top",
+        "unreshiramor.com",
+        "unseenrazorcaptain.com",
+        "untimburra.com",
+        "unwoobater.com",
+        "updatecompletelyfreetheproduct.vip",
+        "updateenow.com",
+        "updatephone.club",
+        "upgiveunsteps.shop",
+        "upgliscorom.com",
+        "uponelectabuzzor.club",
+        "uponomanytetor.com",
+        "uptightdecreaseclinical.com",
+        "uptimecdn.com",
+        "uptopopunder.com",
+        "upuplet.net",
+        "upuplets.com",
+        "urtyert.com",
+        "usheebainaut.com",
+        "usingageghoaft.net",
+        "utarget.ru",
+        "uthorner.info",
+        "utlservice.com",
+        "utm-campaign.com",
+        "utopicmobile.com",
+        "uuksehinkitwkuo.com",
+        "v6rxv5coo5.com",
+        "vaatmetu.net",
+        "vague-key.com",
+        "vaitotoo.net",
+        "vasstycom.com",
+        "vasteeds.net",
+        "vax-now.com",
+        "vbnmsilenitmanby.info",
+        "vcdc.com",
+        "vcommission.com",
+        "vebv8me7q.com",
+        "veepteero.com",
+        "veilsuccessfully.com",
+        "vekseptaufin.com",
+        "velocitycdn.com",
+        "velodran.com",
+        "vengeful-egg.com",
+        "venturead.com",
+        "verdecasino-offers.com",
+        "vereforhedidn.org",
+        "verifiable-warning.com",
+        "verooperofthewo.com",
+        "vertoz.com",
+        "vespymedia.com",
+        "vetoembrace.com",
+        "vfghc.com",
+        "vfgtb.com",
+        "vfgte.com",
+        "vfgtg.com",
+        "viapawniarda.com",
+        "viatechonline.com",
+        "viatepigan.com",
+        "vicegoriest.shop",
+        "victoryslam.com",
+        "vid-adblocker.com",
+        "videoadblockerpro.com",
+        "videocampaign.co",
+        "viensvoircesite.com",
+        "viewlnk.com",
+        "vigorouslymicrophone.com",
+        "viiadaof.com",
+        "viibmmqc.com",
+        "viiczfvm.com",
+        "viidccdn.com",
+        "viidirectory.com",
+        "viidsyej.com",
+        "viifmuts.com",
+        "viifwfyo.com",
+        "viigetxc.com",
+        "viiithia.com",
+        "viijxyqp.com",
+        "viikttcq.com",
+        "viikuhhs.com",
+        "viiyxefb.com",
+        "vilytaku.com",
+        "vinstigo.com",
+        "violationphysics.click",
+        "vionito.com",
+        "vipcpms.com",
+        "viralnewsbd.xyz",
+        "virelon.com",
+        "visit-website.com",
+        "visitarkqr.click",
+        "visitstats.com",
+        "vizoalygrenn.com",
+        "vkcdnservice.com",
+        "vkgtrack.com",
+        "vlexokrako.com",
+        "vnte9urn.click",
+        "vodobyve.pro",
+        "voguelift.biz",
+        "vokut.com",
+        "volform.online",
+        "volleyballachiever.site",
+        "volumntime.com",
+        "voluumtrk.com",
+        "voluumtrk3.com",
+        "voruftuiov.com",
+        "vowpairmax.live",
+        "vpn-offers.org",
+        "vpnoffers.cc",
+        "vprtrfc.com",
+        "vq4b0q.fun",
+        "vs3.com",
+        "vtabnalp.net",
+        "vulkan-bt.com",
+        "vulkanbet.me",
+        "w0we.com",
+        "wahoha.com",
+        "waisheph.com",
+        "walter-larence.com",
+        "wantatop.com",
+        "wargaming-aff.com",
+        "wasanasosettoou.org",
+        "wasqimet.net",
+        "watch-now.club",
+        "watchadsfree.com",
+        "watchadzfree.com",
+        "watchcpm.com",
+        "watchlivesports4k.club",
+        "watchvideoplayer.com",
+        "waufooke.com",
+        "wbamedia.com",
+        "wbidder.online",
+        "wbidder2.com",
+        "wbidder3.com",
+        "wbilvnmool.com",
+        "wboux.com",
+        "wct.link",
+        "weaveradrenaline.com",
+        "web-adblocker.com",
+        "web-guardian.xyz",
+        "webatam.com",
+        "webgains.com",
+        "webmedrtb.com",
+        "webpuppweb.com",
+        "websphonedevprivacy.autos",
+        "webtrackerplus.com",
+        "wecouldle.com",
+        "weezoptez.net",
+        "welcomeneat.pro",
+        "welcomingaccompanyeffort.com",
+        "welfarefit.com",
+        "welfaremarsh.com",
+        "wellhello.com",
+        "wendelstein-1b.com",
+        "westcoa.com",
+        "wetrackgames.com",
+        "wettigo136.com",
+        "wewearegogogo.com",
+        "wfredir.net",
+        "wg-aff.com",
+        "wgpartner.com",
+        "whairtoa.com",
+        "whaleplayful.com",
+        "whampamp.com",
+        "whataboutnews.com",
+        "whatisuptodaynow.com",
+        "wheceelt.net",
+        "wheebsadree.com",
+        "whensewing.com",
+        "wherevertogo.com",
+        "whirlwindofnews.com",
+        "whitenoisenews.com",
+        "whitepark9.com",
+        "wholedailyjournal.com",
+        "wholefreshposts.com",
+        "wholewowblog.com",
+        "whoucheehy.net",
+        "whouphesaussums.net",
+        "whoursie.com",
+        "whulsaux.com",
+        "widiaoexhe.top",
+        "widow5blackfr.com",
+        "wifescamara.click",
+        "wigetmedia.com",
+        "winnersofvouchers.com",
+        "winsimpleprizes.life",
+        "wintrck.com",
+        "witalfieldt.com",
+        "withdrawcosmicabundant.com",
+        "withmefeyauknaly.com",
+        "witnessjacket.com",
+        "wizardscharityvisa.com",
+        "wlafx4trk.com",
+        "wmptengate.com",
+        "wmtten.com",
+        "wnt-s0me-push.net",
+        "woafoame.net",
+        "woevr.com",
+        "woffxxx.com",
+        "wolsretet.net",
+        "wonder.xhamster.com",
+        "wonderblockoffer.com",
+        "woovoree.net",
+        "workback.net",
+        "worldfreshblog.com",
+        "worldtimes2.xyz",
+        "wovensur.com",
+        "wowshortvideos.com",
+        "wp3qhtu5.pro",
+        "wpnetwork.eu",
+        "writeestatal.space",
+        "wuujae.com",
+        "wwija.com",
+        "wwwpromoter.com",
+        "wwydakja.net",
+        "wxhiojortldjyegtkx.bid",
+        "x2tsa.com",
+        "x3os.com",
+        "x7i0.com",
+        "xadsmart.com",
+        "xarvilo.com",
+        "xaxoro.com",
+        "xbidflare.com",
+        "xdtraffic.com",
+        "xijgedjgg5f55.com",
+        "xkarma.net",
+        "xliirdr.com",
+        "xlirdr.com",
+        "xlivrdr.com",
+        "xlviiirdr.com",
+        "xlviirdr.com",
+        "xlx1.com",
+        "xmatch.com",
+        "xml-api.online",
+        "xmlrtb.com",
+        "xoqod.sbs",
+        "xpvv0rkn.fun",
+        "xszpuvwr7.com",
+        "xtendmedia.com",
+        "xxxjmp.com",
+        "xxxmatch.com",
+        "xxxvjmp.com",
+        "y1jxiqds7v.com",
+        "yahuu.org",
+        "yajeinsogged.shop",
+        "yavli.com",
+        "ybb-network.com",
+        "ybbserver.com",
+        "yeesshh.com",
+        "yellowbahama.com",
+        "yf9pkk1q.com",
+        "ygamey.com",
+        "yhbcii.com",
+        "yieldtraffic.com",
+        "ylih6ftygq7.com",
+        "yonbearticor.com",
+        "yonsandileer.com",
+        "your-sugar-girls.com",
+        "youradexchange.com",
+        "yourcommonfeed.com",
+        "yourcoolfeed.com",
+        "yourfreshjournal.com",
+        "yourfreshposts.com",
+        "yourtopwords.com",
+        "ysesials.net",
+        "yukclick.me",
+        "yy8fgl2bdv.com",
+        "z5x.net",
+        "zaglushkaaa.com",
+        "zajukrib.net",
+        "zarosnap.com",
+        "zebeaa.click",
+        "zedo.com",
+        "zeechoog.net",
+        "zeepartners.com",
+        "zenaps.com",
+        "zendplace.pro",
+        "zeroredirect1.com",
+        "zetaframes.com",
+        "zikroarg.com",
+        "zirdough.net",
+        "zlink1.com",
+        "zlink2.com",
+        "zlink6.com",
+        "zlink8.com",
+        "zlink9.com",
+        "zlinkb.com",
+        "zlinkm.com",
+        "zlinkv.com",
+        "znqip.net",
+        "zog.link",
+        "zoilusdoping.top",
+        "zononi.com",
+        "zonupiza.com",
+        "zordaustewhoh.com",
+        "zrlqm.com",
+        "zryydi.com",
+        "zunsoach.com",
+        "zwqzxh.com",
+        "zybrdr.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2991
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "07c225f3.online",
+        "content-loader.com",
+        "css-load.com",
+        "html-load.cc",
+        "html-load.com",
+        "img-load.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2992
+  },
+  {
+    "condition": {
+      "urlFilter": "&fp_sid=pop",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3301
+  },
+  {
+    "condition": {
+      "urlFilter": "&sseq=*&dseq=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3302
+  },
+  {
+    "condition": {
+      "urlFilter": "/?ab=*&rl=1|",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3303
+  },
+  {
+    "condition": {
+      "urlFilter": "/adserver/",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3304
+  },
+  {
+    "condition": {
+      "urlFilter": "?dovr=true",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3305
+  },
+  {
+    "condition": {
+      "urlFilter": "||130.211.",
+      "excludedInitiatorDomains": [
+        "in-addr.arpa"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3306
+  },
+  {
+    "condition": {
+      "urlFilter": "||142.91.",
+      "excludedInitiatorDomains": [
+        "in-addr.arpa"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3307
+  },
+  {
+    "condition": {
+      "urlFilter": "||172.255.6.",
+      "excludedInitiatorDomains": [
+        "in-addr.arpa"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3308
+  },
+  {
+    "condition": {
+      "regexFilter": "^https?:\\/\\/146\\.59\\.211\\.(\\d){1,3}.*",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3309
+  },
+  {
+    "condition": {
+      "urlFilter": "||americascardroom.eu/ads/",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3310
+  },
+  {
+    "condition": {
+      "urlFilter": "||teenfinder.com/landing/",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3311
+  },
+  {
+    "condition": {
+      "urlFilter": "||theeverydaygame.com/lg/",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3312
+  },
+  {
+    "condition": {
+      "urlFilter": "||adultfriendfinder.com/banners/",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3313
+  },
+  {
+    "condition": {
+      "urlFilter": "||camonster.com/landing/",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3314
+  },
+  {
+    "condition": {
+      "urlFilter": "||clicks.istripper.com/ref.php?",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3315
+  },
+  {
+    "condition": {
+      "urlFilter": "||hentaiheroes.com/landing/",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3316
+  },
+  {
+    "condition": {
+      "urlFilter": "||imlive.com/wmaster.ashx?",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3317
+  },
+  {
+    "condition": {
+      "urlFilter": "||ipornia.com/scj/cgi/out.php?scheme_id=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3318
+  },
+  {
+    "condition": {
+      "urlFilter": "||letstryanal.com/track/",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3319
+  },
+  {
+    "condition": {
+      "urlFilter": "||livehotty.com/landing/",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3320
+  },
+  {
+    "condition": {
+      "urlFilter": "||porngames.adult^*=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3321
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "forums.socialmediagirls.com",
+        "pornhub.com",
+        "redtube.com",
+        "tube8.com",
+        "youporn.com",
+        "youporngay.com"
+      ],
+      "urlFilter": "|http*://*?",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3322
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "6angebot.ch",
+        "actiondesk.com",
+        "ad6media.fr",
+        "adexc.net",
+        "adnanny.com",
+        "adnium.com",
+        "ads.planetwin365affiliate.com",
+        "adx.io",
+        "bestsurferprotector.com",
+        "bongacams.com",
+        "canyoublockit.com",
+        "contentabc.com",
+        "cooch.tv",
+        "entainpartners.com",
+        "explorads.com",
+        "fapcandy.com",
+        "filestube.com",
+        "freewebcams.com",
+        "ganja.com",
+        "ggbetapk.com",
+        "hornymatches.com",
+        "innovid.com",
+        "insideoftech.com",
+        "jasmin.com",
+        "livejasmin.com",
+        "postaffiliatepro.com",
+        "revmasters.com",
+        "rocketmedia24.com",
+        "senzapudore.it",
+        "sexmotors.com",
+        "xpeeps.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3323
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "1337x.buzz",
+        "adblockeronstape.me",
+        "adblockeronstreamtape.me",
+        "adblockeronstrtape.xyz",
+        "adblockplustape.com",
+        "adblockplustape.xyz",
+        "adblockstreamtape.art",
+        "adblockstreamtape.fr",
+        "adblockstreamtape.site",
+        "adblocktape.online",
+        "adblocktape.store",
+        "adblocktape.wiki",
+        "advertisertape.com",
+        "animeworld.biz",
+        "antiadtape.com",
+        "atrocidades18.net",
+        "cloudemb.com",
+        "cloudvideo.tv",
+        "d000d.com",
+        "databasegdriveplayer.xyz",
+        "dembed1.com",
+        "diampokusy.com",
+        "dirproxy.info",
+        "dood.la",
+        "dood.li",
+        "dood.pm",
+        "dood.re",
+        "dood.sh",
+        "dood.so",
+        "dood.to",
+        "dood.watch",
+        "dood.wf",
+        "dood.ws",
+        "dood.yt",
+        "doods.pro",
+        "dooood.com",
+        "embedsito.com",
+        "fembed-hd.com",
+        "file-upload.com",
+        "filemoon.sx",
+        "geoip.redirect-ads.com",
+        "gettapeads.com",
+        "gogoanime.lol",
+        "gogoanime.nl",
+        "haes.tech",
+        "hentai2read.com",
+        "hubfiles.ws",
+        "hydrax.xyz",
+        "katfile.com",
+        "kissanime.lol",
+        "livetv498.me",
+        "loader.to",
+        "luluvdo.com",
+        "mixdroop.co",
+        "mixdrop.ag",
+        "mixdrop.bz",
+        "mixdrop.click",
+        "mixdrop.club",
+        "mixdrop.nu",
+        "mixdrop.ps",
+        "mixdrop.si",
+        "mixdrop.sx",
+        "mixdrop.to",
+        "mixdrp.co",
+        "mixdrp.to",
+        "noblocktape.com",
+        "okru.link",
+        "oneproxy.org",
+        "piracyproxy.biz",
+        "piraproxy.info",
+        "pixroute.com",
+        "playtube.ws",
+        "porn-tube-club.com",
+        "sbfast.com",
+        "sbplay2.xyz",
+        "sbthe.com",
+        "scloud.online",
+        "slmaxed.com",
+        "ssbstream.net",
+        "stapadblockuser.info",
+        "stapadblockuser.xyz",
+        "stape.fun",
+        "stape.me",
+        "stapewithadblock.beauty",
+        "stapewithadblock.monster",
+        "stapewithadblock.xyz",
+        "strcloud.in",
+        "streamadblocker.cc",
+        "streamadblocker.com",
+        "streamadblocker.store",
+        "streamadblocker.xyz",
+        "streamlare.com",
+        "streamnoads.com",
+        "streamta.pe",
+        "streamtape.cc",
+        "streamtape.com",
+        "streamtape.to",
+        "streamtape.xyz",
+        "streamtapeadblock.art",
+        "streamtapeadblockuser.art",
+        "streamtapeadblockuser.homes",
+        "streamtapeadblockuser.monster",
+        "streamtapeadblockuser.xyz",
+        "strtape.cloud",
+        "strtapeadblocker.xyz",
+        "strtapewithadblock.art",
+        "strtapewithadblock.xyz",
+        "strtpe.link",
+        "supervideo.tv",
+        "suzihaza.com",
+        "tapeadsenjoyer.com",
+        "tapeadvertisement.com",
+        "tapeantiads.com",
+        "tapeblocker.com",
+        "tapelovesads.org",
+        "tapenoads.com",
+        "tapewithadblock.com",
+        "tapewithadblock.org",
+        "theproxy.ws",
+        "trafficdepot.xyz",
+        "tubeload.co",
+        "un-block-voe.net",
+        "uproxy.co",
+        "upstream.to",
+        "upvid.biz",
+        "userload.co",
+        "vanfem.com",
+        "vgfplay.com",
+        "vidcloud9.com",
+        "vidlox.me",
+        "viewsb.com",
+        "vivo.sx",
+        "voe-unblock.com",
+        "voe-unblock.net",
+        "voeunblock1.com",
+        "voeunblock2.com",
+        "voiranime.com",
+        "watchsb.com",
+        "wiztube.xyz",
+        "wootly.ch",
+        "y2mate.is",
+        "ytmp3.sh"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3324
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "gamble.co.uk",
+        "gokkeninonlinecasino.nl",
+        "top5casinosites.co.uk"
+      ],
+      "urlFilter": "^utm_source=aff^"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 3664
+  },
+  {
+    "condition": {
+      "urlFilter": "|data:text^",
+      "initiatorDomains": [
+        "box.com",
+        "clker.com",
+        "labcorp.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 3665
+  },
+  {
+    "condition": {
+      "urlFilter": "||ad.doubleclick.net/clk*&destinationurl="
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 3666
+  },
+  {
+    "condition": {
+      "urlFilter": "||ad.doubleclick.net/ddm/",
+      "initiatorDomains": [
+        "billiger.de",
+        "creditcard.com.au",
+        "debitcards.com.au",
+        "finder.com",
+        "finder.com.au",
+        "findershopping.com.au",
+        "guide-epargne.be",
+        "legacy.com",
+        "mail.yahoo.com",
+        "nytimes.com",
+        "spaargids.be",
+        "whatphone.com.au"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 3667
+  },
+  {
+    "condition": {
+      "urlFilter": "||ad.doubleclick.net/ddm/clk/*http"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 3668
+  },
+  {
+    "condition": {
+      "urlFilter": "||ad.doubleclick.net/ddm/trackclk/*http"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 3669
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads.emarketer.com/redirect.spark?",
+      "initiatorDomains": [
+        "emarketer.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 3670
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads.shopee.*/"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 3671
+  },
+  {
+    "condition": {
+      "urlFilter": "||biz.yelp.com/ads?"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 3672
+  },
+  {
+    "condition": {
+      "urlFilter": "||doubleclick.net/clk;",
+      "initiatorDomains": [
+        "3g.co.uk",
+        "4g.co.uk",
+        "hotukdeals.com",
+        "jobamatic.com",
+        "play.google.com",
+        "santander.co.uk",
+        "techrepublic.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 3673
+  },
+  {
+    "condition": {
+      "urlFilter": "||g.doubleclick.net/aclk?",
+      "initiatorDomains": [
+        "bodas.com.mx",
+        "bodas.net",
+        "casamentos.com.br",
+        "casamentos.pt",
+        "casamiento.com.uy",
+        "casamientos.com.ar",
+        "mariages.net",
+        "matrimonio.com",
+        "matrimonio.com.co",
+        "matrimonio.com.pe",
+        "matrimonios.cl",
+        "pianobuyer.com",
+        "weddingspot.co.uk",
+        "zillow.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 3674
+  },
+  {
+    "condition": {
+      "urlFilter": "||lulustream.com^",
+      "initiatorDomains": [
+        "luluvdo.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 3675
+  },
+  {
+    "condition": {
+      "urlFilter": "||streamtape.com^",
+      "initiatorDomains": [
+        "streamtape.to"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 3676
+  },
+  {
+    "condition": {
+      "urlFilter": "||vk.com/ads?",
+      "initiatorDomains": [
+        "vk.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 3677
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.ticketmaster.",
+      "initiatorDomains": [
+        "adclick.g.doubleclick.net"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 3678
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "accounts.google.com",
+        "ads.atmosphere.copernicus.eu",
+        "ads.doordash.com",
+        "ads.elevateplatform.co.uk",
+        "ads.finance",
+        "ads.google.com",
+        "ads.listonic.com",
+        "ads.microsoft.com",
+        "ads.midwayusa.com",
+        "ads.pinterest.com",
+        "ads.snapchat.com",
+        "ads.spotify.com",
+        "ads.taboola.com",
+        "ads.tiktok.com",
+        "ads.twitter.com",
+        "ads.vk.com",
+        "ads.vk.ru",
+        "ads.x.com",
+        "adv.asahi.com",
+        "adv.gg",
+        "adv.welaika.com",
+        "dashboard.mgid.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 3679
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.google.*/search?q=*&oq=*&aqs=chrome.*&sourceid=chrome&",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 3854
+  }
+]

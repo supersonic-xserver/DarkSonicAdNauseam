@@ -27,10 +27,61 @@ import {
     originFromURI,
 } from './uri-utils.js';
 
-import { internalLinkDomainsDefault } from './adn/adn-utils.js'; // adn 
+import { internalLinkDomainsDefault, hydrateAdMapFromStorage } from './adn/adn-utils.js'; // adn 
 import { FilteringContext } from './filtering-context.js';
 import logger from './logger.js';
 import { ubologSet } from './console.js';
+
+/******************************************************************************/
+
+// [ADN] Bare-Metal MV3 Interceptor - SW Compliant (No Dynamic Imports)
+// This bypasses vAPI messaging entirely and ensures the SW wakes up on adnGetAds
+// Uses self (not window) for SW compliance
+// Uses static imports only - dynamic import() is disallowed in SW per HTML spec
+chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
+    const isAdRequest = request === 'adnGetAds' || (request && request.msg === 'adnGetAds');
+    if (!isAdRequest) { return; }
+    
+    console.log('[ADN-TRACE] [BARE-METAL] Intercepted adnGetAds request');
+    
+    // Try cached module first (if adnauseam already initialized)
+    const cachedModule = self.__ADN_CORE__;
+    if (cachedModule && cachedModule.adlist) {
+        const ads = cachedModule.adlist();
+        console.log(`[ADN-TRACE] [BARE-METAL] Sending ${ads.length} ads from cached module`);
+        sendResponse(ads);
+        return true;
+    }
+    
+    // Hydrate from storage then use statically-imported hydrateAdMapFromStorage
+    console.log('[ADN-TRACE] [BARE-METAL] Hydrating admap from storage...');
+    hydrateAdMapFromStorage()
+        .then(() => {
+            console.log('[ADN-TRACE] [BARE-METAL] Hydration complete, trying to access ads...');
+            
+            // Since we can't dynamic import core.js, try to access via self.__ADN_CORE__
+            // or use the cached adnauseam object from vAPI
+            const adnauseam = self.__ADN_CORE__ || {};
+            
+            if (adnauseam.adlist) {
+                const ads = adnauseam.adlist();
+                console.log(`[ADN-TRACE] [BARE-METAL] Sending ${ads.length} ads via __ADN_CORE__`);
+                sendResponse(ads);
+            } else {
+                // adnauseam module not initialized yet - this is expected on cold start
+                // The module will initialize on first ad detection
+                console.warn('[ADN-TRACE] [BARE-METAL] Adnauseam not yet initialized (cold SW start)');
+                console.log('[ADN-TRACE] [BARE-METAL] Available self keys:', Object.keys(self).filter(k => k.includes('ADN') || k.includes('adn')));
+                sendResponse([]); // Return empty array, UI will retry
+            }
+        })
+        .catch(err => {
+            console.error('[ADN-TRACE] [BARE-METAL] Hydration failed:', err);
+            sendResponse([]);
+        });
+    
+    return true; // Keep MV3 channel open for async response
+});
 
 /******************************************************************************/
 
@@ -206,7 +257,9 @@ const µBlock = {  // jshint ignore:line
     // Features detection.
     privacySettingsSupported: vAPI.browserSettings instanceof Object,
     cloudStorageSupported: vAPI.cloud instanceof Object,
-    canFilterResponseData: typeof browser.webRequest.filterResponseData === 'function',
+    canFilterResponseData: typeof browser !== 'undefined' && 
+                           browser.webRequest instanceof Object &&
+                           typeof browser.webRequest.filterResponseData === 'function',
 
     // https://github.com/chrisaljoudi/uBlock/issues/180
     // Whitelist directives need to be loaded once the PSL is available

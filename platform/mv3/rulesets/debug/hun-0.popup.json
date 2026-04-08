@@ -1,0 +1,12 @@
+[
+  {
+    "condition": {
+      "urlFilter": "||kosarsport.hu/popup.html^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 216
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "alerts.ndtv.com",
+        "alerts.thedailystar.net",
+        "my-pu.sh",
+        "notificaciones-web.com",
+        "notification.tubecup.net",
+        "notifications.viafoura.co",
+        "push.asahiinteractive.com",
+        "push.bytesignal.com",
+        "push.cnnindonesia.com",
+        "push.delivery.ethinking.de",
+        "push.esputnik.com",
+        "push.getbeamer.com",
+        "push.ictsd.org",
+        "push.idowa.de",
+        "push.intreface.com",
+        "push.knd.ro",
+        "push.neko-san.fr",
+        "push.newscraft.io",
+        "push.reamaze.com",
+        "pushme.magellanotech.it",
+        "puuush.me",
+        "widget.push.forja.ma"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 223
+  }
+]

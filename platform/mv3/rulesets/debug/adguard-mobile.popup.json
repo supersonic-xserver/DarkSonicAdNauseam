@@ -1,0 +1,23 @@
+[
+  {
+    "condition": {
+      "urlFilter": "||hoiplay.com/tm_popup.html"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 394
+  },
+  {
+    "condition": {
+      "domainType": "thirdParty",
+      "urlFilter": "||track.cpatool.net^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 405
+  }
+]

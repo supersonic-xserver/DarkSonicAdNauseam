@@ -84,7 +84,8 @@ import {
   computeHash,
   parseHostname,
   parseDomain,
-  isValidDomain
+  isValidDomain,
+  hydrateAdMapFromStorage
 } from './adn-utils.js';
 
 const adnauseam = (function () {
@@ -163,6 +164,12 @@ const adnauseam = (function () {
     log("INITIALIZE", browser.runtime.getManifest());
 
     setTimeout(pollQueue, pollQueueInterval * 2);
+    
+    // [ADN] MV3 Service Worker Fix: Register adnauseam on self.__ADN_CORE__
+    // This allows the bare-metal interceptor in background.js to access adlist()
+    // even after SW cold-start (when adnauseam module hasn't run its async init yet)
+    self.__ADN_CORE__ = adnauseam;
+    console.log('[ADN] Registered adnauseam on self.__ADN_CORE__');
   };
 
   const initializeState = function (ads) {
@@ -698,9 +705,26 @@ const adnauseam = (function () {
     const now = millis();
     // defer if we've recently written and !immediate
     if (immediate || (!immediate && now - lastStorageUpdate > updateStorageInterval)) {
-      vAPI.storage.set({ admap: admap });
+      // PHASE 3: Verify storage write integrity - debug trace
+      const admapEntries = admap ? Object.keys(admap).length : 0;
+      console.log("[ADN] storeAdData: Writing admap with", admapEntries, "pages to storage...");
+      
+      vAPI.storage.set({ admap: admap }).then(() => {
+        console.log("[ADN] storeAdData: admap write confirmed, pages:", admapEntries);
+      }).catch(e => {
+        console.error("[ADN] storeAdData: admap write FAILED:", e);
+      });
+      
       µb.changeUserSettings('admap', admap); 
       lastStorageUpdate = millis();
+      // MV3 FIX: Also persist to dedicated hydration key for SW recovery
+      // This ensures the admap survives SW termination
+      vAPI.storage.set({ 'adnVaultHydration': admap }).then(() => {
+        console.log("[ADN] storeAdData: adnVaultHydration write confirmed, pages:", admapEntries);
+      }).catch(e => {
+        console.error("[ADN] storeAdData: adnVaultHydration write FAILED:", e);
+        console.error("[ADN] storeAdData: This may indicate a quota error or storage corruption");
+      });
       //log("--Storage Ad Data--")
     }
   }
@@ -1626,6 +1650,18 @@ const adnauseam = (function () {
 
   // Adn - StrictBlockList
   // toggle page strictBlock
+  // Get strict blocked status directly from pageStore
+  exports.getStrictBlocked = function (request, pageStore, tabId) {
+    console.log("[ADN] getStrictBlocked called", { request, pageStore: !!pageStore, tabId });
+    if (!pageStore) {
+      console.log("[ADN] getStrictBlocked: no pageStore, returning false");
+      return false;
+    }
+    const result = pageStore.getIsPageStrictBlocked();
+    console.log("[ADN] getStrictBlocked: pageStore.getIsPageStrictBlocked() returned", result);
+    return result;
+  };
+
   exports.toggleStrictBlockButton = function (request) { 
     console.log("[ADN] toggleStrictBlock", request)
     const store = µb.pageStoreFromTabId(request.tabId);
@@ -2410,8 +2446,117 @@ const adnauseam = (function () {
 
   'use strict';
 
-  const onMessage = function (request, sender, callback) {
+  // MV3: Track hydration state to avoid redundant hydrations
+  let hydrationInProgress = false;
+  let hydrationPromise = null;
+
+  const onMessage = async function (request, sender, callback) {
+    console.log("[ADN-TRACE] [SW] adnGetAds request received:", request.what, "at", Date.now());
     //console.log("adnauseam.MSG: "+request.what);
+
+    // MV3: Handle storage sync requests synchronously
+    // This ensures admap persists across SW terminations
+    if (request.what === 'syncAdMapToStorage') {
+      if (request.admap) {
+        vAPI.storage.set({ 'adnVaultHydration': request.admap }).then(() => {
+          console.log("[ADN] MV3: Admap synced to storage, entries:", 
+            Object.keys(request.admap).length);
+        }).catch(e => {
+          console.error("[ADN] MV3: Failed to sync admap:", e);
+        });
+      }
+      callback({ success: true });
+      return;
+    }
+
+    // MV3: Handle storage hydration request
+    if (request.what === 'hydrateAdMap') {
+      vAPI.storage.get('adnVaultHydration').then(stored => {
+        if (stored && stored.adnVaultHydration) {
+          console.log("[ADN] MV3: Hydrating admap from storage");
+          callback({ admap: stored.adnVaultHydration });
+        } else {
+          callback({ admap: null });
+        }
+      }).catch(e => {
+        console.error("[ADN] MV3: Failed to hydrate admap:", e);
+        callback({ admap: null });
+      });
+      return;
+    }
+
+    // MV3: Check if admap is empty and needs hydration before serving ads
+    // This fixes the race condition where the vault opens before the SW has restored state
+    if (request.what === 'adsForVault' || request.what === 'adsForPage') {
+      const adCount = adlist().length;
+      
+      // If admap is empty but we haven't started hydration yet, trigger it
+      if (adCount === 0 && !hydrationInProgress && !hydrationPromise) {
+        console.log("[ADN] MV3: admap empty on " + request.what + ", initiating hydration...");
+        
+        // Set flag to prevent concurrent hydrations
+        hydrationInProgress = true;
+        hydrationPromise = hydrateAdMapFromStorage()
+          .then(storedAdmap => {
+            if (storedAdmap && Object.keys(storedAdmap).length > 0) {
+              console.log("[ADN] MV3: Hydration successful, populating admap");
+              admap = storedAdmap;
+              adsetSize = adlist().length;
+              validateAdStorage();
+            } else {
+              console.log("[ADN] MV3: Hydration returned empty or null");
+            }
+            return storedAdmap;
+          })
+          .catch(e => {
+            console.error("[ADN] MV3: Hydration failed:", e);
+            return null;
+          })
+          .finally(() => {
+            hydrationInProgress = false;
+            hydrationPromise = null;
+          });
+        
+        // Return a Promise that resolves to the handler result
+        // This ensures callback is called with the actual data
+        return hydrationPromise.then(() => {
+          console.log("[ADN-TRACE] [SW] Dispatching adnGetAds response for:", request.what, "at", Date.now());
+          let tabId = request.tabId || (sender && sender.tabId) || null;
+          let pageStore = µb.pageStoreFromTabId(tabId);
+          
+          if (typeof adnauseam[request.what] === 'function') {
+            const result = adnauseam[request.what](request, pageStore, tabId);
+            console.log("[ADN-TRACE] [SW] Dispatching adnGetAds response:", JSON.stringify(result || {}).substring(0, 100), "at", Date.now());
+            callback(result);
+            adnauseam.markUserAction();
+            return result;
+          } else {
+            console.warn(`[ADN] No listener for ${request.what} message`);
+            callback(vAPI.messaging.UNHANDLED);
+            return vAPI.messaging.UNHANDLED;
+          }
+        });
+      }
+      
+      // If hydration is already in progress, wait for it
+      if (hydrationPromise) {
+        console.log("[ADN] MV3: waiting for hydration to complete...");
+        return hydrationPromise.then(() => {
+          let tabId = request.tabId || (sender && sender.tabId) || null;
+          let pageStore = µb.pageStoreFromTabId(tabId);
+          
+          if (typeof adnauseam[request.what] === 'function') {
+            const result = adnauseam[request.what](request, pageStore, tabId);
+            callback(result);
+            adnauseam.markUserAction();
+            return result;
+          } else {
+            callback(vAPI.messaging.UNHANDLED);
+            return vAPI.messaging.UNHANDLED;
+          }
+        });
+      }
+    }
 
     switch (request.what) {
       default: break;
@@ -2436,10 +2581,11 @@ const adnauseam = (function () {
     }
   }
 
-  vAPI.messaging.listen({
-    name: 'adnauseam',
-    listener: onMessage
-  })
+  // Disable vAPI listener for adnGetAds - handled by bare-metal interceptor in background.js
+  // vAPI.messaging.listen({
+  //   name: 'adnauseam',
+  //   listener: onMessage
+  // })
 
 })();
 

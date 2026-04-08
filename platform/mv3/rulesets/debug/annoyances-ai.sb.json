@@ -1,0 +1,12 @@
+[
+  {
+    "condition": {
+      "urlFilter": "||embed.chatnode.ai^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3
+  }
+]

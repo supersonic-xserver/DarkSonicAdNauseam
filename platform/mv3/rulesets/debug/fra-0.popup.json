@@ -1,0 +1,2814 @@
+[
+  {
+    "condition": {
+      "urlFilter": "&ad_id="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3450
+  },
+  {
+    "condition": {
+      "urlFilter": "&idzone=*&ad_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3451
+  },
+  {
+    "condition": {
+      "urlFilter": "&lptoken=*&zoneid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3452
+  },
+  {
+    "condition": {
+      "urlFilter": "&pub_id="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3453
+  },
+  {
+    "condition": {
+      "urlFilter": "&pubfeed=*&subid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3454
+  },
+  {
+    "condition": {
+      "urlFilter": "&publisherid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3455
+  },
+  {
+    "condition": {
+      "urlFilter": "&refer=*&key=*&adb="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3456
+  },
+  {
+    "condition": {
+      "urlFilter": "&request_*&zoneid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3457
+  },
+  {
+    "condition": {
+      "urlFilter": "&subaffid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3458
+  },
+  {
+    "condition": {
+      "urlFilter": "&tid=*&ref="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3459
+  },
+  {
+    "condition": {
+      "urlFilter": "&type=*&iframedetected="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3460
+  },
+  {
+    "condition": {
+      "urlFilter": "&url_bnm_redirect="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3461
+  },
+  {
+    "condition": {
+      "urlFilter": "&utm_*=cpm&"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3462
+  },
+  {
+    "condition": {
+      "urlFilter": "&utm_ad="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3463
+  },
+  {
+    "condition": {
+      "urlFilter": "&utm_medium=ads"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3464
+  },
+  {
+    "condition": {
+      "urlFilter": "&zone=*&clickid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3465
+  },
+  {
+    "condition": {
+      "urlFilter": "&zoneid=*&banner="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3466
+  },
+  {
+    "condition": {
+      "urlFilter": "&zoneid=*&campaignid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3467
+  },
+  {
+    "condition": {
+      "urlFilter": ".adsrv."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3468
+  },
+  {
+    "condition": {
+      "urlFilter": "/afu.*?zoneid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3469
+  },
+  {
+    "condition": {
+      "urlFilter": "/click?*&subid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3470
+  },
+  {
+    "condition": {
+      "urlFilter": "/install.*&clickid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3471
+  },
+  {
+    "condition": {
+      "urlFilter": "/out.php?link=t"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3472
+  },
+  {
+    "condition": {
+      "urlFilter": "/pop.go?spaceid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3473
+  },
+  {
+    "condition": {
+      "urlFilter": "/pu/?*&site="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3474
+  },
+  {
+    "condition": {
+      "urlFilter": "/s2iurl.php?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3475
+  },
+  {
+    "condition": {
+      "urlFilter": "/splash.*?idzone="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3476
+  },
+  {
+    "condition": {
+      "urlFilter": "://xml.*/click?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3477
+  },
+  {
+    "condition": {
+      "urlFilter": "?key=*&psid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3478
+  },
+  {
+    "condition": {
+      "urlFilter": "?key=*&zoneid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3479
+  },
+  {
+    "condition": {
+      "urlFilter": "?lpkey=*&uclick="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3480
+  },
+  {
+    "condition": {
+      "urlFilter": "?mediasegmentid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3481
+  },
+  {
+    "condition": {
+      "urlFilter": "_build=iclick-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3482
+  },
+  {
+    "condition": {
+      "urlFilter": "||club^*&zoneid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3483
+  },
+  {
+    "condition": {
+      "urlFilter": "||online^*&zoneid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3484
+  },
+  {
+    "condition": {
+      "urlFilter": "||shop^*&zoneid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3485
+  },
+  {
+    "condition": {
+      "urlFilter": "||shop^*?scontext_r="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3486
+  },
+  {
+    "condition": {
+      "urlFilter": "||xyz^*&zoneid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3487
+  },
+  {
+    "condition": {
+      "urlFilter": "&utm_source=japscan"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3488
+  },
+  {
+    "condition": {
+      "urlFilter": "|about:blank",
+      "initiatorDomains": [
+        "japscan.vip"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3489
+  },
+  {
+    "condition": {
+      "urlFilter": "||ad.zanox.com^",
+      "initiatorDomains": [
+        "configspc.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3490
+  },
+  {
+    "condition": {
+      "urlFilter": "||aliexpress.com^",
+      "initiatorDomains": [
+        "dzsat.org"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3491
+  },
+  {
+    "condition": {
+      "urlFilter": "||amazon.fr^",
+      "initiatorDomains": [
+        "fdesouche.com",
+        "manga-versus.fr"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3492
+  },
+  {
+    "condition": {
+      "urlFilter": "||amzn.to^",
+      "initiatorDomains": [
+        "dzsat.org",
+        "fdesouche.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3493
+  },
+  {
+    "condition": {
+      "urlFilter": "||awin1.com^",
+      "initiatorDomains": [
+        "configspc.com",
+        "manga-versus.fr"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3494
+  },
+  {
+    "condition": {
+      "urlFilter": "||bitly.com/teraplayerplay"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3495
+  },
+  {
+    "condition": {
+      "urlFilter": "||bongacams.com/?bcs="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3496
+  },
+  {
+    "condition": {
+      "urlFilter": "||booking.com^",
+      "initiatorDomains": [
+        "viamichelin.at",
+        "viamichelin.be",
+        "viamichelin.ch",
+        "viamichelin.co.uk",
+        "viamichelin.com",
+        "viamichelin.de",
+        "viamichelin.es",
+        "viamichelin.fr",
+        "viamichelin.ie",
+        "viamichelin.it",
+        "viamichelin.nl",
+        "viamichelin.pl",
+        "viamichelin.pt"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3497
+  },
+  {
+    "condition": {
+      "urlFilter": "||box10.com^*?utm_source="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3498
+  },
+  {
+    "condition": {
+      "urlFilter": "||brainer.cc^*?pctx="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3499
+  },
+  {
+    "condition": {
+      "urlFilter": "||camsympa.com/?tracker="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3500
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.speedvid."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3501
+  },
+  {
+    "condition": {
+      "urlFilter": "||cloudfront.net^*&banner="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3502
+  },
+  {
+    "condition": {
+      "urlFilter": "||cloudfront.net^*?number=*&click_id="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3503
+  },
+  {
+    "condition": {
+      "urlFilter": "||cloudfront.net^*?phone=*&click_id="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3504
+  },
+  {
+    "condition": {
+      "urlFilter": "||csport.xyz/bing.php?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3505
+  },
+  {
+    "condition": {
+      "urlFilter": "||dacia.fr/10ans-et-demi/",
+      "initiatorDomains": [
+        "yahoo.fr"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3506
+  },
+  {
+    "condition": {
+      "urlFilter": "||dealdog.net/advert.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3507
+  },
+  {
+    "condition": {
+      "urlFilter": "||discutfree.com^",
+      "initiatorDomains": [
+        "netvibes.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3508
+  },
+  {
+    "condition": {
+      "urlFilter": "||domautcr.com/clicki/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3509
+  },
+  {
+    "condition": {
+      "urlFilter": "||druidx.com/?track="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3510
+  },
+  {
+    "condition": {
+      "urlFilter": "||effiliation.com^",
+      "initiatorDomains": [
+        "configspc.com",
+        "dzsat.org",
+        "permispratique.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3511
+  },
+  {
+    "condition": {
+      "urlFilter": "||emptyloop.com/unlocker/welcome.htm",
+      "initiatorDomains": [
+        "emptyloop.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3512
+  },
+  {
+    "condition": {
+      "urlFilter": "||fave.co^",
+      "initiatorDomains": [
+        "configspc.com",
+        "dzsat.org"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3513
+  },
+  {
+    "condition": {
+      "urlFilter": "||g2a.com/*?addid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3514
+  },
+  {
+    "condition": {
+      "urlFilter": "||g2a.com/r/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3515
+  },
+  {
+    "condition": {
+      "urlFilter": "||gamingadult.biz/?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3516
+  },
+  {
+    "condition": {
+      "urlFilter": "||gateway.eravage.com/hit.php?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3517
+  },
+  {
+    "condition": {
+      "urlFilter": "||go2cloud.org^",
+      "initiatorDomains": [
+        "jeux-mmorpg.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3518
+  },
+  {
+    "condition": {
+      "urlFilter": "||goo.gl/qavs0c"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3519
+  },
+  {
+    "condition": {
+      "urlFilter": "||goo.gl^",
+      "initiatorDomains": [
+        "algerie360.com",
+        "easybib.com",
+        "jeux.com",
+        "lnc.nc",
+        "openrunner.com",
+        "p0rno.org",
+        "trackandnews.fr",
+        "za-gay.org"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3520
+  },
+  {
+    "condition": {
+      "urlFilter": "||gopro.com^",
+      "initiatorDomains": [
+        "tignes.net"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3521
+  },
+  {
+    "condition": {
+      "urlFilter": "||hdvideos.porn/?id="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3522
+  },
+  {
+    "condition": {
+      "urlFilter": "||hentai-tube.fr^*?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3523
+  },
+  {
+    "condition": {
+      "urlFilter": "||iqbroker.com/lp/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3524
+  },
+  {
+    "condition": {
+      "urlFilter": "||jacquieetmicheltv.net^*&ref="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3525
+  },
+  {
+    "condition": {
+      "urlFilter": "||jacquieetmicheltv.net^*?ref="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3526
+  },
+  {
+    "condition": {
+      "urlFilter": "||jeodrive.com^",
+      "initiatorDomains": [
+        "jheberg.net"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3527
+  },
+  {
+    "condition": {
+      "urlFilter": "||librateam.net/tds/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3528
+  },
+  {
+    "condition": {
+      "urlFilter": "||livecareer.fr^",
+      "initiatorDomains": [
+        "pole-emploi.fr"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3529
+  },
+  {
+    "condition": {
+      "urlFilter": "||livejasmin.com^*&utm_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3530
+  },
+  {
+    "condition": {
+      "urlFilter": "||livejasmin.com^*?psid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3531
+  },
+  {
+    "condition": {
+      "urlFilter": "||motion-twin.com/goto/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3532
+  },
+  {
+    "condition": {
+      "urlFilter": "||multinews.me/produit/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3533
+  },
+  {
+    "condition": {
+      "urlFilter": "||mydirtyhobby.de/?naff="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3534
+  },
+  {
+    "condition": {
+      "urlFilter": "||mydirtyhobby.de/track/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3535
+  },
+  {
+    "condition": {
+      "urlFilter": "||nolake.com^",
+      "initiatorDomains": [
+        "animalcrossing-online.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3536
+  },
+  {
+    "condition": {
+      "urlFilter": "||petiteporn.xyz^*/o.php?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3537
+  },
+  {
+    "condition": {
+      "urlFilter": "||porn.fr/urldynamik/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3538
+  },
+  {
+    "condition": {
+      "urlFilter": "||porn.fr^*/site_id/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3539
+  },
+  {
+    "condition": {
+      "urlFilter": "||pornhub.com^*?utm_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3540
+  },
+  {
+    "condition": {
+      "urlFilter": "||pornovore.fr^",
+      "initiatorDomains": [
+        "amateur2sexe.fr"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3541
+  },
+  {
+    "condition": {
+      "urlFilter": "||pornvee.com/?utm_source="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3542
+  },
+  {
+    "condition": {
+      "urlFilter": "||promonautes.com/publicite."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3543
+  },
+  {
+    "condition": {
+      "urlFilter": "||promovacances.com/?cid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3544
+  },
+  {
+    "condition": {
+      "urlFilter": "||promovacances.com^",
+      "initiatorDomains": [
+        "l-eaualabouche.com",
+        "rueducommerce.fr"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3545
+  },
+  {
+    "condition": {
+      "urlFilter": "||realnswag.fr^",
+      "initiatorDomains": [
+        "rapghetto.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3546
+  },
+  {
+    "condition": {
+      "urlFilter": "||redtube.com^*?utm_source=paid"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3547
+  },
+  {
+    "condition": {
+      "urlFilter": "||referer.us/?*&placement="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3548
+  },
+  {
+    "condition": {
+      "urlFilter": "||rivcams.com/?rcid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3549
+  },
+  {
+    "condition": {
+      "urlFilter": "||rugbygeneration.com^",
+      "initiatorDomains": [
+        "kazeo.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3550
+  },
+  {
+    "condition": {
+      "urlFilter": "||s3.amazonaws.com/www.top-games.me/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3551
+  },
+  {
+    "condition": {
+      "urlFilter": "||scubastore.com^",
+      "initiatorDomains": [
+        "sous-la-mer.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3552
+  },
+  {
+    "condition": {
+      "urlFilter": "||sexytube.com/affiliates/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3553
+  },
+  {
+    "condition": {
+      "urlFilter": "||stagevu.com/video/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3554
+  },
+  {
+    "condition": {
+      "urlFilter": "||starzplay.com/partners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3555
+  },
+  {
+    "condition": {
+      "urlFilter": "||starzplay.com^&utm_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3556
+  },
+  {
+    "condition": {
+      "urlFilter": "||starzplayarabia.com/partners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3557
+  },
+  {
+    "condition": {
+      "urlFilter": "||starzplayarabia.com^&utm_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3558
+  },
+  {
+    "condition": {
+      "urlFilter": "||stock.adobe.com^",
+      "initiatorDomains": [
+        "freepik.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3559
+  },
+  {
+    "condition": {
+      "urlFilter": "||streaming-hentai.org^*?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3560
+  },
+  {
+    "condition": {
+      "urlFilter": "||temu.com^*_ads_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3561
+  },
+  {
+    "condition": {
+      "urlFilter": "||tripadvisor.*/pricefinderpopunder"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3562
+  },
+  {
+    "condition": {
+      "urlFilter": "||ukit.com/hit?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3563
+  },
+  {
+    "condition": {
+      "urlFilter": "||uptoporn.com/randomize/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3564
+  },
+  {
+    "condition": {
+      "urlFilter": "||verytoon.com^*&mtm_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3565
+  },
+  {
+    "condition": {
+      "urlFilter": "||videoplaza.*/proxy/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3566
+  },
+  {
+    "condition": {
+      "urlFilter": "||viewster.com^*utm_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3567
+  },
+  {
+    "condition": {
+      "urlFilter": "||voir-films.com^*/player/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3568
+  },
+  {
+    "condition": {
+      "urlFilter": "||voyantissime.com^",
+      "initiatorDomains": [
+        "ovnis-direct.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3569
+  },
+  {
+    "condition": {
+      "urlFilter": "||vplan.com^",
+      "initiatorDomains": [
+        "fdesouche.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3570
+  },
+  {
+    "condition": {
+      "urlFilter": "||wari.com^",
+      "initiatorDomains": [
+        "maliweb.net"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3571
+  },
+  {
+    "condition": {
+      "urlFilter": "||westernunion.fr^*/home.page?src=netaffiliation&"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3572
+  },
+  {
+    "condition": {
+      "urlFilter": "||xcams.com/?dsclr="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3573
+  },
+  {
+    "condition": {
+      "urlFilter": "||xcams.fr^*&utm_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3574
+  },
+  {
+    "condition": {
+      "urlFilter": "||xlovecam.com/promo/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3575
+  },
+  {
+    "condition": {
+      "urlFilter": "||xupdatemovies.com/?id="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3576
+  },
+  {
+    "condition": {
+      "urlFilter": "||youporn.com^*?utm_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3577
+  },
+  {
+    "condition": {
+      "urlFilter": "||youtube2mp3.cc/p.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3578
+  },
+  {
+    "condition": {
+      "urlFilter": "||zt-za.fr/redirect."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3579
+  },
+  {
+    "condition": {
+      "urlFilter": "||vtube.*/api/click/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3580
+  },
+  {
+    "condition": {
+      "urlFilter": "||1movies.*/user/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3581
+  },
+  {
+    "condition": {
+      "urlFilter": "||datoporn.co^*.php?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3582
+  },
+  {
+    "condition": {
+      "urlFilter": "||ddl-island.*/xxx/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3583
+  },
+  {
+    "condition": {
+      "urlFilter": "||eclypsia.com^*/siteskin/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3584
+  },
+  {
+    "condition": {
+      "urlFilter": "||edenflirt.co/pdv/*/?comfrom=*&cf2="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3585
+  },
+  {
+    "condition": {
+      "urlFilter": "||emule-island.*/xxx/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3586
+  },
+  {
+    "condition": {
+      "urlFilter": "||film01stream.*/voir.php?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3587
+  },
+  {
+    "condition": {
+      "urlFilter": "||filmcomplet.*/?do="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3588
+  },
+  {
+    "condition": {
+      "urlFilter": "||filmsrip.*/?do="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3589
+  },
+  {
+    "condition": {
+      "urlFilter": "||go.filmstreaming1."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3590
+  },
+  {
+    "condition": {
+      "urlFilter": "||guide-du-travail.com/popupaudio.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3591
+  },
+  {
+    "condition": {
+      "urlFilter": "||histoires-de-sexe.net/histoires-sexe-videos.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3592
+  },
+  {
+    "condition": {
+      "urlFilter": "||hotvideo.fr/popup.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3593
+  },
+  {
+    "condition": {
+      "urlFilter": "||jetanimes.com/wp-content/uploads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3594
+  },
+  {
+    "condition": {
+      "urlFilter": "||liligo.*/comparesites/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3595
+  },
+  {
+    "condition": {
+      "urlFilter": "||lkeria.com/redirect."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3596
+  },
+  {
+    "condition": {
+      "urlFilter": "||manga-news.com/redirection.php?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3597
+  },
+  {
+    "condition": {
+      "urlFilter": "||matchendirect.fr/tux/habillage/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3598
+  },
+  {
+    "condition": {
+      "urlFilter": "||mstx.com/top/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3599
+  },
+  {
+    "condition": {
+      "urlFilter": "||out.streamcomplet."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3600
+  },
+  {
+    "condition": {
+      "urlFilter": "||partoch.com/redir/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3601
+  },
+  {
+    "condition": {
+      "urlFilter": "||permispratique.com/ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3602
+  },
+  {
+    "condition": {
+      "urlFilter": "||plancul.*/?id="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3603
+  },
+  {
+    "condition": {
+      "urlFilter": "||pokerstars.com^*/ad/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3604
+  },
+  {
+    "condition": {
+      "urlFilter": "||public.libertyvf."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3605
+  },
+  {
+    "condition": {
+      "urlFilter": "||rustica.fr/popunder/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3606
+  },
+  {
+    "condition": {
+      "urlFilter": "||scoopers.com/?o="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3607
+  },
+  {
+    "condition": {
+      "urlFilter": "||stream-island.*/xxx/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3608
+  },
+  {
+    "condition": {
+      "urlFilter": "||streamcomplet.*/play.php?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3609
+  },
+  {
+    "condition": {
+      "urlFilter": "||streamcomplet.*_redirect_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3610
+  },
+  {
+    "condition": {
+      "urlFilter": "||streamcomplet3.net/rt/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3611
+  },
+  {
+    "condition": {
+      "urlFilter": "||systemed.fr/popunder/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3612
+  },
+  {
+    "condition": {
+      "urlFilter": "||tahiti-infos.com/ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3613
+  },
+  {
+    "condition": {
+      "urlFilter": "||tchat-tarot.com/?partner="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3614
+  },
+  {
+    "condition": {
+      "urlFilter": "||tubave.com/redirect."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3615
+  },
+  {
+    "condition": {
+      "urlFilter": "||unblocked2.vip^*&"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3616
+  },
+  {
+    "condition": {
+      "urlFilter": "||vfcomplet.org/*.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3617
+  },
+  {
+    "condition": {
+      "urlFilter": "||watchfomny.tv/menu/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3618
+  },
+  {
+    "condition": {
+      "urlFilter": "||watchfomny.tv/pop/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3619
+  },
+  {
+    "condition": {
+      "urlFilter": "||wawacity.al/a?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3620
+  },
+  {
+    "condition": {
+      "urlFilter": "||yts.*/assets/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3621
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "2date.club",
+        "5movies.live",
+        "741.net",
+        "absurdbatchconfess.com",
+        "adhoc4.net",
+        "adme-net.com",
+        "adpointbreakrtb.com",
+        "adsrv.me",
+        "adtrk20.com",
+        "affiliatetracker.io",
+        "agileskincareunrented.com",
+        "aimportfoliosquid.com",
+        "airartapt.site",
+        "ajrkm3.com",
+        "allsports4free.live",
+        "altusmediagroupinc.go2cloud.org",
+        "amazing-dates.com",
+        "angrilyanimatorcuddle.com",
+        "antfa.link",
+        "antivirusfit.co",
+        "antj.link",
+        "appendixwarmingauthors.com",
+        "arthygeo.info",
+        "astrologyflyabletruth.com",
+        "atimaze.com",
+        "bdsmrencontres.com",
+        "bdwafx.com",
+        "bebreloomr.com",
+        "beqbox.com",
+        "bestcontentcost.top",
+        "bestentrypoint.com",
+        "bestgamesilo.com",
+        "bibinha.com",
+        "buziol.pl",
+        "capinfoproreport.batiactu.com",
+        "ccgcg.com",
+        "chooseroverlaidspecies.com",
+        "chosenlove.com",
+        "cleardexchange.com",
+        "click2m.org",
+        "clickadilla.com",
+        "clickcdn.co",
+        "cloudgallery.net",
+        "cloudtransfer.store",
+        "cmvrclicks000.com",
+        "combofile4u.click",
+        "connectoritineraryswimming.com",
+        "correctdilutetrophy.com",
+        "creative.stripchat.com",
+        "daftsex.com",
+        "dailyreports.info",
+        "dalyai.com",
+        "denetsuk.com",
+        "diffusionsubletunnamed.com",
+        "digital2cloud.com",
+        "dimmerlingowashable.com",
+        "directr.xyz",
+        "dirlink.net",
+        "dm.html.net",
+        "dmsik.com",
+        "dorogokupimnoutbuk.online",
+        "dosya-indirici.online",
+        "dpuplet.net",
+        "dsfffmb.mobi",
+        "e2ertt.com",
+        "ecpms.net",
+        "eemgl.com",
+        "ergonomicparadeupstroke.com",
+        "espncdn.shop",
+        "express-new.com",
+        "familiarpyromaniasloping.com",
+        "finchoiluntainted.com",
+        "firstclick.pro",
+        "fkourazirop.shop",
+        "flixtab.com",
+        "fr-dustreaming.com",
+        "freelovehere.com",
+        "frtyl.com",
+        "fullqurandownload.com",
+        "getresponse.com",
+        "ggpickaff.com",
+        "ggpickyaff.com",
+        "go.hackmodsapk.com",
+        "go2cliks.net",
+        "grottogamer.com",
+        "growleading.click",
+        "gsurl.in",
+        "gsurl.me",
+        "gtw.xvideos.fr",
+        "hhsp2.com",
+        "hipnoticrec.biz",
+        "hk6vdj4z.click",
+        "hop.boutique",
+        "hotboys.biz",
+        "incontro-veloce.com",
+        "infokz.com",
+        "investing1.com",
+        "iqoption.com",
+        "islamiclyricallyvariable.com",
+        "jetm-tech.net",
+        "jewhouca.net",
+        "karissavip.com",
+        "laserveradedomaina.com",
+        "lenzmx.com",
+        "localsnapsext.com",
+        "lucky-bet.site",
+        "madamecam.com",
+        "maigris.com",
+        "mb.indecentes-voisines.com",
+        "media-fire.org",
+        "mes-meilleurs-films.fr",
+        "minently.com",
+        "monetizer.co",
+        "morinavotarius.top",
+        "mozime.com",
+        "o000oo.com",
+        "oclasrv.com",
+        "ofgogoatan.com",
+        "olp.snapdesexe.com",
+        "opsktp.com",
+        "origoclick.com",
+        "passion.com",
+        "performanceonclick.com",
+        "porn-upload.com",
+        "pornz.fr",
+        "poster.gamesprite.me",
+        "potwm.com",
+        "pourbaiser.com",
+        "powv1deo.cc",
+        "prmobiles.com",
+        "producebreed.com",
+        "profitablecpmnetwork.com",
+        "promo.stream-films.fr",
+        "promo.streaming-illimite.ma",
+        "promo.vador.com",
+        "ptapjmp.com",
+        "pulseadnetwork.com",
+        "regie.story-fr.com",
+        "rencontre-ephemere.fr",
+        "rencontreadultere.club",
+        "rtbbonline.com",
+        "schjmp.com",
+        "search-converter.com",
+        "searchdimension.com",
+        "seargg.xyz",
+        "senditcloud.com",
+        "slabshookwasted.com",
+        "slext2.com",
+        "smapp.work",
+        "sokrostream.tv",
+        "sportstreams.xyz",
+        "starsx.fr",
+        "streamall-search.com",
+        "subzero6969.site",
+        "swesomepop.com",
+        "sydneygfpink.com",
+        "t.vptbn.com",
+        "tastiesfoods.com",
+        "techopedia.care",
+        "telechargementdirect.net",
+        "tharbadir.com",
+        "timesroadmapwed.com",
+        "tlootas.org",
+        "tool.acces-vod.com",
+        "toponclick.com",
+        "torrent09.uno",
+        "torrent9.cm",
+        "tourpowouro.shop",
+        "trbx-l1.online",
+        "trmzum.com",
+        "ts.obsceneoffers.com",
+        "tube-teen.fr",
+        "unltdentertainment.co",
+        "urbanproxy.eu",
+        "valemedia.net",
+        "ver-pelis.me",
+        "viewmoregirls.com",
+        "viiadr.com",
+        "vimeonk.com",
+        "watchmygf.net",
+        "webcool69.com",
+        "webpushdirect.biz",
+        "wgoto.xyz",
+        "wmober.com",
+        "x-flirt.co",
+        "x.porn.fr",
+        "xtraserp.com",
+        "xu2.com",
+        "xxxviijmp.com",
+        "ztdog.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3622
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "ahvsh.com",
+        "allanalpass.com",
+        "ally.sh",
+        "cash4files.com",
+        "cavanhabg.com",
+        "cigarlessarefy.com",
+        "clipwatching.com",
+        "cloudnestra.com",
+        "davioad.com",
+        "desiupload.in",
+        "dood.work",
+        "dropapk.to",
+        "dumbalag.com",
+        "embedsito.com",
+        "exego.app",
+        "frembed.top",
+        "frenchtorrent.cc",
+        "go4up.com",
+        "gomovieshub.io",
+        "gsurl.in",
+        "gvid.one",
+        "heapfiles.com",
+        "hglink.to",
+        "imgpeak.com",
+        "iplayerhls.com",
+        "kobatube.online",
+        "linkbucks.com",
+        "lvturbo.com",
+        "m1xdrop.net",
+        "mangovideo.club",
+        "miuiflash.com",
+        "mivalyo.com",
+        "mixdrop.sn",
+        "monova.org",
+        "mxdrop.to",
+        "onlystream.tv",
+        "pixibay.cc",
+        "playhydrax.com",
+        "pururin.io",
+        "rpmlive.online",
+        "sbanh.com",
+        "sbfull.com",
+        "sblona.com",
+        "sbrapid.com",
+        "sbthe.com",
+        "sethniceletter.com",
+        "sportsonline.ci",
+        "streamhide.to",
+        "swdyu.com",
+        "tapepops.com",
+        "taylorplayer.com",
+        "thecubexguide.com",
+        "up4stream.com",
+        "vgplayer.xyz",
+        "vidbinge.com",
+        "vidsrc-embed.ru",
+        "vidsrc.mov",
+        "vidsrc.net",
+        "vsembed.ru",
+        "wordcounter.icu"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3623
+  },
+  {
+    "condition": {
+      "domainType": "firstParty",
+      "urlFilter": "||biteautop.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3629
+  },
+  {
+    "condition": {
+      "urlFilter": "://landing.*/?ats=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3868
+  },
+  {
+    "condition": {
+      "urlFilter": "://syndication.",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3869
+  },
+  {
+    "condition": {
+      "urlFilter": "?pubid=*&subid=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3870
+  },
+  {
+    "condition": {
+      "urlFilter": "||172.255.6.",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3871
+  },
+  {
+    "condition": {
+      "urlFilter": "||baidu.com/link?url=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3872
+  },
+  {
+    "condition": {
+      "urlFilter": "||ccbill.com/cgi-bin/clicks.cgi?",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3873
+  },
+  {
+    "condition": {
+      "urlFilter": "||chaturbate.com/in/?*&tour=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3874
+  },
+  {
+    "condition": {
+      "urlFilter": "||com-news-reports.",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3875
+  },
+  {
+    "condition": {
+      "urlFilter": "||eroges.com^*/landing-",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3876
+  },
+  {
+    "condition": {
+      "urlFilter": "||eurolive.com/?module=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3877
+  },
+  {
+    "condition": {
+      "urlFilter": "||gearbest.com^*?utm_",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3878
+  },
+  {
+    "condition": {
+      "urlFilter": "||google.com/favicon.ico",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3879
+  },
+  {
+    "condition": {
+      "urlFilter": "||meyclub.com/search?q=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3880
+  },
+  {
+    "condition": {
+      "urlFilter": "||thekingavatar.com/wp-content/uploads/",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3881
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "380tl.com",
+        "3wr110.net",
+        "62.212.73.45",
+        "777-888.ru",
+        "7eer.net",
+        "a2g-secure.com",
+        "a4trk.com",
+        "absoluteviews.com",
+        "achat-visiteurs.com",
+        "activerevenue.com",
+        "ad-center.com",
+        "ad-sys.com",
+        "adbucks.com",
+        "adexint.com",
+        "adfornet.com",
+        "adit-media.com",
+        "adjux.com",
+        "admailtiser.com",
+        "admarketplace.com",
+        "admarketplace.net",
+        "admetix.com",
+        "adnetpro.com",
+        "adorika.com",
+        "adpile.net",
+        "adquantix.com",
+        "adschemist.com",
+        "adschoom.com",
+        "adserverpub.com",
+        "adservingsolutionsinc.com",
+        "adshares.net",
+        "adsmena.com",
+        "adstract.com",
+        "adturtle.biz",
+        "adult3dgames.com",
+        "adunblock.com",
+        "adventurefeeds.com",
+        "advertine.com",
+        "advertising-support.com",
+        "advertsight.com",
+        "advmaker.net",
+        "adxchanger.com",
+        "adxcore.com",
+        "adxfactory.com",
+        "adyieldoptimizer.com",
+        "adzs.com",
+        "affforce.com",
+        "affiliation-france.com",
+        "agisdayra.com",
+        "agkn.com",
+        "ai.me",
+        "ak-is.net",
+        "alibabato.com",
+        "alitems.com",
+        "alosafada.com",
+        "altadefinizone.click",
+        "am-media.fr",
+        "amclicks.com",
+        "ampxchange.com",
+        "anrdoezrs.net",
+        "anytheengmedia.com",
+        "appfly.mobi",
+        "appxu.com",
+        "arabysouq.com",
+        "arabytracking.com",
+        "ato.mx",
+        "audify.io",
+        "back996.com",
+        "badoink.com",
+        "bcvc.mobi",
+        "beach-queen.net",
+        "beaverscripts.com",
+        "bitcoadz.io",
+        "bleach.fr",
+        "blendernetworks.com",
+        "bonplan1.com",
+        "bonplan5.com",
+        "boonsex.com",
+        "boruto.fr",
+        "boutique.guadeloupe-paradise.fr",
+        "brightonclick.com",
+        "brostraffic.com",
+        "bstlnk.com",
+        "buysellads.com",
+        "buzzadexchange.com",
+        "bwinpartypartners.com",
+        "camsoda.com",
+        "cash-duck.com",
+        "cdnrl.com",
+        "cduporno.fr",
+        "cityads.com",
+        "cityadspix.com",
+        "clickadu.com",
+        "clickaine.com",
+        "clickzzs.nl",
+        "clicnscores.ma",
+        "clk1013.com",
+        "clkoffers.com",
+        "clksite.com",
+        "cobalten.com",
+        "coloredview.com",
+        "configs-pc.com",
+        "copyop-ads.com",
+        "cortexmg.com",
+        "cosmicfundboost.com",
+        "couponxplorer.com",
+        "cpabuild.com",
+        "cpalinktracker.com",
+        "cpaofferstat.com",
+        "cpcfeed.com",
+        "cpm.wargaming.net",
+        "cptefr.com",
+        "creativesrv.com",
+        "creofive.com",
+        "dataprovider.biz",
+        "derby-digital.com",
+        "digiupload.com",
+        "direction-x.com",
+        "ditwrite.com",
+        "djummer.com",
+        "docymas.com",
+        "dollario.com",
+        "download366.net",
+        "downloadity.net",
+        "dropcatch.com",
+        "dubshub.com",
+        "eclkmpbn.com",
+        "elvenar.com",
+        "eravage.com",
+        "espace-plus.net",
+        "esprit-click.com",
+        "europacash.com",
+        "explodedigital.com",
+        "femtoads.com",
+        "firstadultgames.com",
+        "flashtalking.com",
+        "flowerfun.net",
+        "flowlz.com",
+        "formulawire.com",
+        "freeadult.games",
+        "frtyo.com",
+        "funsafetab.com",
+        "gamingaffiliation.com",
+        "gamingskin.com",
+        "gangstabros.com",
+        "geniusdisplay.com",
+        "gestionpub.com",
+        "getgamers.eu",
+        "gethide.com",
+        "getlinksinaseconds.com",
+        "globaloffers.link",
+        "gloupa.com",
+        "gmboxx.com",
+        "go.epn.bz",
+        "grifanme.com",
+        "grtyi.com",
+        "havenwrite.com",
+        "hipercontas.com.br",
+        "homyanus.com",
+        "hopdream.com",
+        "houseofpubs.com",
+        "howtosimplified.com",
+        "hpmstr.com",
+        "hyperpromote.com",
+        "ichlnk.com",
+        "idhad.com",
+        "ilovemobi.com",
+        "imitrk.com",
+        "insanetrack.com",
+        "ipsowrite.com",
+        "irtyc.com",
+        "istri.it",
+        "jacquieetmichel-contact.com",
+        "jacquieetmichel-contacts.com",
+        "jsadapi.com",
+        "juicyads.rocks",
+        "justgetitfaster.com",
+        "kastafor.com",
+        "katuhus.com",
+        "kfiopkln.com",
+        "leadzutw.com",
+        "lestaigames.com",
+        "lien.lu",
+        "links.fhsarl.com",
+        "live.lavoixdux.com",
+        "live18ans.com",
+        "livepartners.com",
+        "loading-delivery2.com",
+        "looksmartppc.com",
+        "makeitunder.com",
+        "marsads.com",
+        "mavq.net",
+        "max-adserv.com",
+        "maxonclick.com",
+        "medleyads.com",
+        "medncom.com",
+        "meepwrite.com",
+        "meetaffiliate.com",
+        "meetic-partners.com",
+        "megafiles.xyz",
+        "mellowads.com",
+        "methode-finance.com",
+        "mk-cdn.net",
+        "mobile-10.com",
+        "mobswift.com",
+        "mobusi.com",
+        "modato.ru",
+        "monetizze.com.br",
+        "moneymak3rstrack.com",
+        "multiupload.com",
+        "mxpopad.com",
+        "mybad.fr",
+        "mybestclick.net",
+        "mywb.fr",
+        "native.com",
+        "nativeads.com",
+        "newtabtv.com",
+        "normalexchange.com",
+        "nurno.com",
+        "offergo.net",
+        "ohmwrite.com",
+        "oklm.space",
+        "olmeramarketing.com",
+        "onclickpredictiv.com",
+        "onclickpulse.com",
+        "onclkds.com",
+        "ondate.xyz",
+        "online-adnetwork.com",
+        "onwardclick.com",
+        "oopt.fr",
+        "optimuum.com",
+        "p.porn.fr",
+        "pafpaf.com",
+        "pafutos.com",
+        "partagedefichiers.com",
+        "pdn-1.com",
+        "pdn-2.com",
+        "pebadu.com",
+        "performanceadexchange.com",
+        "pertholin.com",
+        "pipeschannels.com",
+        "pleasewait.co",
+        "plufdsb.com",
+        "plxnt.com",
+        "popmonetizer.net",
+        "popmycash.com",
+        "poprevenue.com",
+        "popstate.net",
+        "poptm.com",
+        "popundertotal.com",
+        "porncrash.com",
+        "pornravage.com",
+        "pornstreet.com",
+        "pourmajeurs.com",
+        "powa.fr",
+        "premiumz.co",
+        "primusad.com",
+        "promotools.biz",
+        "ptcong.com",
+        "pub2srv.com",
+        "pushlinck.com",
+        "pushtrust.com",
+        "quebec-bin.com",
+        "questionfly.com",
+        "reacheffect.com",
+        "redichat.com",
+        "redirects.us",
+        "redlightcenter.com",
+        "redonetype.com",
+        "reflexcash.com",
+        "rencontresparis2015.com",
+        "respecials.com",
+        "rev2pub.com",
+        "revenuehits.com",
+        "revsharecash.com",
+        "rotorrents.com",
+        "rtbanalytics.com",
+        "rtbdem.com",
+        "rvfrm2005.com",
+        "safelinktracker.com",
+        "salesforce.ma",
+        "secure.securitetotale.com",
+        "secure.securitetotale.fr",
+        "seodollars.com",
+        "sersh.com",
+        "sexclic.com",
+        "sextv2424.com",
+        "sexyfreecamz.com",
+        "sezonlukdizi.com",
+        "shemalesofhentai.com",
+        "shot-date.com",
+        "slimcdn.com",
+        "slutroulette.com",
+        "smartclickz.com",
+        "smartoffer.site",
+        "snap-affairs.com",
+        "soosooka.com",
+        "startnewtab.com",
+        "steepto.com",
+        "stripchat.com",
+        "stuntoffer.com",
+        "sultrytraffic.com",
+        "superonclick.com",
+        "sv2.biz",
+        "sylverlight.net",
+        "t.eroges.com",
+        "takening.com",
+        "tc-clicks.com",
+        "teracreative.com",
+        "the-adult-company.com",
+        "theadultcompany.biz",
+        "themoneytizer.com",
+        "thewhizmarketing.com",
+        "thewhizproducts.com",
+        "todigroup.com",
+        "topqualitylink.com",
+        "toptanfirsati.com",
+        "toroadvertising.com",
+        "tororango.com",
+        "tour.reelvidz.com",
+        "tour.vidcube.com",
+        "track2cash.com",
+        "trackertrak.com",
+        "trackor.net",
+        "trackrc.com",
+        "trafficsan.biz",
+        "translationbuddy.com",
+        "travelaudience.com",
+        "tribalfusion.com",
+        "trustedpubs.com",
+        "trynectar.ai",
+        "uaadi.com",
+        "universalsrc.com",
+        "unlockads.com",
+        "upperseeker.com",
+        "urlcash.com",
+        "usbmodmenu.com",
+        "visio-x.fr",
+        "voltads.com",
+        "weborama.fr",
+        "wellmov.com",
+        "white-eyes.com",
+        "wister.biz",
+        "wowcon.net",
+        "wowconversions.com",
+        "xcams.net",
+        "xclick24.com",
+        "xmediaserve.com",
+        "xmladserver.com",
+        "xttaff.com",
+        "yes-messenger.com",
+        "yesmessenger.com",
+        "yoyadsdom.com",
+        "zaful.com",
+        "zwaar.net",
+        "zwaar.org"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3882
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "allmyvideos.net",
+        "ceesty.com",
+        "clkmein.com",
+        "corneey.com",
+        "destyy.com",
+        "empire-streaming-lien.org",
+        "empire-streaming.store",
+        "empire-streamz.fr",
+        "festyy.com",
+        "fuckingfast.co",
+        "sendspace.com",
+        "sfile.mobi",
+        "sh.st",
+        "shorte.st",
+        "torrentdownload.info",
+        "zo3x.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3883
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "slickdeals.net"
+      ],
+      "urlFilter": "||go.redirectingat.com/*&url="
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 4311
+  },
+  {
+    "condition": {
+      "urlFilter": "||linksredirect.com/?pub_id=",
+      "initiatorDomains": [
+        "desidime.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 4312
+  },
+  {
+    "condition": {
+      "urlFilter": "||aliexpress.com^",
+      "initiatorDomains": [
+        "forum.hardware.fr"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 4313
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "mkvdom.ru",
+        "volkswagen-commercial.ru"
+      ],
+      "urlFilter": "?utm_source=*&utm_medium=cpm"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 4314
+  },
+  {
+    "condition": {
+      "urlFilter": "||banggood.com*?admitad_"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 4315
+  },
+  {
+    "condition": {
+      "urlFilter": "||7eer.net^",
+      "initiatorDomains": [
+        "cashrewards.com.au"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 4316
+  },
+  {
+    "condition": {
+      "urlFilter": "||zone-telechargement1.org^",
+      "initiatorDomains": [
+        "zone-telechargement1.org"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 4317
+  },
+  {
+    "condition": {
+      "urlFilter": "|blob:",
+      "initiatorDomains": [
+        "caf.fr",
+        "cerise-prim.fr",
+        "particulier.edf.fr"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 4318
+  },
+  {
+    "condition": {
+      "urlFilter": "||action.metaffiliation.com/trk.php?mclic=",
+      "initiatorDomains": [
+        "123comparer.fr"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 4319
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "123comparer.fr"
+      ],
+      "urlFilter": "||ad.doubleclick.net/ddm/trackclk/*tracking.lengow.com"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 4320
+  },
+  {
+    "condition": {
+      "urlFilter": "||bs.serving-sys.com/serving/adserver.bs?",
+      "initiatorDomains": [
+        "guide-epargne.be"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 4321
+  },
+  {
+    "condition": {
+      "urlFilter": "||prime-journal.online^*=com_acymailing&*&mailid="
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 4322
+  }
+]

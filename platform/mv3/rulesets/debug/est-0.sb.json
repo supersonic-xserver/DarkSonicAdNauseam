@@ -1,0 +1,12 @@
+[
+  {
+    "condition": {
+      "urlFilter": "||openx.static.kava.ee^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 46
+  }
+]

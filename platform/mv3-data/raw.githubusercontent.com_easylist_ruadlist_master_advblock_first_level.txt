@@ -1,0 +1,28 @@
+! Бесплатные DNS-сервисы и не бесплатные домены первого уровня,
+! крайне часто использующихся для мошеннических схем,
+! распространения навязчивой рекламы и вирусов.
+!
+||changeip.name^$third-party,script,subdocument
+||chickenkiller.com^$third-party,script,subdocument
+||dyndns-$third-party,script,subdocument
+||dyndns.$third-party,script,subdocument
+||itsaol.com^$third-party,script,subdocument
+||quelliclub.ru^$third-party,script,subdocument
+||servebbs.net^$third-party,script,subdocument
+!
+||asia^$third-party,script,subdocument,xmlhttprequest,domain=~gallerix.org
+||pw^$third-party,script,xmlhttprequest,domain=~adwiz.pp.ua|~dewalt.store|~forum.worldofwarships.eu|~forum.worldofwarships.ru|~hansgrohe.ru|~hdvbplayer.tk|~herokuapp.com|~liveball.cc|~liveball.gg|~liveball.my|~liveball.sx|~liveball.uno|~liveball.ws|~masterclub.store|~movielab.pro|~osu.ppy.sh|~panomama.ru|~pelcn.net|~philips.ru|~purina.ru|~softpir.com|~sportsvideoline3.pw|~tefal.ru|~tikkurila.ru|~vk-apps.com|~vulpecula.host
+!
+! Исключения
+@@||12go.asia/dist/prod/build.*.js|$third-party,script
+@@||12go.asia/tools/form/$third-party,script
+@@||als-test.xyz/finserv/zgv/votezgv|$third-party,xmlhttprequest
+@@||als-test.xyz/finserv/zgv/zgvresults|$third-party,xmlhttprequest
+@@||app.dynamic.xyz/api/*/sdk/$third-party,script,xmlhttprequest
+@@||callback.pw^$third-party,script,xmlhttprequest
+@@||gallerix.asia^$domain=gallerix.ru
+@@||getplr.xyz/embed$third-party,script,subdocument,xmlhttprequest
+@@||multilanguage.xyz^$third-party,script,xmlhttprequest
+@@||myvi.xyz/embed/$third-party,subdocument
+@@||nyan.pw^$third-party,script,xmlhttprequest
+@@||recheck.12go.asia/*/recheck|$third-party,xmlhttprequest

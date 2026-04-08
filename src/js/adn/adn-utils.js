@@ -375,6 +375,65 @@ export const purgeDeadAds = function (deadAds, callback) {
   }
 };
 
+/*******************************************************************************
+ * MV3 STORAGE HYDRATION
+ * 
+ * In Manifest V3, Service Workers can be terminated at any time, causing
+ * in-memory state to be lost. These functions ensure the admap persists
+ * in chrome.storage.local and can be restored when the SW wakes up.
+ ******************************************************************************/
+
+// MV3: Hydrate admap from storage on Service Worker startup
+// Returns a Promise that resolves with the stored admap data
+export const hydrateAdMapFromStorage = function() {
+  return new Promise((resolve, reject) => {
+    try {
+      console.log("[ADN-TRACE] [SW] Hydration started at", Date.now());
+      vAPI.storage.get('adnVaultHydration').then(stored => {
+        if (stored && stored.adnVaultHydration) {
+          const entries = Object.keys(stored.adnVaultHydration).length;
+          console.log("[ADN] MV3: Hydrating admap from storage, entries:", entries);
+          console.log("[ADN-TRACE] [SW] Hydration complete at", Date.now(), "- Keys loaded:", entries);
+          resolve(stored.adnVaultHydration);
+        } else {
+          console.log("[ADN] MV3: No stored admap found in vault");
+          console.log("[ADN-TRACE] [SW] Hydration complete at", Date.now(), "- No data found");
+          resolve(null);
+        }
+      }).catch(e => {
+        console.error("[ADN] MV3: Failed to hydrate admap from storage:", e);
+        console.error("[ADN-TRACE] [SW] Hydration FAILED at", Date.now(), "- Error:", e);
+        reject(e);
+      });
+    } catch (e) {
+      console.error("[ADN] MV3: Failed to initiate hydration:", e);
+      console.error("[ADN-TRACE] [SW] Hydration FAILED at", Date.now(), "- Error:", e);
+      reject(e);
+    }
+  });
+};
+
+// MV3: Persist admap to storage for Service Worker recovery
+export const persistAdMapToStorage = async function(admap) {
+  if (!admap) return;
+  try {
+    await vAPI.storage.set({ 'adnVaultHydration': admap });
+    console.log("[ADN] MV3: Persisted admap to storage, entries:", 
+      Object.keys(admap).length);
+  } catch (e) {
+    console.error("[ADN] MV3: Failed to persist admap to storage:", e);
+  }
+};
+
+// MV3: Force sync admap to storage (called after each ad operation)
+export const syncAdMapToStorage = async function(admap) {
+  // Use a debounced approach via messaging to avoid excessive storage writes
+  vAPI.messaging.send('adnauseam', {
+    what: 'syncAdMapToStorage',
+    admap: admap
+  });
+};
+
 export const openPage = function(url) {
   vAPI.messaging.send(
     'default', {
@@ -400,12 +459,15 @@ export const isCyrillic = function() {
 /******************************************************************************/
 
 export const startImportFilePicker = function() {
+  if (typeof document !== 'object' || document === null) { return; }
   const input = document.getElementById('importFilePicker');
   // Reset to empty string, this will ensure an change event is properly
   // triggered if the user pick a file, even if it is the same as the last
   // one picked.
-  input.value = '';
-  input.click();
+  if (input) {
+    input.value = '';
+    input.click();
+  }
 };
 
 /********* decode html entities in ads titles in vault and menu *********/
@@ -413,15 +475,24 @@ export const startImportFilePicker = function() {
 export const decodeEntities = (function () {
   //from here: http://stackoverflow.com/a/9609450
   // this prevents any overhead from creating the object each time
-  const element = document.createElement('div');
+  let element = null;
+  function getElement() {
+    if (element === null && typeof document === 'object' && document !== null) {
+      element = document.createElement('div');
+    }
+    return element;
+  }
   function decodeHTMLEntities(str) {
     if (str && typeof str === 'string') {
       // strip script/html tags
       str = str.replace(/<script[^>]*>([\S\s]*?)<\/script>/gmi, '');
       str = str.replace(/<\/?\w(?:[^"'>]|"[^"]*"|'[^']*')*>/gmi, '');
-      element.innerHTML = str;
-      str = element.textContent;
-      element.textContent = '';
+      const el = getElement();
+      if (el) {
+        el.innerHTML = str;
+        str = el.textContent;
+        el.textContent = '';
+      }
     }
     return str;
   }

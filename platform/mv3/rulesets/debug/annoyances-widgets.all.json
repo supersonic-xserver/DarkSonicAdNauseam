@@ -1,0 +1,882 @@
+[
+  {
+    "condition": {
+      "urlFilter": "/creame-whatsapp-me/public/js/joinchat.min.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1
+  },
+  {
+    "condition": {
+      "urlFilter": "/wp-content/plugins/click-to-chat-for-whatsapp/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2
+  },
+  {
+    "condition": {
+      "urlFilter": "://webim.*/button.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3
+  },
+  {
+    "condition": {
+      "urlFilter": "://webim.*/button.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4
+  },
+  {
+    "condition": {
+      "urlFilter": "||ai.casbin.com^",
+      "initiatorDomains": [
+        "casbin.org"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5
+  },
+  {
+    "condition": {
+      "urlFilter": "||eservices.healthhub.sg/public/chatbot/widget/ca/assets/index.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 6
+  },
+  {
+    "condition": {
+      "urlFilter": "||today.com/oli/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 7
+  },
+  {
+    "condition": {
+      "urlFilter": "||3cx.com/livechat/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 8
+  },
+  {
+    "condition": {
+      "urlFilter": "||allegro.concerto.ai/chatbot_v2/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 9
+  },
+  {
+    "condition": {
+      "urlFilter": "||app.mymaisie.com/static/chatbot-component/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 10
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.asksuite.com/infochat.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 11
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.shopify.com/extensions/*/assets/inbox-chat-loader.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 12
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.shopify.com/extensions/*/manifest-ai-chatbot-548/assets/common-script.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 13
+  },
+  {
+    "condition": {
+      "urlFilter": "||cgsinc.cl/mcic/web/mediatel_chat.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 14
+  },
+  {
+    "condition": {
+      "urlFilter": "||chatbase.co/embed.min.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 15
+  },
+  {
+    "condition": {
+      "urlFilter": "||cloudfront.net/gosquared.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 16
+  },
+  {
+    "condition": {
+      "urlFilter": "||connect.facebook.net^*/xfbml.customerchat.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 17
+  },
+  {
+    "condition": {
+      "urlFilter": "||contivio.com/chat2/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 18
+  },
+  {
+    "condition": {
+      "urlFilter": "||engage.wixapps.net/chat-widget-server/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 19
+  },
+  {
+    "condition": {
+      "urlFilter": "||fcc-online.pl/chat/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 20
+  },
+  {
+    "condition": {
+      "urlFilter": "||gladly.com/chat-sdk/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 21
+  },
+  {
+    "condition": {
+      "urlFilter": "||googleapis.com/ebbot-web/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 22
+  },
+  {
+    "condition": {
+      "urlFilter": "||gstatic.com/dialogflow-console/fast/messenger/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 23
+  },
+  {
+    "condition": {
+      "urlFilter": "||guuru.com^*/chat.min.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 24
+  },
+  {
+    "condition": {
+      "urlFilter": "||hubspot.com/livechat-public/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 25
+  },
+  {
+    "condition": {
+      "urlFilter": "||iadvize.com/iadvize.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 26
+  },
+  {
+    "condition": {
+      "urlFilter": "||jsdelivr.net/gh/tykhe-dev/tykhe-chat@1.0/tykhe-chat.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 27
+  },
+  {
+    "condition": {
+      "urlFilter": "||leadster.com.br/api/chatbot/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 28
+  },
+  {
+    "condition": {
+      "urlFilter": "||momence.com/plugin/webchat/webchat.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 29
+  },
+  {
+    "condition": {
+      "urlFilter": "||my.salesforce.com/embeddedservice/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 30
+  },
+  {
+    "condition": {
+      "urlFilter": "||phenompeople.com/txm-bot/prod/prod.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 31
+  },
+  {
+    "condition": {
+      "urlFilter": "||predu.sk/chat/chat.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 32
+  },
+  {
+    "condition": {
+      "urlFilter": "||script.ask.gov.sg/widget.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 33
+  },
+  {
+    "condition": {
+      "urlFilter": "||shopify.com^*/shopifychatv1.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 34
+  },
+  {
+    "condition": {
+      "urlFilter": "||storage.googleapis.com/code.snapengage.com/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 35
+  },
+  {
+    "condition": {
+      "urlFilter": "||usemessages.com/conversations-embed.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 36
+  },
+  {
+    "condition": {
+      "urlFilter": "||userback.io/widget/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 37
+  },
+  {
+    "condition": {
+      "urlFilter": "||userlike-cdn-widgets.*.amazonaws.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 38
+  },
+  {
+    "condition": {
+      "urlFilter": "||web.pypestream.com/launcher.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 39
+  },
+  {
+    "condition": {
+      "urlFilter": "||webchat.vica.gov.sg/static/js/chat.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 40
+  },
+  {
+    "condition": {
+      "urlFilter": "||widgetinstall.com/plugin/chat.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 41
+  },
+  {
+    "condition": {
+      "urlFilter": "||widgets.binotel.com/chat/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 42
+  },
+  {
+    "condition": {
+      "urlFilter": "||widgets.binotel.com/getcall/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 43
+  },
+  {
+    "condition": {
+      "urlFilter": "||zapier.app/_z/embed/chatbot/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 44
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "allegro-cdn.concerto.ai",
+        "assistant.almaintelligence.com",
+        "call.chatra.io",
+        "chat-widget.hiverhq.com",
+        "chat.24liveblog.com",
+        "chatbot.pef.czu.cz",
+        "chatwidget-prod.web.app",
+        "cloud.aikosmo.com",
+        "lptag-cdn.liveperson.net",
+        "lptag.liveperson.net",
+        "pageview.activengage.com",
+        "selfservice.robinhq.com",
+        "webchat.bebot.io",
+        "webchat.omni.cafe",
+        "widget.chatbot.laiye.com",
+        "widget.helpcrunch.com",
+        "widget.intercom.io",
+        "widget.kommunicate.io",
+        "widget.trengo.eu",
+        "widgets.leadconnectorhq.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 45
+  },
+  {
+    "condition": {
+      "urlFilter": "||embed.typeform.com/next/embed.js",
+      "initiatorDomains": [
+        "vitbikes.de"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 46
+  },
+  {
+    "condition": {
+      "urlFilter": "||live-mt-server.wati.io/*/whatsappchatscript?shopifydomain=",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 47
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.zdassets.com/web_widget/messenger/",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 48
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "247-inc.net",
+        "24nettbutikk.chat",
+        "3cx.uk",
+        "above.im",
+        "acquire.io",
+        "alive5.com",
+        "alo-tech.com",
+        "apex.live",
+        "api.botsonic.ai",
+        "api.visitor.chat",
+        "app.chaport.com",
+        "app.chatplus.jp",
+        "assets.flex.twilio.com",
+        "astutebot.com",
+        "awhy.it",
+        "belco.io",
+        "birdeye.com",
+        "boei.help",
+        "boldchat.com",
+        "bot.leadoo.com",
+        "botgenes.org",
+        "botmind.io",
+        "botsrv2.com",
+        "callpage.io",
+        "carchat24.com",
+        "carrotquest.io",
+        "cbot.ai",
+        "cdn-fe.chatty.net",
+        "chat-app.chat-link.de",
+        "chat-app.neurabot.de",
+        "chat.broadly.com",
+        "chat.gosquared.com",
+        "chat.octadesk.services",
+        "chatbot.com",
+        "chatbotize.com",
+        "chatbro.com",
+        "chatdealer.jp",
+        "chatway.app",
+        "chatwoot.frai.pro",
+        "chatwoot.on-mail.ru",
+        "cibbot.com",
+        "cliengo.com",
+        "clientchatlive.com",
+        "clients.streamwood.ru",
+        "console.rul.ai",
+        "conversationalsdevelopment.nl",
+        "conversiobot.com",
+        "craft-talk.com",
+        "crall.io",
+        "daktela.com",
+        "directtalk.com.br",
+        "echatsys.com",
+        "embed.chatnode.ai",
+        "embed.simplifeye.co",
+        "engagebay.com",
+        "enquirybot.com",
+        "evidence.io",
+        "external.airport.ai",
+        "freshchat.com",
+        "getrisk.info",
+        "globalbot.ai",
+        "go.botmaker.com",
+        "goftino.com",
+        "gorgias.chat",
+        "gs-chat.com",
+        "gso.amocrm.com",
+        "gubagoo.io",
+        "happyfox.com",
+        "helpscout.net",
+        "heyoliver.com",
+        "igetresponse.chat",
+        "inside.chat",
+        "inteliwise.com",
+        "intelliticks.com",
+        "jivosite.com",
+        "landbot.io",
+        "lcmagentportal.appspot.com",
+        "leadback.ru",
+        "leadbooster-chat.pipedrive.com",
+        "leadgenic.ru",
+        "live2support.com",
+        "livechat.ekonsilio.io",
+        "livehelpnow.net",
+        "me-talk.ru",
+        "melibo.de",
+        "messenger.customerly.io",
+        "mindbehind.com",
+        "mobilemonkey.com",
+        "moustacheai.com",
+        "mylivechat.com",
+        "neurologic.com.br",
+        "nice-incontact.com",
+        "noem.ai",
+        "ocelotbot.com",
+        "olark.com",
+        "ommi-prod-widget.web.app",
+        "onlim.com",
+        "onwebchat.com",
+        "paradox.ai",
+        "personaclick.com",
+        "phplivesupport.com",
+        "podium.com",
+        "production.raptive.ai",
+        "purechat.com",
+        "qualified.com",
+        "quicktext.im",
+        "raychat.io",
+        "readyplanet.com",
+        "reamaze.com",
+        "replain.cc",
+        "richpanel.com",
+        "salesiq.zoho.com",
+        "sendinblue.com",
+        "serviceform.com",
+        "smart.generaxion.fi",
+        "smartarget.online",
+        "smartsuppcdn.com",
+        "smith.ai",
+        "smooch.io",
+        "snapengage.com",
+        "snapsmedia.io",
+        "st.chatango.com",
+        "stadtwerk.bot",
+        "swi.neobox.ebu.io",
+        "talkative-cdn.com",
+        "tawk.to",
+        "thankful.ai",
+        "thelivechatsoftware.com",
+        "tidiochat.com",
+        "unibuddy.co",
+        "userbot.ai",
+        "userway.org",
+        "vergic.com",
+        "verint-cdn.com",
+        "visitor.chat",
+        "wbot.chat",
+        "web-chat.global.assistant.watson.appdomain.cloud",
+        "web.kodabots.com",
+        "webchat.hyperflow.global",
+        "webchatapi.robbu.global",
+        "webim.ru",
+        "whatya.solairo-api.com",
+        "widget.insent.ai",
+        "widget.moin.ai",
+        "widget.screets.io",
+        "widget.superchat.de",
+        "widget.writesonic.com",
+        "worldchatbox.worldfone.vn",
+        "xeno.app",
+        "yellowmessenger.com",
+        "zammo.ai",
+        "zopim.com",
+        "zyratalk.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 49
+  },
+  {
+    "condition": {
+      "urlFilter": "||boost.ai/chatpanel/",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 50
+  },
+  {
+    "condition": {
+      "urlFilter": "||crisp.chat^",
+      "excludedResourceTypes": [
+        "image",
+        "main_frame"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 51
+  },
+  {
+    "condition": {
+      "urlFilter": "||driftt.com^",
+      "excludedInitiatorDomains": [
+        "paloaltonetworks.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 52
+  },
+  {
+    "condition": {
+      "urlFilter": "||js.zohocdn.com/ichat/",
+      "excludedInitiatorDomains": [
+        "zoho.com",
+        "zoho.eu",
+        "zoho.in",
+        "zohoshowtime.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 53
+  },
+  {
+    "condition": {
+      "urlFilter": "||js.zohocdn.com/salesiq/js/floatbutton1_",
+      "excludedInitiatorDomains": [
+        "zoho.com",
+        "zoho.eu",
+        "zoho.in",
+        "zohoshowtime.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 54
+  },
+  {
+    "condition": {
+      "urlFilter": "||ladesk.com/chat/",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 55
+  },
+  {
+    "condition": {
+      "urlFilter": "||livechatinc.com^",
+      "excludedInitiatorDomains": [
+        "direct.lc.chat"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 56
+  },
+  {
+    "condition": {
+      "urlFilter": "||livetex.ru^",
+      "excludedInitiatorDomains": [
+        "livetex.github.io"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 57
+  },
+  {
+    "condition": {
+      "urlFilter": "||services.leadconnectorhq.com/chat-widget/",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 58
+  },
+  {
+    "condition": {
+      "urlFilter": "||sprinklr.com/api/livechat/",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 59
+  },
+  {
+    "condition": {
+      "urlFilter": "||supportai.yandex/widget/",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 60
+  },
+  {
+    "condition": {
+      "urlFilter": "||tidio.co^",
+      "excludedInitiatorDomains": [
+        "tidio.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 61
+  },
+  {
+    "condition": {
+      "urlFilter": "||zohopublic.com/watchws?",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 62
+  },
+  {
+    "condition": {
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "script"
+      ],
+      "urlFilter": "||components.justanswer.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 63
+  },
+  {
+    "condition": {
+      "urlFilter": "||socialintents.com/api/chat/socialintents.",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 64
+  }
+]

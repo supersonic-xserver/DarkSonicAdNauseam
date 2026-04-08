@@ -1,0 +1,125 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "plx.pornototale.com",
+        "premiogiusto.com",
+        "tracking.donnemagazine.it",
+        "tracking.foodblog.it",
+        "tracking.motorimagazine.it",
+        "tracking.notizie.it",
+        "tracking.offerteshopping.it",
+        "tracking.style24.it",
+        "tracking.tuobenessere.it",
+        "tracking.viaggiamo.it"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 944
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "animeunity.tv"
+      ],
+      "regexFilter": "^https?:\\/\\/.*\\.(jpg|gif|png|php|html|svg|ico|js|txt)"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 945
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "campaigns.williamhill.it",
+        "heyos.com",
+        "informatoriads.snai.it",
+        "record.betpartners.it",
+        "record.starcasino.it"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 974
+  },
+  {
+    "condition": {
+      "urlFilter": "||betway.it/bwp/",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 975
+  },
+  {
+    "condition": {
+      "urlFilter": "||goldbetpartners.it/redirect.aspx?",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 976
+  },
+  {
+    "condition": {
+      "urlFilter": "||vincitu.it/c.ashx?",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 977
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "serieturche.eu"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 978
+  },
+  {
+    "condition": {
+      "urlFilter": "||ad.doubleclick.net/ddm/trackclk/",
+      "initiatorDomains": [
+        "autoxy.it"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 1048
+  },
+  {
+    "condition": {
+      "urlFilter": "||zenaps.com/rclick.php?",
+      "initiatorDomains": [
+        "idealo.it"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 1049
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "ad.gr.doubleclick.net",
+        "ad2.linkwise.gr",
+        "adman.kathimerini.gr",
+        "adman.otenet.gr",
+        "ads.24media.gr",
+        "ads.naftemporiki.gr",
+        "adserver.linkwise.gr",
+        "affiliate.linkwise.gr",
+        "banners.dol.gr",
+        "bold.adman.gr",
+        "cdn.orangeclickmedia.com",
+        "clickbanner.gr",
+        "d.agkn.com",
+        "el.williamhillcasino.com",
+        "gazzetta.adman.gr",
+        "gpoint.gpoint.com.gr",
+        "gr.partypoker.com",
+        "media.mybet.com",
+        "obj.adman.gr",
+        "phaistos-ssp.adman.gr",
+        "scripts.bestprice.gr",
+        "serve.ads.gr",
+        "static.adman.gr"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 323
+  },
+  {
+    "condition": {
+      "urlFilter": "goldenconcept.ir^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 414
+  },
+  {
+    "condition": {
+      "urlFilter": "indusviva.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 415
+  }
+]

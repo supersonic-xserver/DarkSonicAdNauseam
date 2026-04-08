@@ -1,0 +1,600 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "cgames.de",
+        "delmovip.com",
+        "gg-bet.de",
+        "ggbetcasino.de",
+        "landing.sexkiste.com",
+        "pre.xlust24.com",
+        "probefahrt.gratis",
+        "putenbrust.net",
+        "smsdate.com",
+        "start.sexpartnercommunity.com",
+        "vulkanbet.pro",
+        "vulkanbetting.biz",
+        "vulkanvegas-de.com",
+        "vulkanvegascasino.at",
+        "wixnm.com",
+        "xtreff69.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1607
+  },
+  {
+    "condition": {
+      "urlFilter": "||adfarm1.adition.com^",
+      "initiatorDomains": [
+        "web.de"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1608
+  },
+  {
+    "condition": {
+      "urlFilter": "||allround-pc.com^*.php?*="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1609
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "ddownload.com",
+        "katfile.com"
+      ],
+      "initiatorDomains": [
+        "ddl-warez.cc"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1610
+  },
+  {
+    "condition": {
+      "urlFilter": "||escaria.com/public/static/teaser/?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1611
+  },
+  {
+    "condition": {
+      "urlFilter": "||ilove.de^*/landing_pages/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1612
+  },
+  {
+    "condition": {
+      "urlFilter": "||ishelminger.de/ad/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1613
+  },
+  {
+    "condition": {
+      "urlFilter": "||o2-freikarte.de/affiliate/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1614
+  },
+  {
+    "condition": {
+      "urlFilter": "||pre.xkontakt18.com/campaign?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1615
+  },
+  {
+    "condition": {
+      "urlFilter": "||sunmaker.com/?a_aid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1616
+  },
+  {
+    "condition": {
+      "urlFilter": "||taps.io^*/sms?__ref="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1617
+  },
+  {
+    "condition": {
+      "urlFilter": "||tuneclub.de^*/lp.pl?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1618
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "190.115.18.20",
+        "aniworld.to",
+        "canna-power.to",
+        "canna.to",
+        "kinoger.com",
+        "kinoger.to",
+        "s.to",
+        "serien.cam",
+        "serienstream.to"
+      ],
+      "regexFilter": "^https?:\\/\\/.*\\.(jpg|jpeg|gif|png|php|svg|ico|js|txt|css)"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1619
+  },
+  {
+    "condition": {
+      "urlFilter": "/lp/chip-",
+      "initiatorDomains": [
+        "chip.de"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1620
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "hilfreich.de"
+      ],
+      "urlFilter": "^utm_medium=popunder^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1621
+  },
+  {
+    "condition": {
+      "urlFilter": "||count.shopping.t-online.de/re?id=",
+      "initiatorDomains": [
+        "t-online.de"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1622
+  },
+  {
+    "condition": {
+      "urlFilter": "||data-load.me/partner/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1623
+  },
+  {
+    "condition": {
+      "urlFilter": "||ddownload.com/free",
+      "initiatorDomains": [
+        "ibooks.to"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1624
+  },
+  {
+    "condition": {
+      "urlFilter": "||delamar.de/out/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1625
+  },
+  {
+    "condition": {
+      "urlFilter": "||eishockey-online.news^",
+      "initiatorDomains": [
+        "eishockey-online.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1626
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "linux-magazin.de"
+      ],
+      "urlFilter": "||linux-magazin.de/wp-content/uploads/*#"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1627
+  },
+  {
+    "condition": {
+      "urlFilter": "||sexei.net/go.html"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1628
+  },
+  {
+    "condition": {
+      "urlFilter": "||warez.cx^",
+      "initiatorDomains": [
+        "ibooks.to"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1629
+  },
+  {
+    "condition": {
+      "urlFilter": "?popup:msp_",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1766
+  },
+  {
+    "condition": {
+      "urlFilter": "||1und1.de/?__reuse=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1767
+  },
+  {
+    "condition": {
+      "urlFilter": "||bigpoint.com^*?aid=*&aig=*&aip=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1768
+  },
+  {
+    "condition": {
+      "urlFilter": "||china-gadgets.de^*&utm_medium=popdown&",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1769
+  },
+  {
+    "condition": {
+      "urlFilter": "||dealdoktor.de^*&utm_medium=popdown&",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1770
+  },
+  {
+    "condition": {
+      "urlFilter": "||deutscherflirtbook.com/landing*&aff_",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1771
+  },
+  {
+    "condition": {
+      "urlFilter": "||lp.amateurcommunity.com/index.php?cp=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1772
+  },
+  {
+    "condition": {
+      "urlFilter": "||lustagenten.de/?w=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1773
+  },
+  {
+    "condition": {
+      "urlFilter": "||sau-billig.net/?log=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1774
+  },
+  {
+    "condition": {
+      "urlFilter": "||sloganmaker.net/?utm_campaign=*&utm_source=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1775
+  },
+  {
+    "condition": {
+      "urlFilter": "||tagoria.net/?ref=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1776
+  },
+  {
+    "condition": {
+      "urlFilter": "||teufelchens.xxx/trade_in/",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1777
+  },
+  {
+    "condition": {
+      "urlFilter": "||vavoo.tv/promo/",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1778
+  },
+  {
+    "condition": {
+      "urlFilter": "||vidonna.de/pop.php",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1779
+  },
+  {
+    "condition": {
+      "urlFilter": "||vodafone.de^*&tsid=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1780
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "ad.de.doubleclick.net",
+        "adperform.de",
+        "adshot.de",
+        "amateurseite.com",
+        "arminius.io",
+        "boerse.today",
+        "ext.amateurcommunity.com",
+        "ext.amateurcommunity.de",
+        "gamigoads.com",
+        "jinkads.com",
+        "tracking.s24.com",
+        "trafficfabrik.com",
+        "websc.org"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1781
+  },
+  {
+    "condition": {
+      "urlFilter": "||g.doubleclick.net/pcs/",
+      "initiatorDomains": [
+        "auto-motor-und-sport.de",
+        "motorradonline.de"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 1893
+  },
+  {
+    "condition": {
+      "urlFilter": "||adspirit.de/adclick.php",
+      "initiatorDomains": [
+        "jetzt.de",
+        "sueddeutsche.de"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 1894
+  },
+  {
+    "condition": {
+      "urlFilter": "||board.canna.tf^",
+      "initiatorDomains": [
+        "canna-power.to",
+        "canna.to"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 1895
+  },
+  {
+    "condition": {
+      "urlFilter": "||canna-power.to/links.php?action=",
+      "initiatorDomains": [
+        "canna-power.to"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 1896
+  },
+  {
+    "condition": {
+      "urlFilter": "||canna.to/links.php?action=",
+      "initiatorDomains": [
+        "canna.to"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 1897
+  },
+  {
+    "condition": {
+      "urlFilter": "||doubleclick.net/ddm/",
+      "initiatorDomains": [
+        "11freunde.de"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 1898
+  },
+  {
+    "condition": {
+      "urlFilter": "||g.doubleclick.net^",
+      "initiatorDomains": [
+        "11freunde.de"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 1899
+  },
+  {
+    "condition": {
+      "urlFilter": "||t.adcell.com/click.php?",
+      "initiatorDomains": [
+        "comicschau.de"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 1900
+  },
+  {
+    "condition": {
+      "urlFilter": "||t.adcell.com/p/click?",
+      "initiatorDomains": [
+        "jerseypoint.de"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 1901
+  }
+]

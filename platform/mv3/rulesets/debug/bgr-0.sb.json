@@ -1,0 +1,18 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "a.actualno.com",
+        "adsy.mail.bg",
+        "b.grabo.bg",
+        "com.nxtras.banner.imagerotator",
+        "profitshare.bg"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 678
+  }
+]

@@ -62,7 +62,9 @@ const DOMListFactory = function(selector, context) {
     return r;
 };
 
-DOMListFactory.root = document.querySelector(':root');
+DOMListFactory.root = typeof document === 'object' && document !== null
+    ? document.querySelector(':root')
+    : null;
 
 /******************************************************************************/
 

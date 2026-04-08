@@ -1,0 +1,72 @@
+[uBlock Origin]
+! Title: ☀️ PersianBlockerNG ☀️
+! Last modified: Thu, 4 Sep 2025 23:38:35 +0330
+! Expires: 5 days
+! Description: Filters to block ads, trackers and annoyances in Persian websites 
+! License: https://codeberg.org/KhodeKiaa/PersianBlocker/src/branch/main/LICENSE
+! Homepage: https://codeberg.org/KhodeKiaa/PersianBlocker
+!
+! GitHub issues: https://codeberg.org/KhodeKiaa/PersianBlocker/issues
+! GitHub pull requests: https://codeberg.org/KhodeKiaa/PersianBlocker/pulls
+
+! لیستی برای برگرداندن آزادی کاربران، چون هر کاربر این آزادی را دارد که چه چیزی وارد مرورگرش می‌شود و چه چیزی وارد نمی‌شود !
+! فَروَهَر یا فرِّ کیانی، نماد فناناپذیری:
+!                              ████                          !
+!                             ████                           !
+!                             ████                           !
+!                       ███   ████                           !
+!                       ██████████                           !
+!                       ██████████                           !
+!████████████████████████████████████████████████████████████!
+!████████████████████████████████████████████████████████████!
+! ███████████████████████████████ ██████████████████████████ !
+!   ██████████████████████████████████████████████████████   !
+!        ████████████████████████████████████████████        !
+!                       ██████████████                       !
+!                   ██ ██ ██████████ ██ ██                   !
+!                   ████ ████████████ ████                   !
+!                        ████████████                        !
+
+
+! Include the old list for now, will be removed in the future:
+!#include PersianBlocker-Deprecated.txt
+
+
+! Ads:
+!#include PersianBlockerAds.txt
+
+
+! Trackers:
+!#include PersianBlockerTrackers.txt
+
+
+! Annoyances (Disabled, please use manually - غیرفعال، لطفا به صورت دستی استفاده کنید):
+! !#include PersianBlockerAnnoyances.txt
+
+
+! Video Censorship:
+!#include PersianBlockerCensor.txt
+
+
+! Half-Price (نیم بها) Sites:
+!#include PersianBlockerHalfPrice.txt
+
+
+! Malware and Phishing:
+!#include PersianBlockerMalware.txt
+!#include PersianBlockerPhishing.txt
+
+
+! Mobile (Firefox Android, Cromite, AdGuard for Android, AdGuard for iOS, AdGuard for Safari, Samsung Internet)
+!#if env_mobile
+!#include PersianBlockerMobile.txt
+!#endif
+!#if (adguard && adguard_app_android)
+!#include PersianBlockerMobile.txt
+!#endif
+!#if (adguard && adguard_app_ios)
+!#include PersianBlockerMobile.txt
+!#endif
+!#if (adguard && adguard_ext_android_cb)
+!#include PersianBlockerMobile.txt
+!#endif

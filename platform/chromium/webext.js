@@ -23,7 +23,17 @@
 // the promisification of uBO progress.
 
 const promisifyNoFail = function(thisArg, fnName, outFn = r => r) {
+    if (thisArg === undefined || thisArg === null) {
+        return function(...args) {
+            return Promise.resolve(outFn());
+        };
+    }
     const fn = thisArg[fnName];
+    if (typeof fn !== 'function') {
+        return function(...args) {
+            return Promise.resolve(outFn());
+        };
+    }
     return function(...args) {
         return new Promise(resolve => {
             try {
@@ -40,7 +50,17 @@ const promisifyNoFail = function(thisArg, fnName, outFn = r => r) {
 };
 
 const promisify = function(thisArg, fnName) {
+    if (thisArg === undefined || thisArg === null) {
+        return function(...args) {
+            return Promise.resolve();
+        };
+    }
     const fn = thisArg[fnName];
+    if (typeof fn !== 'function') {
+        return function(...args) {
+            return Promise.resolve();
+        };
+    }
     return function(...args) {
         return new Promise((resolve, reject) => {
             try {
@@ -67,7 +87,7 @@ const webext = {
         create: promisifyNoFail(chrome.alarms, 'create'),
         get: promisifyNoFail(chrome.alarms, 'get'),
         getAll: promisifyNoFail(chrome.alarms, 'getAll'),
-        onAlarm: chrome.alarms.onAlarm,
+        onAlarm: chrome.alarms && chrome.alarms.onAlarm || null,
     },
     // https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/browserAction
     browserAction: {
@@ -79,11 +99,11 @@ const webext = {
     // https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/menus
     menus: {
         create: function() {
-            return chrome.contextMenus.create(...arguments, ( ) => {
+            return chrome.contextMenus && chrome.contextMenus.create(...arguments, ( ) => {
                 void chrome.runtime.lastError;
             });
         },
-        onClicked: chrome.contextMenus.onClicked,
+        onClicked: chrome.contextMenus && chrome.contextMenus.onClicked || null,
         remove: promisifyNoFail(chrome.contextMenus, 'remove'),
         removeAll: promisifyNoFail(chrome.contextMenus, 'removeAll'),
     },
@@ -127,7 +147,7 @@ const webext = {
 };
 
 // browser.privacy entries
-{
+if (chrome.privacy) {
     const settings = [
         // https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/privacy/network
         [ 'network', 'networkPredictionEnabled' ],
@@ -136,12 +156,14 @@ const webext = {
         [ 'websites', 'hyperlinkAuditingEnabled' ],
     ];
     for ( const [ category, setting ] of settings ) {
+        if (!chrome.privacy[category]) { continue; }
         let categoryEntry = webext.privacy[category];
         if ( categoryEntry instanceof Object === false ) {
             categoryEntry = webext.privacy[category] = {};
         }
         const settingEntry = categoryEntry[setting] = {};
         const thisArg = chrome.privacy[category][setting];
+        if (!thisArg) { continue; }
         settingEntry.clear = promisifyNoFail(thisArg, 'clear');
         settingEntry.get = promisifyNoFail(thisArg, 'get');
         settingEntry.set = promisifyNoFail(thisArg, 'set');
@@ -149,14 +171,14 @@ const webext = {
 }
 
 // https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/storage/managed
-if ( chrome.storage.managed instanceof Object ) {
+if ( chrome.storage && chrome.storage.managed instanceof Object ) {
     webext.storage.managed = {
         get: promisify(chrome.storage.managed, 'get'),
     };
 }
 
 // https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/storage/sync
-if ( chrome.storage.sync instanceof Object ) {
+if ( chrome.storage && chrome.storage.sync instanceof Object ) {
     webext.storage.sync = {
         QUOTA_BYTES: chrome.storage.sync.QUOTA_BYTES,
         QUOTA_BYTES_PER_ITEM: chrome.storage.sync.QUOTA_BYTES_PER_ITEM,
@@ -173,7 +195,7 @@ if ( chrome.storage.sync instanceof Object ) {
 }
 
 // https://bugs.chromium.org/p/chromium/issues/detail?id=608854
-if ( chrome.tabs.removeCSS instanceof Function ) {
+if ( chrome.tabs && chrome.tabs.removeCSS instanceof Function ) {
     webext.tabs.removeCSS = promisifyNoFail(chrome.tabs, 'removeCSS');
 }
 

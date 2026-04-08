@@ -1,0 +1,10432 @@
+[
+  {
+    "condition": {
+      "urlFilter": "%20728x90%20"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1
+  },
+  {
+    "condition": {
+      "urlFilter": "&ad_size="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2
+  },
+  {
+    "condition": {
+      "urlFilter": "-100x500.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3
+  },
+  {
+    "condition": {
+      "urlFilter": "-100x600.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4
+  },
+  {
+    "condition": {
+      "urlFilter": "-300-250-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5
+  },
+  {
+    "condition": {
+      "urlFilter": "-600x120."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 6
+  },
+  {
+    "condition": {
+      "urlFilter": "-60x480-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 7
+  },
+  {
+    "condition": {
+      "urlFilter": "-728%cf%8790."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 8
+  },
+  {
+    "condition": {
+      "urlFilter": "-866x120."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 9
+  },
+  {
+    "condition": {
+      "urlFilter": "-866x120_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 10
+  },
+  {
+    "condition": {
+      "urlFilter": "-90x728."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 11
+  },
+  {
+    "condition": {
+      "urlFilter": "-ad-300x250-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 12
+  },
+  {
+    "condition": {
+      "urlFilter": "-e3lnat/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 13
+  },
+  {
+    "condition": {
+      "urlFilter": "-left-ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 14
+  },
+  {
+    "condition": {
+      "urlFilter": "-right-ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 15
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/iads2/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 16
+  },
+  {
+    "condition": {
+      "urlFilter": ".js?pubid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 17
+  },
+  {
+    "condition": {
+      "urlFilter": ".ps/adds/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 18
+  },
+  {
+    "condition": {
+      "urlFilter": ".ps/ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 19
+  },
+  {
+    "condition": {
+      "urlFilter": "/%d8%a5%d8%b9%d9%84%d8%a7%d9%86-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 20
+  },
+  {
+    "condition": {
+      "urlFilter": "/%d8%a7%d8%b9%d9%84%d8%a7%d9%86-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 21
+  },
+  {
+    "condition": {
+      "urlFilter": "/%d8%a7%d8%b9%d9%84%d8%a7%d9%86."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 22
+  },
+  {
+    "condition": {
+      "urlFilter": "/280x336."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 23
+  },
+  {
+    "condition": {
+      "urlFilter": "/728x90+"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 24
+  },
+  {
+    "condition": {
+      "urlFilter": "/a3lan."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 25
+  },
+  {
+    "condition": {
+      "urlFilter": "/a3lanat/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 26
+  },
+  {
+    "condition": {
+      "urlFilter": "/ad120."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 27
+  },
+  {
+    "condition": {
+      "urlFilter": "/ad120x600."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 28
+  },
+  {
+    "condition": {
+      "urlFilter": "/ad468-60."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 29
+  },
+  {
+    "condition": {
+      "urlFilter": "/ad600."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 30
+  },
+  {
+    "condition": {
+      "urlFilter": "/ad720x120."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 31
+  },
+  {
+    "condition": {
+      "urlFilter": "/adds.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 32
+  },
+  {
+    "condition": {
+      "urlFilter": "/adedinfo/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 33
+  },
+  {
+    "condition": {
+      "urlFilter": "/adhead1."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 34
+  },
+  {
+    "condition": {
+      "urlFilter": "/ads-emall-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 35
+  },
+  {
+    "condition": {
+      "urlFilter": "/ads.*&autoplay="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 36
+  },
+  {
+    "condition": {
+      "urlFilter": "/ads.*?vid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 37
+  },
+  {
+    "condition": {
+      "urlFilter": "/ads/*/banners_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 38
+  },
+  {
+    "condition": {
+      "urlFilter": "/ads/box3."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 39
+  },
+  {
+    "condition": {
+      "urlFilter": "/ads/revive/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 40
+  },
+  {
+    "condition": {
+      "urlFilter": "/adsbar."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 41
+  },
+  {
+    "condition": {
+      "urlFilter": "/adsbeytoote/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 42
+  },
+  {
+    "condition": {
+      "urlFilter": "/adsense.min."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 43
+  },
+  {
+    "condition": {
+      "urlFilter": "/adsph2/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 44
+  },
+  {
+    "condition": {
+      "urlFilter": "/adss.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 45
+  },
+  {
+    "condition": {
+      "urlFilter": "/adsvideos."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 46
+  },
+  {
+    "condition": {
+      "urlFilter": "/adunit_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 47
+  },
+  {
+    "condition": {
+      "urlFilter": "/adv?auid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 48
+  },
+  {
+    "condition": {
+      "urlFilter": "/advstatlib.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 49
+  },
+  {
+    "condition": {
+      "urlFilter": "/advstatsettings.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 50
+  },
+  {
+    "condition": {
+      "urlFilter": "/affiliate-tools."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 51
+  },
+  {
+    "condition": {
+      "urlFilter": "/affiliate_base/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 52
+  },
+  {
+    "condition": {
+      "urlFilter": "/appendixadbans/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 53
+  },
+  {
+    "condition": {
+      "urlFilter": "/ar/ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 54
+  },
+  {
+    "condition": {
+      "urlFilter": "/ara/ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 55
+  },
+  {
+    "condition": {
+      "urlFilter": "/arabycash-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 56
+  },
+  {
+    "condition": {
+      "urlFilter": "/articleads."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 57
+  },
+  {
+    "condition": {
+      "urlFilter": "/banner-990x90."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 58
+  },
+  {
+    "condition": {
+      "urlFilter": "/banner72890."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 59
+  },
+  {
+    "condition": {
+      "urlFilter": "/banner_*&pub="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 60
+  },
+  {
+    "condition": {
+      "urlFilter": "/bigads."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 61
+  },
+  {
+    "condition": {
+      "urlFilter": "/blocks/adds."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 62
+  },
+  {
+    "condition": {
+      "urlFilter": "/bnr_*&pub="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 63
+  },
+  {
+    "condition": {
+      "urlFilter": "/bnr_300."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 64
+  },
+  {
+    "condition": {
+      "urlFilter": "/bnr_460."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 65
+  },
+  {
+    "condition": {
+      "urlFilter": "/bnr_728."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 66
+  },
+  {
+    "condition": {
+      "urlFilter": "/callads."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 67
+  },
+  {
+    "condition": {
+      "urlFilter": "/code/?pid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 68
+  },
+  {
+    "condition": {
+      "urlFilter": "/de/elan/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 69
+  },
+  {
+    "condition": {
+      "urlFilter": "/delivery/*.php?zone="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 70
+  },
+  {
+    "condition": {
+      "urlFilter": "/e3lan."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 71
+  },
+  {
+    "condition": {
+      "urlFilter": "/e3lan/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 72
+  },
+  {
+    "condition": {
+      "urlFilter": "/e3lan2."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 73
+  },
+  {
+    "condition": {
+      "urlFilter": "/e3lan3."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 74
+  },
+  {
+    "condition": {
+      "urlFilter": "/e3lanat-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 75
+  },
+  {
+    "condition": {
+      "urlFilter": "/e3lanat."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 76
+  },
+  {
+    "condition": {
+      "urlFilter": "/e3lanat/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 77
+  },
+  {
+    "condition": {
+      "urlFilter": "/e3lans/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 78
+  },
+  {
+    "condition": {
+      "urlFilter": "/elan/300."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 79
+  },
+  {
+    "condition": {
+      "urlFilter": "/elan/468."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 80
+  },
+  {
+    "condition": {
+      "urlFilter": "/elan/728."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 81
+  },
+  {
+    "condition": {
+      "urlFilter": "/elitepartner_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 82
+  },
+  {
+    "condition": {
+      "urlFilter": "/embedpartner."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 83
+  },
+  {
+    "condition": {
+      "urlFilter": "/en/elan/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 84
+  },
+  {
+    "condition": {
+      "urlFilter": "/files/adv/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 85
+  },
+  {
+    "condition": {
+      "urlFilter": "/flash_adver_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 86
+  },
+  {
+    "condition": {
+      "urlFilter": "/floating_window_with_tabs."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 87
+  },
+  {
+    "condition": {
+      "urlFilter": "/forex160-600."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 88
+  },
+  {
+    "condition": {
+      "urlFilter": "/hosein/ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 89
+  },
+  {
+    "condition": {
+      "urlFilter": "/i3lan-1."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 90
+  },
+  {
+    "condition": {
+      "urlFilter": "/i3lan-2."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 91
+  },
+  {
+    "condition": {
+      "urlFilter": "/i3lan-3."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 92
+  },
+  {
+    "condition": {
+      "urlFilter": "/i3lan/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 93
+  },
+  {
+    "condition": {
+      "urlFilter": "/iads.asp"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 94
+  },
+  {
+    "condition": {
+      "urlFilter": "/images/468-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 95
+  },
+  {
+    "condition": {
+      "urlFilter": "/images/bnr_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 96
+  },
+  {
+    "condition": {
+      "urlFilter": "/images/mrad."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 97
+  },
+  {
+    "condition": {
+      "urlFilter": "/ir/ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 98
+  },
+  {
+    "condition": {
+      "urlFilter": "/iskanads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 99
+  },
+  {
+    "condition": {
+      "urlFilter": "/mpu_dfp."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 100
+  },
+  {
+    "condition": {
+      "urlFilter": "/nugg-ad-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 101
+  },
+  {
+    "condition": {
+      "urlFilter": "/opensooqads."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 102
+  },
+  {
+    "condition": {
+      "urlFilter": "/outerads."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 103
+  },
+  {
+    "condition": {
+      "urlFilter": "/partner_ad_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 104
+  },
+  {
+    "condition": {
+      "urlFilter": "/png%2bad."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 105
+  },
+  {
+    "condition": {
+      "urlFilter": "/pop/ads."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 106
+  },
+  {
+    "condition": {
+      "urlFilter": "/projectagora.min.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 107
+  },
+  {
+    "condition": {
+      "urlFilter": "/pub/pubahd."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 108
+  },
+  {
+    "condition": {
+      "urlFilter": "/pub1.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 109
+  },
+  {
+    "condition": {
+      "urlFilter": "/pub2.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 110
+  },
+  {
+    "condition": {
+      "urlFilter": "/pub3.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 111
+  },
+  {
+    "condition": {
+      "urlFilter": "/pub4.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 112
+  },
+  {
+    "condition": {
+      "urlFilter": "/pub_header_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 113
+  },
+  {
+    "condition": {
+      "urlFilter": "/pubadsdesktop."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 114
+  },
+  {
+    "condition": {
+      "urlFilter": "/pvtads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 115
+  },
+  {
+    "condition": {
+      "urlFilter": "/sb_dfp."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 116
+  },
+  {
+    "condition": {
+      "urlFilter": "/scriptads."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 117
+  },
+  {
+    "condition": {
+      "urlFilter": "/side-adds-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 118
+  },
+  {
+    "condition": {
+      "urlFilter": "/side-ads|"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 119
+  },
+  {
+    "condition": {
+      "urlFilter": "/slider.*&pub="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 120
+  },
+  {
+    "condition": {
+      "urlFilter": "/tabliq/banner/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 121
+  },
+  {
+    "condition": {
+      "urlFilter": "/ufxaffiliates.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 122
+  },
+  {
+    "condition": {
+      "urlFilter": "/vb/*/banr.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 123
+  },
+  {
+    "condition": {
+      "urlFilter": "/vb/*/bnr.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 124
+  },
+  {
+    "condition": {
+      "urlFilter": "/vb/open.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 125
+  },
+  {
+    "condition": {
+      "urlFilter": "://fbm.*/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 126
+  },
+  {
+    "condition": {
+      "urlFilter": "://go.*/afu."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 127
+  },
+  {
+    "condition": {
+      "urlFilter": "=openx&aid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 128
+  },
+  {
+    "condition": {
+      "urlFilter": "?mod=shofbanner&zone="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 129
+  },
+  {
+    "condition": {
+      "urlFilter": "?text=ads_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 130
+  },
+  {
+    "condition": {
+      "urlFilter": "_120.240.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 131
+  },
+  {
+    "condition": {
+      "urlFilter": "_990x100."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 132
+  },
+  {
+    "condition": {
+      "urlFilter": "_adunit_",
+      "excludedInitiatorDomains": [
+        "tv2.dk"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 133
+  },
+  {
+    "condition": {
+      "urlFilter": "_arabycash."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 134
+  },
+  {
+    "condition": {
+      "urlFilter": "_new_ads."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 135
+  },
+  {
+    "condition": {
+      "urlFilter": "||0sat.com/photo0sat/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 136
+  },
+  {
+    "condition": {
+      "urlFilter": "||20script.ir/banner/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 137
+  },
+  {
+    "condition": {
+      "urlFilter": "||3nwd.com/uploads/3nwd-1367442631216.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 138
+  },
+  {
+    "condition": {
+      "urlFilter": "||3rabgamer.net^*/banner/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 139
+  },
+  {
+    "condition": {
+      "urlFilter": "||3rbup.com/plugins/imageviewer/site/direct.php?s=2d82009cee6b9b33"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 140
+  },
+  {
+    "condition": {
+      "urlFilter": "||3rbup.com^*/direct.php?s=5670b66b3011a18f&/zi-m1.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 141
+  },
+  {
+    "condition": {
+      "urlFilter": "||3rbup.com^*/direct.php?s=7a57c42d889c03ed&/sa-0(4).gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 142
+  },
+  {
+    "condition": {
+      "urlFilter": "||3support.com/wp-content/uploads/*/support.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 143
+  },
+  {
+    "condition": {
+      "urlFilter": "||4040.cc/images/fakhr.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 144
+  },
+  {
+    "condition": {
+      "urlFilter": "||44aa.com/image/nesba.swf"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 145
+  },
+  {
+    "condition": {
+      "urlFilter": "||5bre.com/images/5bre.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 146
+  },
+  {
+    "condition": {
+      "urlFilter": "||a7la-games.com/b/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 147
+  },
+  {
+    "condition": {
+      "urlFilter": "||agarcom.com/up/uploads/1375263039741.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 148
+  },
+  {
+    "condition": {
+      "urlFilter": "||aleqt.com/s/new/hp_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 149
+  },
+  {
+    "condition": {
+      "urlFilter": "||alforat.org^*/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 150
+  },
+  {
+    "condition": {
+      "urlFilter": "||allomani.com/js_banners"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 151
+  },
+  {
+    "condition": {
+      "urlFilter": "||alquds.co.uk/zaaptv.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 152
+  },
+  {
+    "condition": {
+      "urlFilter": "||alsharing.com/images/header.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 153
+  },
+  {
+    "condition": {
+      "urlFilter": "||amazonaws.com/*/ksa-footer/images_leader_souq/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 154
+  },
+  {
+    "condition": {
+      "urlFilter": "||amazonaws.com/cicloudfront/js/convertmediaviewer-min.js?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 155
+  },
+  {
+    "condition": {
+      "urlFilter": "||amazonaws.com/email/fatakat/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 156
+  },
+  {
+    "condition": {
+      "urlFilter": "||amazonaws.com/irgames/bnrs/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 157
+  },
+  {
+    "condition": {
+      "urlFilter": "||ar-traveler.com^*-ads."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 158
+  },
+  {
+    "condition": {
+      "urlFilter": "||arabdvd.net/banner/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 159
+  },
+  {
+    "condition": {
+      "urlFilter": "||arabytech.com/iframe/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 160
+  },
+  {
+    "condition": {
+      "urlFilter": "||assistirseries.net/al/pag*.html"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 161
+  },
+  {
+    "condition": {
+      "urlFilter": "||awtad.com/www/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 162
+  },
+  {
+    "condition": {
+      "urlFilter": "||b8cdn.com^*/affiliate-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 163
+  },
+  {
+    "condition": {
+      "urlFilter": "||banathi.com/banathi*."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 164
+  },
+  {
+    "condition": {
+      "urlFilter": "||bayt.com/referred?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 165
+  },
+  {
+    "condition": {
+      "urlFilter": "||bayt.com/scripts/associates_latest_jobs.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 166
+  },
+  {
+    "condition": {
+      "urlFilter": "||bayt.com/widgets/get_jobs_widget?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 167
+  },
+  {
+    "condition": {
+      "urlFilter": "||beeieg.com/bums//js.php?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 168
+  },
+  {
+    "condition": {
+      "urlFilter": "||bistscript.ir/banner/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 169
+  },
+  {
+    "condition": {
+      "urlFilter": "||bit.ly^",
+      "initiatorDomains": [
+        "amni8.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 170
+  },
+  {
+    "condition": {
+      "urlFilter": "||bothemes.com^*/popup.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 171
+  },
+  {
+    "condition": {
+      "urlFilter": "||casasky.com/bannerslider/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 172
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.rawgit.com/vander100/techpro10/master/ad.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 173
+  },
+  {
+    "condition": {
+      "urlFilter": "||chatblackberry.net/unnamed34333.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 174
+  },
+  {
+    "condition": {
+      "urlFilter": "||cnbcarabia.com/top_banner.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 175
+  },
+  {
+    "condition": {
+      "urlFilter": "||dll33.com/vb/images/bnar/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 176
+  },
+  {
+    "condition": {
+      "urlFilter": "||dohaup.com/up/2010-05-07/dohaup_206097194.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 177
+  },
+  {
+    "condition": {
+      "urlFilter": "||downloadha.com/shop/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 178
+  },
+  {
+    "condition": {
+      "urlFilter": "||dzautos.com/data/dzauto.swf"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 179
+  },
+  {
+    "condition": {
+      "urlFilter": "||el-balad.com/balad.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 180
+  },
+  {
+    "condition": {
+      "urlFilter": "||ency-education.com/uploads/3/0/9/3/309326/3245017_1_orig.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 181
+  },
+  {
+    "condition": {
+      "urlFilter": "||ency-education.com/uploads/3/0/9/3/309326/3245017_orig.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 182
+  },
+  {
+    "condition": {
+      "urlFilter": "||englishforarabs.com/english.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 183
+  },
+  {
+    "condition": {
+      "urlFilter": "||foldersoft.com/holl.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 184
+  },
+  {
+    "condition": {
+      "urlFilter": "||freewebsubmission.com/images/fwsbanner"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 185
+  },
+  {
+    "condition": {
+      "urlFilter": "||g2g2.net/banars/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 186
+  },
+  {
+    "condition": {
+      "urlFilter": "||galileosolutions.net^*/banners_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 187
+  },
+  {
+    "condition": {
+      "urlFilter": "||gamepower7.com/forum/banner.swf"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 188
+  },
+  {
+    "condition": {
+      "urlFilter": "||gamezek.com/img.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 189
+  },
+  {
+    "condition": {
+      "urlFilter": "||geek4arab.net/banner/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 190
+  },
+  {
+    "condition": {
+      "urlFilter": "||giphy.com/yojc2bnz47bh7ya7dy.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 191
+  },
+  {
+    "condition": {
+      "urlFilter": "||giphy.com^",
+      "initiatorDomains": [
+        "silkroad4arab.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 192
+  },
+  {
+    "condition": {
+      "urlFilter": "||gulfbase.com/apopup.aspx"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 193
+  },
+  {
+    "condition": {
+      "urlFilter": "||hanya.ma/caro"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 194
+  },
+  {
+    "condition": {
+      "urlFilter": "||hao123.com/partnertopbar/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 195
+  },
+  {
+    "condition": {
+      "urlFilter": "||hao123.com^*/ar-banner."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 196
+  },
+  {
+    "condition": {
+      "urlFilter": "||hayatoki.com/wp-content/uploads/upislam.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 197
+  },
+  {
+    "condition": {
+      "urlFilter": "||homekw.com/temp/jahrawi_150_167.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 198
+  },
+  {
+    "condition": {
+      "urlFilter": "||hostgator.com^*/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 199
+  },
+  {
+    "condition": {
+      "urlFilter": "||hotelscombined.com/affiliate/widgets/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 200
+  },
+  {
+    "condition": {
+      "urlFilter": "||jazora.com/banner/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 201
+  },
+  {
+    "condition": {
+      "urlFilter": "||jorbox.com/zmobnu8l-22484816-1.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 202
+  },
+  {
+    "condition": {
+      "urlFilter": "||kasawi.com/*/ads-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 203
+  },
+  {
+    "condition": {
+      "urlFilter": "||leadpages.co/leadbox-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 204
+  },
+  {
+    "condition": {
+      "urlFilter": "||media.linkonlineworld.com/img/shift-eg/original/2019/9/3/2019_9_3_12_15_29_545.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 205
+  },
+  {
+    "condition": {
+      "urlFilter": "||mediafree.co/pop*.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 206
+  },
+  {
+    "condition": {
+      "urlFilter": "||menacircle.com/goggog.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 207
+  },
+  {
+    "condition": {
+      "urlFilter": "||mipdesign.com/wp-content/uploads/*/banner_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 208
+  },
+  {
+    "condition": {
+      "urlFilter": "||mmnon.com/3nwd-1365515103061.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 209
+  },
+  {
+    "condition": {
+      "urlFilter": "||mn66.com/mn66sms.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 210
+  },
+  {
+    "condition": {
+      "urlFilter": "||mn66.com/sms2.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 211
+  },
+  {
+    "condition": {
+      "urlFilter": "||mnq8.com/bnrs/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 212
+  },
+  {
+    "condition": {
+      "urlFilter": "||mshaweer.net/images/*.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 213
+  },
+  {
+    "condition": {
+      "urlFilter": "||mshaweer.net/vb//images/baner.swf"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 214
+  },
+  {
+    "condition": {
+      "urlFilter": "||mshaweer.net/vb/images/mshaweer2.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 215
+  },
+  {
+    "condition": {
+      "urlFilter": "||n4hr.org/up/uploads/n4hr_13408663851.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 216
+  },
+  {
+    "condition": {
+      "urlFilter": "||nadorimg.com/photos/faniabiiiii.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 217
+  },
+  {
+    "condition": {
+      "urlFilter": "||nadorimg.com/photos/kabdani.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 218
+  },
+  {
+    "condition": {
+      "urlFilter": "||nadorimg.com/pub/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 219
+  },
+  {
+    "condition": {
+      "urlFilter": "||nqashalhob.com/sharing.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 220
+  },
+  {
+    "condition": {
+      "urlFilter": "||profvb.com/pub/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 221
+  },
+  {
+    "condition": {
+      "urlFilter": "||rackcdn.com/1114112_1114112.swf"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 222
+  },
+  {
+    "condition": {
+      "urlFilter": "||raya.ps^*/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 223
+  },
+  {
+    "condition": {
+      "urlFilter": "||reporters.tn/pub/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 224
+  },
+  {
+    "condition": {
+      "urlFilter": "||rimmedia.net/images/pub1.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 225
+  },
+  {
+    "condition": {
+      "urlFilter": "||rimmedia.net/images/pub2.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 226
+  },
+  {
+    "condition": {
+      "urlFilter": "||s3.eu-west-2.amazonaws.com/djkalm/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 227
+  },
+  {
+    "condition": {
+      "urlFilter": "||s3.eu-west-2.amazonaws.com/jajna/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 228
+  },
+  {
+    "condition": {
+      "urlFilter": "||satarabia.net/v2/images/big_ar_banner.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 229
+  },
+  {
+    "condition": {
+      "urlFilter": "||shwqna.at.ua/pop*.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 230
+  },
+  {
+    "condition": {
+      "urlFilter": "||soccerhot.com/images/banner/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 231
+  },
+  {
+    "condition": {
+      "urlFilter": "||souqcms.s3.amazonaws.com^*/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 232
+  },
+  {
+    "condition": {
+      "urlFilter": "||startdedicated.com/newbrz.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 233
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.niazerooz.com/im/b/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 234
+  },
+  {
+    "condition": {
+      "urlFilter": "||storage.googleapis.com/suramar/pu.min.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 235
+  },
+  {
+    "condition": {
+      "urlFilter": "||traidnt.net/link/fast_link.html?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 236
+  },
+  {
+    "condition": {
+      "urlFilter": "||tvmasrnet-javafiles.googlecode.com/files/ads"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 237
+  },
+  {
+    "condition": {
+      "urlFilter": "||tvquran.com/banr/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 238
+  },
+  {
+    "condition": {
+      "urlFilter": "||vip600.com/aaa/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 239
+  },
+  {
+    "condition": {
+      "urlFilter": "||waffarnalk.com/widget/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 240
+  },
+  {
+    "condition": {
+      "urlFilter": "||web4africa.net/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 241
+  },
+  {
+    "condition": {
+      "urlFilter": "||wehoh.com/wehoh-banner.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 242
+  },
+  {
+    "condition": {
+      "urlFilter": "||yamli.com/static/gam_iframe.htm?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 243
+  },
+  {
+    "condition": {
+      "urlFilter": "||yellowpages.com.ps/search_bricks/ps_search_bricks_300x130.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 244
+  },
+  {
+    "condition": {
+      "urlFilter": "||yimg.com^*/www.blueridgehobbies.com/images/misc/clickhereanimated.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 245
+  },
+  {
+    "condition": {
+      "urlFilter": "||yourjavascript.com^*/add-url.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 246
+  },
+  {
+    "condition": {
+      "urlFilter": "||yourjavascript.com^*/pp-kora.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 247
+  },
+  {
+    "condition": {
+      "urlFilter": "||zimabdk.com/uploads/13739105611.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 248
+  },
+  {
+    "condition": {
+      "urlFilter": "||zimabdk.com/uploads/13739970081.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 249
+  },
+  {
+    "condition": {
+      "urlFilter": "||zimabdk.com/uploads/1385612495381.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 250
+  },
+  {
+    "condition": {
+      "urlFilter": "||zupimages.net/up/2/1045181967.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 251
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "amazonaws.com",
+        "cloudfront.net"
+      ],
+      "initiatorDomains": [
+        "wifi4games.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 252
+  },
+  {
+    "condition": {
+      "urlFilter": "||0zz0.com/2012/07/28/21/250712642.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 253
+  },
+  {
+    "condition": {
+      "urlFilter": "||1.bp.blogspot.com/-2hqybbupigk/xdof9po1qdi/aaaaaaaabrm/zkf5cgbggc4bhm75rkukauc8bgytzpluwclcbgas/s1600/ledger_nano-s_4-6-8x6-0.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 254
+  },
+  {
+    "condition": {
+      "urlFilter": "||1.bp.blogspot.com/-4qnflzw8jqw/wc0jfxvgmji/aaaaaaaaacw/hopkq1c3rcm2waf4zfqp0fmtfmaatyqdaclcbgas/s1600/banner.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 255
+  },
+  {
+    "condition": {
+      "urlFilter": "||1.bp.blogspot.com/-6mo0a0eofte/xtz7c8uxoai/aaaaaaaau6m/anzrpns1ccaaa9bso0a3he0pbaz7daavaclcbgasyhq/s0-rw-e90/ads%2bamni.webpp"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 256
+  },
+  {
+    "condition": {
+      "urlFilter": "||1.bp.blogspot.com/-ck9g7_dcnby/xamxsqvy5gi/aaaaaaaaawa/5f10maizx_msqb65jjigfhbfjfq78x9tgclcbgasyhq/s1600/yipido.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 257
+  },
+  {
+    "condition": {
+      "urlFilter": "||1.bp.blogspot.com/-fgulqwzuqi8/xgq4so7eyai/aaaaaaaaevi/xtxftzu0ibqxh5vtzyujvvdtjz7s8_wngck4bgayycw/s1600/43059068_2078749625478306_5503711937956937728_n.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 258
+  },
+  {
+    "condition": {
+      "urlFilter": "||1.bp.blogspot.com/-jy2gqdfvzqy/yfzx0rz1u6i/aaaaaaaacok/xy3ntgiq23yrch_6cbrpoqsdeycek5xtwclcbgasyhq/s16000/crypto-capital.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 259
+  },
+  {
+    "condition": {
+      "urlFilter": "||1.bp.blogspot.com/-nyikkcsyzya/uyc0sz6rnji/aaaaaaaaba8/nbpxex2to9e/s190/1366357856041.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 260
+  },
+  {
+    "condition": {
+      "urlFilter": "||2.bp.blogspot.com/-7smy2bmjlta/xy4oorhvk9i/aaaaaaaajdc/ksxbkpxc66eghjayon-t-6j7ekpldq3caclcbgasyhq/s320/1stdep_sport_314%25d1%258598.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 261
+  },
+  {
+    "condition": {
+      "urlFilter": "||2.bp.blogspot.com/-afteoozhfse/wuikbvbsomi/aaaaaaaadag/y744fvouet0hgb5pzzzv-vcjbe757sszqclcbgas/s1600/top-bannner2-1.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 262
+  },
+  {
+    "condition": {
+      "urlFilter": "||2.bp.blogspot.com/-f3j-vr-caac/w1ieat1cebi/aaaaaaaaacu/dnxxwprt16aefyg1n_ry5y02ytwcegedaclcbgas/s1600/tombol4.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 263
+  },
+  {
+    "condition": {
+      "urlFilter": "||2.bp.blogspot.com/-nnyvkqens2q/wqzrmwft9zi/aaaaaaaapba/lsmng9yxcxwks_jyq4vaacyvmhosciz5qclcb/s1600/0a1dc23b-5850-4780-9f2b-4c471535b250.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 264
+  },
+  {
+    "condition": {
+      "urlFilter": "||3.bp.blogspot.com/-g0dfad-yn6k/xdnt6mdhcvi/aaaaaaaadsc/ywnhch8mppwmnfvqha3gx9dxv4w84q8dgck4bgayycw/s1600/%25d8%25a7%25d8%25b4%25d8%25aa%25d8%25b1%25d8%25a7%25d9%2583%2biptv.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 265
+  },
+  {
+    "condition": {
+      "urlFilter": "||3.bp.blogspot.com/-jdvfmdjetmk/xz8phssz-di/aaaaaaaajwi/ed-4lwfn9f8bmxcakavpbblqkvyyivqcaclcbgasyhq/s1600/%25d8%25a8%25d8%25a7%25d9%2586%25d8%25b1%2b%25d8%25b9%25d8%25b1%25d8%25a8%2b%25d9%2585%25d9%258a%25d8%25af%25d9%258a%25d8%25a7.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 266
+  },
+  {
+    "condition": {
+      "urlFilter": "||3.bp.blogspot.com/-nd6sflpeuk8/xzfibfeabxi/aaaaaaaajfm/zryhvmt1gs8d4jtvbqletewwanbxafydaclcbgasyhq/s1600/1stdep_sport_728%25d1%258590.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 267
+  },
+  {
+    "condition": {
+      "urlFilter": "||3.bp.blogspot.com/-qit1jntfsqw/xy4octx7sii/aaaaaaaajdg/i3cs-c4k9w4csxporkjdazqfof0exq_iwclcbgasyhq/s320/1stdep_sport_250%25d1%2585250.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 268
+  },
+  {
+    "condition": {
+      "urlFilter": "||3.bp.blogspot.com/-xkoip8wm2aa/wqzpnb9xvyi/aaaaaaaapa0/dsmq5thdsl4nzxh-6u0svd2gjsrslmgxgclcb/s1600/250arab.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 269
+  },
+  {
+    "condition": {
+      "urlFilter": "||3.bp.blogspot.com/-zzdr56h1cam/xfb6t2ytr0i/aaaaaaaaeti/lzvjsb5ux3m_ydfqfogvjuxvehldzodwqck4bgayycw/s1600/1303037-03-02-2019%2b13-23-33%2b%25281%2529.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 270
+  },
+  {
+    "condition": {
+      "urlFilter": "||4.bp.blogspot.com/-_vd60vnaziq/u1zu7lvhjdi/aaaaaaaab0w/sh4jobmjr9k/s1600/head-banner.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 271
+  },
+  {
+    "condition": {
+      "urlFilter": "||a.top4top.io/p_96169nxg1.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 272
+  },
+  {
+    "condition": {
+      "urlFilter": "||blogspot.com/*/ld_kuazsv8o5_bqf3pcn_kkhqnffqkfzaclcb/s1600/2.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 273
+  },
+  {
+    "condition": {
+      "urlFilter": "||blogspot.com/*/s1600/728x90%2b"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 274
+  },
+  {
+    "condition": {
+      "urlFilter": "||blogspot.com/-zgaet5qq2sw/*/*d8%a7%d8%b4%2b160%2b600.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 275
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "th3professional.com"
+      ],
+      "urlFilter": "||blogspot.com^*/al3abo.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 276
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "mikrotikarabs.com"
+      ],
+      "urlFilter": "||blogspot.com^*/s1600/*.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 277
+  },
+  {
+    "condition": {
+      "urlFilter": "||bp.blogspot.com/*/s1600/ad."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 278
+  },
+  {
+    "condition": {
+      "urlFilter": "||bp.blogspot.com/*/s1600/ads."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 279
+  },
+  {
+    "condition": {
+      "urlFilter": "||c.top4top.io/i_7a2e7b89c71.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 280
+  },
+  {
+    "condition": {
+      "urlFilter": "||cache.gametracker.com/server_info/148.251.92.28:27015/b_560_95_1.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 281
+  },
+  {
+    "condition": {
+      "urlFilter": "||d.top4top.io/p_19138baq31.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 282
+  },
+  {
+    "condition": {
+      "urlFilter": "||dm0z.com/images/dm0zadvs.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 283
+  },
+  {
+    "condition": {
+      "urlFilter": "||i.imgur.com/3tahgla.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 284
+  },
+  {
+    "condition": {
+      "urlFilter": "||i.imgur.com/7i3wwjb.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 285
+  },
+  {
+    "condition": {
+      "urlFilter": "||i.imgur.com/9vziew9.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 286
+  },
+  {
+    "condition": {
+      "urlFilter": "||i.imgur.com/bocvxij.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 287
+  },
+  {
+    "condition": {
+      "urlFilter": "||i.imgur.com/fh1ouqd.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 288
+  },
+  {
+    "condition": {
+      "urlFilter": "||i.imgur.com/juz1zwm.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 289
+  },
+  {
+    "condition": {
+      "urlFilter": "||i.imgur.com/nfrpzfv.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 290
+  },
+  {
+    "condition": {
+      "urlFilter": "||i.imgur.com/np9nygo.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 291
+  },
+  {
+    "condition": {
+      "urlFilter": "||i.imgur.com/qizgjwb.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 292
+  },
+  {
+    "condition": {
+      "urlFilter": "||i.imgur.com/qyst3ut.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 293
+  },
+  {
+    "condition": {
+      "urlFilter": "||i.imgur.com/rw3jaee.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 294
+  },
+  {
+    "condition": {
+      "urlFilter": "||i.imgur.com/tr3xors.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 295
+  },
+  {
+    "condition": {
+      "urlFilter": "||i.imgur.com/xgtxnil.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 296
+  },
+  {
+    "condition": {
+      "urlFilter": "||i.imgur.com/y0kujen.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 297
+  },
+  {
+    "condition": {
+      "urlFilter": "||i.imgur.com/yfmkt8n.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 298
+  },
+  {
+    "condition": {
+      "urlFilter": "||i.servimg.com/u/f36/12/50/18/35/baner-10.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 299
+  },
+  {
+    "condition": {
+      "urlFilter": "||i.servimg.com/u/f56/18/71/69/24/pub10.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 300
+  },
+  {
+    "condition": {
+      "urlFilter": "||i.servimg.com/u/f72/19/03/22/67/main210.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 301
+  },
+  {
+    "condition": {
+      "urlFilter": "||i.top4top.io/p_7010u9u81.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 302
+  },
+  {
+    "condition": {
+      "urlFilter": "||i0.wp.com/edlibre.com/wp-content/uploads/1200x400.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 303
+  },
+  {
+    "condition": {
+      "urlFilter": "||i0.wp.com/edlibre.com/wp-content/uploads/320x480.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 304
+  },
+  {
+    "condition": {
+      "urlFilter": "||i1.wp.com/edlibre.com/wp-content/uploads/300kh300_copy.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 305
+  },
+  {
+    "condition": {
+      "urlFilter": "||i11.servimg.com/u/f11/11/05/24/05/sans_t32.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 306
+  },
+  {
+    "condition": {
+      "urlFilter": "||i2.wp.com/edlibre.com/wp-content/uploads/solarbankers4v2.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 307
+  },
+  {
+    "condition": {
+      "urlFilter": "||i2.wp.com/edlibre.com/wp-content/uploads/triforce-tokens-edlibre-300x300.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 308
+  },
+  {
+    "condition": {
+      "urlFilter": "||i21.servimg.com/u/f21/11/55/73/09/20023610.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 309
+  },
+  {
+    "condition": {
+      "urlFilter": "||i21.servimg.com/u/f21/11/55/73/09/63591911.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 310
+  },
+  {
+    "condition": {
+      "urlFilter": "||i21.servimg.com/u/f21/11/55/73/09/oie_ro10.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 311
+  },
+  {
+    "condition": {
+      "urlFilter": "||i37.servimg.com/u/f37/11/55/73/09/oie_d110.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 312
+  },
+  {
+    "condition": {
+      "urlFilter": "||i37.servimg.com/u/f37/17/37/43/87/74802310.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 313
+  },
+  {
+    "condition": {
+      "urlFilter": "||i39.servimg.com/u/f39/17/77/85/37/691110.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 314
+  },
+  {
+    "condition": {
+      "urlFilter": "||i39.servimg.com/u/f39/18/95/83/64/best_s10.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 315
+  },
+  {
+    "condition": {
+      "urlFilter": "||i39.servimg.com/u/f39/18/95/83/64/oie_m410.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 316
+  },
+  {
+    "condition": {
+      "urlFilter": "||i61.servimg.com/u/f61/13/31/64/02/banner10.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 317
+  },
+  {
+    "condition": {
+      "urlFilter": "||i62.servimg.com/u/f62/11/55/73/09/oie_dg10.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 318
+  },
+  {
+    "condition": {
+      "urlFilter": "||i65.servimg.com/u/f65/15/95/28/21/uoooo-10.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 319
+  },
+  {
+    "condition": {
+      "urlFilter": "||i68.servimg.com/u/f68/11/55/73/09/oie_ld10.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 320
+  },
+  {
+    "condition": {
+      "urlFilter": "||i72.servimg.com/u/f72/12/06/64/11/my-ban10.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 321
+  },
+  {
+    "condition": {
+      "urlFilter": "||imageshack.us/img195/9178/28906591.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 322
+  },
+  {
+    "condition": {
+      "urlFilter": "||imageshack.us/img22/7856/81950907.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 323
+  },
+  {
+    "condition": {
+      "urlFilter": "||imageshack.us/img687/748/83145832.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 324
+  },
+  {
+    "condition": {
+      "urlFilter": "||imageshack.us/img831/6584/69953352.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 325
+  },
+  {
+    "condition": {
+      "urlFilter": "||imageshack.us/img856/4224/64119518.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 326
+  },
+  {
+    "condition": {
+      "urlFilter": "||imagizer.imageshack.us/a/img923/6140/4amck1.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 327
+  },
+  {
+    "condition": {
+      "urlFilter": "||img41.glitterfy.com/13115/glitterfy-flpbk3115925990241.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 328
+  },
+  {
+    "condition": {
+      "urlFilter": "||lh3.googleusercontent.com/proxy/-fjyweirkoki0a5obykmxk7p3uxiaw0r92qtmygmk9whldhrtbfnaf9uhsh9cuwvzrr2pg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 329
+  },
+  {
+    "condition": {
+      "urlFilter": "||lh3.googleusercontent.com/proxy/x24ekvqa0bnh5mikbz1hv7_swmmb0ieofphg6rt8viktqruhjlv2m0wea5fdb_ckk6phjblhjinrrxvu__oeqy5r1gh4wy8tpbum-w"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 330
+  },
+  {
+    "condition": {
+      "urlFilter": "||media.giphy.com/media/1swu51uh1slzhocnq8/giphy.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 331
+  },
+  {
+    "condition": {
+      "urlFilter": "||media.giphy.com/media/xulw8eprb5w7cjzug4/giphy.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 332
+  },
+  {
+    "condition": {
+      "urlFilter": "||preview.ibb.co/msrusw/banner.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 333
+  },
+  {
+    "condition": {
+      "urlFilter": "||realup.net/201001/1362674452.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 334
+  },
+  {
+    "condition": {
+      "urlFilter": "||realup.net/201001/1362765520.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 335
+  },
+  {
+    "condition": {
+      "urlFilter": "||realup.net/201001/1362929492.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 336
+  },
+  {
+    "condition": {
+      "urlFilter": "||realup.net/201001/1362929493.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 337
+  },
+  {
+    "condition": {
+      "urlFilter": "||realup.net/201001/1374349753.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 338
+  },
+  {
+    "condition": {
+      "urlFilter": "||scontent.ftlm1-2.fna.fbcdn.net/v/t39.30808-6/313873733_813774596559831_2533948326577825250_n.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 339
+  },
+  {
+    "condition": {
+      "urlFilter": "||servimg.com/*/5souq_10.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 340
+  },
+  {
+    "condition": {
+      "urlFilter": "||servimg.com/u/f10/16/22/48/64/f40-mo10.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 341
+  },
+  {
+    "condition": {
+      "urlFilter": "||servimg.com/u/f30/15/50/53/07/0802.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 342
+  },
+  {
+    "condition": {
+      "urlFilter": "||servimg.com/u/f30/15/50/53/07/0879.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 343
+  },
+  {
+    "condition": {
+      "urlFilter": "||servimg.com/u/f42/16/22/48/64/34637510.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 344
+  },
+  {
+    "condition": {
+      "urlFilter": "||servimg.com/u/f65/11/55/73/09/downlo10.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 345
+  },
+  {
+    "condition": {
+      "urlFilter": "||up-00.com/i/00217/r1aogdfbpfgo.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 346
+  },
+  {
+    "condition": {
+      "urlFilter": "||up-00.com/i/00217/rylv2ggps02i.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 347
+  },
+  {
+    "condition": {
+      "urlFilter": "||up-00.com/i/00217/yqib2hba7rx2.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 348
+  },
+  {
+    "condition": {
+      "urlFilter": "||uupload.ir/files/x9kb_banner-936.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 349
+  },
+  {
+    "condition": {
+      "urlFilter": "||www10.0zz0.com/2015/04/15/04/632112270.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 350
+  },
+  {
+    "condition": {
+      "urlFilter": "||www3.0zz0.com/2018/05/07/15/910657576.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 351
+  },
+  {
+    "condition": {
+      "urlFilter": "||0zz0.com/js.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 352
+  },
+  {
+    "condition": {
+      "urlFilter": "||0zz0.com/template/js/e."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 353
+  },
+  {
+    "condition": {
+      "urlFilter": "||202020.net/abahi/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 354
+  },
+  {
+    "condition": {
+      "urlFilter": "||202020.net/ratteb/all/banner.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 355
+  },
+  {
+    "condition": {
+      "urlFilter": "||202020.net/ratteb/asd/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 356
+  },
+  {
+    "condition": {
+      "urlFilter": "||202020.net/x/*.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 357
+  },
+  {
+    "condition": {
+      "urlFilter": "||202020.net/x/arabtravelersforum.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 358
+  },
+  {
+    "condition": {
+      "urlFilter": "||202020.net/x/waynmsafercom.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 359
+  },
+  {
+    "condition": {
+      "urlFilter": "||222z.net/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 360
+  },
+  {
+    "condition": {
+      "urlFilter": "||3asq.site/img/uploads/13560751771.swf"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 361
+  },
+  {
+    "condition": {
+      "urlFilter": "||3asq.site/img/uploads/13607070421.swf"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 362
+  },
+  {
+    "condition": {
+      "urlFilter": "||3asq.site/img/uploads/13739921271.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 363
+  },
+  {
+    "condition": {
+      "urlFilter": "||3ayezakol.com/juhaynalrec.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 364
+  },
+  {
+    "condition": {
+      "urlFilter": "||3ayezakol.com/mcturkey.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 365
+  },
+  {
+    "condition": {
+      "urlFilter": "||3ikarat.com/app_images/bannerimages/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 366
+  },
+  {
+    "condition": {
+      "urlFilter": "||3roos.com/files/ups/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 367
+  },
+  {
+    "condition": {
+      "urlFilter": "||3roos.com/images/i3lan.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 368
+  },
+  {
+    "condition": {
+      "urlFilter": "||5qqksa.com/color66.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 369
+  },
+  {
+    "condition": {
+      "urlFilter": "||750750.com/bnrs/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 370
+  },
+  {
+    "condition": {
+      "urlFilter": "||7hob.com/1.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 371
+  },
+  {
+    "condition": {
+      "urlFilter": "||abc4web.net/uploaded/1_11390431953.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 372
+  },
+  {
+    "condition": {
+      "urlFilter": "||absba.com/themes/tl4s-absba/images/advhere*.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 373
+  },
+  {
+    "condition": {
+      "urlFilter": "||adslgate.com/aliexpressxiaomi4.webp"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 374
+  },
+  {
+    "condition": {
+      "urlFilter": "||afedmag.com/uploaded/images/banner-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 375
+  },
+  {
+    "condition": {
+      "urlFilter": "||afedmag.com/uploaded/images/middleimage_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 376
+  },
+  {
+    "condition": {
+      "urlFilter": "||afedmag.com/web/banner/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 377
+  },
+  {
+    "condition": {
+      "urlFilter": "||aflamedia.com/pubs/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 378
+  },
+  {
+    "condition": {
+      "urlFilter": "||afriqa-sat.com/up/uploads/150926963909041.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 379
+  },
+  {
+    "condition": {
+      "urlFilter": "||afriqa-sat.com/up/uploads/150926963910412.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 380
+  },
+  {
+    "condition": {
+      "urlFilter": "||afriqa-sat.com/up/uploads/150926963911373.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 381
+  },
+  {
+    "condition": {
+      "urlFilter": "||afriqa-sat.com/vb/images/library.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 382
+  },
+  {
+    "condition": {
+      "urlFilter": "||aghanilyrics.com/adimage"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 383
+  },
+  {
+    "condition": {
+      "urlFilter": "||aghanilyrics.com/adphone"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 384
+  },
+  {
+    "condition": {
+      "urlFilter": "||ahdath.info/wp-content/*/pub%20banniere%20.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 385
+  },
+  {
+    "condition": {
+      "urlFilter": "||ahram.org.eg/media/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 386
+  },
+  {
+    "condition": {
+      "urlFilter": "||akhersaa-dz.com/files/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 387
+  },
+  {
+    "condition": {
+      "urlFilter": "||al-khaleeg.com^*/banner_small/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 388
+  },
+  {
+    "condition": {
+      "urlFilter": "||al-shellah.com/ta7a.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 389
+  },
+  {
+    "condition": {
+      "urlFilter": "||al-wlid.com/awsanmm2.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 390
+  },
+  {
+    "condition": {
+      "urlFilter": "||alamelarab.com/*-banner."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 391
+  },
+  {
+    "condition": {
+      "urlFilter": "||alamelarab.com/pics/five_five.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 392
+  },
+  {
+    "condition": {
+      "urlFilter": "||alanwar.com/swif/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 393
+  },
+  {
+    "condition": {
+      "urlFilter": "||alarab.com/data/cubes/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 394
+  },
+  {
+    "condition": {
+      "urlFilter": "||alarab.com/fursa.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 395
+  },
+  {
+    "condition": {
+      "urlFilter": "||alarab.com/sdk/mb_sdk_script.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 396
+  },
+  {
+    "condition": {
+      "urlFilter": "||alarab.net/data/cubes/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 397
+  },
+  {
+    "condition": {
+      "urlFilter": "||alarab.net/fursa.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 398
+  },
+  {
+    "condition": {
+      "urlFilter": "||alarab.net/sdk/mb_sdk_script.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 399
+  },
+  {
+    "condition": {
+      "urlFilter": "||alarbda.com/qzednb7.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 400
+  },
+  {
+    "condition": {
+      "urlFilter": "||alfajertv.com/bedata/*_ad.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 401
+  },
+  {
+    "condition": {
+      "urlFilter": "||alfajertv.com/data/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 402
+  },
+  {
+    "condition": {
+      "urlFilter": "||alfajertv.com/data/flash/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 403
+  },
+  {
+    "condition": {
+      "urlFilter": "||alfajertv.com^*/banner/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 404
+  },
+  {
+    "condition": {
+      "urlFilter": "||algeria-press.com/algerieannonce.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 405
+  },
+  {
+    "condition": {
+      "urlFilter": "||algeria-press.com/kechkhedma.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 406
+  },
+  {
+    "condition": {
+      "urlFilter": "||algerianhome.com/mountada/adv/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 407
+  },
+  {
+    "condition": {
+      "urlFilter": "||algeriapressonline.com/images/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 408
+  },
+  {
+    "condition": {
+      "urlFilter": "||aliahmedali.com/almohasben.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 409
+  },
+  {
+    "condition": {
+      "urlFilter": "||aliqtisadi.ps^*/nbc_banner/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 410
+  },
+  {
+    "condition": {
+      "urlFilter": "||aljazairalyoum.com/ooredoo/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 411
+  },
+  {
+    "condition": {
+      "urlFilter": "||aljazairalyoum.com/wp-content/uploads/2017/05/ngaous1.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 412
+  },
+  {
+    "condition": {
+      "urlFilter": "||aljazairalyoum.dz/wp-content/uploads/2022/08/2.jpeg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 413
+  },
+  {
+    "condition": {
+      "urlFilter": "||almosafr.com/forum/imgcache/2/50alsh3er.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 414
+  },
+  {
+    "condition": {
+      "urlFilter": "||almountakhab.com^*/img/pub/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 415
+  },
+  {
+    "condition": {
+      "urlFilter": "||alnda.com/13.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 416
+  },
+  {
+    "condition": {
+      "urlFilter": "||alquds.co.uk/fx1.htm"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 417
+  },
+  {
+    "condition": {
+      "urlFilter": "||alquds.co.uk/fx2.htm"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 418
+  },
+  {
+    "condition": {
+      "urlFilter": "||alquds.co.uk/fx3.htm"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 419
+  },
+  {
+    "condition": {
+      "urlFilter": "||alrainews.net^*/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 420
+  },
+  {
+    "condition": {
+      "urlFilter": "||alriyadh.com^*/adv/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 421
+  },
+  {
+    "condition": {
+      "urlFilter": "||alseyassi-dz.com/ara/image/pub2020.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 422
+  },
+  {
+    "condition": {
+      "urlFilter": "||alseyassi-dz.com/ara/pup01.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 423
+  },
+  {
+    "condition": {
+      "urlFilter": "||alsumaria.tv/bannersimages/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 424
+  },
+  {
+    "condition": {
+      "urlFilter": "||alwadifa-maroc.com/flash/banniere_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 425
+  },
+  {
+    "condition": {
+      "urlFilter": "||alwatan.sy/wp-content/uploads/2021/01/syriatel6-1-21.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 426
+  },
+  {
+    "condition": {
+      "urlFilter": "||alwatannews.net/images/*-660x90-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 427
+  },
+  {
+    "condition": {
+      "urlFilter": "||amalh.net/images/*.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 428
+  },
+  {
+    "condition": {
+      "urlFilter": "||amazonaws.com/fl/ksa-footer/jsfiles/leader.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 429
+  },
+  {
+    "condition": {
+      "urlFilter": "||anakbnet.com/video/a/banar/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 430
+  },
+  {
+    "condition": {
+      "urlFilter": "||animestarz.com/files/sponsors/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 431
+  },
+  {
+    "condition": {
+      "urlFilter": "||appstvv.com/wp-content/uploads/2024/06/ruro2.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 432
+  },
+  {
+    "condition": {
+      "urlFilter": "||ar-wp.com/forums-archive/images/bn1."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 433
+  },
+  {
+    "condition": {
+      "urlFilter": "||ar-wp.com/forums-archive/images/bn2."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 434
+  },
+  {
+    "condition": {
+      "urlFilter": "||arabicbroker.com/wordpress/wp-content/uploads/banner1.swf"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 435
+  },
+  {
+    "condition": {
+      "urlFilter": "||arabicworld.club/images/bs/l/olymp-trade-app-1.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 436
+  },
+  {
+    "condition": {
+      "urlFilter": "||arabsbook.com^*/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 437
+  },
+  {
+    "condition": {
+      "urlFilter": "||arabseed.*/728.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 438
+  },
+  {
+    "condition": {
+      "urlFilter": "||arabseed.*/downloads.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 439
+  },
+  {
+    "condition": {
+      "urlFilter": "||arabseed.*/foo.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 440
+  },
+  {
+    "condition": {
+      "urlFilter": "||arabseed.*/open/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 441
+  },
+  {
+    "condition": {
+      "urlFilter": "||arabseed.*/photos/shares/5c5dd200b3da8.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 442
+  },
+  {
+    "condition": {
+      "urlFilter": "||arabseed.*/pop/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 443
+  },
+  {
+    "condition": {
+      "urlFilter": "||arabseed.*/tvgate/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 444
+  },
+  {
+    "condition": {
+      "urlFilter": "||arabsgate.com/banners2/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 445
+  },
+  {
+    "condition": {
+      "urlFilter": "||arabstoday.net/images/250.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 446
+  },
+  {
+    "condition": {
+      "urlFilter": "||arabstoday.net/images/babyad.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 447
+  },
+  {
+    "condition": {
+      "urlFilter": "||arabx.cam/161.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 448
+  },
+  {
+    "condition": {
+      "urlFilter": "||ashefaa.com/i3lanat/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 449
+  },
+  {
+    "condition": {
+      "urlFilter": "||assabeel.net/uploads/models/media/sbl*.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 450
+  },
+  {
+    "condition": {
+      "urlFilter": "||aswaqcity.com/swf/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 451
+  },
+  {
+    "condition": {
+      "urlFilter": "||aswat-elchamal.com/ar/pub/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 452
+  },
+  {
+    "condition": {
+      "urlFilter": "||awtarmp3.com/uploads/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 453
+  },
+  {
+    "condition": {
+      "urlFilter": "||b2b-sy.com/b2b/alchamwings-2020-10-11.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 454
+  },
+  {
+    "condition": {
+      "urlFilter": "||b2b-sy.com/b2b/baraka-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 455
+  },
+  {
+    "condition": {
+      "urlFilter": "||b2b-sy.com/b2b/cham-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 456
+  },
+  {
+    "condition": {
+      "urlFilter": "||b2b-sy.com/b2b/chamwings-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 457
+  },
+  {
+    "condition": {
+      "urlFilter": "||b2b-sy.com/b2b/damascus-center-22-11-290-260.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 458
+  },
+  {
+    "condition": {
+      "urlFilter": "||b2b-sy.com/b2b/melody-21-8-290-260.swf"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 459
+  },
+  {
+    "condition": {
+      "urlFilter": "||b2b-sy.com/b2b/mtn-30-03-300-300.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 460
+  },
+  {
+    "condition": {
+      "urlFilter": "||b2b-sy.com/b2b/video-1593420156.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 461
+  },
+  {
+    "condition": {
+      "urlFilter": "||b2b-sy.com/b2b/zeuor_1.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 462
+  },
+  {
+    "condition": {
+      "urlFilter": "||bank-zone.com/wp-content/uploads/2019/03/gifad.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 463
+  },
+  {
+    "condition": {
+      "urlFilter": "||baramjak.com/pop.txt"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 464
+  },
+  {
+    "condition": {
+      "urlFilter": "||bdr130.net^*/bdr130_popup/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 465
+  },
+  {
+    "condition": {
+      "urlFilter": "||bdr130.net^*/bnr1/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 466
+  },
+  {
+    "condition": {
+      "urlFilter": "||bentvip.com/up/20120511032813.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 467
+  },
+  {
+    "condition": {
+      "urlFilter": "||bernama.com^*/banner/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 468
+  },
+  {
+    "condition": {
+      "urlFilter": "||bou-saada.info^*/banar/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 469
+  },
+  {
+    "condition": {
+      "urlFilter": "||bramjnet.com/images/upload/bramj.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 470
+  },
+  {
+    "condition": {
+      "urlFilter": "||bramjnet.com/images/upload/bramjnet-2012.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 471
+  },
+  {
+    "condition": {
+      "urlFilter": "||bramjnet.com/images/upload/f1l1.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 472
+  },
+  {
+    "condition": {
+      "urlFilter": "||bramjnet.com/images/upload/softxgame.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 473
+  },
+  {
+    "condition": {
+      "urlFilter": "||bramjnet.com/js1.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 474
+  },
+  {
+    "condition": {
+      "urlFilter": "||bramjnet.com/js1a.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 475
+  },
+  {
+    "condition": {
+      "urlFilter": "||bramjnet.com/js1soft.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 476
+  },
+  {
+    "condition": {
+      "urlFilter": "||brg8.com/bb/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 477
+  },
+  {
+    "condition": {
+      "urlFilter": "||brooonzyah.net/vb/js.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 478
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.akhbarak.net/assets/*/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 479
+  },
+  {
+    "condition": {
+      "urlFilter": "||ce4arab.com/images/amazon1.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 480
+  },
+  {
+    "condition": {
+      "urlFilter": "||ce4arab.com/images/myus-banner"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 481
+  },
+  {
+    "condition": {
+      "urlFilter": "||ce4arab.com/vb7/images/*/963081.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 482
+  },
+  {
+    "condition": {
+      "urlFilter": "||chadafm.net/images/banner_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 483
+  },
+  {
+    "condition": {
+      "urlFilter": "||chadafm.net/images/pub/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 484
+  },
+  {
+    "condition": {
+      "urlFilter": "||chadafm.net/images/stories/ban-605x106.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 485
+  },
+  {
+    "condition": {
+      "urlFilter": "||christian-dogma.com^*/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 486
+  },
+  {
+    "condition": {
+      "urlFilter": "||ckfu.org/newbnr/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 487
+  },
+  {
+    "condition": {
+      "urlFilter": "||ckfu.org/pic4u/uploads/ckfu1508122885021.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 488
+  },
+  {
+    "condition": {
+      "urlFilter": "||clasicooo.com/pic/bd1.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 489
+  },
+  {
+    "condition": {
+      "urlFilter": "||clasicooo.com/pic/bd2.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 490
+  },
+  {
+    "condition": {
+      "urlFilter": "||cover-sd.com/contents/banarat/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 491
+  },
+  {
+    "condition": {
+      "urlFilter": "||dafatir.ma/do.php?img=441"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 492
+  },
+  {
+    "condition": {
+      "urlFilter": "||dailymedicalinfo.com/uploads/sponsors/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 493
+  },
+  {
+    "condition": {
+      "urlFilter": "||daralkotob.com/images/photos/niledesign.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 494
+  },
+  {
+    "condition": {
+      "urlFilter": "||daralkotob.com^*/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 495
+  },
+  {
+    "condition": {
+      "urlFilter": "||dardarkom.com/templates/demo/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 496
+  },
+  {
+    "condition": {
+      "urlFilter": "||digiboy.ir/wp-content/img/header/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 497
+  },
+  {
+    "condition": {
+      "urlFilter": "||digiboy.ir/wp-content/img/sidebar/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 498
+  },
+  {
+    "condition": {
+      "urlFilter": "||digiboy.ir/wp-content/img/sponsors/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 499
+  },
+  {
+    "condition": {
+      "urlFilter": "||djelfa.info/ar/files/articles/rus/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 500
+  },
+  {
+    "condition": {
+      "urlFilter": "||djelfa.info/ar/files/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 501
+  },
+  {
+    "condition": {
+      "urlFilter": "||djelfa.info/dj_img/*.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 502
+  },
+  {
+    "condition": {
+      "urlFilter": "||djelfa.info/dj_img/dmoz.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 503
+  },
+  {
+    "condition": {
+      "urlFilter": "||dl3-r.com/dla3/images/area-in--header.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 504
+  },
+  {
+    "condition": {
+      "urlFilter": "||dl3-r.com/dla3/images/large-area.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 505
+  },
+  {
+    "condition": {
+      "urlFilter": "||dohaup.com/up/2010-01-29/dohaup_827224532.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 506
+  },
+  {
+    "condition": {
+      "urlFilter": "||dohaup.com/up/2010-02-10/dohaup_1758332280.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 507
+  },
+  {
+    "condition": {
+      "urlFilter": "||dostor.org/images/stories/300x150.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 508
+  },
+  {
+    "condition": {
+      "urlFilter": "||dotmsr.com/images/pod300x250.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 509
+  },
+  {
+    "condition": {
+      "urlFilter": "||dotmsr.com/images/pod320x100.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 510
+  },
+  {
+    "condition": {
+      "urlFilter": "||dzayerinfo.com/ar/wp-content/uploads/*/avatrade.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 511
+  },
+  {
+    "condition": {
+      "urlFilter": "||dzayerinfo.com/ar/wp-content/uploads/*/publ.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 512
+  },
+  {
+    "condition": {
+      "urlFilter": "||dzgsm.com/vb/gsm-banner.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 513
+  },
+  {
+    "condition": {
+      "urlFilter": "||dzgsm.com/vb/pub/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 514
+  },
+  {
+    "condition": {
+      "urlFilter": "||e-tejara.com/wp-content/uploads/1031205c-8807-452e-9767-39daf8452c17.jpeg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 515
+  },
+  {
+    "condition": {
+      "urlFilter": "||educ40.net/images/hotcourses.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 516
+  },
+  {
+    "condition": {
+      "urlFilter": "||educ40.net/images/kotobdz.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 517
+  },
+  {
+    "condition": {
+      "urlFilter": "||efa.com.eg/pepsi.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 518
+  },
+  {
+    "condition": {
+      "urlFilter": "||efa.com.eg/pres.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 519
+  },
+  {
+    "condition": {
+      "urlFilter": "||efa.com.eg/saib.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 520
+  },
+  {
+    "condition": {
+      "urlFilter": "||egmus.vip/cl.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 521
+  },
+  {
+    "condition": {
+      "urlFilter": "||egymotion.net/pop/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 522
+  },
+  {
+    "condition": {
+      "urlFilter": "||egynn.net/media/vodafone_wap_push_banner.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 523
+  },
+  {
+    "condition": {
+      "urlFilter": "||egypt.com/gui/images/banner.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 524
+  },
+  {
+    "condition": {
+      "urlFilter": "||egyptwindow.net/uploadedimage/dar-elbenaagdeed.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 525
+  },
+  {
+    "condition": {
+      "urlFilter": "||egyptwindow.net/uploadedimage/ren2t.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 526
+  },
+  {
+    "condition": {
+      "urlFilter": "||egyup.com/300.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 527
+  },
+  {
+    "condition": {
+      "urlFilter": "||egyup.com/adv."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 528
+  },
+  {
+    "condition": {
+      "urlFilter": "||egyup.com/popup.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 529
+  },
+  {
+    "condition": {
+      "urlFilter": "||egyup.com^*/banner"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 530
+  },
+  {
+    "condition": {
+      "urlFilter": "||el-ahly.com/bboxrm.htm"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 531
+  },
+  {
+    "condition": {
+      "urlFilter": "||el-massa.com^*/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 532
+  },
+  {
+    "condition": {
+      "urlFilter": "||elahmad.com/browser.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 533
+  },
+  {
+    "condition": {
+      "urlFilter": "||elbashayer.com/elbashayer/uploads/2024/09/elbashayer-2024-09-12_870576.webp"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 534
+  },
+  {
+    "condition": {
+      "urlFilter": "||eldjoumhouria.dz/*/img/pub/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 535
+  },
+  {
+    "condition": {
+      "urlFilter": "||eldjoumhouria.dz/flash/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 536
+  },
+  {
+    "condition": {
+      "urlFilter": "||electroarb.com/images/cccam-1.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 537
+  },
+  {
+    "condition": {
+      "urlFilter": "||electroarb.com/images/pub/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 538
+  },
+  {
+    "condition": {
+      "urlFilter": "||elhayatalarabiya.com^*/images/banner.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 539
+  },
+  {
+    "condition": {
+      "urlFilter": "||elhayatonline.com/wp-content/uploads/2018/03/520x110rg.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 540
+  },
+  {
+    "condition": {
+      "urlFilter": "||elhayatonline.com/wp-content/uploads/2019/05/336x200.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 541
+  },
+  {
+    "condition": {
+      "urlFilter": "||elheddaf.com/citro/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 542
+  },
+  {
+    "condition": {
+      "urlFilter": "||elheddaf.com/data/dzauto.swf"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 543
+  },
+  {
+    "condition": {
+      "urlFilter": "||elheddaf.com/interstitiel/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 544
+  },
+  {
+    "condition": {
+      "urlFilter": "||elhiwarnet.com^*/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 545
+  },
+  {
+    "condition": {
+      "urlFilter": "||elkhadra.com/hb.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 546
+  },
+  {
+    "condition": {
+      "urlFilter": "||elmaouid.com/images/stories/23-02-2012/300_a.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 547
+  },
+  {
+    "condition": {
+      "urlFilter": "||elmaouid.com/images/stories/pub-twins-1.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 548
+  },
+  {
+    "condition": {
+      "urlFilter": "||elmokhalestv.com/banner_images/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 549
+  },
+  {
+    "condition": {
+      "urlFilter": "||elmstba.net/wp-content/uploads/love.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 550
+  },
+  {
+    "condition": {
+      "urlFilter": "||elwassat.com/wp-content/uploads/2020/10/ezgif.com-gif-maker.mp4"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 551
+  },
+  {
+    "condition": {
+      "urlFilter": "||elwassat.dz/wp-content/uploads/2020/10/ezgif.com-gif-maker.mp4"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 552
+  },
+  {
+    "condition": {
+      "urlFilter": "||elwatannews.com/hoa/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 553
+  },
+  {
+    "condition": {
+      "urlFilter": "||emall.masreat.com/files/2011/01/clinics_50.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 554
+  },
+  {
+    "condition": {
+      "urlFilter": "||emaratalyoum.com^*/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 555
+  },
+  {
+    "condition": {
+      "urlFilter": "||english-guide.com/images/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 556
+  },
+  {
+    "condition": {
+      "urlFilter": "||englishforarabs.com/iphone-ad.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 557
+  },
+  {
+    "condition": {
+      "urlFilter": "||fannansatiraq.com/vb/688a04aca1.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 558
+  },
+  {
+    "condition": {
+      "urlFilter": "||fannansatiraq.com/vb/end.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 559
+  },
+  {
+    "condition": {
+      "urlFilter": "||fannansatiraq.com/vb/global10.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 560
+  },
+  {
+    "condition": {
+      "urlFilter": "||fannansatiraq.com/vb/princeq8.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 561
+  },
+  {
+    "condition": {
+      "urlFilter": "||fannansatiraq.com/vb/rafeed.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 562
+  },
+  {
+    "condition": {
+      "urlFilter": "||farfesh.com^*/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 563
+  },
+  {
+    "condition": {
+      "urlFilter": "||faselhds.*/aimgs/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 564
+  },
+  {
+    "condition": {
+      "urlFilter": "||faselhds.*/v.xml"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 565
+  },
+  {
+    "condition": {
+      "urlFilter": "||felesteen.ps/uploads/images/2020/05/a4lg1.jpeg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 566
+  },
+  {
+    "condition": {
+      "urlFilter": "||felesteen.ps/uploads/images/2020/05/tabqq.jpeg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 567
+  },
+  {
+    "condition": {
+      "urlFilter": "||fibladi.com/common/pub_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 568
+  },
+  {
+    "condition": {
+      "urlFilter": "||filmey.com/vb/xzx16.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 569
+  },
+  {
+    "condition": {
+      "urlFilter": "||geek4arab.com^*/banner/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 570
+  },
+  {
+    "condition": {
+      "urlFilter": "||gem-flash.com^*/banners1.php?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 571
+  },
+  {
+    "condition": {
+      "urlFilter": "||giniko.com/images/banner/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 572
+  },
+  {
+    "condition": {
+      "urlFilter": "||googlna.com^*/bnar.swf"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 573
+  },
+  {
+    "condition": {
+      "urlFilter": "||goud.ma/photo/250250_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 574
+  },
+  {
+    "condition": {
+      "urlFilter": "||gulf-up.com^*/images/bnr"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 575
+  },
+  {
+    "condition": {
+      "urlFilter": "||hashtagarabi.com/wp-content/uploads/2019/04/orange-7.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 576
+  },
+  {
+    "condition": {
+      "urlFilter": "||hastidownload.net/pop4.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 577
+  },
+  {
+    "condition": {
+      "urlFilter": "||hibapress.com/hanya90.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 578
+  },
+  {
+    "condition": {
+      "urlFilter": "||hibasport.com/pubip/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 579
+  },
+  {
+    "condition": {
+      "urlFilter": "||img.gem-flash.com/images/27717855529074681287.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 580
+  },
+  {
+    "condition": {
+      "urlFilter": "||img.gem-flash.com/images/51428347088205203468.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 581
+  },
+  {
+    "condition": {
+      "urlFilter": "||img.youm7.com/pluginimages/120192591552298.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 582
+  },
+  {
+    "condition": {
+      "urlFilter": "||img.youm7.com/pluginimages/1201927113322462.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 583
+  },
+  {
+    "condition": {
+      "urlFilter": "||img.youm7.com/pluginimages/1201929103016597.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 584
+  },
+  {
+    "condition": {
+      "urlFilter": "||infosoir.com/images/pub.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 585
+  },
+  {
+    "condition": {
+      "urlFilter": "||islamweb.net^*flashfiles/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 586
+  },
+  {
+    "condition": {
+      "urlFilter": "||ismailiaonline.com/swf_top/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 587
+  },
+  {
+    "condition": {
+      "urlFilter": "||jarayid.com/files/image/3ikaad.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 588
+  },
+  {
+    "condition": {
+      "urlFilter": "||jarayid.com/pictures/sadaakkar-ad.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 589
+  },
+  {
+    "condition": {
+      "urlFilter": "||jfranews.com^*/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 590
+  },
+  {
+    "condition": {
+      "urlFilter": "||journalistesfaxien.tn/wp-content/uploads/*/pub_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 591
+  },
+  {
+    "condition": {
+      "urlFilter": "||journalistesfaxien.tn/wp-content/uploads/2014/03/hotel-fini.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 592
+  },
+  {
+    "condition": {
+      "urlFilter": "||jsoftj.com/games-folder/ztkw1_jsoftj.com.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 593
+  },
+  {
+    "condition": {
+      "urlFilter": "||kech24.com/photo/pharmacie_de_garde_marrakech.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 594
+  },
+  {
+    "condition": {
+      "urlFilter": "||khutabaa.com/myfiles/images/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 595
+  },
+  {
+    "condition": {
+      "urlFilter": "||kleeja.com/static/images/e3/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 596
+  },
+  {
+    "condition": {
+      "urlFilter": "||klmty.net/message.php?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 597
+  },
+  {
+    "condition": {
+      "urlFilter": "||konouz.com^*/images/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 598
+  },
+  {
+    "condition": {
+      "urlFilter": "||kooora.com/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 599
+  },
+  {
+    "condition": {
+      "urlFilter": "||korabia.com/content/img/cocacola.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 600
+  },
+  {
+    "condition": {
+      "urlFilter": "||l7en.com/javascript/main.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 601
+  },
+  {
+    "condition": {
+      "urlFilter": "||liilas.com/*/am.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 602
+  },
+  {
+    "condition": {
+      "urlFilter": "||liilas.com/300.htm"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 603
+  },
+  {
+    "condition": {
+      "urlFilter": "||liilas.com/600.htm"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 604
+  },
+  {
+    "condition": {
+      "urlFilter": "||liilas.com/728.htm"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 605
+  },
+  {
+    "condition": {
+      "urlFilter": "||liilas.com/up/uploads/liilas_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 606
+  },
+  {
+    "condition": {
+      "urlFilter": "||liilas.com/uploads/liilas_1373846713171.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 607
+  },
+  {
+    "condition": {
+      "urlFilter": "||liilas.com/uploads/liilas_1378255269441.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 608
+  },
+  {
+    "condition": {
+      "urlFilter": "||liilas.com/uploads/liilas_1398296505511.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 609
+  },
+  {
+    "condition": {
+      "urlFilter": "||liilas.com/vb3/mobiquo/smartbanner/appbanner.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 610
+  },
+  {
+    "condition": {
+      "urlFilter": "||liilas.com/vb3/z.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 611
+  },
+  {
+    "condition": {
+      "urlFilter": "||llssll.com/uploads/viewimages/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 612
+  },
+  {
+    "condition": {
+      "urlFilter": "||llssll.com/vb/2.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 613
+  },
+  {
+    "condition": {
+      "urlFilter": "||losha.net/themes/portal/js/popup.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 614
+  },
+  {
+    "condition": {
+      "urlFilter": "||lovely0smile.com/b-b1.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 615
+  },
+  {
+    "condition": {
+      "urlFilter": "||lovely0smile.com/b-b5.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 616
+  },
+  {
+    "condition": {
+      "urlFilter": "||m7ol.com/baners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 617
+  },
+  {
+    "condition": {
+      "urlFilter": "||m7shsh.com^*/bn300.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 618
+  },
+  {
+    "condition": {
+      "urlFilter": "||ma3hd.net/js.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 619
+  },
+  {
+    "condition": {
+      "urlFilter": "||madaresegypt.com/content/images/300_250"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 620
+  },
+  {
+    "condition": {
+      "urlFilter": "||madaresegypt.com/content/images/720_90"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 621
+  },
+  {
+    "condition": {
+      "urlFilter": "||manga-ar.com/upload/adv/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 622
+  },
+  {
+    "condition": {
+      "urlFilter": "||marmar.co.il/virarticles/flashbannersnew/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 623
+  },
+  {
+    "condition": {
+      "urlFilter": "||marmar.co.il/virarticles/shadv/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 624
+  },
+  {
+    "condition": {
+      "urlFilter": "||marocannonces.com/images/agency_banner.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 625
+  },
+  {
+    "condition": {
+      "urlFilter": "||marocannonces.com^*/bannier_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 626
+  },
+  {
+    "condition": {
+      "urlFilter": "||marrakechalaan.com/wp-content/uploads/2015/05/hotel-cesar-copie-sd.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 627
+  },
+  {
+    "condition": {
+      "urlFilter": "||marrakechalaan.com/wp-content/uploads/2015/07/blach-zohair.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 628
+  },
+  {
+    "condition": {
+      "urlFilter": "||marrakechalaan.com/wp-content/uploads/2015/07/radio-gueliz-pub-v-2.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 629
+  },
+  {
+    "condition": {
+      "urlFilter": "||masrawy.com/scripts/article.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 630
+  },
+  {
+    "condition": {
+      "urlFilter": "||masrawysat.com/images/ms/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 631
+  },
+  {
+    "condition": {
+      "urlFilter": "||masrawysat.com/img/505.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 632
+  },
+  {
+    "condition": {
+      "urlFilter": "||masrawysat.com/img/astra.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 633
+  },
+  {
+    "condition": {
+      "urlFilter": "||masrawysat.com/img/omix.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 634
+  },
+  {
+    "condition": {
+      "urlFilter": "||masrawysat.com/vb/images/alsharingbanner.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 635
+  },
+  {
+    "condition": {
+      "urlFilter": "||masreat.com/images/hospital-addiction-treatment2.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 636
+  },
+  {
+    "condition": {
+      "urlFilter": "||maxforums.net/core/images/aaa.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 637
+  },
+  {
+    "condition": {
+      "urlFilter": "||mbc.net/dms/analytics-and-banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 638
+  },
+  {
+    "condition": {
+      "urlFilter": "||medias-dz.com/wp-content/uploads/2020/07/mobilis-5juillet-700.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 639
+  },
+  {
+    "condition": {
+      "urlFilter": "||melody.ma/images/300/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 640
+  },
+  {
+    "condition": {
+      "urlFilter": "||melody.ma/images/500/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 641
+  },
+  {
+    "condition": {
+      "urlFilter": "||melody4arab.com/banner/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 642
+  },
+  {
+    "condition": {
+      "urlFilter": "||melody4arab.com/images/300x50.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 643
+  },
+  {
+    "condition": {
+      "urlFilter": "||mexat.com/code/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 644
+  },
+  {
+    "condition": {
+      "urlFilter": "||microchoix.ma/banniers/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 645
+  },
+  {
+    "condition": {
+      "urlFilter": "||mobihall.com/data/adv/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 646
+  },
+  {
+    "condition": {
+      "urlFilter": "||mobtada.com/files/banners_days/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 647
+  },
+  {
+    "condition": {
+      "urlFilter": "||montadaphp.net/hamada_banner.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 648
+  },
+  {
+    "condition": {
+      "urlFilter": "||montadaphp.net/images/banner.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 649
+  },
+  {
+    "condition": {
+      "urlFilter": "||mouloudia.org/files/sponsors/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 650
+  },
+  {
+    "condition": {
+      "urlFilter": "||mp3quran.net/fr/key2islam.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 651
+  },
+  {
+    "condition": {
+      "urlFilter": "||mp3quran.net/fr/womeninislam.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 652
+  },
+  {
+    "condition": {
+      "urlFilter": "||msader24.xyz/ic/733img.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 653
+  },
+  {
+    "condition": {
+      "urlFilter": "||msader24.xyz/ic/773imgcol.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 654
+  },
+  {
+    "condition": {
+      "urlFilter": "||mtwer.com/files/14806.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 655
+  },
+  {
+    "condition": {
+      "urlFilter": "||mtwer.com^*/adsmtwerclient/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 656
+  },
+  {
+    "condition": {
+      "urlFilter": "||mushahed.net/vb/storeimg/img_1389975145_674.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 657
+  },
+  {
+    "condition": {
+      "urlFilter": "||mwadah.com/images/mwadahhost.swf"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 658
+  },
+  {
+    "condition": {
+      "urlFilter": "||myegy.*/files/img/content/6/85/1534966446.original.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 659
+  },
+  {
+    "condition": {
+      "urlFilter": "||myegy.*/files/js/worker.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 660
+  },
+  {
+    "condition": {
+      "urlFilter": "||mysite.ma/khalid.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 661
+  },
+  {
+    "condition": {
+      "urlFilter": "||mzabmedia.com/portal/sites/default/files/2020-04/sarayy.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 662
+  },
+  {
+    "condition": {
+      "urlFilter": "||nadorcity.com/docs/imaipub.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 663
+  },
+  {
+    "condition": {
+      "urlFilter": "||nadorcity.com/docs/kitra3.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 664
+  },
+  {
+    "condition": {
+      "urlFilter": "||neelwafurat.com/images/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 665
+  },
+  {
+    "condition": {
+      "urlFilter": "||neswangy.net/chat/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 666
+  },
+  {
+    "condition": {
+      "urlFilter": "||neswangy.net/style/images/neswangyapp.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 667
+  },
+  {
+    "condition": {
+      "urlFilter": "||nn-lb.com/images/32432432532543232532532.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 668
+  },
+  {
+    "condition": {
+      "urlFilter": "||nn-lb.com/images/675)567657jpg.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 669
+  },
+  {
+    "condition": {
+      "urlFilter": "||nn-lb.com/images/7657657777.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 670
+  },
+  {
+    "condition": {
+      "urlFilter": "||nn-lb.com/images/amjad-10-7-2015.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 671
+  },
+  {
+    "condition": {
+      "urlFilter": "||nn-lb.com/images/auce42749.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 672
+  },
+  {
+    "condition": {
+      "urlFilter": "||nn-lb.com/images/ezgif-1499239166.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 673
+  },
+  {
+    "condition": {
+      "urlFilter": "||nn-lb.com/images/tawfeer-online-45.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 674
+  },
+  {
+    "condition": {
+      "urlFilter": "||nn-lb.com/images/tttrr.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 675
+  },
+  {
+    "condition": {
+      "urlFilter": "||nn-lb.com/newsgfx/11406927_853913488021800_2631087095857873128_n.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 676
+  },
+  {
+    "condition": {
+      "urlFilter": "||nn-lb.com/newsgfx/121%20(1).jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 677
+  },
+  {
+    "condition": {
+      "urlFilter": "||nn-lb.com/newsgfx/22e2.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 678
+  },
+  {
+    "condition": {
+      "urlFilter": "||nn-lb.com/newsgfx/3333%20(1).jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 679
+  },
+  {
+    "condition": {
+      "urlFilter": "||nn-lb.com/newsgfx/4567567.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 680
+  },
+  {
+    "condition": {
+      "urlFilter": "||nn-lb.com/newsgfx/6--06065.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 681
+  },
+  {
+    "condition": {
+      "urlFilter": "||nn-lb.com/newsgfx/6666666666.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 682
+  },
+  {
+    "condition": {
+      "urlFilter": "||nn-lb.com/newsgfx/88888888887878.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 683
+  },
+  {
+    "condition": {
+      "urlFilter": "||nn-lb.com/newsgfx/888888888888887.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 684
+  },
+  {
+    "condition": {
+      "urlFilter": "||nn-lb.com/newsgfx/img-20150914-wa0093.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 685
+  },
+  {
+    "condition": {
+      "urlFilter": "||nn-lb.com/newsgfx/img_1599.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 686
+  },
+  {
+    "condition": {
+      "urlFilter": "||nogooom.com/up2/uploads/137659633062.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 687
+  },
+  {
+    "condition": {
+      "urlFilter": "||nokiagate.com/bans/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 688
+  },
+  {
+    "condition": {
+      "urlFilter": "||okanime.tv/pub/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 689
+  },
+  {
+    "condition": {
+      "urlFilter": "||oleeh.com/images/adv"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 690
+  },
+  {
+    "condition": {
+      "urlFilter": "||op-arab.com/pro/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 691
+  },
+  {
+    "condition": {
+      "urlFilter": "||otf-tv.com/img/golds.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 692
+  },
+  {
+    "condition": {
+      "urlFilter": "||othaimmarkets.com/themes/*/bannerrotator.swf?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 693
+  },
+  {
+    "condition": {
+      "urlFilter": "||ouestribune-dz.com/boutons/pub-louer.swf"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 694
+  },
+  {
+    "condition": {
+      "urlFilter": "||paldf.net/banner/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 695
+  },
+  {
+    "condition": {
+      "urlFilter": "||panet.co.il/ext/js/auadsx.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 696
+  },
+  {
+    "condition": {
+      "urlFilter": "||panet.co.il/online/images/links_blocks/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 697
+  },
+  {
+    "condition": {
+      "urlFilter": "||panet.co.il^*/flash_banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 698
+  },
+  {
+    "condition": {
+      "urlFilter": "||petra.gov.jo/public_images/banner"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 699
+  },
+  {
+    "condition": {
+      "urlFilter": "||petro-press.com/wp-content/uploads/2019/01/petro-300x250.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 700
+  },
+  {
+    "condition": {
+      "urlFilter": "||petro-press.com/wp-content/uploads/2019/02/borais7.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 701
+  },
+  {
+    "condition": {
+      "urlFilter": "||petro-press.com/wp-content/uploads/2020/02/egyptgas-1.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 702
+  },
+  {
+    "condition": {
+      "urlFilter": "||petro-press.com/wp-content/uploads/2020/02/egyptgas.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 703
+  },
+  {
+    "condition": {
+      "urlFilter": "||petro-press.com/wp-content/uploads/2020/02/website-01-scaled.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 704
+  },
+  {
+    "condition": {
+      "urlFilter": "||petro-press.com/wp-content/uploads/2020/04/%d8%ba%d8%a7%d8%b2-%d8%aa%d9%83.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 705
+  },
+  {
+    "condition": {
+      "urlFilter": "||petro-press.com/wp-content/uploads/2020/05/img-20200502-wa0069.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 706
+  },
+  {
+    "condition": {
+      "urlFilter": "||petro-press.com/wp-content/uploads/2020/09/img-20200905-wa00041153149085127291571.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 707
+  },
+  {
+    "condition": {
+      "urlFilter": "||q8classroom.net/adv_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 708
+  },
+  {
+    "condition": {
+      "urlFilter": "||q8classroom.net/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 709
+  },
+  {
+    "condition": {
+      "urlFilter": "||q8classroom.net/bbn.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 710
+  },
+  {
+    "condition": {
+      "urlFilter": "||q8classroom.net/bnnn.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 711
+  },
+  {
+    "condition": {
+      "urlFilter": "||q8yat.com/ds.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 712
+  },
+  {
+    "condition": {
+      "urlFilter": "||q8yat.com/uploads/images/q8yat-1ce0d91ca2.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 713
+  },
+  {
+    "condition": {
+      "urlFilter": "||q8yat.com/uploads/images/q8yat-20e3d95ccd.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 714
+  },
+  {
+    "condition": {
+      "urlFilter": "||q8yat.com/uploads/images/q8yat-6f74f90b85.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 715
+  },
+  {
+    "condition": {
+      "urlFilter": "||q8yat.com/uploads/images/q8yat-bd676156ea.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 716
+  },
+  {
+    "condition": {
+      "urlFilter": "||qalansuwa.com/online/images/stories/flash/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 717
+  },
+  {
+    "condition": {
+      "urlFilter": "||qalansuwa.com/online/images/stories/spots/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 718
+  },
+  {
+    "condition": {
+      "urlFilter": "||qaradawi.net^*/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 719
+  },
+  {
+    "condition": {
+      "urlFilter": "||qatarbike.com/bike/qatarbike/images/l-up-b.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 720
+  },
+  {
+    "condition": {
+      "urlFilter": "||qatarshares.com/vb/images/*.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 721
+  },
+  {
+    "condition": {
+      "urlFilter": "||qatarshares.com/vb/images/banner"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 722
+  },
+  {
+    "condition": {
+      "urlFilter": "||realmadridarabia.com^*/bnr_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 723
+  },
+  {
+    "condition": {
+      "urlFilter": "||rmadarab.com/rmad-pro/site/header/banner_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 724
+  },
+  {
+    "condition": {
+      "urlFilter": "||rmadarab.com/vb/rmad-pro/pub/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 725
+  },
+  {
+    "condition": {
+      "urlFilter": "||roro44.com/girls-games-banner.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 726
+  },
+  {
+    "condition": {
+      "urlFilter": "||rumonline.net^*/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 727
+  },
+  {
+    "condition": {
+      "urlFilter": "||sabqpress.net/wp-content/uploads/2020/03/658ae4f9d831d9ae4018de434c5b92bd.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 728
+  },
+  {
+    "condition": {
+      "urlFilter": "||sabqpress.net/wp-content/uploads/2020/05/bellat.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 729
+  },
+  {
+    "condition": {
+      "urlFilter": "||sabqpress.net/wp-content/uploads/2020/07/mobilis.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 730
+  },
+  {
+    "condition": {
+      "urlFilter": "||saidaonline.com/flash/di3ayaad.swf"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 731
+  },
+  {
+    "condition": {
+      "urlFilter": "||saidaonline.com/gifs/alassaadlogo21.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 732
+  },
+  {
+    "condition": {
+      "urlFilter": "||saidaonline.com/gifs/bsatad2013.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 733
+  },
+  {
+    "condition": {
+      "urlFilter": "||saidaonline.com/gifs/image5464df131311.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 734
+  },
+  {
+    "condition": {
+      "urlFilter": "||saidaonline.com/gifs/shubadak-baner-600x200.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 735
+  },
+  {
+    "condition": {
+      "urlFilter": "||samaup.com/images/bann"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 736
+  },
+  {
+    "condition": {
+      "urlFilter": "||sana.sy/wp-content/uploads/2019/12/gif-%d8%b3%d8%a7%d9%86%d8%a7-1.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 737
+  },
+  {
+    "condition": {
+      "urlFilter": "||sana.sy/wp-content/uploads/2020/05/r12-gif-300x300-.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 738
+  },
+  {
+    "condition": {
+      "urlFilter": "||sat-1000.com/vb/images/movie1.swf"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 739
+  },
+  {
+    "condition": {
+      "urlFilter": "||sat31-dz.com/kleeja/uploads/14849379321.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 740
+  },
+  {
+    "condition": {
+      "urlFilter": "||sat31-dz.com/kleeja/uploads/15173549441.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 741
+  },
+  {
+    "condition": {
+      "urlFilter": "||sat31-dz.com/kleeja/uploads/15173552011.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 742
+  },
+  {
+    "condition": {
+      "urlFilter": "||sat31-dz.com/kleeja/uploads/15173555221.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 743
+  },
+  {
+    "condition": {
+      "urlFilter": "||sat31-dz.com/kleeja/uploads/15173563601.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 744
+  },
+  {
+    "condition": {
+      "urlFilter": "||sawaleif.com/wp-content/uploads/2016/07/222.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 745
+  },
+  {
+    "condition": {
+      "urlFilter": "||sedty.com/imagehosting/1_1337147336.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 746
+  },
+  {
+    "condition": {
+      "urlFilter": "||sedty.com/imagehosting/1_1337148319.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 747
+  },
+  {
+    "condition": {
+      "urlFilter": "||sedty.com/imagehosting/1_1338325669.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 748
+  },
+  {
+    "condition": {
+      "urlFilter": "||sedty.com/imagehosting/1_1346843455.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 749
+  },
+  {
+    "condition": {
+      "urlFilter": "||sedty.com/imagehosting/2_1337379699.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 750
+  },
+  {
+    "condition": {
+      "urlFilter": "||senksar.com/untitled-2.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 751
+  },
+  {
+    "condition": {
+      "urlFilter": "||shamela.ws/files/img/footerbanner.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 752
+  },
+  {
+    "condition": {
+      "urlFilter": "||shamela.ws/files/img/headerbanner.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 753
+  },
+  {
+    "condition": {
+      "urlFilter": "||shamela.ws/files/img/rightbanner.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 754
+  },
+  {
+    "condition": {
+      "urlFilter": "||shamela.ws/files/sponsor2.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 755
+  },
+  {
+    "condition": {
+      "urlFilter": "||shatelarab.com^*/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 756
+  },
+  {
+    "condition": {
+      "urlFilter": "||shof.co.il/public/image/*1140x140."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 757
+  },
+  {
+    "condition": {
+      "urlFilter": "||shof.co.il/public/image/*banner"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 758
+  },
+  {
+    "condition": {
+      "urlFilter": "||shof.co.il/public/image/*cube"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 759
+  },
+  {
+    "condition": {
+      "urlFilter": "||sigma-4pc.com/academy/wp-content/uploads/2017/05/%d9%81%d8%b1%d8%b5%d8%a9-"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 760
+  },
+  {
+    "condition": {
+      "urlFilter": "||sigma-4pc.com/academy/wp-content/uploads/2018/11/55a9e51463bdac29dc503163da955861.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 761
+  },
+  {
+    "condition": {
+      "urlFilter": "||silkroad4arab.com/banner/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 762
+  },
+  {
+    "condition": {
+      "urlFilter": "||sonara.net/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 763
+  },
+  {
+    "condition": {
+      "urlFilter": "||spa.gov.sa/images/banner/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 764
+  },
+  {
+    "condition": {
+      "urlFilter": "||star7arab.com/icon.aspx?ads="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 765
+  },
+  {
+    "condition": {
+      "urlFilter": "||stat.arabstoday.net/images/alpharooms.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 766
+  },
+  {
+    "condition": {
+      "urlFilter": "||stat.arabstoday.net/images/pizza.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 767
+  },
+  {
+    "condition": {
+      "urlFilter": "||stat.arabstoday.net/images/weather-ad.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 768
+  },
+  {
+    "condition": {
+      "urlFilter": "||support-ar.com^*/support-adv/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 769
+  },
+  {
+    "condition": {
+      "urlFilter": "||suratmp3.com/images/bnr/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 770
+  },
+  {
+    "condition": {
+      "urlFilter": "||swalif.com/banner/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 771
+  },
+  {
+    "condition": {
+      "urlFilter": "||syaanh.net/images/*.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 772
+  },
+  {
+    "condition": {
+      "urlFilter": "||tangersport.com/villart.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 773
+  },
+  {
+    "condition": {
+      "urlFilter": "||tourism-review.net/banners/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 774
+  },
+  {
+    "condition": {
+      "urlFilter": "||travelzad.com/banner-app.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 775
+  },
+  {
+    "condition": {
+      "urlFilter": "||travelzad.com/photo/files/50810.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 776
+  },
+  {
+    "condition": {
+      "urlFilter": "||travelzad.com/vb/storeimg/img_1318589601_108.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 777
+  },
+  {
+    "condition": {
+      "urlFilter": "||uob-bh.com/uploadfiles/bahraindir.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 778
+  },
+  {
+    "condition": {
+      "urlFilter": "||up.movizland.*/uploads/13978557311.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 779
+  },
+  {
+    "condition": {
+      "urlFilter": "||up.movizland.*/uploads/1438749062331.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 780
+  },
+  {
+    "condition": {
+      "urlFilter": "||up.movizland.*/uploads/1513608538041.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 781
+  },
+  {
+    "condition": {
+      "urlFilter": "||up.movizland.*/uploads/1534777803121.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 782
+  },
+  {
+    "condition": {
+      "urlFilter": "||up.movizland.*/uploads/1534778808491.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 783
+  },
+  {
+    "condition": {
+      "urlFilter": "||up.movizland.*/uploads/1535822551281.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 784
+  },
+  {
+    "condition": {
+      "urlFilter": "||uploadboy.com/banner/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 785
+  },
+  {
+    "condition": {
+      "urlFilter": "||vb4arb.com/jorboxhost.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 786
+  },
+  {
+    "condition": {
+      "urlFilter": "||vga4a.com/wp-content/themes/jannah/assets/js/scripts.min.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 787
+  },
+  {
+    "condition": {
+      "urlFilter": "||vip4soft.com/draw.swf"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 788
+  },
+  {
+    "condition": {
+      "urlFilter": "||vip4soft.com/images/baneers/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 789
+  },
+  {
+    "condition": {
+      "urlFilter": "||wadhaef-sa.com/wp-content/uploads/2020/03/3.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 790
+  },
+  {
+    "condition": {
+      "urlFilter": "||wadhaef-sa.com/wp-content/uploads/2020/05/untitl11.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 791
+  },
+  {
+    "condition": {
+      "urlFilter": "||wadhaef-sa.com/wp-content/uploads/2020/07/%d8%a8%d9%86%d8%b1.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 792
+  },
+  {
+    "condition": {
+      "urlFilter": "||wadhaef-sa.com/wp-content/uploads/2020/07/%d9%83%d8%a8%d9%8a%d8%b1.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 793
+  },
+  {
+    "condition": {
+      "urlFilter": "||wadhaef-sa.com/wp-content/uploads/2020/07/5f1955356eaeb.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 794
+  },
+  {
+    "condition": {
+      "urlFilter": "||wadhaef-sa.com/wp-content/uploads/2020/07/untitled-3.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 795
+  },
+  {
+    "condition": {
+      "urlFilter": "||waraqat.net/*/games-banner.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 796
+  },
+  {
+    "condition": {
+      "urlFilter": "||waraqat.net/*/thwalel.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 797
+  },
+  {
+    "condition": {
+      "urlFilter": "||wasetamazon.com/upload/2015/08/amazon.png"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 798
+  },
+  {
+    "condition": {
+      "urlFilter": "||wattan.net/data/bnrs/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 799
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.on.ma/banner."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 800
+  },
+  {
+    "condition": {
+      "urlFilter": "||xtratube.net/player/*/codes.html"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 801
+  },
+  {
+    "condition": {
+      "urlFilter": "||y4yy.com/la3bty.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 802
+  },
+  {
+    "condition": {
+      "urlFilter": "||yallakora.com/images/geminilb.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 803
+  },
+  {
+    "condition": {
+      "urlFilter": "||yallakora.com/images/geminisc.jpg"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 804
+  },
+  {
+    "condition": {
+      "urlFilter": "||yallakora.com/scripts/article.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 805
+  },
+  {
+    "condition": {
+      "urlFilter": "||youm7.com/cairodar/index2.html"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 806
+  },
+  {
+    "condition": {
+      "urlFilter": "||z-shadow.co/image/announce.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 807
+  },
+  {
+    "condition": {
+      "urlFilter": "||z-shadow.co/image/pub.gif"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 808
+  },
+  {
+    "condition": {
+      "urlFilter": "||zaiocity.net^*/zaiocitypub/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 809
+  },
+  {
+    "condition": {
+      "urlFilter": "||zyzoom.net^*/ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 810
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "ad.utop.ir",
+        "ban.alukah.net",
+        "campaign-uploads.s3.amazonaws.com",
+        "mlbanners.misrlinks.com",
+        "popup.egyup.com",
+        "projectagora.s3.amazonaws.com",
+        "xatech.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 811
+  },
+  {
+    "condition": {
+      "urlFilter": "||actionha.net/stylesheets/takeover-rani/",
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 812
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/elan/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 813
+  },
+  {
+    "condition": {
+      "urlFilter": "||arabsharing.com^",
+      "initiatorDomains": [
+        "efa.com.eg"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 814
+  },
+  {
+    "condition": {
+      "urlFilter": "||giclub.tv/index.php?action=",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 815
+  },
+  {
+    "condition": {
+      "urlFilter": "||img.soft98.ir/0_",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 816
+  },
+  {
+    "condition": {
+      "urlFilter": "||hawanaajd.com/img/b/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 817
+  },
+  {
+    "condition": {
+      "urlFilter": "||aksalser.com/e/",
+      "resourceTypes": [
+        "object"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 818
+  },
+  {
+    "condition": {
+      "resourceTypes": [
+        "script"
+      ],
+      "urlFilter": "||online-sale24.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 819
+  },
+  {
+    "condition": {
+      "urlFilter": "||l7en.com/ps/new/",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 820
+  },
+  {
+    "condition": {
+      "urlFilter": "/300e.html",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 821
+  },
+  {
+    "condition": {
+      "urlFilter": "||static-*.netdna-ssl.com^",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 822
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "5jle.com",
+        "maas1.net"
+      ],
+      "initiatorDomains": [
+        "liilas.com"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 823
+  },
+  {
+    "condition": {
+      "urlFilter": "||ma3hd.net^",
+      "initiatorDomains": [
+        "ma3hd.net"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 824
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "aljazayr.com",
+        "deals.souq.com"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 825
+  },
+  {
+    "condition": {
+      "urlFilter": "/banner1.",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 826
+  },
+  {
+    "condition": {
+      "urlFilter": "/banner2.",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 827
+  },
+  {
+    "condition": {
+      "urlFilter": "||faselhds.",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 828
+  },
+  {
+    "condition": {
+      "urlFilter": ".cash/?clickid=",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 829
+  },
+  {
+    "condition": {
+      "urlFilter": ".do?offer=*&publisher_id=",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 830
+  },
+  {
+    "condition": {
+      "urlFilter": "/afstrack.*?affid=",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 831
+  },
+  {
+    "condition": {
+      "regexFilter": "clicks.*\\/afs",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 832
+  },
+  {
+    "condition": {
+      "urlFilter": "/cpm/ad.",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 833
+  },
+  {
+    "condition": {
+      "urlFilter": "/get/iad/",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 834
+  },
+  {
+    "condition": {
+      "urlFilter": "/imp/*?scontext_b=",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 835
+  },
+  {
+    "condition": {
+      "urlFilter": "|about:",
+      "initiatorDomains": [
+        "faselhds.world"
+      ],
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 836
+  },
+  {
+    "condition": {
+      "urlFilter": "||5jle.com^",
+      "initiatorDomains": [
+        "maas1.com"
+      ],
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 837
+  },
+  {
+    "condition": {
+      "urlFilter": "||aflamy.tv^",
+      "initiatorDomains": [
+        "mrfile.co",
+        "spikyup.com"
+      ],
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 838
+  },
+  {
+    "condition": {
+      "urlFilter": "||bahai-forum.com/go/",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 839
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "bit.ly",
+        "open.anghami.com"
+      ],
+      "initiatorDomains": [
+        "esm3ha.com",
+        "sm3ha.mx"
+      ],
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 840
+  },
+  {
+    "condition": {
+      "urlFilter": "||deals.souq.com^*&pubref=",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 841
+  },
+  {
+    "condition": {
+      "urlFilter": "||dressupgal.com^",
+      "initiatorDomains": [
+        "brbbi.com"
+      ],
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 842
+  },
+  {
+    "condition": {
+      "urlFilter": "||dropvideo.com/adorika/",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 843
+  },
+  {
+    "condition": {
+      "urlFilter": "||dubizzle.com^*/?utm_source=",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 844
+  },
+  {
+    "condition": {
+      "urlFilter": "||facebook.com/best-iptv2016-",
+      "initiatorDomains": [
+        "3gyptsat.net"
+      ],
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 845
+  },
+  {
+    "condition": {
+      "urlFilter": "||googleusercontent.com^",
+      "initiatorDomains": [
+        "yalla-shoot.today"
+      ],
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 846
+  },
+  {
+    "condition": {
+      "urlFilter": "||mfeeed.com^",
+      "initiatorDomains": [
+        "arteenz.com"
+      ],
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 847
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "fatafeeet.com",
+        "mycar4ever.blogspot.com"
+      ],
+      "initiatorDomains": [
+        "egyptladies.net"
+      ],
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 848
+  },
+  {
+    "condition": {
+      "urlFilter": "||shein.com/?aff_id=",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 849
+  },
+  {
+    "condition": {
+      "urlFilter": "||actionz.net:",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 850
+  },
+  {
+    "condition": {
+      "urlFilter": "||adf.ly^",
+      "initiatorDomains": [
+        "cods-gta.blogspot.com",
+        "nassamat.com"
+      ],
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 851
+  },
+  {
+    "condition": {
+      "urlFilter": "||arabmersal.net^",
+      "initiatorDomains": [
+        "rmoz.cc"
+      ],
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 852
+  },
+  {
+    "condition": {
+      "urlFilter": "||arabseed.*/photos/shares/",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 853
+  },
+  {
+    "condition": {
+      "urlFilter": "||azyya.com^",
+      "initiatorDomains": [
+        "beautymaroc.com"
+      ],
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 854
+  },
+  {
+    "condition": {
+      "urlFilter": "||cima4u1.*/wp-content/",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 855
+  },
+  {
+    "condition": {
+      "urlFilter": "||eaglepro.net^",
+      "initiatorDomains": [
+        "bramjnet.com"
+      ],
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 856
+  },
+  {
+    "condition": {
+      "urlFilter": "||egybest.*/click.",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 857
+  },
+  {
+    "condition": {
+      "urlFilter": "||egybest.*/cv.",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 858
+  },
+  {
+    "condition": {
+      "urlFilter": "||egydead.*/wp-content/",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 859
+  },
+  {
+    "condition": {
+      "urlFilter": "||esheeq.co/ex/",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 860
+  },
+  {
+    "condition": {
+      "urlFilter": "||facebook.com/nansy.sbry1",
+      "initiatorDomains": [
+        "dtyds.blogspot.com"
+      ],
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 861
+  },
+  {
+    "condition": {
+      "urlFilter": "||forex1040.blogspot.com^",
+      "initiatorDomains": [
+        "aflmsexarab.com"
+      ],
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 862
+  },
+  {
+    "condition": {
+      "urlFilter": "||gamezon.top/redirect.php",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 863
+  },
+  {
+    "condition": {
+      "urlFilter": "||iranproud.com/ad",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 864
+  },
+  {
+    "condition": {
+      "urlFilter": "||lodynet.*/wp-content/",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 865
+  },
+  {
+    "condition": {
+      "urlFilter": "||movs4u.*/d/",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 866
+  },
+  {
+    "condition": {
+      "urlFilter": "||myegy.*/ad/",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 867
+  },
+  {
+    "condition": {
+      "urlFilter": "||r-x0.com^",
+      "initiatorDomains": [
+        "rb7ne.com"
+      ],
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 868
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "right-allthie-times.blogspot.com",
+        "tabeebk.com"
+      ],
+      "initiatorDomains": [
+        "egynt.net"
+      ],
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 869
+  },
+  {
+    "condition": {
+      "urlFilter": "||shahidforu.*/wp-content/",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 870
+  },
+  {
+    "condition": {
+      "urlFilter": "||shahidmosalsalat.*/shahid.php",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 871
+  },
+  {
+    "condition": {
+      "urlFilter": "||souss24.com^",
+      "initiatorDomains": [
+        "ilmaroc.org"
+      ],
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 872
+  },
+  {
+    "condition": {
+      "urlFilter": "||stardima.com/redirect.php?",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 873
+  },
+  {
+    "condition": {
+      "urlFilter": "||travpl.com^",
+      "initiatorDomains": [
+        "nokiagate.com"
+      ],
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 874
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "add-friendso.blogspot.com",
+        "adv.videomega.tv",
+        "aflam.info",
+        "aflam.io",
+        "arabiawin.com",
+        "arabnewscom.ipage.com",
+        "elmassar-ar.com",
+        "eonads.com",
+        "forexxzx.blogspot.com.eg",
+        "protect-web.com",
+        "zlps.xyz"
+      ],
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 875
+  },
+  {
+    "condition": {
+      "urlFilter": ".affilist-",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 876
+  },
+  {
+    "condition": {
+      "urlFilter": "//affilist-",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 877
+  },
+  {
+    "condition": {
+      "urlFilter": "/productbox.*?zone=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 878
+  },
+  {
+    "condition": {
+      "urlFilter": "://partners.*/widget/",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 879
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/js/semantic-ui/*/semantic-ui.min.js",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 880
+  },
+  {
+    "condition": {
+      "urlFilter": "||api.yamli.com/checkin.ashx?",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 881
+  },
+  {
+    "condition": {
+      "urlFilter": "||arabhosters.com/logo_",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 882
+  },
+  {
+    "condition": {
+      "urlFilter": "||babal.net/tools/home.php?",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 883
+  },
+  {
+    "condition": {
+      "urlFilter": "||daralakhbar.com/widgetgen/",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 884
+  },
+  {
+    "condition": {
+      "urlFilter": "||dirlaffaire.net/souq/files/",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 885
+  },
+  {
+    "condition": {
+      "urlFilter": "||famquote.com/facebook",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 886
+  },
+  {
+    "condition": {
+      "urlFilter": "||fistfast.com/images/",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 887
+  },
+  {
+    "condition": {
+      "urlFilter": "||ifoneunlock.com/ifoneunlock_banner_",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 888
+  },
+  {
+    "condition": {
+      "urlFilter": "||merchantshares.com/assets/banners/",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 889
+  },
+  {
+    "condition": {
+      "urlFilter": "||mobizone.mobi/mobilebox/linkonline.aspx",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 890
+  },
+  {
+    "condition": {
+      "urlFilter": "||mstaml.com/mstaml.htm",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 891
+  },
+  {
+    "condition": {
+      "urlFilter": "||pics.chimeratool.com/images_b/",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 892
+  },
+  {
+    "condition": {
+      "urlFilter": "||swiftype.com^*/search?callback=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 893
+  },
+  {
+    "condition": {
+      "urlFilter": "||topnet.tn/wp-content/",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 894
+  },
+  {
+    "condition": {
+      "urlFilter": "||widgipedia.com/widgets/",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 895
+  },
+  {
+    "condition": {
+      "urlFilter": "||zotabox.com^*/widgets.js",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 896
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "adarabi.com",
+        "adnegah.net",
+        "adsocy.com",
+        "adv0.com",
+        "anetwork.ir",
+        "backtory.com",
+        "belboon.com",
+        "branchroughlend.info",
+        "clicksegypt.net",
+        "clickyab.com",
+        "congoro.com",
+        "ec-ho.net",
+        "eclkspbn.com",
+        "erate.co.il",
+        "fortvision.com",
+        "ftd.agency",
+        "gecko.me",
+        "geminimedia-eg.com",
+        "idsly.com",
+        "jubnaadserve.com",
+        "ketshwa.com",
+        "kimia.es",
+        "marvelmanager.com",
+        "monetizd.com",
+        "mpi.ps",
+        "pabidding.io",
+        "paht.tech",
+        "popupaval.com",
+        "popupplus.ir",
+        "postquare.com",
+        "powerspace.com",
+        "premaads.net",
+        "user-api.com",
+        "yektanet.com",
+        "zarpop.com",
+        "zermeo.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 897
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "arteenz.com",
+        "brstej.com"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 898
+  },
+  {
+    "condition": {
+      "urlFilter": "||3liba.com/upload/",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 899
+  },
+  {
+    "condition": {
+      "urlFilter": "||3liexp.com/upload/",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 900
+  },
+  {
+    "condition": {
+      "urlFilter": "||iareej.com/upload/",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 901
+  },
+  {
+    "condition": {
+      "urlFilter": "||wasetamazon.com/upload/",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 902
+  },
+  {
+    "condition": {
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "image"
+      ],
+      "urlFilter": "||shortenow.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 903
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "1egy.best",
+        "33sk.tv",
+        "360kora.io",
+        "3isk.biz",
+        "3sk.co",
+        "3sk.io",
+        "4yftwvrdz7.sbs",
+        "9alami.info",
+        "aflam2you.com",
+        "ahwaktv.net",
+        "akhbar24.news",
+        "akhbara24.news",
+        "akoam.com",
+        "akoam.net",
+        "akwam.cam",
+        "akwam.me",
+        "akwam.net",
+        "al-aqsanews.com",
+        "alkoora.live",
+        "almstba.tv",
+        "anime4up.cam",
+        "anime4up.com",
+        "anime4up.tv",
+        "animegarden.net",
+        "animeiat.tv",
+        "animelek.tv",
+        "animestarz.com",
+        "anyanime.com",
+        "arabincest.com",
+        "arabseed.co",
+        "arabseed.com",
+        "arabseed.lol",
+        "arabseed.one",
+        "arabseed.sbs",
+        "arabseed.tv",
+        "arabseed.xyz",
+        "arabveturk.com",
+        "arabx.cam",
+        "aradramatv.co",
+        "aradramtv.com",
+        "arbcinema.com",
+        "arbsiid.sbs",
+        "arlionztv.site",
+        "arteenz.com",
+        "asd.homes",
+        "asd.res",
+        "asia2tv.cn",
+        "asia2tv.com",
+        "bein-match.net",
+        "brstej.com",
+        "cartoon3rbi.net",
+        "cima-club.cc",
+        "cima-club.in",
+        "cima4u1.sbs",
+        "cima4up.co",
+        "cima4up.tv",
+        "cimaclub.cloud",
+        "cimaclub.us",
+        "cimaclub.work",
+        "cimalek.club",
+        "cimalek.to",
+        "cimalight.vip",
+        "cimawbas.tv",
+        "cinma4up.tv",
+        "eceeq.org",
+        "edu-dz.com",
+        "eessq.net",
+        "egybest.film",
+        "egybest.media",
+        "egybest.mx",
+        "egydead.com",
+        "egydead.live",
+        "egydead.media",
+        "egydead.space",
+        "egydead.watch",
+        "egyibest.com",
+        "elhowt.pro",
+        "elmstba.com",
+        "emotionvideo-tv.com",
+        "esheaq.onl",
+        "esheeq.co",
+        "eshiq.net",
+        "eshqy.net",
+        "faselhd.ac",
+        "faselhd.bz",
+        "faselhd.cafe",
+        "faselhd.center",
+        "faselhd.club",
+        "faselhd.co",
+        "faselhd.live",
+        "faselhd.one",
+        "faselhd.pro",
+        "faselhd.show",
+        "faselhd.social",
+        "faselhd.vip",
+        "faselhd.world",
+        "faselhds.care",
+        "faselhds.center",
+        "faselhds.world",
+        "fel3arda.com",
+        "filkhabr.com",
+        "freecccamnew.com",
+        "fushaar.video",
+        "fushar.video",
+        "gateanime.com",
+        "halacima.net",
+        "halacima.website",
+        "hawak.net",
+        "honadrama.me",
+        "honadrama.us",
+        "ibest.lol",
+        "iegybest.co",
+        "iegybest.film",
+        "iegybest.in",
+        "iprom.pics",
+        "kooora4lives.blog",
+        "koora-stream.live",
+        "kooralive.tv",
+        "larooza.icu",
+        "laroza.now",
+        "lodynet.co",
+        "lodynet.ink",
+        "lodynet.tv",
+        "manga.ae",
+        "mangaae.com",
+        "mangalek.com",
+        "moshahda.net",
+        "moshahda.online",
+        "mosoarts.com",
+        "movie4u.watch",
+        "movizland.lol",
+        "movizlands.com",
+        "movs4u.tv",
+        "mycima.host",
+        "myegy.com",
+        "myegy.xyz",
+        "okanime.com",
+        "okanime.tv",
+        "okyanime.com",
+        "online-hackers.com",
+        "rotana.video",
+        "sha4u1.cam",
+        "shaahd4u.cam",
+        "shahed-4u.net",
+        "shahed44u.cam",
+        "shahid4u.asia",
+        "shahid4u.beauty",
+        "shahid4u.day",
+        "shahid4u.link",
+        "shahid4u.watch",
+        "shahid4u1.co",
+        "shahid4uu.cam",
+        "shahidd4u.cam",
+        "shahidforu.net",
+        "shahidlive.co",
+        "shahiid-anime.net",
+        "shiid4u.net",
+        "shoro7atnadir.com",
+        "stardiima.sbs",
+        "stardima.co",
+        "stardima.com",
+        "stardima.vip",
+        "super-koora.io",
+        "t7meel.site",
+        "team1x1.com",
+        "topcinema.cam",
+        "topcinema.top",
+        "tuktukcinema.co",
+        "tuktukcinema.net",
+        "tuktukcinema.site",
+        "turkvearab.com",
+        "tv-yalla-shoot.com",
+        "weshahid.com",
+        "witanime.com",
+        "yaalla-shoots.com",
+        "yalla-shhoot.com",
+        "yalla-shooot.com",
+        "yalla-shoot-as.com",
+        "yalla-shoot-tv.live",
+        "yalla-shoot.blog",
+        "yalla-shoot.me",
+        "yalla-shoot.sx",
+        "yalla-shootw.com",
+        "yalla4shoot.com",
+        "yalla4shoot.live",
+        "yallakora-live.com",
+        "yallashooot.io",
+        "yallashoot.club",
+        "yallashoot.one",
+        "yallashoot.video",
+        "yallashoott.com",
+        "yallashootv.com",
+        "yallla-shoot.com"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 904
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "1egy.best",
+        "9alami.info",
+        "aflam2you.com",
+        "ak.sv",
+        "akhbar24.news",
+        "akhbara24.news",
+        "akwam.me",
+        "alkoora.live",
+        "anime4up.cam",
+        "anime4up.com",
+        "anime4up.tv",
+        "animegarden.net",
+        "animeiat.tv",
+        "arabseed.co",
+        "arabseed.com",
+        "arabseed.lol",
+        "arabseed.one",
+        "arabseed.sbs",
+        "arabseed.tv",
+        "arabseed.xyz",
+        "arabx.cam",
+        "arbcinema.com",
+        "arbsiid.sbs",
+        "arlionztv.site",
+        "arteenz.com",
+        "asd.homes",
+        "asd.rest",
+        "brstej.com",
+        "cima-club.cc",
+        "cima-club.in",
+        "cima4u1.sbs",
+        "cima4up.tv",
+        "cimaclub.cloud",
+        "cimaclub.us",
+        "cimaclub.work",
+        "cimalek.club",
+        "cimalek.to",
+        "cimalight.vip",
+        "cinma4up.tv",
+        "edu-dz.com",
+        "egybest.media",
+        "egybest.mx",
+        "egydead.com",
+        "egydead.live",
+        "egydead.media",
+        "egydead.space",
+        "egydead.video",
+        "egydead.watch",
+        "egyibest.com",
+        "elmstba.com",
+        "eshqy.net",
+        "faselhd.ac",
+        "faselhd.bz",
+        "faselhd.cafe",
+        "faselhd.center",
+        "faselhd.club",
+        "faselhd.co",
+        "faselhd.live",
+        "faselhd.one",
+        "faselhd.pro",
+        "faselhd.show",
+        "faselhd.social",
+        "faselhd.vip",
+        "faselhd.world",
+        "faselhds.care",
+        "faselhds.center",
+        "faselhds.world",
+        "filkhabr.com",
+        "freecccamnew.com",
+        "fushaar.video",
+        "fushar.video",
+        "gateanime.com",
+        "hawak.net",
+        "ibest.lol",
+        "iegybest.co",
+        "iegybest.film",
+        "iegybest.in",
+        "iprom.pics",
+        "koora-stream.live",
+        "larooza.icu",
+        "laroza.now",
+        "lodynet.co",
+        "lodynet.ink",
+        "lodynet.tv",
+        "manga.ae",
+        "mangaae.com",
+        "moshahda.net",
+        "moshahda.online",
+        "mosoarts.com",
+        "movie4u.watch",
+        "movizland.lol",
+        "movizlands.com",
+        "mycima.host",
+        "myegy.com",
+        "myegy.xyz",
+        "okanime.com",
+        "okanime.tv",
+        "online-hackers.com",
+        "sha4u1.cam",
+        "shaahd4u.cam",
+        "shahed-4u.net",
+        "shahed44u.cam",
+        "shahid4u.asia",
+        "shahid4u.beauty",
+        "shahid4u.day",
+        "shahid4u.link",
+        "shahid4u.watch",
+        "shahid4u1.co",
+        "shahid4uu.cam",
+        "shahidd4u.cam",
+        "shahidforu.net",
+        "shiid4u.net",
+        "stardima.co",
+        "stardima.com",
+        "t7meel.site",
+        "topcinema.cam",
+        "topcinema.top",
+        "tuktukcinema.co",
+        "tuktukcinema.net",
+        "tuktukcinema.site",
+        "tv-yalla-shoot.com",
+        "weshahid.com",
+        "witanime.com",
+        "yaalla-shoots.com",
+        "yalla-shhoot.com",
+        "yalla-shooot.com",
+        "yalla-shoot-as.com",
+        "yalla-shoot-tv.live",
+        "yalla-shoot.blog",
+        "yalla-shoot.me",
+        "yalla-shoot.sx",
+        "yalla-shootw.com",
+        "yalla4shoot.com",
+        "yallakora-live.com",
+        "yallashooot.io",
+        "yallashoot.club",
+        "yallashoot.one",
+        "yallashoot.video",
+        "yallashoott.com",
+        "yallashootv.com",
+        "yallla-shoot.com"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 905
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "aldam3h.com",
+        "hao123.com",
+        "keeload.com",
+        "kuwaitold.com",
+        "lazezh.com",
+        "ma3lomh.com",
+        "serveregypt.com"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 906
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "adfoc.us",
+        "adintop.com",
+        "adoptim.com",
+        "cdn.hostdl.com",
+        "eclkspbn.com",
+        "fullspeeddownload.com",
+        "iafov.com",
+        "ir-dl.com",
+        "kimia.es",
+        "mobna.com",
+        "newtab-tv.com",
+        "nozzorli.com",
+        "omasatra.com",
+        "onclickbright.com",
+        "partners.xm.com",
+        "pipaffiliates.com",
+        "popupaval.com",
+        "popupplus.ir",
+        "prwidgets.com",
+        "theclickcheck.com",
+        "tncrun.net",
+        "ublockerext.com",
+        "zarpop.com",
+        "zermeo.com"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 907
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "4yftwvrdz7.sbs",
+        "6sfkrspw4u.sbs",
+        "6tnutl8knw.sbs",
+        "732eg54de642sa.sbs",
+        "ak.sv",
+        "alkoora.live",
+        "animeiat.tv",
+        "arabveturk.com",
+        "hd7live.xyz",
+        "iplayerhls.com",
+        "koora-stream.live",
+        "kora-api.top",
+        "kora-tv.vip",
+        "larhu.website",
+        "segavid.com",
+        "topcinema.cam",
+        "turkvearab.com",
+        "yalla4shoot.live"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 908
+  },
+  {
+    "condition": {
+      "urlFilter": "||1009.ae/wp-content/plugins/wp-intern-ads/jquery.internads.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 909
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads.hsoub.com/",
+      "initiatorDomains": [
+        "hsoub.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 910
+  },
+  {
+    "condition": {
+      "urlFilter": "||bawazir-tech.com/banners/"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 911
+  },
+  {
+    "condition": {
+      "urlFilter": "||betakonline.com/advertisements/securimage/"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 912
+  },
+  {
+    "condition": {
+      "urlFilter": "||djelfa.info/dj_img/logo.gif"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 913
+  },
+  {
+    "condition": {
+      "urlFilter": "||elhiwarnet.com/images/banners/meteo-hiwar.png"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 914
+  },
+  {
+    "condition": {
+      "urlFilter": "||sogarab.com/ads/js/",
+      "initiatorDomains": [
+        "sogarab.com"
+      ],
+      "resourceTypes": [
+        "script",
+        "stylesheet"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 915
+  },
+  {
+    "condition": {
+      "urlFilter": "||bootstrapcdn.com^",
+      "initiatorDomains": [
+        "ahwaktv.net",
+        "brstej.com",
+        "cimalight.vip",
+        "cimawbas.tv",
+        "elmstba.com",
+        "fel3arda.com",
+        "larooza.icu",
+        "shahidlive.co",
+        "shahidmosalsalat.me"
+      ],
+      "resourceTypes": [
+        "script",
+        "stylesheet"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 916
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.jsdelivr.net^",
+      "initiatorDomains": [
+        "almstba.tv",
+        "arteenz.com",
+        "asd.homes",
+        "elmstba.com",
+        "faselhds.care",
+        "fel3arda.com",
+        "fushaar.video",
+        "fushar.video",
+        "shahidd4u.cam",
+        "shahidlive.co",
+        "stardima.com",
+        "yalla4shoot.live",
+        "yallashoot.video"
+      ],
+      "resourceTypes": [
+        "script",
+        "stylesheet"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 917
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.tailwindcss.com/",
+      "initiatorDomains": [
+        "stardima.com"
+      ],
+      "resourceTypes": [
+        "script",
+        "stylesheet"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 918
+  },
+  {
+    "condition": {
+      "urlFilter": "||cloudflare.com/ajax/libs/",
+      "initiatorDomains": [
+        "asd.homes",
+        "brstej.com",
+        "cinma4up.tv",
+        "edu-dz.com",
+        "elhowt.pro",
+        "faselhds.care",
+        "okanime.tv",
+        "okyanime.com",
+        "online-hackers.com",
+        "stardima.com",
+        "t7meel.site",
+        "yalla-shoot.sx"
+      ],
+      "resourceTypes": [
+        "script",
+        "stylesheet"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 919
+  },
+  {
+    "condition": {
+      "urlFilter": "||fonts.googleapis.com^",
+      "initiatorDomains": [
+        "brstej.com"
+      ],
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 920
+  },
+  {
+    "condition": {
+      "urlFilter": "||ssl.p.jwpcdn.com/player/v/",
+      "initiatorDomains": [
+        "arabveturk.com",
+        "faselhds.care",
+        "moshahda.net",
+        "okanime.tv",
+        "turkvearab.com"
+      ],
+      "resourceTypes": [
+        "script",
+        "stylesheet",
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 921
+  },
+  {
+    "condition": {
+      "urlFilter": "||vjs.zencdn.net^",
+      "initiatorDomains": [
+        "fel3arda.com"
+      ],
+      "resourceTypes": [
+        "script",
+        "stylesheet"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 922
+  },
+  {
+    "condition": {
+      "urlFilter": "||ajax.googleapis.com/ajax/libs/",
+      "initiatorDomains": [
+        "ahwaktv.net",
+        "akhbar24.news",
+        "akhbara24.news",
+        "anime4up.cam",
+        "arabveturk.com",
+        "arlionztv.site",
+        "arteenz.com",
+        "brstej.com",
+        "cimalight.vip",
+        "cimawbas.tv",
+        "cinma4up.tv",
+        "eceeq.org",
+        "eessq.net",
+        "elmstba.com",
+        "esheeq.co",
+        "eshiq.net",
+        "faselhds.care",
+        "fel3arda.com",
+        "freecccamnew.com",
+        "gateanime.com",
+        "movizland.xyz",
+        "okanime.tv",
+        "okyanime.com",
+        "online-hackers.com",
+        "shahidlive.co",
+        "shahidmosalsalat.me",
+        "t7meel.site",
+        "turkvearab.com",
+        "yallashoot.video"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 923
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.jwplayer.com/libraries/",
+      "initiatorDomains": [
+        "faselhds.care"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 924
+  },
+  {
+    "condition": {
+      "urlFilter": "||code.jquery.com^",
+      "initiatorDomains": [
+        "aflam2you.com",
+        "ahwaktv.net",
+        "asia2tv.cn",
+        "brstej.com",
+        "cimaclub.cloud",
+        "cimalight.vip",
+        "cimawbas.tv",
+        "larooza.icu",
+        "shahidlive.co",
+        "shahidmosalsalat.me",
+        "stardima.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 925
+  },
+  {
+    "condition": {
+      "urlFilter": "||disqus.com/embed.js",
+      "initiatorDomains": [
+        "okyanime.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 926
+  },
+  {
+    "condition": {
+      "urlFilter": "||disquscdn.com^",
+      "initiatorDomains": [
+        "okyanime.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 927
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "fel3arda.com"
+      ],
+      "urlFilter": "||fel3arda.*/searchjs.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 928
+  },
+  {
+    "condition": {
+      "urlFilter": "||scdn.to/stream/",
+      "initiatorDomains": [
+        "faselhds.care"
+      ],
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 929
+  },
+  {
+    "condition": {
+      "urlFilter": "||scdns.io/stream/",
+      "initiatorDomains": [
+        "faselhds.care"
+      ],
+      "resourceTypes": [
+        "script",
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 930
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "anime4up.cam",
+        "cimaclub.us",
+        "gateanime.com",
+        "shahiid-anime.net"
+      ],
+      "urlFilter": "||wp.com/*/wp-includes/js/",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 931
+  },
+  {
+    "condition": {
+      "urlFilter": "||wp.com/p/jetpack/",
+      "initiatorDomains": [
+        "anime4up.cam",
+        "gateanime.com",
+        "shahiid-anime.net"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 932
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.blogger.com/feeds/",
+      "initiatorDomains": [
+        "edu-dz.com",
+        "shoro7atnadir.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 933
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.blogger.com/static/",
+      "initiatorDomains": [
+        "edu-dz.com",
+        "fel3arda.com",
+        "okyanime.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 934
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.mfeeed.com/cp/js/jquery-1.9.1.min.js",
+      "initiatorDomains": [
+        "arteenz.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 935
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "vidyomani.com"
+      ],
+      "urlFilter": "||cdn.vidyomani.com^*/showads.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 936
+  },
+  {
+    "condition": {
+      "urlFilter": "||api.animegarden.net^",
+      "initiatorDomains": [
+        "animeiat.tv"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 937
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.plyr.io^",
+      "initiatorDomains": [
+        "ak.sv",
+        "stardima.com"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 938
+  }
+]

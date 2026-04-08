@@ -1,0 +1,123 @@
+[uBlock Origin]
+! -----SPECIFIC FILTERS-----
+
+ampparit.com##.ad-slot
+ap-cdn.sanomagames.com##.banner-slot-preroll
+dawn.fi###nm-300x300-fb:style(min-height: 30px !important)
+dawn.fi###nm-980x400-fb:style(min-height: unset !important)
+dawn.fi##:not(:matches-path(/^/$/)) .header:not(:matches-media((min-width: 750px))) + div[class] + div[class] .mobile-top-ad:style(margin: -10px auto !important)
+download.fi,edukas.fi###ad-top-banner-placeholder:style(min-height: 0px !important)
+etn.fi###papperet:style(max-width: none !important; width: max-content !important)
+feissarimokat.com##div[style="background: rgb(246, 66, 100) none repeat scroll 0% 0%; color: rgb(255, 255, 255); padding: 20px;"]
+finder.fi##.SearchResultList__Row--advertisement, .Profile__TopCard--advertisement, .SearchResultList--advertisement:style(width: 100% !important; min-height: unset !important; margin-right: unset !important; float: unset !important;)
+finnkino.fi###layout-left.with-right-side:style(width: 100% !important)
+golfpiste.com#?#.section-wrapper > .has-ad-right:has(+ .section--ad:matches-css(display: none)):style(width: 100% !important)
+golfpiste.com##.section--ad__parade:style(margin: 20px !important)
+iijokiseutu.fi,ilkkapohjalainen.fi,jarviseutu-lehti.fi,jurvansanomat.fi,kaleva.fi,koillissanomat.fi,komiat.fi,lapinkansa.fi,pohjoisenpolut.fi,pyhajokiseutu.fi,raahenseutu.fi,rantalakeus.fi,siikajokilaakso.fi,suupohjansanomat.fi,viiskunta.fi##.m-managedListing__column.-ctx-index:has(.-commercial)
+iijokiseutu.fi,ilkkapohjalainen.fi,jarviseutu-lehti.fi,jurvansanomat.fi,kaleva.fi,koillissanomat.fi,komiat.fi,lapinkansa.fi,pohjoisenpolut.fi,pyhajokiseutu.fi,raahenseutu.fi,rantalakeus.fi,siikajokilaakso.fi,suupohjansanomat.fi,viiskunta.fi##.m-managedListing__row.-ctx-index:has(.-commercial) > .m-managedListing__column.-ctx-index:matches-css(display: flex) img[sizes]:remove-attr(sizes)
+iijokiseutu.fi,ilkkapohjalainen.fi,jarviseutu-lehti.fi,jurvansanomat.fi,kaleva.fi,koillissanomat.fi,komiat.fi,lapinkansa.fi,pohjoisenpolut.fi,pyhajokiseutu.fi,raahenseutu.fi,rantalakeus.fi,siikajokilaakso.fi,suupohjansanomat.fi,viiskunta.fi##.mdc-layout-grid__cell:has(+ .sidebar__column-container):style(grid-column: 3 / span 8 !important)
+iijokiseutu.fi,ilkkapohjalainen.fi,jarviseutu-lehti.fi,jurvansanomat.fi,kaleva.fi,koillissanomat.fi,komiat.fi,lapinkansa.fi,pohjoisenpolut.fi,pyhajokiseutu.fi,raahenseutu.fi,rantalakeus.fi,siikajokilaakso.fi,suupohjansanomat.fi,viiskunta.fi##.mdc-layout-grid__cell:has(+ .sidebar__column-container) img[sizes]:remove-attr(sizes)
+iltalehti.fi#?#.double-column > a[href]:has(.article-container:has-text(Kaupallinen yhteistyö)):remove()
+kaaoszine.fi##article.post:has-text(Kaupallinen yhteistyö):style(height: 1px !important; width: 1px !important; margin-right: 0px !important)
+kaaoszine.fi#@#article.post:has-text(Kaupallinen yhteistyö)
+kaksplus.fi##body.home #section-0 article:nth-child(1), body.category #om_commercialpostlisting-1 article:nth-child(1):style(margin-bottom: unset !important;)
+kotiliesi.fi#?#.article-card-grid li:has(div[id^=dfp__]:not([id^=dfp__desk-1_1])):remove()
+metsastysjakalastus.fi,tekniikanmaailma.fi##.NoAdBlocker_main
+mobiili.fi###headermob:style(position: static !important)
+mobiili.fi###show_merkki:style(margin-top: 2em !important)
+mobiili.fi##.header_ad, important
+mobiili.fi##.mainbody.extended:style(margin-top: 2em !important)
+mvlehti.net##.featured-row-small:style(background-color: white !important)
+nyan.ax##.widget_adrotate_widgets:remove()
+nyan.ax#?#.wpb_column.vc_column_container.td-pb-span8:has(a[onclick*='banner']):remove()
+outlook.live.com##div[aria-label=Siirtymisruutu] ~ div[data-max-width="2400"] + div[class]
+proshop.fi##.container.site-container.hasTopBanner:style(top: 5px !important)
+proshop.fi##.site-container-fullwidth:style(background-image: none !important)
+puhelinvertailu.com##.index-wrap:style(left: 0px !important)
+seiska.fi##.jwplayer.column:has(.jw-video[src="https://seiska.b-cdn.net/Mainos.mp4"]):remove()
+talouselama.fi,tekniikkatalous.fi##section hr:matches-css-before(content: /Mainos |Mainoksen /):upward(1)
+telsu.fi##.pb_t
+tiketti.fi###front_big_event
+tiketti.fi###tik_fixed.with-ebanner:style(top: 0 !important)
+www.suomi24.fi##[data-gtm-label="threadGridView"]:style(display:grid!important;grid-template-columns:minmax(0,1fr)!important;grid-auto-flow:row!important;column-gap:0!important;row-gap:16px!important;align-items:stretch!important)
+www.suomi24.fi##[data-gtm-label="threadGridView"] > [class^="ThreadGridItemWrapper__CardCol"]:style(grid-column:1/-1!important;width:auto!important;max-width:none!important;min-width:0!important;justify-self:stretch!important;box-sizing:border-box!important)
+www.suomi24.fi##[data-gtm-label="threadGridView"] > [class^="ThreadGridItemWrapper__CardCol"] > [class^="ThreadGridItemWrapper__CardWrapper"]:style(width:100%!important;max-width:100%!important;min-width:0!important;box-sizing:border-box!important;margin:0!important;padding-left:0!important;padding-right:0!important;transform:none!important;left:auto!important;right:auto!important;top:auto!important)
+www.suomi24.fi##[data-gtm-label="threadGridView"] > [class^="ThreadGridItemWrapper__CardCol"] > [class^="ThreadGridItemWrapper__CardWrapper"] > *:style(position:static!important;transform:none!important;left:auto!important;right:auto!important;width:100%!important;max-width:100%!important;min-width:0!important;box-sizing:border-box!important;white-space:normal!important;overflow-wrap:anywhere!important;word-break:break-word!important)
+www.suomi24.fi##[data-gtm-label="threadGridView"] > [class^="ThreadGridItemWrapper__CardCol"] > [class^="ThreadGridItemWrapper__CardWrapper"]:style(border-right: none !important)
+
+! telsu.fi##a[href^="/"]:matches-css(font-size: /^[2-9][\d][\.\d]*px$/):upward(div[class])
+! telsu.fi##.pb_t:style(position: absolute !important)
+! telsu.fi##+js(acs, googlefc)
+
+! Trick to overcome flickering issues caused by a slow procedural
+karjalainen.fi#@#.breaking-news-container:has-text(mainos:)
+karjalainen.fi##.breaking-news-container
+karjalainen.fi##.breaking-news-container:not(:has-text(mainos:)):style(display: flex !important)
+
+! HTML filters for browsers that support them e.g. Firefox
+!#if cap_html_filtering
+foreca.fi##^#ad-top
+foreca.fi##^[id|=inline-banner-mobi]
+kokemaenjokilaakso.fi##^[alt^=Mainos]
+kotikokki.net##^.kotikokki_ensighten_ad
+kuka-soitti.fi##^body > .container:not(.mb-5, :has(.mb-5)):has-text(Mainos)
+mobiili.fi##^.fullarticle:has([data-lazy-src="https://mobiili.fi/aaa.png"])
+mobiili.fi##^.fullarticle:has-text(Sponsoroitu)
+muropaketti.com##^article.grid__item_1:has(.nativead)
+tamperelainen.fi##^.display-ad
+ykkoslohja.fi##^.owl-carousel
+ylojarvenuutiset.fi##^.omamainos-responsive
+!#endif
+
+! -----SPECIFIC FILTERS END-----
+
+! -----NETWORK FILTERS-----
+
+||adservice.google.com/adsid/integrator.js$xhr,redirect=noop.txt,domain=telsu.fi
+||doubleclick.net^$xmlhttprequest,redirect=nooptext,domain=puhekupla.com
+||v.fwmrm.net/ad/g/1$removeparam=caid
+
+! -----NETWORK FILTERS END-----
+
+! -----SCRIPTS-----
+
+afterdawn.com,dawn.fi,download.fi,high.fi,muropaketti.com##+js(nostif, f.parentNode.removeChild(f), 100)
+ap-cdn.sanomagames.com##+js(rc, st__hidden, #gamewrapper)
+finder.fi##+js(rc, Profile__TopCard--advertisement, , stay)
+finder.fi##+js(rc, SearchResultList--advertisement, , stay)
+finder.fi##+js(rc, SearchResultList__Row--advertisement, , stay)
+findit.fi##+js(acs, testPrebid)
+happypancake.fi##+js(aopr, Object.prototype.adUnits)
+s-kaupat.fi##+js(json-prune, props.pageProps.contentfulState.frontPage.sections.[].fields.hasCitrusAdSlot props.pageProps.contentfulState.frontPage.sections.[].fields.isCitrusAdGrid)
+srk.fi##+js(set-cookie, cookielaw_accepted, 1, , reload, 1)
+telsu.fi##+js(set, setnp, 0)
+vauva.fi##+js(rmnt, script, async-hide)
+
+! Fix YouTube videos on www.aalto.fi
+! Example: https://www.aalto.fi/fi/koulutustarjonta/kiinteistotalous-ja-geoinformatiikka-tekniikan-kandidaatti-ja-diplomi-insinoori
+! When setting the cookie beforehand, not necessary to load the consent.cookiebot.com scripts required to consent
+aalto.fi##+js(set-cookie, cookiebot-consent--necessary, 1)
+aalto.fi##+js(set-cookie, cookiebot-consent--preferences, 1)
+aalto.fi##+js(set-cookie, cookiebot-consent--marketing, 0)
+aalto.fi##+js(set-cookie, cookiebot-consent--statistics, 0)
+
+! -----SCRIPTS END-----
+
+! mtv.fi & mtvuutiset.fi
+&browser=MozillaFirefox$xhr,removeparam=browser,domain=mtv.fi|mtvuutiset.fi
+@@||fi-mtv3.videoplaza.tv/proxy/distributor$domain=mtv.fi|mtvuutiset.fi
+mtv.fi,mtvuutiset.fi##+js(json-prune-fetch-response, bumpers, , propsToMatch, url:/playback2.a2d.tv\/play/)
+mtv.fi,mtvuutiset.fi##+js(json-prune-fetch-response, playbackItem.isStitched, , propsToMatch, prism.a2d.tv)
+mtv.fi,mtvuutiset.fi##+js(xml-prune, MediaFile, , fi-mtv3.videoplaza.tv/proxy/distributor)
+mtv.fi,mtvuutiset.fi##.avod-web-player-csai:remove()
+mtv.fi,mtvuutiset.fi##.avod-web-player-pause
+mtv.fi,mtvuutiset.fi##.avod-web-player-skin > #skin-wrapper > div > div:has-text(Mainos)
+mtv.fi,mtvuutiset.fi##.visit-advertiser-link
+||cloudfront.net/creatives/assets/$image,domain=mtv.fi|mtvuutiset.fi
+||cloudfront.net/creatives/assets/*.mp4$media,redirect=noop-0.1s.mp3,domain=mtv.fi|mtvuutiset.fi
+||fi-mtv3.videoplaza.tv/proxy/distributor/*&xpb=1$xhr,important,domain=mtv.fi|mtvuutiset.fi
+@@||fwmrm.net/ad/g/*mtv$xhr,domain=mtv.fi|mtvuutiset.fi
+
+! Waiting for EP to support uBO filters as well
+! https://github.com/finnish-easylist-addition/finnish-easylist-addition/issues/433
+muropaketti.com##body.noImages .content img:style(display: inline-block !important)

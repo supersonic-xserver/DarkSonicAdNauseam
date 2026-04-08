@@ -1,0 +1,59 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "ad.kisscartoon.is",
+        "adnxs.com",
+        "ads-pd.nbcuni.com",
+        "advertising.com",
+        "contextual.media.net",
+        "dc5k8fg5ioc8s.cloudfront.net",
+        "effectivemeasure.net",
+        "exosrv.com",
+        "mail-ads.google.com",
+        "p3.adhitzads.com",
+        "pointroll.com",
+        "postrelease.com",
+        "revsci.net",
+        "tiqcdn.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 20
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "a.realsrv.com",
+        "ak.sail-horizon.com",
+        "aniview.com",
+        "awigglespouter.cam",
+        "b3.mookie1.com",
+        "cdn.sb4you1.com",
+        "d1esebcdm6wx7j.cloudfront.net",
+        "d2kadvyeq051an.cloudfront.net",
+        "eviltracker.net",
+        "innovid.com",
+        "pixel.rubiconproject.com",
+        "playstream.media",
+        "plugin.mediavoice.com",
+        "rtax.criteo.com",
+        "s.ntv.io",
+        "secure-assets.rubiconproject.com",
+        "syndication.realsrv.com",
+        "tap-secure.rubiconproject.com",
+        "trackersimulator.org",
+        "youradexchange.com"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 55
+  }
+]

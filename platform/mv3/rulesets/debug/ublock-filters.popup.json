@@ -1,0 +1,815 @@
+[
+  {
+    "condition": {
+      "urlFilter": ".cfd/?ad*z1c2vypt"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1757
+  },
+  {
+    "condition": {
+      "urlFilter": ".pro/?ad*z1c2vypt"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1758
+  },
+  {
+    "condition": {
+      "urlFilter": ".xyz/?ad*z1c2vypt"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1759
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "cfd",
+        "pro",
+        "xyz"
+      ],
+      "regexFilter": "^https:\\/\\/[a-z]{8}\\.(?:cfd|pro|xyz)\\/\\?params=aD[01][a-zA-Z0-9]{43}Z1c2VyPT[a-zA-Z0-9]{40}"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1760
+  },
+  {
+    "condition": {
+      "regexFilter": "^https?:\\/\\/(?:ak\\.)?[a-z0-9]{5,15}\\.(?:com|net)\\/1\\/\\d{7}"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1917
+  },
+  {
+    "condition": {
+      "regexFilter": "^https?:\\/\\/(?:ak\\.)?[a-z0-9]{5,15}\\.(?:com|net)\\/4\\/\\d{7}"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1918
+  },
+  {
+    "condition": {
+      "regexFilter": "^https?:\\/\\/(?:ak\\.)?[a-z0-9]{5,15}\\.(?:com|net)\\/5\\/\\d{7}"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1919
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "0x01n2ptpuz3.com",
+        "1winpb.com",
+        "35.238.205.163",
+        "358g46.fun",
+        "adblockultra.com",
+        "adsession.com",
+        "affforce.com",
+        "affluentarmyequator.com",
+        "amazingmeaning.com",
+        "antonellapouncedcrewels.com",
+        "bameb.com",
+        "batchzoo.com",
+        "bedsidetray.com",
+        "betzapdoson.com",
+        "bitupsss.com",
+        "blocksly.org",
+        "boobausauhipsa.net",
+        "buoydeparturediscontent.com",
+        "buyvisblog.com",
+        "bzzxq.com",
+        "cheaplyhumiliatedhunt.com",
+        "coleastrehabilitation.com",
+        "comfortablepossibilitycarlos.com",
+        "costly-storm.com",
+        "creeperplotgrove.com",
+        "crmacd.livejasmin.com",
+        "culinar9sync.com",
+        "curryfielddistribution.com",
+        "datadropspot.pro",
+        "declk.com",
+        "dfuybl-bclxb.love",
+        "dlmonitize.com",
+        "doaipomer.com",
+        "dogsprotectedfeed.info",
+        "drectsearch.com",
+        "droci.buzz",
+        "dwlv.xyz",
+        "eagamerz.com",
+        "efficientdescent.com",
+        "endlessenterprisebrawl.com",
+        "enigmaswhereas.com",
+        "enraptureminims.com",
+        "eyewondermedia.com",
+        "facesnotebook.com",
+        "fantasticcommunity.com",
+        "fastfilehost.link",
+        "fbpbpmjjg-f.club",
+        "festivalcasketfrench.com",
+        "flatrelentlessperspective.com",
+        "flusteredexam.com",
+        "flyshare.cfd",
+        "foolhardy-wall.com",
+        "foundinggulfsaturate.com",
+        "funuzai.ru",
+        "gajinifreedomain.fun",
+        "garnishdecoction.com",
+        "generating.link",
+        "genishury.pro",
+        "go.aff.7k-partners.com",
+        "grindsteeplesprung.com",
+        "gurusmac.org",
+        "h5xzcrigf541b0fzxj.fun",
+        "highmanapts.com",
+        "highperformanceformat.com",
+        "highrevenuecpm.com",
+        "holputy.shop",
+        "intrudeimpolitetortoise.com",
+        "joyfullybarn.com",
+        "largeboyfriend.com",
+        "leewibaijoa.com",
+        "litaudrootsa.net",
+        "livedjeopardizeemotion.com",
+        "loadingfreerar.top",
+        "loweststernhaunting.com",
+        "macfilecloud.info",
+        "maddenwiped.com",
+        "media.toxtren.com",
+        "mowcoordinateegypt.com",
+        "msok-bayqa.icu",
+        "mywatchtones.com",
+        "omegatoki.com",
+        "outebytech.com",
+        "padspms.com",
+        "planetwealthbuilders.net",
+        "polished-hook.com",
+        "pzcwk-sfend.top",
+        "qjvksieybn.vip",
+        "qsiyfgazubcu.top",
+        "qty3e.pro",
+        "quarterbackchangeless.com",
+        "rapidsend.cfd",
+        "recessionspeaksanybody.com",
+        "reminderasking.com",
+        "restedpealimagine.com",
+        "retdaz.fun",
+        "ripewing.com",
+        "rochestertrend.com",
+        "rtouchingthewaterw.com",
+        "s0fast.net",
+        "sa33491sxa.com",
+        "sandhowl.com",
+        "sez88e.fun",
+        "sgeiruehou.cfd",
+        "sharecube.pro",
+        "shareease.link",
+        "shyvanas.top",
+        "slavicprophetyontherm.com",
+        "staletraffic.com",
+        "stookroocoudray.com",
+        "suburban-anxiety.com",
+        "supertracker200.com",
+        "suspicious-scheme.com",
+        "terribledeliberate.com",
+        "thankfuldirection.com",
+        "thankstoyou.website",
+        "timberfrittermud.com",
+        "toptdspup.com",
+        "track.bcvc.mobi",
+        "trapescook.com",
+        "ublockpop.com",
+        "ultimateaderaser.com",
+        "update-check.com",
+        "urxox-iqx.online",
+        "vjkyw.vip",
+        "vrkonefd.buzz",
+        "vulnerableimmigrateaboveaverage.com",
+        "wbhwwnzptf.club",
+        "woofbeginner.com",
+        "wordsdelivery.com",
+        "wounofoarausooy.net",
+        "x-ozwpiqlb.rocks",
+        "xdgeslibgbim.icu",
+        "xpobbwxzhe-l.site",
+        "zetadeo.com",
+        "zqvee2re50mr.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1957
+  },
+  {
+    "condition": {
+      "urlFilter": "||bit.ly^",
+      "initiatorDomains": [
+        "eurogamer.net"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1958
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "duplichecker.com",
+        "plagiarismchecker.co",
+        "plagiarismdetector.net",
+        "searchenginereports.net",
+        "smallseotools.com"
+      ],
+      "urlFilter": "||grammarly.com/*utm_source="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1959
+  },
+  {
+    "condition": {
+      "urlFilter": "||ouo.",
+      "initiatorDomains": [
+        "legionjuegos.org",
+        "legionpeliculas.org",
+        "legionprogramas.org"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1960
+  },
+  {
+    "condition": {
+      "urlFilter": "|about:",
+      "initiatorDomains": [
+        "yusepjaelani.blogspot.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1961
+  },
+  {
+    "condition": {
+      "urlFilter": "|about:blank",
+      "initiatorDomains": [
+        "satoshi-win.xyz"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1962
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "com"
+      ],
+      "regexFilter": "^https?:\\/\\/[-a-z]{6,}\\.com\\/b[\\/A-Z_a-z]3[.A-Za-z]V[.\\/A-Z_a-z]0[.\\/A-Z_a-z]P[.A-Za-z]3[-\\/0-9A-Z_a-z]{59}$",
+      "isUrlFilterCaseSensitive": true
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1963
+  },
+  {
+    "condition": {
+      "urlFilter": "||free.webcompanion.com/*/*partner=*&campaign="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1964
+  },
+  {
+    "condition": {
+      "urlFilter": "||free.webcompanion.com/*/*campaign=*&partner="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1965
+  },
+  {
+    "condition": {
+      "urlFilter": "||bdu.bitdriverupdater.com/*&utm_source="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1966
+  },
+  {
+    "condition": {
+      "urlFilter": "||startgaming.net/*&utm_source"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1967
+  },
+  {
+    "condition": {
+      "urlFilter": "||startgaming.net/*affil=torrentgalaxy"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1968
+  },
+  {
+    "condition": {
+      "urlFilter": "||dooods.pro/download_popunder"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1969
+  },
+  {
+    "condition": {
+      "urlFilter": ".infinityscans.net/|",
+      "initiatorDomains": [
+        "infinityscans.org"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1970
+  },
+  {
+    "condition": {
+      "urlFilter": "||jaya9.app/?af="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1971
+  },
+  {
+    "condition": {
+      "urlFilter": "||jaya9.best/?af="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1972
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "promo-visits.site",
+        "sextgem.com",
+        "shorterall.com",
+        "ytrqcxat.click"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1973
+  },
+  {
+    "condition": {
+      "urlFilter": "/?rb=*&zoneid=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2779
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "akirabox.com",
+        "akirabox.to",
+        "babesxworld.com",
+        "clik.pw",
+        "goplay.su",
+        "sexvideos.host"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "_warning": [
+      "Salvaged rule by ignoring 1 unsupported domain= option: clik.pw|vipbox.*|babesxworld.com|sexvideos.host|akirabox.com|akirabox.to|goplay.su"
+    ],
+    "id": 2838
+  },
+  {
+    "condition": {
+      "urlFilter": "/click.php?",
+      "initiatorDomains": [
+        "pussyspace.com",
+        "pussyspace.net"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2839
+  },
+  {
+    "condition": {
+      "urlFilter": "||altadefinizone.",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2840
+  },
+  {
+    "condition": {
+      "urlFilter": "://p.*/go/",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2841
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "top"
+      ],
+      "regexFilter": "^https:\\/\\/[a-z]{3,5}\\.[a-z]{10,14}\\.top\\/[A-Za-z]{10,16}\\/[A-Za-z]{5,6}$",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2842
+  },
+  {
+    "condition": {
+      "urlFilter": "?key=*&submetric=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2843
+  },
+  {
+    "condition": {
+      "urlFilter": "&key=*&adb=y",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2844
+  },
+  {
+    "condition": {
+      "urlFilter": "?campaign-key=*&key=*&publisherkey=*&placementidentifier=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2845
+  },
+  {
+    "condition": {
+      "urlFilter": "?key=*&psid=https://",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2846
+  },
+  {
+    "condition": {
+      "urlFilter": "^psid=*&adb=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2847
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "cryptokhoj.com",
+        "doood.cam"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2848
+  },
+  {
+    "condition": {
+      "urlFilter": "||awstrack.me/*auth.coindesk.com"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 3936
+  },
+  {
+    "condition": {
+      "urlFilter": "||awstrack.me/*cmd=ac-inactive-restore"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 3937
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "instagram.com",
+        "startpage.com"
+      ],
+      "initiatorDomains": [
+        "msn.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 3938
+  },
+  {
+    "condition": {
+      "urlFilter": "||vshare.eu/",
+      "initiatorDomains": [
+        "putlockers.fm"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 3939
+  },
+  {
+    "condition": {
+      "urlFilter": "||exoclick.com/privacy-and-cookies-policy/"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 3940
+  },
+  {
+    "condition": {
+      "urlFilter": "||disqus.com/next/login/"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 3941
+  },
+  {
+    "condition": {
+      "urlFilter": "||safecurr.g2afse.com/click?pid=*&offer_id"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 3942
+  },
+  {
+    "condition": {
+      "urlFilter": "||uiz.io/links/popad"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 3943
+  },
+  {
+    "condition": {
+      "urlFilter": "||google.*/search"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 3944
+  },
+  {
+    "condition": {
+      "urlFilter": "||itorrents.org/torrent/"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 3945
+  },
+  {
+    "condition": {
+      "urlFilter": "||torrage.info/download"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 3946
+  },
+  {
+    "condition": {
+      "urlFilter": "||ricasdelicias.online/social.php",
+      "initiatorDomains": [
+        "animesonline.cz"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 3947
+  },
+  {
+    "condition": {
+      "urlFilter": "||e11956.x.akamaiedge.net^",
+      "initiatorDomains": [
+        "aliexpress.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 3948
+  },
+  {
+    "condition": {
+      "urlFilter": "||ad.admitad.com^",
+      "initiatorDomains": [
+        "indiadesire.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 3949
+  },
+  {
+    "condition": {
+      "urlFilter": "||addons.mozilla.org^",
+      "initiatorDomains": [
+        "goplay.su"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 3950
+  },
+  {
+    "condition": {
+      "urlFilter": "||track.adtraction.com/*^url=https://www.gog.com/"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 3951
+  },
+  {
+    "condition": {
+      "urlFilter": "||track.adtraction.com/*^url=http://www.gog.com/"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 3952
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "umidigi.com"
+      ],
+      "urlFilter": "||aliexpress.com^*?af=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 4421
+  },
+  {
+    "condition": {
+      "urlFilter": "||go.redirectingat.com^",
+      "initiatorDomains": [
+        "slickdeals.net"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 4422
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "hentai2read.com"
+      ],
+      "urlFilter": "||static.hentai.direct/hentai/*.jpg",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 4423
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "hentai2read.com"
+      ],
+      "urlFilter": "||static.hentaicdn.com/hentai/*.jpg",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 4424
+  }
+]

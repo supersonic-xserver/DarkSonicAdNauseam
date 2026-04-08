@@ -1,0 +1,62 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "amazonlogistics.jp",
+        "askfollow.us",
+        "assessoriagmv.com",
+        "av-mov.com",
+        "bra.almado.jp",
+        "click-count.info",
+        "enmusubimail000.com",
+        "freeadd.me",
+        "googleailesi.com",
+        "hydrangeao.com",
+        "infohimatalk77.net",
+        "japans-offers.com",
+        "line-e.com",
+        "line-jp.live",
+        "linoee.com",
+        "lucky-website.com",
+        "more-followers.com",
+        "moro-douga.link",
+        "paradise1972.com",
+        "ranmaotome.com",
+        "sb-hip-happy.ourservice.jp",
+        "thepsusiwho.com",
+        "twitob.com",
+        "twitterfollowers.site",
+        "unddeliv.com",
+        "yariman.online"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1103
+  },
+  {
+    "condition": {
+      "urlFilter": "||dlsite.com^",
+      "initiatorDomains": [
+        "motimoti3d.jp"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1104
+  },
+  {
+    "condition": {
+      "urlFilter": "||javcup.com/pop/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1105
+  }
+]

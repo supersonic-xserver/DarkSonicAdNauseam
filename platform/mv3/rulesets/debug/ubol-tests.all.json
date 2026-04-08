@@ -1,0 +1,177 @@
+[
+  {
+    "condition": {
+      "urlFilter": "/bnf3."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1
+  },
+  {
+    "condition": {
+      "urlFilter": "/bnf2.",
+      "requestDomains": [
+        "localhost",
+        "ublockorigin.github.io"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2
+  },
+  {
+    "condition": {
+      "urlFilter": "/bnf1.",
+      "requestDomains": [
+        "localhost",
+        "ublockorigin.github.io"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3
+  },
+  {
+    "condition": {
+      "urlFilter": "/bnf5.js^",
+      "requestDomains": [
+        "localhost",
+        "ublockorigin.github.io"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4
+  },
+  {
+    "condition": {
+      "urlFilter": "/bnf6.txt^",
+      "requestMethods": [
+        "head"
+      ],
+      "requestDomains": [
+        "localhost",
+        "ublockorigin.github.io"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "localhost",
+        "ublockorigin.github.io"
+      ],
+      "regexFilter": "bnf3\\.js$"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 6
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "32x32.png",
+    "condition": {
+      "urlFilter": "/anf1.",
+      "initiatorDomains": [
+        "localhost",
+        "ublockorigin.github.io"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/32x32.png"
+      }
+    },
+    "priority": 11,
+    "id": 7
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "removeparam",
+    "__modifierValue": "b",
+    "condition": {
+      "urlFilter": "/anf3.html",
+      "requestDomains": [
+        "localhost",
+        "ublockorigin.github.io"
+      ],
+      "resourceTypes": [
+        "image",
+        "main_frame",
+        "sub_frame",
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "transform": {
+          "queryTransform": {
+            "removeParams": [
+              "b"
+            ]
+          }
+        }
+      }
+    },
+    "id": 8
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "csp",
+    "__modifierValue": "script-src 'none'",
+    "condition": {
+      "urlFilter": "/anf2.html",
+      "requestDomains": [
+        "localhost",
+        "ublockorigin.github.io"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "content-security-policy",
+          "operation": "append",
+          "value": "script-src 'none'"
+        }
+      ]
+    },
+    "id": 9
+  }
+]

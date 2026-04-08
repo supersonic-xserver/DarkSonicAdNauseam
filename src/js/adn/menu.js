@@ -118,20 +118,25 @@ import { broadcast, onBroadcast } from '../broadcast.js';
     uDom('#main').toggleClass('disabled', getIsDisabled());
 
 
+    // MV3 FIX: Handle null/undefined response gracefully - Service Worker may wake up without data
     if (typeof json !== 'undefined' && json !== null) {
-      ads = json.data;
-      setCounts(ads, json.total, json.recent, json.clicked);
+      ads = json.data || [];
+      setCounts(ads, json.total || 0, json.recent, json.clicked || 0);
     } else {
-      console.warn("[ADN] json null, cant make ad list")
+      console.warn("[ADN] json null, initializing with empty data - SW may have cold-started");
+      ads = [];
+      setCounts([], 0, false, 0);
     }
 
     const $items = uDom('#ad-list-items');
     $items.removeClass().empty();
 
+    // MV3 FIX: Ensure layoutAds receives valid data even if service worker was dormant
     if (typeof json !== 'undefined' && json !== null) {
       layoutAds(json);
     } else {
-      console.warn("[ADN] json null, cant make ad list")
+      // Render empty state gracefully
+      console.warn("[ADN] layoutAds skipped - no data from background");
     }
 
     vAPI.messaging.send(
@@ -142,25 +147,29 @@ import { broadcast, onBroadcast } from '../broadcast.js';
       vAPI.messaging.send(
         'adnauseam', {
         what: 'getNotifications'
-      }).then((data) => {
+      }).then(async (data) => {
+        if (!data) { return; }
         // https://github.com/dhowe/AdNauseam/issues/2455
         if (data.blurCollectedAds) {
-          // add class to #ad-list-items
           uDom('#ad-list-items').addClass('blur');
         } else {
           uDom('#ad-list-items').removeClass('blur');
         }
-        currentNotifications = data.notifications
-        renderNotifications(data.notifications)
-        adjustBlockHeight(data.disableWarnings)
-        initialButtonState = getIsDisabled() ? 'disable' : getIsStrictBlocked() ? 'strict' : 'active';
+        currentNotifications = data.notifications || [];
+        renderNotifications(currentNotifications);
+        adjustBlockHeight(data.disableWarnings);
+        
+        // Await the async getIsStrictBlocked call
+        const isStrictBlocked = await getIsStrictBlocked();
+        
+        initialButtonState = getIsDisabled() ? 'disable' : isStrictBlocked ? 'strict' : 'active';
         updateLabels(initialButtonState)
         // set button state
         if (getIsDisabled()) {
           // disabled 
           uDom('#disable').prop('checked', true);
         } else {
-          if (getIsStrictBlocked()) {
+          if (isStrictBlocked) {
             // strict blocked
             uDom('#strict').prop('checked', true);
             toggleStrictAlert(page, true)
@@ -423,7 +432,15 @@ import { broadcast, onBroadcast } from '../broadcast.js';
   }
 
   const toggleStrictAlert = function (pageUrl, state) {
-    let hostname = (new URL(pageUrl)).hostname;
+    // URL constructor guard - prevent crash on null/invalid pageUrl
+    let hostname = 'unknown';
+    try {
+        if (pageUrl && typeof pageUrl === 'string' && pageUrl.trim()) {
+            hostname = (new URL(pageUrl)).hostname;
+        }
+    } catch(e) {
+        console.warn('[ADN] toggleStrictAlert: Invalid pageUrl:', pageUrl, e.message);
+    }
     uDom("#alert-strictblock .text").text(uDom("#alert-strictblock .text").text().replace("{{domain}}", hostname))
     if (state) {
       uDom("#alert-strictblock").removeClass('hide');
@@ -443,14 +460,42 @@ import { broadcast, onBroadcast } from '../broadcast.js';
     const onPopupData = function (response) {
       console.log("response", response)
       let _popupData = cachePopupData(response);
-      vAPI.messaging.send(
-        'adnauseam', {
-        what: 'adsForPage',
-        tabId: _popupData.tabId
-      }).then(details => {
-        console.log("details", details)
-        renderPage(details);
-      })
+      
+      // UI polling fallback for SW cold-start race condition
+      // Use native chrome.runtime.sendMessage for direct bypass
+      const fetchAdsForPage = (retryCount = 0) => {
+        console.log('[ADN-TRACE] [UI] Direct dialing background via native chrome.runtime...');
+        chrome.runtime.sendMessage({ msg: 'adnGetAds' }, (response) => {
+            if (chrome.runtime.lastError) {
+                console.error('[ADN-TRACE] [UI] Native message failed:', chrome.runtime.lastError);
+                // Fallback retry logic
+                if (retryCount === 0) {
+                    console.log("[ADN-TRACE] [UI] Retrying via vAPI after native failed...");
+                    vAPI.messaging.send('adnauseam', {
+                        what: 'adsForPage',
+                        tabId: _popupData.tabId
+                    }).then(details => {
+                        console.log("[ADN-TRACE] [UI] vAPI fallback response:", details);
+                        renderPage(details);
+                    });
+                } else {
+                    renderPage(null);
+                }
+            } else {
+                console.log('[ADN-TRACE] [UI] Native response received:', response, "retry:", retryCount);
+                // Wrap response in the format expected by renderPage
+                const wrapped = response ? { data: response } : null;
+                if ((!response || response.length === 0) && retryCount === 0) {
+                    console.log("[ADN-TRACE] [UI] Received empty. SW likely cold. Retrying in 150ms...");
+                    setTimeout(() => fetchAdsForPage(retryCount + 1), 150);
+                } else {
+                    renderPage(wrapped);
+                }
+            }
+        });
+      };
+      
+      fetchAdsForPage();
     };
 
     vAPI.messaging.send(
@@ -470,7 +515,27 @@ import { broadcast, onBroadcast } from '../broadcast.js';
 
   // check if current page/domain is on strictBlockList
   const getIsStrictBlocked = function () {
-    return popupData.strictBlocked
+    // Use messaging to get strict blocked status directly from pageStore
+    console.log("[ADN] getIsStrictBlocked: tabId =", popupData.tabId);
+    return new Promise((resolve) => {
+      vAPI.messaging.send(
+        'adnauseam', {
+        what: 'getStrictBlocked',
+        tabId: popupData.tabId
+      }).then(response => {
+        console.log("[ADN] getStrictBlocked: response =", response);
+        resolve(response === true);
+      }).catch(err => {
+        console.log("[ADN] getStrictBlocked: error =", err);
+        resolve(false);
+      });
+    });
+  }
+  
+  // Sync wrapper for use in non-async contexts
+  const getIsStrictBlockedSync = function () {
+    // If popupData has strictBlocked, use it as fallback
+    return popupData.strictBlocked || false;
   }
 
   /******************************************************************************/
@@ -490,10 +555,10 @@ import { broadcast, onBroadcast } from '../broadcast.js';
     hostnameToSortableTokenMap = {};
     
     // implement colorBlind style
-    colorBlindMode = data.colorBlindFriendly || false;
+    colorBlindMode = (data && data.colorBlindFriendly) || false;
     document.documentElement.classList.toggle(
       'colorBlind',
-      data.colorBlindFriendly === true
+      colorBlindMode === true
     );
 
     if (typeof data !== 'object') {
@@ -696,8 +761,18 @@ import { broadcast, onBroadcast } from '../broadcast.js';
 
   // when changing "page" and "domain" scope from the popup menu on the "disable button" 
   const onChangeDisabledScope = function (evt) {
-    // check if url is domain home
-    let url = new URL(popupData.pageURL)
+    // URL constructor guard - prevent crash on null/invalid pageUrl
+    let url;
+    try {
+        if (popupData.pageURL && typeof popupData.pageURL === 'string' && popupData.pageURL.trim()) {
+            url = new URL(popupData.pageURL);
+        } else {
+            url = { hostname: '' };
+        }
+    } catch(e) {
+        console.warn('[ADN] onChangeDisabledScope: Invalid popupData.pageURL:', popupData.pageURL);
+        url = { hostname: '' };
+    }
     // let isDomainHome = url.pathname === '/' || url.pathname === '/index.html' || url.pathname === '/index.php'
     var scope = uDom(".disable_type_radio:checked") ? uDom(".disable_type_radio:checked").val() : ''
     // first remove previous whichever previous scope from whitelist 
@@ -734,7 +809,18 @@ import { broadcast, onBroadcast } from '../broadcast.js';
       return;
     }
     uDom('#main').toggleClass('disabled', !state)
-    let url = new URL(popupData.pageURL)
+    // URL constructor guard - prevent crash on null/invalid pageUrl
+    let url;
+    try {
+        if (popupData.pageURL && typeof popupData.pageURL === 'string' && popupData.pageURL.trim()) {
+            url = new URL(popupData.pageURL);
+        } else {
+            url = { pathname: '' };
+        }
+    } catch(e) {
+        console.warn('[ADN] toggleEnabled: Invalid popupData.pageURL:', popupData.pageURL);
+        url = { pathname: '' };
+    }
     let isDomainHome = url.pathname === '/' || url.pathname === '/index.html' || url.pathname === '/index.php'
     vAPI.messaging.send(
       'adnauseam', {

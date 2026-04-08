@@ -1,0 +1,452 @@
+[
+  {
+    "condition": {
+      "urlFilter": "||inn.co.il/leads/view/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 81
+  },
+  {
+    "condition": {
+      "urlFilter": "&utm_id=aruts7|",
+      "initiatorDomains": [
+        "inn.co.il"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 82
+  },
+  {
+    "condition": {
+      "urlFilter": "||kipa.co.il/minisites/go.asp"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 83
+  },
+  {
+    "condition": {
+      "urlFilter": "||landing.kipa.co.il/?id="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 84
+  },
+  {
+    "condition": {
+      "urlFilter": "||banners.news1.co.il^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 85
+  },
+  {
+    "condition": {
+      "urlFilter": "||campaign.*.co.il^",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 112
+  },
+  {
+    "condition": {
+      "urlFilter": "||campaigns.*.co.il^",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 113
+  },
+  {
+    "condition": {
+      "urlFilter": "||dcampaigns.*.co.il^",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 114
+  },
+  {
+    "condition": {
+      "urlFilter": "||hadartal.com/slim/*?ref=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 115
+  },
+  {
+    "condition": {
+      "urlFilter": "||zbeng.co.il/landing",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 116
+  },
+  {
+    "condition": {
+      "urlFilter": ".php?d=",
+      "initiatorDomains": [
+        "walla.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 117
+  },
+  {
+    "condition": {
+      "urlFilter": ".php?dst=",
+      "initiatorDomains": [
+        "walla.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 118
+  },
+  {
+    "condition": {
+      "urlFilter": ".php?url=",
+      "initiatorDomains": [
+        "walla.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 119
+  },
+  {
+    "condition": {
+      "urlFilter": "||doubleclick.net^",
+      "initiatorDomains": [
+        "mako.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 120
+  },
+  {
+    "condition": {
+      "urlFilter": "||leads.tips^",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 121
+  },
+  {
+    "condition": {
+      "urlFilter": "&type=pop|",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 122
+  },
+  {
+    "condition": {
+      "urlFilter": "&utm_campaign=",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 123
+  },
+  {
+    "condition": {
+      "urlFilter": "&utm_content=popup&",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 124
+  },
+  {
+    "condition": {
+      "urlFilter": "&utm_medium=banner&",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 125
+  },
+  {
+    "condition": {
+      "urlFilter": "/campaigns.",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 126
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "urlFilter": "/landpage.*?utm_",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 127
+  },
+  {
+    "condition": {
+      "urlFilter": "/leads.",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 128
+  },
+  {
+    "condition": {
+      "urlFilter": "/leads/",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 129
+  },
+  {
+    "condition": {
+      "urlFilter": "?ref=",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 130
+  },
+  {
+    "condition": {
+      "urlFilter": "?utm_source=banner&",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 131
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "isramedia.net"
+      ],
+      "urlFilter": "||rover.ebay.com/rover/*&campid=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 132
+  },
+  {
+    "condition": {
+      "urlFilter": "||advsnx.net^",
+      "initiatorDomains": [
+        "0404.co.il",
+        "13news.co.il",
+        "13tv.co.il",
+        "calcalist.co.il",
+        "globes.co.il",
+        "inn.co.il",
+        "mako.co.il",
+        "tapuz.co.il",
+        "walla.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 133
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "1kdailyprofit.co",
+        "213.8.137.51",
+        "3dfuckdoll.com",
+        "activated.digital",
+        "adland.co.il",
+        "adson.biz",
+        "adsturn.com",
+        "adventuredigital.co.il",
+        "afaktrio.com",
+        "anetkin.biz",
+        "anetkin.co.il",
+        "anetkin.org",
+        "asakimerp.co.il",
+        "ashleymadison.com",
+        "ashleyrnadison.com",
+        "azadv.co.il",
+        "best-offers.co.il",
+        "big-shot.co.il",
+        "blanco-adv.co.il",
+        "bogdot.co.il",
+        "browsergames2018.com",
+        "cglms.com",
+        "clickon.co.il",
+        "clmbtrk.com",
+        "com-cloud.co",
+        "date-il.com",
+        "dateszone.net",
+        "eb.anastasiadate.com",
+        "etrader.co.il",
+        "fbookisrael.com",
+        "fcukgirls.net",
+        "findyourlovemate.com",
+        "freehookup.link",
+        "gilorly.leadpages.co",
+        "gim.co.il",
+        "gin.co.il",
+        "gitam.co.il",
+        "gnsdigital.co.il",
+        "hekeroyot.com",
+        "hookupsonline.com",
+        "hotdate.co.il",
+        "ihct.mx",
+        "imitrk.com",
+        "ineed2fuck.com",
+        "landing-page.mobi",
+        "lastpage.pw",
+        "layer.co.il",
+        "like-it.co.il",
+        "losittooday.info",
+        "makelove.co.il",
+        "mashrokit.info",
+        "medical-rights.co.il",
+        "meet-nowhere12.com",
+        "mini-sites.net",
+        "mitbahon.co.il",
+        "namesakeoscilloscopemarquis.com",
+        "oceanmedia.co.il",
+        "offers-land.com",
+        "ok-server.co.il",
+        "online-offer.co.il",
+        "onlineproxyfree.com",
+        "only2date.com",
+        "osef.co.il",
+        "padv.co.il",
+        "perfectpro.co.il",
+        "pigment-adv.co.il",
+        "pisrael.com",
+        "premium-offers.space",
+        "quick-date.xyz",
+        "rateonclick.com",
+        "reimageplus.com",
+        "sekindo.com",
+        "sex-party.co.il",
+        "sexdating123.com",
+        "streamin.to",
+        "tld.walla.co.il",
+        "tracknotify.com",
+        "trustmedia.co.il",
+        "unbouncepages.com",
+        "webteam.co.il",
+        "wee.co.il",
+        "wesell.co.il",
+        "winnerspinz.com",
+        "yazizim.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 134
+  }
+]

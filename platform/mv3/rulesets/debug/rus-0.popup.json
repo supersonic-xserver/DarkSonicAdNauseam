@@ -1,0 +1,3302 @@
+[
+  {
+    "condition": {
+      "urlFilter": "||lets-play.tv/_/branding"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3721
+  },
+  {
+    "condition": {
+      "urlFilter": "//uno.*/?t="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3952
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "104.198.76.219",
+        "12place.com",
+        "130.211.212.60",
+        "1740f665a91b68.com",
+        "176.114.0.131",
+        "1k-shop.ru",
+        "1xikk.world",
+        "1xool.world",
+        "24onlinesmi.net",
+        "35.184.188.211",
+        "42eed1a0d9c129.com",
+        "46kdc235eh.com",
+        "4allclick.ru",
+        "602d76e204c032.com",
+        "777-888.ru",
+        "aabd.ru",
+        "abourselfi.com",
+        "academyun.ru",
+        "act-news.com",
+        "adfill.me",
+        "adiabetic.ru",
+        "ads.bid",
+        "adservone.com",
+        "adtrak.org",
+        "advertclick.ru",
+        "advtracker.ru",
+        "affiliate.wow-partners.com",
+        "afftraff.net",
+        "aftevap.ru",
+        "aj1907.online",
+        "aj2738.top",
+        "allblog24.ru",
+        "allsmi.ru.com",
+        "ant-top.ru",
+        "anti-gemorroy.com",
+        "apicloud.ru",
+        "apycomm.com",
+        "apyecom.com",
+        "art-family.pro",
+        "artdemon.ru",
+        "artmaxim.ru",
+        "astaninki2.com",
+        "astrack.ru",
+        "avtozapchastivazlanos.ru",
+        "ayauaqatyx.xyz",
+        "baiduccdn.com",
+        "baiduccdn.org",
+        "baiduccdn1.com",
+        "baiducdn.org",
+        "bajvt.com",
+        "banner.mob.ru.com",
+        "baz-tor.com",
+        "besplodstop.ru",
+        "best-binary.site",
+        "bilderfest.ru",
+        "binarniks.ru",
+        "bitpit.xyz",
+        "blinkogold.ru",
+        "blogfest.ru",
+        "blogifeed.com",
+        "blogistars.com",
+        "blogistarts.com",
+        "blogo-sfera.org",
+        "blogofest.com",
+        "blogs-new.ru",
+        "blogs-peoples.com",
+        "blogs-shop.org",
+        "blogs-stars.org",
+        "blogshop.org",
+        "blogss-stars.org",
+        "blozggerz.com",
+        "bonsport.ru",
+        "bonus2u.ru",
+        "braun634.com",
+        "brndrm.com",
+        "browser-ru.site",
+        "burlyblogs.com",
+        "bussters.com",
+        "buyfordreams.ru",
+        "bvddfghxdsfd.top",
+        "c9wap.com",
+        "callmebadguy.press",
+        "chain-reaction-pro.com",
+        "chaplingames.ru",
+        "cifaceg.gos-arhiv.ru",
+        "click-gate.ru",
+        "click1-clo.ru",
+        "click2bit.net",
+        "click2soft.ru",
+        "clickganic.com",
+        "clickov.com",
+        "cliclo-gateway.ru",
+        "cliclo-useraction.ru",
+        "clkdaly.com",
+        "club-sale.ru",
+        "clubrelaxxxx.com",
+        "cobrax.ru",
+        "code.directadvert.ru",
+        "commerce.ua",
+        "comoestaschuvak.online",
+        "contactsin.mobi",
+        "content.directadvert.ru",
+        "cooldeal.by",
+        "corntire.com",
+        "covivado.club",
+        "cozibaneco.com",
+        "cpa1.xyz",
+        "cpaggetti.com",
+        "cpagoods.ru",
+        "cpl11.ru",
+        "crazynews.ru.com",
+        "credishe.com",
+        "creofive.com",
+        "cs-serva.net",
+        "d7921da5d4c24.com",
+        "daayenetra.ml",
+        "dafeb.ru",
+        "dagecisaxeze.cf",
+        "dailyblogzz.com",
+        "devochki.cz",
+        "diallyblogs.com",
+        "dididzroxa.ml",
+        "dionisum.com",
+        "dlyazdorovia.ru",
+        "dnevni4ok.com",
+        "dobhot.com",
+        "doctortrust.me",
+        "domautraffika.com",
+        "dominantroute.com",
+        "download.studio",
+        "downloadamigo.com",
+        "downloadbrowserweek.com",
+        "downloadfiletorrent.ru",
+        "driverpack.io",
+        "driverpaksolution.ru",
+        "drp.su",
+        "dugtor-deer.pw",
+        "dxasracer.bid",
+        "dyshagi.ru",
+        "eknq.ru",
+        "electbloger.com",
+        "elementsbrowser.com",
+        "erehhee.site",
+        "ero-spinula.ru",
+        "erobestvideo.ru",
+        "ertovy.ru",
+        "et-code.ru",
+        "et-land.xyz",
+        "etarg.network",
+        "etojackpot.com",
+        "etonews.ru",
+        "etonovosti.net",
+        "everinform.com",
+        "ex.24smi.info",
+        "exilelink.com",
+        "exonews.ru",
+        "exponderle.pro",
+        "extlinka.ru",
+        "fast2click.ru",
+        "fastmoment.ru",
+        "fastvk.com",
+        "file-downloader.ru",
+        "filebase.me",
+        "filetaker.ru",
+        "films.ws",
+        "fin-vector.ru",
+        "finetrack.ru",
+        "finsotins.com",
+        "flashcdn.net",
+        "flebolab.ru",
+        "fly-shops.ru",
+        "flylinks.pw",
+        "fortedrow.pro",
+        "fortsould.pro",
+        "freshtds.club",
+        "fsb-russia.dtdns.net",
+        "ftpglst.com",
+        "funtest-ru.com",
+        "g17ie3l1k7iarm.ru",
+        "gameinstaller.ru",
+        "gameloft.name",
+        "gamerulet.ru",
+        "gamezonenews.net",
+        "gateway-cliclo.ru",
+        "gateway.clickscloud.net",
+        "gemoroy-stop.biz",
+        "gerterthrth.pro",
+        "get-news.net",
+        "getappwiz.ru",
+        "getappwizard.ru",
+        "getdstud.io",
+        "getdstudio.cab",
+        "getdstudio.com",
+        "getdstudio.dev",
+        "getfiletds.ru",
+        "getsfiler.ru",
+        "gettraf.com",
+        "gglead.net",
+        "gglead.org",
+        "girlieturtle.com",
+        "glance-news.com",
+        "glavnyenovosti.ru",
+        "globalstylis.ru",
+        "go.sellaction.net",
+        "go.trafking.ru",
+        "go2lead.net",
+        "gobylink.info",
+        "gocdn.ru",
+        "gokliks.ru",
+        "golden-playing.com",
+        "gomakemerich1.com",
+        "gomakemerich2.com",
+        "goods-story.ru",
+        "goodsbrowser.com",
+        "goodsshake.com",
+        "goodtds.com",
+        "goodtrack.ru",
+        "gotbest.by",
+        "gotostat.ru",
+        "grauts.ru",
+        "hablababla.club",
+        "hanata.pp.ua",
+        "harovar.com",
+        "health-official.com",
+        "health-official.ru",
+        "healthofficial.ru",
+        "higidratracker.ru",
+        "hod-za.com",
+        "horovar.com",
+        "hot-news-bloggers.ru",
+        "idealmedia.io",
+        "igetsend.ru",
+        "igrok.rocks",
+        "imwhite-ru",
+        "imwhite.ru",
+        "infoboom.life",
+        "infomix.best",
+        "installpack.net",
+        "intoxic.biz",
+        "invavet.ru",
+        "jarvispopsu.com",
+        "jerwested.info",
+        "joneself.com",
+        "k39a56csgj.com",
+        "kachkachi.cf",
+        "kachkachi.ga",
+        "kachkachi.gq",
+        "kachkachi.ml",
+        "kachkachi.tk",
+        "katalog-stroyka.ru",
+        "katuhus.com",
+        "kcpatrack.ru",
+        "kib-zer.com",
+        "kibzer.com",
+        "kim-di.com",
+        "kimagramratom.tk",
+        "kinemathek.ru",
+        "kmabiz.org",
+        "kodielinktrust.ru",
+        "koolmediaoffers.com",
+        "kosmo.link",
+        "kotofotto.ru",
+        "kshop.biz",
+        "kshop2.biz",
+        "kum-du.com",
+        "kupitraf.com",
+        "kuveres.com",
+        "l0iwe39iikh34bc0.ru",
+        "landings.letitstars.com",
+        "leadassets.net",
+        "lepubs.com",
+        "lifebloggersz.ru",
+        "lifenewblog.ru",
+        "lifeonblog.com",
+        "liferead.ru",
+        "lightcoffee.ru",
+        "like-shop24.ru",
+        "like-th.ru",
+        "link-fes.ru",
+        "link2you.ru",
+        "linkmyc.com",
+        "linksoftbox.ru",
+        "linoleictanzaniatitanic.com",
+        "litebrowser.ru",
+        "live-smi.ru",
+        "livebloggs.com",
+        "liveeblog.ru",
+        "loadbookvo.ru",
+        "loader-file.ru",
+        "loader-tor.ru",
+        "losnews.ru",
+        "lotto770.com",
+        "luckiestclick.com",
+        "lucky-blogs.ru",
+        "luxup.ru",
+        "m0g24.ru",
+        "m1cpl.ru",
+        "magariusaqmuri.cf",
+        "magnet-ball.com",
+        "mainrusnews.info",
+        "mallplg.com",
+        "mar47236524926.ru",
+        "marketgid.ru",
+        "mchostings.ru",
+        "medblog.online",
+        "medicin-novosti-24.com",
+        "medicineteaser.org",
+        "medicineteaser.ru",
+        "medinses.ru",
+        "meendo.com",
+        "mesvip.com",
+        "mfatallp.com",
+        "mfmfsfsfifmsmmssssfsffmmifsfi.online",
+        "mixgoods.com",
+        "mlksis.com",
+        "mobilecontents.mobi",
+        "moi-goroskop.com",
+        "money4leads.biz",
+        "morelnk.ru",
+        "mosblog24.ru",
+        "msetup.pro",
+        "mxttrf.com",
+        "my-eromir.net",
+        "my-games-online.ru",
+        "mycultures.ru",
+        "myoctotracker.com",
+        "mytrack.info",
+        "mytrk.xyz",
+        "mytvblogs.ru",
+        "n282adserv.com",
+        "n283adserv.com",
+        "n284adserv.com",
+        "nalivali.ru",
+        "napravil.ru",
+        "naroda-blog.com",
+        "narodnii-sovet.com",
+        "nephritish.com",
+        "new-glance.com",
+        "new-rutor.eu",
+        "new-rutor.eu.org",
+        "new-rutor.pp.ua",
+        "newdomnow.ru",
+        "newmed24.ru",
+        "news-are.com",
+        "news-bc.ru",
+        "news-decent.com",
+        "news-earth.com",
+        "news-glance.com",
+        "news-sphere.com",
+        "news24-24.ru",
+        "newseer.net",
+        "newsepads.com",
+        "newsfabric.ru",
+        "newsma.ru",
+        "nickhel.com",
+        "nnm-club.eu",
+        "normalexchange.com",
+        "novosti-online.ga",
+        "novosti10.ru",
+        "novosti3.ru",
+        "novosticenter.ru",
+        "novostidlyavas.ru.com",
+        "nushegvchamet.ml",
+        "nutmore.com",
+        "oblivki-news.ru",
+        "oconner.biz",
+        "oconner.link",
+        "octomarket.com",
+        "offergate.pro",
+        "offhealth.ru",
+        "offsbst.ru",
+        "oficinadafesta.com",
+        "ognivo-nwes.ru",
+        "ognivonews.ru",
+        "ognyvo.ru",
+        "ojvodom.info",
+        "omnictr.ru",
+        "omnilike.ru",
+        "omnitest.xyz",
+        "omnivin.ru",
+        "only-new.com",
+        "orgsales.ru",
+        "otrek.ru",
+        "otvetes.com",
+        "panel.gemius.com.ua",
+        "parinamatch.ru",
+        "people-blog.org",
+        "people-blogs.org",
+        "peterfarley.net",
+        "peterjfarley.info",
+        "pin2me.com",
+        "plapl.ru",
+        "plaster-orto.com",
+        "plastir-hyperost.biz",
+        "playermailer.net",
+        "plusfind.info",
+        "pochistit.ru",
+        "pogodis.ru",
+        "poleznietovari.info",
+        "pop-bloggz.com",
+        "pop-blogs.com",
+        "pop-blogz.com",
+        "pop.sn00.net",
+        "popunderclick.com",
+        "portal-info.org",
+        "portal4.ru",
+        "power-braselet.ru",
+        "premiumredir.ru",
+        "problogrus.ru",
+        "producebreed.com",
+        "promo.advertlock.ru",
+        "propolis-shungit.biz",
+        "r.advg.agency",
+        "rambler.pw",
+        "rayzest.com",
+        "rcforme.biz",
+        "re-directme.com",
+        "readvesti.ru",
+        "real-blog.name",
+        "real-mind.com",
+        "realblog.biz",
+        "realblogs.biz",
+        "realblogs.info",
+        "realblogs.name",
+        "reallblog.info",
+        "reallblog.net",
+        "realmengames.com",
+        "reals-story.ru",
+        "redakter.ru",
+        "redirecturl.ru",
+        "redirnewsoft.ru",
+        "refpatig.xyz",
+        "regpole.com",
+        "reidancis.com",
+        "relaxmybody.ru",
+        "reserches.com",
+        "retagapp.com",
+        "retreid.pro",
+        "rightroundark.ru",
+        "rus-news.biz",
+        "rus-news.club",
+        "rusnews.biz",
+        "rusnewsclub.ru",
+        "rustoria-topnews.ru",
+        "rustoria.ru",
+        "rutor.eu.org",
+        "rutor.ml",
+        "rutorad.ru",
+        "rutorads.com",
+        "rutors.tk",
+        "rutracker.eu",
+        "ruttwind.com",
+        "rutvind.com",
+        "sandboxie.ru",
+        "sapmedia.ru",
+        "saymigren.net",
+        "sbiten.biz",
+        "sbornix.ru",
+        "sds012.xyz",
+        "sds112.xyz",
+        "sdsd11.ru",
+        "sdv-shop.ru",
+        "search-cdn.ru",
+        "searchlnk.ru",
+        "segodnia.club",
+        "segodnia.space",
+        "senokoss.biz",
+        "senokoss.net",
+        "sergey-mavrodi.com",
+        "sex-mambo.net",
+        "shakescash.com",
+        "shakesclick.com",
+        "shakesin.com",
+        "shakespoint.com",
+        "shakesspot.com",
+        "shock-news.net",
+        "shoko-slim.biz",
+        "shop-blogs.org",
+        "shopblog.org",
+        "ska4at.ru",
+        "slivz.com",
+        "smi-inform.ru",
+        "smi.fm",
+        "smi10.ru",
+        "smi2020.ru",
+        "smi2020.ru.com",
+        "smi24x7.com",
+        "smi2you.ru",
+        "smi4u.ru",
+        "smibooks.ru",
+        "smicenter.ml",
+        "smicenter.ru",
+        "smikitchen.ru",
+        "smiru.ru",
+        "socssite.ru",
+        "softboxik1.ru",
+        "softboxtds.ru",
+        "softovikget.ru",
+        "some-things.ru",
+        "spiderbig.info",
+        "starblog.org",
+        "starblogs.name",
+        "starcrowd.ru",
+        "static.dzeninfra.ru",
+        "stirshakead.com",
+        "stopvirus.link",
+        "su-ti.com",
+        "superfacts.ru",
+        "superiortds.ru",
+        "supernovosti.ru.com",
+        "supersmi.cf",
+        "supersmi.ga",
+        "supersmi.gq",
+        "survey.gemius.com.ua",
+        "sysenvfiles.net",
+        "t9dx3osd3b.com",
+        "tds-2.ru",
+        "tdsrotations.ru",
+        "tft-test.ru",
+        "thisclick.network",
+        "tipebixartbli.ml",
+        "tivinot.ru",
+        "tlmnt.com",
+        "tmredirects.com",
+        "tookfree.com",
+        "toolsins.com",
+        "top-rutor.eu",
+        "top-stores.ru",
+        "topclicks.club",
+        "topnews.smi.one",
+        "topnews2.ru",
+        "tops-blogs.ru",
+        "topsmi.ru.com",
+        "tor-file.ru",
+        "torr.mediaget.com",
+        "torrentum.ru",
+        "torvind.com",
+        "tovarzona.ru",
+        "tptrk.ru",
+        "track.adwad.ru",
+        "tracka58563945.com",
+        "tracka748161782.com",
+        "tracker.ha9.ru",
+        "tracker.ma-static.ru",
+        "trafmag.com",
+        "trafmax.ru",
+        "trampam.co",
+        "tranzitcash.ru",
+        "trapfleyb-bs.ru",
+        "trfmxt.com",
+        "trio-new.com",
+        "trk-1.com",
+        "trklp.ru",
+        "trtkp.ru",
+        "trtla.space",
+        "trustthedoctors.com",
+        "trwk.ru",
+        "tubecontext.com",
+        "tuclother.info",
+        "tvgoods.ru",
+        "tvks.ru",
+        "tvkw.ru",
+        "tvnotivi.ru",
+        "tvroff.net",
+        "twkv.ru",
+        "tzwk.ru",
+        "ubar-pro.ru",
+        "ubar-pro2.ru",
+        "ubar-pro3.ru",
+        "ubar-pro4.ru",
+        "ubar.pro",
+        "ufiler-pro.ru",
+        "ufiler-pro2.ru",
+        "ufiler.pro",
+        "ultrabit.ws",
+        "umgoods.com",
+        "upro.me",
+        "utorria.ru",
+        "vabloggs.biz",
+        "vacoou.info",
+        "vaivaishemeshinda.ml",
+        "velcome-club.com",
+        "video-for-all.ru",
+        "vincakrdzalosimasmoxvdes.ga",
+        "viniki.ru",
+        "votdengi.club",
+        "w-raza.com",
+        "waigettwini.ml",
+        "watchformytechstuff.com",
+        "webredir.net",
+        "welcomegames.net",
+        "wildmikky.com",
+        "winafterwin.com",
+        "winhunters.com",
+        "wixstats.com",
+        "wmactive.ru",
+        "wogoods.com",
+        "womens-journal.ru",
+        "work-vseti.com",
+        "worldinform.ru",
+        "x-uboino.net",
+        "x-uboino.ru",
+        "x-vulkan.net",
+        "xaxvixamanwka.tk",
+        "xn----ctblib1bagjll.xn--p1ai",
+        "xpicw.top",
+        "xtraffic.com.ru",
+        "ya-cdn.ru",
+        "ya-distrib.ru",
+        "ybjpvh.xyz",
+        "yfiles1.ru",
+        "you-go-go.ru",
+        "yourlnk.ru",
+        "yourmediaclub.org",
+        "z-yxabc.ru",
+        "zdravo-med.ru",
+        "zdravosite.ru",
+        "zetahit.click",
+        "zhit-zdorovo.com",
+        "zodiac-game.info",
+        "zpppstop.ru",
+        "zqwjpxow7boc.ru"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4526
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "176.114.0.126",
+        "176.114.0.132",
+        "37.220.36.15",
+        "assiatv.com",
+        "cdnpotok.com",
+        "cdntvpotok.com",
+        "freescreens.ru",
+        "imgbase.ru",
+        "imgcach.ru",
+        "imgclick.ru",
+        "kolikbolik.top",
+        "oneliketv.com",
+        "payforpic.ru",
+        "picclick.ru",
+        "picclock.ru",
+        "picforall.ru",
+        "protonvideo.to",
+        "telecdn.net",
+        "tv-assia.org"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4527
+  },
+  {
+    "condition": {
+      "urlFilter": "&utm_campaign=",
+      "initiatorDomains": [
+        "itc.ua",
+        "sc2tv.ru",
+        "www.film.ru"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4528
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "stratege.ru"
+      ],
+      "urlFilter": "/*utm_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4529
+  },
+  {
+    "condition": {
+      "urlFilter": "/go.php",
+      "initiatorDomains": [
+        "piratca.net"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4530
+  },
+  {
+    "condition": {
+      "urlFilter": "/redirect/cpa/",
+      "initiatorDomains": [
+        "rt02.ru"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4531
+  },
+  {
+    "condition": {
+      "urlFilter": "?partner=",
+      "initiatorDomains": [
+        "lifehacker.ru"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4532
+  },
+  {
+    "condition": {
+      "urlFilter": "|http://li.ru/go?",
+      "initiatorDomains": [
+        "fishki.net"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4533
+  },
+  {
+    "condition": {
+      "urlFilter": "||catcut.net^",
+      "initiatorDomains": [
+        "mobile-4at-obshenie.chatovod.ru",
+        "mobile-chat-obshenie.jimdo.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4534
+  },
+  {
+    "condition": {
+      "urlFilter": "||clck.ru^",
+      "initiatorDomains": [
+        "playground.ru"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4535
+  },
+  {
+    "condition": {
+      "urlFilter": "||com/?id=*&t=direct^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4536
+  },
+  {
+    "condition": {
+      "urlFilter": "||gemius.pl^",
+      "initiatorDomains": [
+        "terrikon.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4537
+  },
+  {
+    "condition": {
+      "urlFilter": "||getitbit.net/ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4538
+  },
+  {
+    "condition": {
+      "urlFilter": "||goo.gl^",
+      "initiatorDomains": [
+        "gamegpu.com",
+        "vsofte.biz"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4539
+  },
+  {
+    "condition": {
+      "urlFilter": "||joker.win/*&offer_id="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4540
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.acestream.*/plan/select?popup=noads"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4541
+  },
+  {
+    "condition": {
+      "urlFilter": "||mama.land^",
+      "initiatorDomains": [
+        "comments.ua"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4542
+  },
+  {
+    "condition": {
+      "urlFilter": "||market.yandex.ru^",
+      "initiatorDomains": [
+        "cq.ru"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4543
+  },
+  {
+    "condition": {
+      "urlFilter": "||motorpage.ru/click/",
+      "initiatorDomains": [
+        "motorpage.ru"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4544
+  },
+  {
+    "condition": {
+      "urlFilter": "||namba.kg^",
+      "initiatorDomains": [
+        "namba.kg"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4545
+  },
+  {
+    "condition": {
+      "urlFilter": "||namba.tj^",
+      "initiatorDomains": [
+        "namba.tj"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4546
+  },
+  {
+    "condition": {
+      "urlFilter": "||onelink.me^",
+      "initiatorDomains": [
+        "2ip.io",
+        "2ip.ru",
+        "2ip.ua"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4547
+  },
+  {
+    "condition": {
+      "urlFilter": "||special.playground.info/haval"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4548
+  },
+  {
+    "condition": {
+      "urlFilter": "||topofgames.com^*?path="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4549
+  },
+  {
+    "condition": {
+      "urlFilter": "||trashbox.ru/r.php?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4550
+  },
+  {
+    "condition": {
+      "urlFilter": "||tv.acestream.org/p/?q="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4551
+  },
+  {
+    "condition": {
+      "urlFilter": "||tvua.biz/clictv"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4552
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.goha.ru/~",
+      "initiatorDomains": [
+        "www.goha.ru"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4553
+  },
+  {
+    "condition": {
+      "urlFilter": "&ad.trans.id=*utm_campaign%"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4554
+  },
+  {
+    "condition": {
+      "urlFilter": "&cp.*&key=*&tz"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4555
+  },
+  {
+    "condition": {
+      "urlFilter": "&cp.*&tz*&key="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4556
+  },
+  {
+    "condition": {
+      "urlFilter": "&cp.*=*&key="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4557
+  },
+  {
+    "condition": {
+      "urlFilter": "&key=*&cp*&tz"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4558
+  },
+  {
+    "condition": {
+      "urlFilter": "&key=*&tz*&cp."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4559
+  },
+  {
+    "condition": {
+      "urlFilter": "&key=*=true&tz="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4560
+  },
+  {
+    "condition": {
+      "urlFilter": "&temz=clikundr&"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4561
+  },
+  {
+    "condition": {
+      "urlFilter": "&tz=*&key="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4562
+  },
+  {
+    "condition": {
+      "urlFilter": "&utm_campaign=cu_ru"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4563
+  },
+  {
+    "condition": {
+      "urlFilter": ".clickunder."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4564
+  },
+  {
+    "condition": {
+      "urlFilter": ".webunder."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4565
+  },
+  {
+    "condition": {
+      "urlFilter": ".yandex.*banerid"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4566
+  },
+  {
+    "condition": {
+      "urlFilter": "/*.mtblocked="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4567
+  },
+  {
+    "condition": {
+      "urlFilter": "/*?teaser_id=*&site_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4568
+  },
+  {
+    "condition": {
+      "urlFilter": "//kpup.*/?sid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4569
+  },
+  {
+    "condition": {
+      "urlFilter": "/?utm_medium*&click_id="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4570
+  },
+  {
+    "condition": {
+      "urlFilter": "/ad/popup/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4571
+  },
+  {
+    "condition": {
+      "urlFilter": "/adv_clk_redirect.php?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4572
+  },
+  {
+    "condition": {
+      "urlFilter": "/bens/vinos.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4573
+  },
+  {
+    "condition": {
+      "urlFilter": "/click/body.php?id=*&hash="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4574
+  },
+  {
+    "condition": {
+      "urlFilter": "/clicks/*==.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4575
+  },
+  {
+    "condition": {
+      "urlFilter": "/code/click.php?id="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4576
+  },
+  {
+    "condition": {
+      "urlFilter": "/fcgi-bin/dispatch.fcgi?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4577
+  },
+  {
+    "condition": {
+      "urlFilter": "/in.htm?wm="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4578
+  },
+  {
+    "condition": {
+      "urlFilter": "/jumpclick?i=bannerkey_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4579
+  },
+  {
+    "condition": {
+      "urlFilter": "/popads."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4580
+  },
+  {
+    "condition": {
+      "urlFilter": "/popads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4581
+  },
+  {
+    "condition": {
+      "urlFilter": "/popua/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4582
+  },
+  {
+    "condition": {
+      "urlFilter": "/popupclick/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4583
+  },
+  {
+    "condition": {
+      "urlFilter": "/propeller_ou.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4584
+  },
+  {
+    "condition": {
+      "urlFilter": "/propeller_out.php"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4585
+  },
+  {
+    "condition": {
+      "urlFilter": "/utarget."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4586
+  },
+  {
+    "condition": {
+      "urlFilter": "/vkshpion/?page="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4587
+  },
+  {
+    "condition": {
+      "urlFilter": "/webunder."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4588
+  },
+  {
+    "condition": {
+      "urlFilter": "/wtsin.cgi?id="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4589
+  },
+  {
+    "condition": {
+      "urlFilter": "=propellerads"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4590
+  },
+  {
+    "condition": {
+      "urlFilter": "=recreativ&utm_medium="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4591
+  },
+  {
+    "condition": {
+      "urlFilter": "=tovarro&utm_campaign="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4592
+  },
+  {
+    "condition": {
+      "urlFilter": "^clickunder^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4593
+  },
+  {
+    "condition": {
+      "urlFilter": "|http://*cp.mtblock=true&tz"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4594
+  },
+  {
+    "condition": {
+      "urlFilter": "||r0.mail.ru/redir/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4595
+  },
+  {
+    "condition": {
+      "urlFilter": "||z.cdn.*.com/load?*&random="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4596
+  },
+  {
+    "condition": {
+      "urlFilter": "||z.cdn.*.com/load?*=*=*=*="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4597
+  },
+  {
+    "condition": {
+      "urlFilter": "||z.cdn.*.xyz/load?*&random="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4598
+  },
+  {
+    "condition": {
+      "urlFilter": ".tnt-online.ru/?utm_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4599
+  },
+  {
+    "condition": {
+      "urlFilter": "/gateway/ahr0c"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4600
+  },
+  {
+    "condition": {
+      "regexFilter": "rlink\\/simptizer"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4601
+  },
+  {
+    "condition": {
+      "regexFilter": "rlink\\/textblock"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4602
+  },
+  {
+    "condition": {
+      "urlFilter": "||24parik.*?adtag="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4603
+  },
+  {
+    "condition": {
+      "urlFilter": "||24parik.*?creative_id="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4604
+  },
+  {
+    "condition": {
+      "urlFilter": "||adspynet.com/reference?pid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4605
+  },
+  {
+    "condition": {
+      "urlFilter": "||an.yandex.ru/count/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4606
+  },
+  {
+    "condition": {
+      "urlFilter": "||apb-re.ru/?pid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4607
+  },
+  {
+    "condition": {
+      "urlFilter": "||apygame.com/click"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4608
+  },
+  {
+    "condition": {
+      "urlFilter": "||blamper-news.ru/getaway/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4609
+  },
+  {
+    "condition": {
+      "urlFilter": "||bubblesmedia.ru/gocu/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4610
+  },
+  {
+    "condition": {
+      "urlFilter": "||clickson.net^*/pp/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4611
+  },
+  {
+    "condition": {
+      "urlFilter": "||com/go.php?tid=*&hid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4612
+  },
+  {
+    "condition": {
+      "urlFilter": "||com/on.php?id="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4613
+  },
+  {
+    "condition": {
+      "urlFilter": "||crusewind.net/click/direct.php?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4614
+  },
+  {
+    "condition": {
+      "urlFilter": "||drako.ru/refredirect"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4615
+  },
+  {
+    "condition": {
+      "urlFilter": "||earnshill.com/images/sp/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4616
+  },
+  {
+    "condition": {
+      "urlFilter": "||hapend.biz/thread"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4617
+  },
+  {
+    "condition": {
+      "urlFilter": "||hghit.com/direct?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4618
+  },
+  {
+    "condition": {
+      "urlFilter": "||igrohit.net/goto."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4619
+  },
+  {
+    "condition": {
+      "urlFilter": "||ipchecker.ru/?id="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4620
+  },
+  {
+    "condition": {
+      "urlFilter": "||mixadvert.com/go/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4621
+  },
+  {
+    "condition": {
+      "urlFilter": "||olimp.bet/promo/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4622
+  },
+  {
+    "condition": {
+      "urlFilter": "||parik24.*?adtag="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4623
+  },
+  {
+    "condition": {
+      "urlFilter": "||parik24.*?creative_id="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4624
+  },
+  {
+    "condition": {
+      "urlFilter": "||peel-down.net/search.php?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4625
+  },
+  {
+    "condition": {
+      "urlFilter": "||reklamka.ru.net/go?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4626
+  },
+  {
+    "condition": {
+      "urlFilter": "||ruclicks.com/in/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4627
+  },
+  {
+    "condition": {
+      "urlFilter": "||s.click.aliexpress.com^",
+      "initiatorDomains": [
+        "allday2.xyz",
+        "qiqru.xyz"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4628
+  },
+  {
+    "condition": {
+      "urlFilter": "||silvercube12.xyz/dispatch?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4629
+  },
+  {
+    "condition": {
+      "urlFilter": "||sub2.bubblesmedia."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4630
+  },
+  {
+    "condition": {
+      "urlFilter": "||teamearn.ru/open/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4631
+  },
+  {
+    "condition": {
+      "urlFilter": "||wap-jump.com/jump_redirect?id="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4632
+  },
+  {
+    "condition": {
+      "urlFilter": "||war.noc.su/?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4633
+  },
+  {
+    "condition": {
+      "urlFilter": "||webdiana.ru/click/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4634
+  },
+  {
+    "condition": {
+      "urlFilter": "||wow-partners.com/click.php^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4635
+  },
+  {
+    "condition": {
+      "urlFilter": "||yandes.biz/in.cgi?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4636
+  },
+  {
+    "condition": {
+      "urlFilter": "||yandex.ru/an/count/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4637
+  },
+  {
+    "condition": {
+      "urlFilter": "/blog_strijenko/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4638
+  },
+  {
+    "condition": {
+      "urlFilter": "||24click.*/top/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4639
+  },
+  {
+    "condition": {
+      "urlFilter": "||24smi-*/top/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4640
+  },
+  {
+    "condition": {
+      "urlFilter": "||24smi.*/top/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4641
+  },
+  {
+    "condition": {
+      "urlFilter": "||9donline.ru/welcome/?mita="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4642
+  },
+  {
+    "condition": {
+      "urlFilter": "||alvegia.ru/register_"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4643
+  },
+  {
+    "condition": {
+      "urlFilter": "||audance.ru*/promo/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4644
+  },
+  {
+    "condition": {
+      "urlFilter": "||carnage.ru^",
+      "excludedInitiatorDomains": [
+        "carnage.ru",
+        "karnage.ru",
+        "sesterce.ru"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4645
+  },
+  {
+    "condition": {
+      "urlFilter": "||casino-x.com/?partner="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4646
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdnet.tv/lockadb."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4647
+  },
+  {
+    "condition": {
+      "urlFilter": "||cpm.wargaming.net^",
+      "excludedInitiatorDomains": [
+        "112wot.ru",
+        "amx-cdc.ru",
+        "e100wot.ru",
+        "fcm50t.ru",
+        "lowewot.ru",
+        "playtanks.tv",
+        "tank.kz",
+        "tanki.su",
+        "tankist.net",
+        "wginvite.net",
+        "worldoftanks.ru",
+        "wot-kino.net",
+        "wot.com.ru"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4648
+  },
+  {
+    "condition": {
+      "urlFilter": "||crossout.net^*/play?r="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4649
+  },
+  {
+    "condition": {
+      "urlFilter": "||darkorbit.bigpoint.com/?aid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4650
+  },
+  {
+    "condition": {
+      "urlFilter": "||drtuber.com/embed/redirect?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4651
+  },
+  {
+    "condition": {
+      "urlFilter": "||fastpic.org/?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4652
+  },
+  {
+    "condition": {
+      "urlFilter": "||fastpic.ru/?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4653
+  },
+  {
+    "condition": {
+      "urlFilter": "||fotostrana.ru/start/*/?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4654
+  },
+  {
+    "condition": {
+      "urlFilter": "||gemius.pl/popupredir"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4655
+  },
+  {
+    "condition": {
+      "urlFilter": "||inet-dengi.net/?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4656
+  },
+  {
+    "condition": {
+      "urlFilter": "||legendworld.ru/ref/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4657
+  },
+  {
+    "condition": {
+      "urlFilter": "||loadru.ru/18/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4658
+  },
+  {
+    "condition": {
+      "urlFilter": "||lovecity3d.com/img/promo."
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4659
+  },
+  {
+    "condition": {
+      "urlFilter": "||mediaget.com/ld/get_installer.php?r="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4660
+  },
+  {
+    "condition": {
+      "urlFilter": "||partypoker.com^*/videopop/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4661
+  },
+  {
+    "condition": {
+      "urlFilter": "||pi-c.ru/go.php?id=*&rref="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4662
+  },
+  {
+    "condition": {
+      "urlFilter": "||pointblank.ru/?pid="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4663
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "rdr.lesta.ru",
+        "redir.lesta.ru"
+      ],
+      "excludedInitiatorDomains": [
+        "lesta.ru"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4664
+  },
+  {
+    "condition": {
+      "urlFilter": "||runetki.*&server="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4665
+  },
+  {
+    "condition": {
+      "urlFilter": "||runetki.com/random/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4666
+  },
+  {
+    "condition": {
+      "urlFilter": "||ruorange.org^",
+      "initiatorDomains": [
+        "freezpic.ru"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4667
+  },
+  {
+    "condition": {
+      "urlFilter": "||say.tv/?actionpay="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4668
+  },
+  {
+    "condition": {
+      "urlFilter": "||snailz.ru/promo/?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4669
+  },
+  {
+    "condition": {
+      "urlFilter": "||sub2.admitlead.ru/sb/clk"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4670
+  },
+  {
+    "condition": {
+      "urlFilter": "||tankionline.com/ru/play"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4671
+  },
+  {
+    "condition": {
+      "urlFilter": "||telamon*/tracker/?partner="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4672
+  },
+  {
+    "condition": {
+      "urlFilter": "||telamon.app^*offergate"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4673
+  },
+  {
+    "condition": {
+      "urlFilter": "||tlmnapp.com^*offergate"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4674
+  },
+  {
+    "condition": {
+      "urlFilter": "||tlmnclnr.com^*offergate"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4675
+  },
+  {
+    "condition": {
+      "urlFilter": "||travian.com.ua/landingpage/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4676
+  },
+  {
+    "condition": {
+      "urlFilter": "||tripadvisor.ru/pricefinderpopunder"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4677
+  },
+  {
+    "condition": {
+      "urlFilter": "||vulkan.site^*^goto="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4678
+  },
+  {
+    "condition": {
+      "urlFilter": "||wardogs.ru/lp?ref="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4679
+  },
+  {
+    "condition": {
+      "urlFilter": "||wargaming.net^*pub_id="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4680
+  },
+  {
+    "condition": {
+      "urlFilter": "||warthunder.ru^*/free_registration?r="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4681
+  },
+  {
+    "condition": {
+      "urlFilter": "||warthunder.ru^*/register-for-free?r="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4682
+  },
+  {
+    "condition": {
+      "urlFilter": "||webarbitrage.ru/?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4683
+  },
+  {
+    "condition": {
+      "urlFilter": "||worldoftanks.eu/play/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4684
+  },
+  {
+    "condition": {
+      "urlFilter": "||yapfiles.ru^*/rating_by_pop/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4685
+  },
+  {
+    "condition": {
+      "urlFilter": "||zzima.com^",
+      "excludedInitiatorDomains": [
+        "zzima.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4686
+  },
+  {
+    "condition": {
+      "urlFilter": "||yandex.net^*/weboffer/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4687
+  },
+  {
+    "condition": {
+      "urlFilter": ".infox.sg^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4688
+  },
+  {
+    "condition": {
+      "urlFilter": ".zhenskij-sajt-katerina.ru^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4689
+  },
+  {
+    "condition": {
+      "urlFilter": "||cosmolot24.com.ua/?refcode="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4690
+  },
+  {
+    "condition": {
+      "urlFilter": "||hlamer.ru/stargate?id="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4691
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "my.mail.ru"
+      ],
+      "urlFilter": "||r.mail.ru/*=videoplayer"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4692
+  },
+  {
+    "condition": {
+      "urlFilter": "||t.mail.ru/redir/",
+      "excludedInitiatorDomains": [
+        "e.mail.ru"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4693
+  },
+  {
+    "condition": {
+      "urlFilter": "=mytarget",
+      "initiatorDomains": [
+        "dzen.ru"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4694
+  },
+  {
+    "condition": {
+      "urlFilter": "||t.mail.ru/redir/",
+      "initiatorDomains": [
+        "dzen.ru"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4695
+  },
+  {
+    "condition": {
+      "urlFilter": "||1xstavka.ru^",
+      "excludedInitiatorDomains": [
+        "betunion24.ru",
+        "stavka.ru"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4696
+  },
+  {
+    "condition": {
+      "urlFilter": "||ru/apoint/load?*&random="
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4697
+  },
+  {
+    "condition": {
+      "urlFilter": "||help.mail.ru/mail/faq/adblock",
+      "domainType": "firstParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4742
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "a2g-secure.com",
+        "actionpay.net",
+        "ad.adriver.ru",
+        "adsmedia-provider.com",
+        "advert-content.com",
+        "advjump.com",
+        "advtise.net",
+        "aff-ads.com",
+        "affsnetwork.com",
+        "amigo-biz.ru",
+        "arbxtrack.com",
+        "artluch.ru",
+        "astdn.com",
+        "astdn.ru",
+        "baztors.com",
+        "bigleads.ru",
+        "cashgift.club",
+        "cbn.tbn.ru",
+        "club-vullkan.com",
+        "cpagette.com",
+        "cpagettio.com",
+        "cpamatica.com",
+        "electblogers.com",
+        "eversmipro.ru",
+        "ext-load.net",
+        "fclmnews.ru",
+        "fineproxy.org",
+        "finevpn.org",
+        "gamesvid.go2cloud.org",
+        "gas-saver.org",
+        "geniosiz.com",
+        "getmyads24.com",
+        "gfsrv.net",
+        "hdmnm.link",
+        "health-q.ru",
+        "healthoffer.ru",
+        "hide.mn",
+        "hidemn.net",
+        "hidemn.org",
+        "hidemx.name",
+        "hidemy.io",
+        "hidemy.name",
+        "hidemyname.cc",
+        "hidemyname.info",
+        "hidemyname.net",
+        "installoffer.net",
+        "installred.ru",
+        "itpodol.ru",
+        "jchais.com",
+        "joy-cazino.com",
+        "jr-cdn.com",
+        "kinoserver.pro",
+        "lotsofslots.net",
+        "molot-tora.com",
+        "molot-toras.com",
+        "nutcpa.com",
+        "onclkds.com",
+        "porus.ru",
+        "proclick24.online",
+        "proxyelite.info",
+        "proxyshare.com",
+        "redichat.com",
+        "rikkobr.com",
+        "rubicom.xyz",
+        "russia-shop24.ru",
+        "sapato.ru",
+        "skiles.link",
+        "social-leads.ru",
+        "starinform.ru",
+        "storytop24.ru",
+        "tdsblogs.ru",
+        "test-studio.ru",
+        "thor-media.ru",
+        "titangel.me",
+        "track.sharkgames.com",
+        "ulogin.ru",
+        "universal-mat.com",
+        "universallnk.com",
+        "velcome-casino.com",
+        "velcome-slot-club.com",
+        "vezuha.me",
+        "vulkan.site",
+        "vulkan1.net",
+        "wwwapteka.info",
+        "yabrowser.su",
+        "yvok.ru"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5210
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "2ip.ru",
+        "biqle.org",
+        "biqle.ru"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5211
+  },
+  {
+    "condition": {
+      "urlFilter": "||otus.ru/*utm_",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5212
+  },
+  {
+    "condition": {
+      "urlFilter": "||xn-----xlcfvffioc4g.xn--p1ai/*utm_",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5213
+  },
+  {
+    "condition": {
+      "urlFilter": "--autotargeting&",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5214
+  },
+  {
+    "condition": {
+      "urlFilter": "/propeller.php",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5215
+  },
+  {
+    "condition": {
+      "urlFilter": "/ranging/*/click/|",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5216
+  },
+  {
+    "condition": {
+      "urlFilter": "=yandex*context_",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5217
+  },
+  {
+    "condition": {
+      "urlFilter": ".variti.ch^",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5218
+  },
+  {
+    "condition": {
+      "urlFilter": "||accountant/*rd.php?id=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5219
+  },
+  {
+    "condition": {
+      "urlFilter": "||apytrc.com/click",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5220
+  },
+  {
+    "condition": {
+      "urlFilter": "||bid/*rd.php?id=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5221
+  },
+  {
+    "condition": {
+      "urlFilter": "||cityadspix.com^",
+      "excludedInitiatorDomains": [
+        "cashalot.su",
+        "cashlot24.ru",
+        "creditkarm.ru"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5222
+  },
+  {
+    "condition": {
+      "urlFilter": "||cricket/*rd.php?id=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5223
+  },
+  {
+    "condition": {
+      "urlFilter": "||date/*rd.php?id=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5224
+  },
+  {
+    "condition": {
+      "urlFilter": "||directadvert.ru/click",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5225
+  },
+  {
+    "condition": {
+      "urlFilter": "||download/*rd.php?id=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5226
+  },
+  {
+    "condition": {
+      "urlFilter": "||leadadvert.ru/redirectnew.php^",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5227
+  },
+  {
+    "condition": {
+      "urlFilter": "||my.id/help/?",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5228
+  },
+  {
+    "condition": {
+      "urlFilter": "||ninjaworld.ru/ab",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5229
+  },
+  {
+    "condition": {
+      "urlFilter": "||ninjaworld.ru/ah",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5230
+  },
+  {
+    "condition": {
+      "urlFilter": "||ninjaworld.ru/at",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5231
+  },
+  {
+    "condition": {
+      "urlFilter": "||online/*rd.php?id=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5232
+  },
+  {
+    "condition": {
+      "urlFilter": "||site/*rd.php?id=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5233
+  },
+  {
+    "condition": {
+      "urlFilter": "||stream/*rd.php?id=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5234
+  },
+  {
+    "condition": {
+      "urlFilter": "||top/*rd.php?id=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5235
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.*.club/*&key=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5236
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.*.xyz/*&key=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5237
+  },
+  {
+    "condition": {
+      "urlFilter": "||xyz/*rd.php?id=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5238
+  },
+  {
+    "condition": {
+      "urlFilter": "||betcity.ru/*?widget_id=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5239
+  },
+  {
+    "condition": {
+      "urlFilter": "||espritgames.ru^*/promo/",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5240
+  },
+  {
+    "condition": {
+      "urlFilter": "||gameforge.com/landing",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5241
+  },
+  {
+    "condition": {
+      "urlFilter": "||ggsel.net^",
+      "excludedInitiatorDomains": [
+        "duckduckgo.com",
+        "g-engine.net",
+        "mail.google.com",
+        "mail.rambler.ru",
+        "nova.rambler.ru",
+        "www.google.com",
+        "www.google.ru",
+        "ya.ru",
+        "yandex.by",
+        "yandex.com",
+        "yandex.kz",
+        "yandex.ru",
+        "yandex.uz"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5242
+  },
+  {
+    "condition": {
+      "urlFilter": "||lionlink.io/board/webshow.php?",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5243
+  },
+  {
+    "condition": {
+      "urlFilter": "||mediaget.com/promo",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5244
+  },
+  {
+    "condition": {
+      "urlFilter": "||my.games/r/",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5245
+  },
+  {
+    "condition": {
+      "urlFilter": "||olymptrade.com^*popander",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5246
+  },
+  {
+    "condition": {
+      "urlFilter": "||poisk.ws/search?pid",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5247
+  },
+  {
+    "condition": {
+      "urlFilter": "||poiskovik.online/search",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5248
+  },
+  {
+    "condition": {
+      "urlFilter": "||sharkgames.com/aff_c?offer",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5249
+  },
+  {
+    "condition": {
+      "urlFilter": "||vse-sdal.com/promo?ref=",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5250
+  },
+  {
+    "condition": {
+      "urlFilter": "||adfox.ru^",
+      "initiatorDomains": [
+        "mts.ru"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 5543
+  },
+  {
+    "condition": {
+      "urlFilter": "//promo.",
+      "initiatorDomains": [
+        "bactistatin.com",
+        "gamexp.ru",
+        "iguides.ru",
+        "ingate.ru",
+        "yandex.ru"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 5961
+  },
+  {
+    "condition": {
+      "regexFilter": "^https:\\/\\/ads.red"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 5962
+  },
+  {
+    "condition": {
+      "urlFilter": "://ads.",
+      "initiatorDomains": [
+        "ads.moscow"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 5963
+  },
+  {
+    "condition": {
+      "urlFilter": "|blob:",
+      "initiatorDomains": [
+        "mos.ru"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 5964
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads.adfox.ru^",
+      "initiatorDomains": [
+        "magnit.ru",
+        "vklybe.tv"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 5965
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "2x2tv.ru",
+        "friday.ru"
+      ],
+      "urlFilter": "||ads.adfox.ru^*/golink"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 5966
+  },
+  {
+    "condition": {
+      "urlFilter": "||adv.trinet.ru/|",
+      "initiatorDomains": [
+        "trinet.ru"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 5967
+  },
+  {
+    "condition": {
+      "urlFilter": "||chrome.google.com/webstore/detail/daxab-ultimate/enakmcmeealkdoeindgoeogldodhdeda?hl=",
+      "initiatorDomains": [
+        "biqle.org",
+        "biqle.ru"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 5968
+  },
+  {
+    "condition": {
+      "urlFilter": "||go.leadgid.ru/aff_c?offer_id",
+      "initiatorDomains": [
+        "luckymir.ru"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 5969
+  },
+  {
+    "condition": {
+      "urlFilter": "||loveradio.ru/adclick/",
+      "initiatorDomains": [
+        "loveradio.ru"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 5970
+  },
+  {
+    "condition": {
+      "urlFilter": "||radiodacha.ru/adclick/",
+      "initiatorDomains": [
+        "radiodacha.ru"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 5971
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "bestchange.ru"
+      ],
+      "urlFilter": "||safecurr.g2afse.com/click?pid=*&offer"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 5972
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "zoospravka.ru"
+      ],
+      "urlFilter": "||zoospravka.ru^*/adclick.*zoospravka.ru"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 5973
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "adv.ru",
+        "adv.team"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 5974
+  },
+  {
+    "condition": {
+      "urlFilter": "://adv.*.lawport.ru^",
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 6078
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "ads.moscow",
+        "adv.kh.ua"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 6079
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads.vk.com/public/leadform?"
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 6082
+  }
+]

@@ -1,0 +1,1121 @@
+[
+  {
+    "condition": {
+      "urlFilter": "||lkqd.net^",
+      "initiatorDomains": [
+        "www.dotabuff.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1
+  },
+  {
+    "condition": {
+      "urlFilter": ".teads-inread"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2
+  },
+  {
+    "condition": {
+      "urlFilter": "/forbesprebidheader"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "www.dailymotion.com"
+      ],
+      "urlFilter": "||dmxleo.dailymotion.com/cdn/manifest/video/x*"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4
+  },
+  {
+    "condition": {
+      "urlFilter": "gfp_video_ads/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5
+  },
+  {
+    "condition": {
+      "urlFilter": "||rawybznxrp.bid/^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 6
+  },
+  {
+    "condition": {
+      "urlFilter": "||braun634.com^",
+      "initiatorDomains": [
+        "hdrezka.horse"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 7
+  },
+  {
+    "condition": {
+      "urlFilter": "||soundcloud.com/audio-ad?"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 8
+  },
+  {
+    "condition": {
+      "urlFilter": "||assets.adobedtm.com^third-party"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 9
+  },
+  {
+    "condition": {
+      "urlFilter": "||grvcdn.com/moth-min.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 10
+  },
+  {
+    "condition": {
+      "urlFilter": "||pubmatic.com/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 11
+  },
+  {
+    "condition": {
+      "urlFilter": "||gravity.com^*/beacons/"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 12
+  },
+  {
+    "condition": {
+      "urlFilter": "||wired.com/cns/services.min.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 13
+  },
+  {
+    "condition": {
+      "urlFilter": "||wibbitz.com^",
+      "initiatorDomains": [
+        "observer.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 14
+  },
+  {
+    "condition": {
+      "urlFilter": "||24vunvrv.com"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 15
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "rarbg.to",
+        "rarbg2019.org",
+        "rarbg2020.org",
+        "rarbg2021.org",
+        "rarbgaccess.org",
+        "rarbgmirror.com",
+        "rarbgmirror.org",
+        "rarbgmirrored.org",
+        "rarbgp2p.org",
+        "rarbgproxied.org",
+        "rarbgproxy.org",
+        "rarbgprx.org",
+        "rarbgto.org",
+        "rarbgway.org"
+      ],
+      "urlFilter": "||dyncdn.me/static/20/js/expla*.js"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 16
+  },
+  {
+    "condition": {
+      "urlFilter": "||czilladx.com/serve/*.js^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 17
+  },
+  {
+    "condition": {
+      "urlFilter": "||coinad.com/ads^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 18
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.gamer-network.net/plugins/dfp",
+      "initiatorDomains": [
+        "rockpapershotgun.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 19
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "ad.kisscartoon.is",
+        "adnxs.com",
+        "ads-pd.nbcuni.com",
+        "advertising.com",
+        "contextual.media.net",
+        "dc5k8fg5ioc8s.cloudfront.net",
+        "effectivemeasure.net",
+        "exosrv.com",
+        "mail-ads.google.com",
+        "p3.adhitzads.com",
+        "pointroll.com",
+        "postrelease.com",
+        "revsci.net",
+        "tiqcdn.com"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 20
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.bing.com/rb/5j/",
+      "initiatorDomains": [
+        "www.bing.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 21
+  },
+  {
+    "condition": {
+      "urlFilter": "||as.casalemedia.com^",
+      "initiatorDomains": [
+        "www.neoseeker.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 22
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.youtube.com/sw.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 23
+  },
+  {
+    "condition": {
+      "urlFilter": "||9anime.is/",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 24
+  },
+  {
+    "condition": {
+      "urlFilter": "||9anime.to/",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 25
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.nkstatic.com/",
+      "initiatorDomains": [
+        "ninjakiwi.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 26
+  },
+  {
+    "condition": {
+      "urlFilter": "|https://",
+      "initiatorDomains": [
+        "4archive.org",
+        "4chanarchives.cu.cc",
+        "randomarchive.com",
+        "thebarchive.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 27
+  },
+  {
+    "condition": {
+      "urlFilter": "||brightcove.services^",
+      "initiatorDomains": [
+        "www.forbes.com"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 28
+  },
+  {
+    "condition": {
+      "resourceTypes": [
+        "sub_frame"
+      ],
+      "urlFilter": "||amazon-adsystem.com^"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 29
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.dailymail.co.uk/static/mol-adverts/",
+      "domainType": "firstParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 30
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "bebi.com",
+        "bidgear.com",
+        "bitraffic.com",
+        "coinad.com",
+        "exdynsrv.com",
+        "functionalclam.com",
+        "scorecardresearch.com",
+        "serve.czilladx.com",
+        "www.dianomi.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 31
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.dianomi.com^",
+      "initiatorDomains": [
+        "reuters.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 33
+  },
+  {
+    "condition": {
+      "urlFilter": "||googletagservices.com/tag/js/gpt.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 34
+  },
+  {
+    "condition": {
+      "urlFilter": "||amazon-adsystem.com/aax2/amzn_ads.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 35
+  },
+  {
+    "condition": {
+      "urlFilter": "||widgets.outbrain.com/outbrain.js^"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 36
+  },
+  {
+    "condition": {
+      "urlFilter": "||pagead2.googlesyndication.com/pagead/osd.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 37
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads.pubmatic.com/adserver/js/showad.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 38
+  },
+  {
+    "condition": {
+      "urlFilter": "||geo-um.btrll.com/v1/map_pixel"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 39
+  },
+  {
+    "condition": {
+      "urlFilter": "||ssl.gstatic.com/gb/images/"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 40
+  },
+  {
+    "condition": {
+      "urlFilter": "||ssl.gstatic.com/images/"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 41
+  },
+  {
+    "condition": {
+      "urlFilter": "||tags.tiqcdn.com/utag/sainsburys/groceries/prod/utag.sync.js"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 42
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "adsafeprotected.com",
+        "stats.g.doubleclick.net",
+        "www.pandora.com"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 43
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.googletagmanager.com^",
+      "initiatorDomains": [
+        "mac-torrent-download.net"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 44
+  },
+  {
+    "condition": {
+      "resourceTypes": [
+        "script"
+      ],
+      "urlFilter": "||secure.statcounter.com^"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 45
+  },
+  {
+    "condition": {
+      "urlFilter": "||pos.baidu.com^",
+      "initiatorDomains": [
+        "music.baidu.com"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 46
+  },
+  {
+    "condition": {
+      "resourceTypes": [
+        "sub_frame"
+      ],
+      "urlFilter": "||googleads.g.doubleclick.net^"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 47
+  },
+  {
+    "condition": {
+      "resourceTypes": [
+        "ping"
+      ],
+      "urlFilter": "||c.statcounter.com^"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 48
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "googleadservices.com",
+        "pixanalytics.com",
+        "serving-sys.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 49
+  },
+  {
+    "condition": {
+      "urlFilter": "||gstaticadssl.l.google.com^",
+      "excludedResourceTypes": [
+        "font",
+        "main_frame",
+        "xmlhttprequest"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 50
+  },
+  {
+    "condition": {
+      "urlFilter": "||an.yandex.ru^",
+      "initiatorDomains": [
+        "pikabu.ru"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 51
+  },
+  {
+    "condition": {
+      "urlFilter": "||tiqcdn.com^",
+      "initiatorDomains": [
+        "cisco.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 52
+  },
+  {
+    "condition": {
+      "urlFilter": "||images.sohu.com/bill/s2015/jscript/lib/sjs/matrix/ad/form/bigview.js^"
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 53
+  },
+  {
+    "condition": {
+      "urlFilter": "||adbetnet.advertserve.com^",
+      "initiatorDomains": [
+        "batmanstream.com"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 54
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "a.realsrv.com",
+        "ak.sail-horizon.com",
+        "aniview.com",
+        "awigglespouter.cam",
+        "b3.mookie1.com",
+        "cdn.sb4you1.com",
+        "d1esebcdm6wx7j.cloudfront.net",
+        "d2kadvyeq051an.cloudfront.net",
+        "eviltracker.net",
+        "innovid.com",
+        "pixel.rubiconproject.com",
+        "playstream.media",
+        "plugin.mediavoice.com",
+        "rtax.criteo.com",
+        "s.ntv.io",
+        "secure-assets.rubiconproject.com",
+        "syndication.realsrv.com",
+        "tap-secure.rubiconproject.com",
+        "trackersimulator.org",
+        "youradexchange.com"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 55
+  },
+  {
+    "condition": {
+      "urlFilter": "/mbox.orig.js^"
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 56
+  },
+  {
+    "condition": {
+      "urlFilter": "/tacoda.^"
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 57
+  },
+  {
+    "condition": {
+      "urlFilter": "/tacoda_^"
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 58
+  },
+  {
+    "condition": {
+      "urlFilter": "||sync.go.sonobi.com/us.gif^"
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 59
+  },
+  {
+    "condition": {
+      "urlFilter": "||ad.turn.com/server/pixel.htm^"
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 60
+  },
+  {
+    "condition": {
+      "urlFilter": "||atpixel.alephd.com/post_adtech$image^"
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 61
+  },
+  {
+    "condition": {
+      "urlFilter": "||cache.btrll.com/default/pix-1x1.gif^"
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 62
+  },
+  {
+    "condition": {
+      "urlFilter": "||rubiconproject.com/beacon^"
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 63
+  },
+  {
+    "condition": {
+      "urlFilter": "||gcdn.2mdn.net/videoplayback^"
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 64
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.dynamicyield.com/api/*/api_static.js^"
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 65
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.dynamicyield.com/api/*/api_dynamic.js^"
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 66
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.krxd.net/userdata/get^"
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 67
+  },
+  {
+    "condition": {
+      "urlFilter": "||beacon.krxd.net/^"
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 68
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.krxd.net/controltag^"
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 69
+  },
+  {
+    "condition": {
+      "urlFilter": "||facebook.com/ajax/bz^"
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 70
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads.viralize.tv/",
+      "initiatorDomains": [
+        "www.anime2you.de"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 71
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "blurbreimbursetrombone.com",
+        "bullionglidingscuttle.com",
+        "d11hjbdxxtogg5.cloudfront.net",
+        "d301cxwfymy227.cloudfront.net",
+        "fundingchoicesmessages.google.com",
+        "msgose.com",
+        "ndroip.com",
+        "refnippod.com",
+        "trienestooth.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 72
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.googletagservices.com/activeview/js/current/rx_lidar.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 73
+  },
+  {
+    "condition": {
+      "urlFilter": "||in-page-push.com/400/3395407",
+      "initiatorDomains": [
+        "streamtape.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 74
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.jsdelivr.net/gh/vli-platform/adb-analytics@77bebb/v1.0.min.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 75
+  },
+  {
+    "condition": {
+      "urlFilter": "||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "initiatorDomains": [
+        "factorioprints.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 76
+  },
+  {
+    "condition": {
+      "urlFilter": "||drakecomic.org/wp-content/themes/mangareader/script.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 77
+  },
+  {
+    "condition": {
+      "urlFilter": "||pubads.g.doubleclick.net/gampad/ads",
+      "initiatorDomains": [
+        "imasdk.googleapis.com"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 78
+  },
+  {
+    "condition": {
+      "urlFilter": "||mail-ads.google.com/mail/u/0/ads/",
+      "initiatorDomains": [
+        "mail.google.com"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 79
+  },
+  {
+    "condition": {
+      "urlFilter": "||roastoup.com^",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 80
+  },
+  {
+    "condition": {
+      "urlFilter": "||getrunkhomuto.info^",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 81
+  },
+  {
+    "condition": {
+      "urlFilter": "||gaia.adage.com/assets/js/min/adblockdetector.js^",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 82
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "advsnx.net",
+        "ctnet2.in",
+        "laim.tv"
+      ],
+      "domainType": "thirdParty"
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 83
+  },
+  {
+    "condition": {
+      "urlFilter": "||v.fwmrm.net^",
+      "initiatorDomains": [
+        "crunchyroll.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 84
+  },
+  {
+    "condition": {
+      "urlFilter": "||teads.tv^",
+      "initiatorDomains": [
+        "mingpao.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "__important": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 85
+  }
+]

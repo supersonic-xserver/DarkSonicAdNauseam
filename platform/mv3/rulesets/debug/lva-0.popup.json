@@ -1,0 +1,26 @@
+[
+  {
+    "condition": {
+      "urlFilter": "||runabildes.lv/?acx_onclick"
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 125
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "olybet.lv",
+        "openx.diena.lv",
+        "optibet.lv"
+      ]
+    },
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 126
+  }
+]
